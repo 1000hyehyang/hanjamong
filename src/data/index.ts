@@ -7,12 +7,12 @@ import hanja7 from "./hanja/hanja-7.json";
 import hanja6 from "./hanja/hanja-6.json";
 import hanja5 from "./hanja/hanja-5.json";
 import hanja4 from "./hanja/hanja-4.json";
+import hanja3 from "./hanja/hanja-3.json";
 import questions3 from "./questions/questions-3.json";
 import questions4 from "./questions/questions-4.json";
 import questions5 from "./questions/questions-5.json";
 import questions6 from "./questions/questions-6.json";
 import questions7 from "./questions/questions-7.json";
-import questionIdMigration from "./questions/id-migration.json";
 
 export const grades = gradesData as GradeInfo[];
 
@@ -23,6 +23,7 @@ const hanjaByGrade: Record<number, HanjaEntry[]> = {
   6: hanja6 as HanjaEntry[],
   5: hanja5 as HanjaEntry[],
   4: hanja4 as HanjaEntry[],
+  3: hanja3 as HanjaEntry[],
 };
 
 const questionsByGrade: Record<number, QuizQuestion[]> = {
@@ -65,12 +66,8 @@ export function getQuestionsByType(
   return pool.filter((question) => question.type === type);
 }
 
-export function resolveQuestionId(id: string): string {
-  return (questionIdMigration as Record<string, string>)[id] ?? id;
-}
-
 export function getQuestionsByIds(ids: string[]): QuizQuestion[] {
-  const idSet = new Set(ids.map(resolveQuestionId));
+  const idSet = new Set(ids);
   return allQuestions.filter((question) => idSet.has(question.id));
 }
 

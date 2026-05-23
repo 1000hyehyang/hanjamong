@@ -4,18 +4,6 @@ import {
   type AppStorage,
   type CardStatus,
 } from "../types/storage";
-import questionIdMigration from "../../data/questions/id-migration.json";
-
-const migratedQuestionIds = questionIdMigration as Record<string, string>;
-
-function migrateQuestionId(id: string): string {
-  return migratedQuestionIds[id] ?? id;
-}
-
-function migrateQuestionIds(ids: string[]): string[] {
-  const next = ids.map(migrateQuestionId);
-  return [...new Set(next)];
-}
 
 function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === "object" && value !== null && !Array.isArray(value);
@@ -60,13 +48,11 @@ function parseStorage(raw: string): AppStorage {
     version: 1,
     bookmarks: {
       hanja: isStringArray(bookmarks.hanja) ? bookmarks.hanja : [],
-      questions: isStringArray(bookmarks.questions)
-        ? migrateQuestionIds(bookmarks.questions)
-        : [],
+      questions: isStringArray(bookmarks.questions) ? bookmarks.questions : [],
     },
     cardProgress: normalizedCardProgress,
     wrongQuestions: isStringArray(parsed.wrongQuestions)
-      ? migrateQuestionIds(parsed.wrongQuestions)
+      ? parsed.wrongQuestions
       : [],
     dailyStats: normalizedDailyStats,
   };
