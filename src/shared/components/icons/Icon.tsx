@@ -20,6 +20,8 @@ export type IconName =
   | "file-text"
   | "chevron-left"
   | "menu"
+  | "settings"
+  | "megaphone"
   | "volume-2"
   | "volume-x";
 
@@ -157,6 +159,26 @@ export function Icon({ name, size = 24, className = "", ...props }: IconProps) {
           <path d="M4 7h16" {...pathProps} />
           <path d="M4 12h16" {...pathProps} />
           <path d="M4 17h16" {...pathProps} />
+        </>
+      )}
+      {name === "settings" && (
+        <>
+          <path
+            d="M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"
+            {...pathProps}
+          />
+          <path
+            d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1Z"
+            {...pathProps}
+          />
+        </>
+      )}
+      {name === "megaphone" && (
+        <>
+          <path d="M3 11v2" {...pathProps} />
+          <path d="m11 5.5-9 4.5v4l9 4.5V5.5Z" {...pathProps} />
+          <path d="M15 9v6" {...pathProps} />
+          <path d="M18.5 8.5 22 10v4l-3.5 1.5" {...pathProps} />
         </>
       )}
       {name === "volume-2" && (

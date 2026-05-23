@@ -22,8 +22,8 @@ export function Screen({
   const contentPadding = noPadding
     ? ""
     : footerAboveNav
-      ? "px-4 pt-2 pb-[calc(var(--app-action-footer-height)+var(--app-tab-bar-height)+env(safe-area-inset-bottom))]"
-      : "px-4 pt-2 pb-[calc(var(--app-tab-bar-height)+env(safe-area-inset-bottom))]";
+      ? "px-4 pt-2 pb-[calc(var(--app-action-footer-height)+var(--app-tab-bar-height)+var(--app-tab-bar-gap)+env(safe-area-inset-bottom))]"
+      : "px-4 pt-2 pb-[calc(var(--app-tab-bar-height)+var(--app-tab-bar-gap)+env(safe-area-inset-bottom))]";
 
   return (
     <div className={`flex flex-col bg-surface ${className}`}>

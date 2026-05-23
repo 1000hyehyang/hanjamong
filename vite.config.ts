@@ -15,6 +15,7 @@ export default defineConfig({
         "favicon-96x96.png",
         "apple-touch-icon.png",
         "hanjamong-logo.svg",
+        "hanjamong-og.png",
         "web-app-manifest-192x192.png",
         "web-app-manifest-512x512.png",
         "sounds/click.mp3",

@@ -26,6 +26,7 @@
   --color-duo-blue-border: #84d8ff;
   --font-serif: "Noto Serif KR", ui-serif, Georgia, serif;
   --app-tab-bar-height: 3.375rem;
+  --app-tab-bar-gap: 0.75rem;
   --app-action-footer-height: 5.25rem;
 }
 

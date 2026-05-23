@@ -1,6 +1,6 @@
 import { NavLink, Outlet, useLocation } from "react-router-dom";
 import { HanjamongLogo } from "./HanjamongLogo";
-import { SoundSettingsButton } from "./SoundSettingsButton";
+import { SettingsButton } from "./SettingsButton";
 import { Icon, type IconName } from "./icons/Icon";
 import { pressableNav } from "../styles/interactive";
 
@@ -35,7 +35,7 @@ export function AppLayout() {
               <HanjamongLogo className="block h-10 w-auto -translate-y-0.5" />
             </div>
             <div className="flex items-center justify-end">
-              <SoundSettingsButton />
+              <SettingsButton />
             </div>
           </header>
         ) : null}
