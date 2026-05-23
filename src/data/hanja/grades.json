@@ -1,0 +1,8 @@
+[
+  { "grade": 9, "label": "9급", "hanjaCount": 50 },
+  { "grade": 8, "label": "8급", "hanjaCount": 100 },
+  { "grade": 7, "label": "7급", "hanjaCount": 150 },
+  { "grade": 6, "label": "6급", "hanjaCount": 150 },
+  { "grade": 5, "label": "5급", "hanjaCount": 150 },
+  { "grade": 4, "label": "4급", "hanjaCount": 300 }
+]

@@ -1,0 +1,155 @@
+@import "tailwindcss";
+
+@theme {
+  --color-green: #58cc02;
+  --color-green-dark: #46a302;
+  --color-grapefruit: #ff8a65;
+  --color-grapefruit-light: #fff0ea;
+  --color-correct: #d7ffb8;
+  --color-wrong: #ff4b4b;
+  --color-wrong-feedback: #ffdedc;
+  --color-selected-bg: #ddf4ff;
+  --color-selected-border: #84d8ff;
+  --color-selected: #1cb0f6;
+  --color-star: #ffc800;
+  --color-page: #f7f7f7;
+  --color-surface: #ffffff;
+  --color-border: #e5e5e5;
+  --color-track: #e5e5e5;
+  --color-text-primary: #3c3c3c;
+  --color-text-secondary: #777777;
+  --color-duo-red: #ff4b4b;
+  --color-duo-red-light: #ffdedc;
+  --color-duo-yellow: #ffc800;
+  --color-duo-blue: #1cb0f6;
+  --color-duo-blue-bg: #ddf4ff;
+  --color-duo-blue-border: #84d8ff;
+  --font-serif: "Noto Serif KR", ui-serif, Georgia, serif;
+  --app-tab-bar-height: 3.375rem;
+  --app-action-footer-height: 5.25rem;
+}
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  html::-webkit-scrollbar {
+    display: none;
+  }
+
+  body {
+    @apply bg-surface text-text-primary antialiased;
+    font-family:
+      "Segoe UI",
+      -apple-system,
+      BlinkMacSystemFont,
+      "Noto Sans KR",
+      sans-serif;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    caret-color: transparent;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+
+  body::-webkit-scrollbar {
+    display: none;
+  }
+
+  * {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  *::-webkit-scrollbar {
+    display: none;
+  }
+
+  button:not(:disabled) {
+    cursor: pointer;
+  }
+
+  button:disabled {
+    cursor: not-allowed;
+  }
+
+  a[href] {
+    cursor: pointer;
+  }
+
+  button,
+  a,
+  [role="button"] {
+    caret-color: transparent;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+
+  input[type="range"] {
+    caret-color: transparent;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+
+  input:not([type="range"]),
+  textarea,
+  [contenteditable="true"] {
+    caret-color: auto;
+    user-select: text;
+    -webkit-user-select: text;
+  }
+}
+
+@layer components {
+  .volume-slider {
+    -webkit-appearance: none;
+    appearance: none;
+    height: 0.5rem;
+    width: 100%;
+    border-radius: 9999px;
+    background: linear-gradient(
+      to right,
+      var(--color-green) 0%,
+      var(--color-green) var(--volume-progress, 0%),
+      var(--color-track) var(--volume-progress, 0%),
+      var(--color-track) 100%
+    );
+    outline: none;
+    cursor: pointer;
+  }
+
+  .volume-slider:focus {
+    outline: none;
+  }
+
+  .volume-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    height: 1.125rem;
+    width: 1.125rem;
+    border-radius: 9999px;
+    border: 2px solid var(--color-green-dark);
+    background: var(--color-green);
+    box-shadow: 0 2px 0 0 var(--color-green-dark);
+    cursor: pointer;
+  }
+
+  .volume-slider::-moz-range-thumb {
+    height: 1.125rem;
+    width: 1.125rem;
+    border-radius: 9999px;
+    border: 2px solid var(--color-green-dark);
+    background: var(--color-green);
+    box-shadow: 0 2px 0 0 var(--color-green-dark);
+    cursor: pointer;
+  }
+
+  .volume-slider::-moz-range-track {
+    height: 0.5rem;
+    border-radius: 9999px;
+    background: var(--color-track);
+  }
+}

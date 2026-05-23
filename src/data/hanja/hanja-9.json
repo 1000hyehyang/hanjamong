@@ -1,0 +1,614 @@
+[
+  {
+    "id": "g9-001",
+    "grade": 9,
+    "character": "車",
+    "normalizedCharacter": "車",
+    "meanings": [
+      {
+        "meaning": "수레",
+        "reading": "거"
+      },
+      {
+        "meaning": "수레",
+        "reading": "차"
+      }
+    ]
+  },
+  {
+    "id": "g9-002",
+    "grade": 9,
+    "character": "高",
+    "normalizedCharacter": "高",
+    "meanings": [
+      {
+        "meaning": "높을",
+        "reading": "고"
+      }
+    ]
+  },
+  {
+    "id": "g9-003",
+    "grade": 9,
+    "character": "工",
+    "normalizedCharacter": "工",
+    "meanings": [
+      {
+        "meaning": "장인",
+        "reading": "공"
+      }
+    ]
+  },
+  {
+    "id": "g9-004",
+    "grade": 9,
+    "character": "果",
+    "normalizedCharacter": "果",
+    "meanings": [
+      {
+        "meaning": "열매",
+        "reading": "과"
+      }
+    ]
+  },
+  {
+    "id": "g9-005",
+    "grade": 9,
+    "character": "交",
+    "normalizedCharacter": "交",
+    "meanings": [
+      {
+        "meaning": "사귈",
+        "reading": "교"
+      }
+    ]
+  },
+  {
+    "id": "g9-006",
+    "grade": 9,
+    "character": "口",
+    "normalizedCharacter": "口",
+    "meanings": [
+      {
+        "meaning": "입",
+        "reading": "구"
+      }
+    ]
+  },
+  {
+    "id": "g9-007",
+    "grade": 9,
+    "character": "女",
+    "normalizedCharacter": "女",
+    "meanings": [
+      {
+        "meaning": "여자",
+        "reading": "녀"
+      }
+    ]
+  },
+  {
+    "id": "g9-008",
+    "grade": 9,
+    "character": "大",
+    "normalizedCharacter": "大",
+    "meanings": [
+      {
+        "meaning": "큰",
+        "reading": "대"
+      }
+    ]
+  },
+  {
+    "id": "g9-009",
+    "grade": 9,
+    "character": "力",
+    "normalizedCharacter": "力",
+    "meanings": [
+      {
+        "meaning": "힘",
+        "reading": "력"
+      }
+    ]
+  },
+  {
+    "id": "g9-010",
+    "grade": 9,
+    "character": "老",
+    "normalizedCharacter": "老",
+    "meanings": [
+      {
+        "meaning": "노인",
+        "reading": "로"
+      }
+    ]
+  },
+  {
+    "id": "g9-011",
+    "grade": 9,
+    "character": "立",
+    "normalizedCharacter": "立",
+    "meanings": [
+      {
+        "meaning": "설",
+        "reading": "립"
+      }
+    ]
+  },
+  {
+    "id": "g9-012",
+    "grade": 9,
+    "character": "馬",
+    "normalizedCharacter": "馬",
+    "meanings": [
+      {
+        "meaning": "말",
+        "reading": "마"
+      }
+    ]
+  },
+  {
+    "id": "g9-013",
+    "grade": 9,
+    "character": "萬",
+    "normalizedCharacter": "萬",
+    "meanings": [
+      {
+        "meaning": "일만",
+        "reading": "만"
+      }
+    ]
+  },
+  {
+    "id": "g9-014",
+    "grade": 9,
+    "character": "面",
+    "normalizedCharacter": "面",
+    "meanings": [
+      {
+        "meaning": "낯",
+        "reading": "면"
+      }
+    ]
+  },
+  {
+    "id": "g9-015",
+    "grade": 9,
+    "character": "母",
+    "normalizedCharacter": "母",
+    "meanings": [
+      {
+        "meaning": "어미",
+        "reading": "모"
+      }
+    ]
+  },
+  {
+    "id": "g9-016",
+    "grade": 9,
+    "character": "木",
+    "normalizedCharacter": "木",
+    "meanings": [
+      {
+        "meaning": "나무",
+        "reading": "목"
+      }
+    ]
+  },
+  {
+    "id": "g9-017",
+    "grade": 9,
+    "character": "目",
+    "normalizedCharacter": "目",
+    "meanings": [
+      {
+        "meaning": "눈",
+        "reading": "목"
+      }
+    ]
+  },
+  {
+    "id": "g9-018",
+    "grade": 9,
+    "character": "文",
+    "normalizedCharacter": "文",
+    "meanings": [
+      {
+        "meaning": "글월",
+        "reading": "문"
+      }
+    ]
+  },
+  {
+    "id": "g9-019",
+    "grade": 9,
+    "character": "門",
+    "normalizedCharacter": "門",
+    "meanings": [
+      {
+        "meaning": "문",
+        "reading": "문"
+      }
+    ]
+  },
+  {
+    "id": "g9-020",
+    "grade": 9,
+    "character": "夫",
+    "normalizedCharacter": "夫",
+    "meanings": [
+      {
+        "meaning": "사내",
+        "reading": "부"
+      }
+    ]
+  },
+  {
+    "id": "g9-021",
+    "grade": 9,
+    "character": "父",
+    "normalizedCharacter": "父",
+    "meanings": [
+      {
+        "meaning": "아비",
+        "reading": "부"
+      }
+    ]
+  },
+  {
+    "id": "g9-022",
+    "grade": 9,
+    "character": "山",
+    "normalizedCharacter": "山",
+    "meanings": [
+      {
+        "meaning": "뫼",
+        "reading": "산"
+      }
+    ]
+  },
+  {
+    "id": "g9-023",
+    "grade": 9,
+    "character": "夕",
+    "normalizedCharacter": "夕",
+    "meanings": [
+      {
+        "meaning": "저녁",
+        "reading": "석"
+      }
+    ]
+  },
+  {
+    "id": "g9-024",
+    "grade": 9,
+    "character": "石",
+    "normalizedCharacter": "石",
+    "meanings": [
+      {
+        "meaning": "돌",
+        "reading": "석"
+      }
+    ]
+  },
+  {
+    "id": "g9-025",
+    "grade": 9,
+    "character": "手",
+    "normalizedCharacter": "手",
+    "meanings": [
+      {
+        "meaning": "손",
+        "reading": "수"
+      }
+    ]
+  },
+  {
+    "id": "g9-026",
+    "grade": 9,
+    "character": "水",
+    "normalizedCharacter": "水",
+    "meanings": [
+      {
+        "meaning": "물",
+        "reading": "수"
+      }
+    ]
+  },
+  {
+    "id": "g9-027",
+    "grade": 9,
+    "character": "身",
+    "normalizedCharacter": "身",
+    "meanings": [
+      {
+        "meaning": "몸",
+        "reading": "신"
+      }
+    ]
+  },
+  {
+    "id": "g9-028",
+    "grade": 9,
+    "character": "心",
+    "normalizedCharacter": "心",
+    "meanings": [
+      {
+        "meaning": "마음",
+        "reading": "심"
+      }
+    ]
+  },
+  {
+    "id": "g9-029",
+    "grade": 9,
+    "character": "兒",
+    "normalizedCharacter": "兒",
+    "meanings": [
+      {
+        "meaning": "아이",
+        "reading": "아"
+      }
+    ]
+  },
+  {
+    "id": "g9-030",
+    "grade": 9,
+    "character": "羊",
+    "normalizedCharacter": "羊",
+    "meanings": [
+      {
+        "meaning": "양",
+        "reading": "양"
+      }
+    ]
+  },
+  {
+    "id": "g9-031",
+    "grade": 9,
+    "character": "魚",
+    "normalizedCharacter": "魚",
+    "meanings": [
+      {
+        "meaning": "물고기",
+        "reading": "어"
+      }
+    ]
+  },
+  {
+    "id": "g9-032",
+    "grade": 9,
+    "character": "玉",
+    "normalizedCharacter": "玉",
+    "meanings": [
+      {
+        "meaning": "구슬",
+        "reading": "옥"
+      }
+    ]
+  },
+  {
+    "id": "g9-033",
+    "grade": 9,
+    "character": "王",
+    "normalizedCharacter": "王",
+    "meanings": [
+      {
+        "meaning": "임금",
+        "reading": "왕"
+      }
+    ]
+  },
+  {
+    "id": "g9-034",
+    "grade": 9,
+    "character": "牛",
+    "normalizedCharacter": "牛",
+    "meanings": [
+      {
+        "meaning": "소",
+        "reading": "우"
+      }
+    ]
+  },
+  {
+    "id": "g9-035",
+    "grade": 9,
+    "character": "雨",
+    "normalizedCharacter": "雨",
+    "meanings": [
+      {
+        "meaning": "비",
+        "reading": "우"
+      }
+    ]
+  },
+  {
+    "id": "g9-036",
+    "grade": 9,
+    "character": "月",
+    "normalizedCharacter": "月",
+    "meanings": [
+      {
+        "meaning": "달",
+        "reading": "월"
+      }
+    ]
+  },
+  {
+    "id": "g9-037",
+    "grade": 9,
+    "character": "衣",
+    "normalizedCharacter": "衣",
+    "meanings": [
+      {
+        "meaning": "옷",
+        "reading": "의"
+      }
+    ]
+  },
+  {
+    "id": "g9-038",
+    "grade": 9,
+    "character": "人",
+    "normalizedCharacter": "人",
+    "meanings": [
+      {
+        "meaning": "사람",
+        "reading": "인"
+      }
+    ]
+  },
+  {
+    "id": "g9-039",
+    "grade": 9,
+    "character": "日",
+    "normalizedCharacter": "日",
+    "meanings": [
+      {
+        "meaning": "날",
+        "reading": "일"
+      }
+    ]
+  },
+  {
+    "id": "g9-040",
+    "grade": 9,
+    "character": "子",
+    "normalizedCharacter": "子",
+    "meanings": [
+      {
+        "meaning": "아들",
+        "reading": "자"
+      }
+    ]
+  },
+  {
+    "id": "g9-041",
+    "grade": 9,
+    "character": "自",
+    "normalizedCharacter": "自",
+    "meanings": [
+      {
+        "meaning": "스스로",
+        "reading": "자"
+      }
+    ]
+  },
+  {
+    "id": "g9-042",
+    "grade": 9,
+    "character": "長",
+    "normalizedCharacter": "長",
+    "meanings": [
+      {
+        "meaning": "긴",
+        "reading": "장"
+      }
+    ]
+  },
+  {
+    "id": "g9-043",
+    "grade": 9,
+    "character": "田",
+    "normalizedCharacter": "田",
+    "meanings": [
+      {
+        "meaning": "밭",
+        "reading": "전"
+      }
+    ]
+  },
+  {
+    "id": "g9-044",
+    "grade": 9,
+    "character": "足",
+    "normalizedCharacter": "足",
+    "meanings": [
+      {
+        "meaning": "발",
+        "reading": "족"
+      }
+    ]
+  },
+  {
+    "id": "g9-045",
+    "grade": 9,
+    "character": "主",
+    "normalizedCharacter": "主",
+    "meanings": [
+      {
+        "meaning": "주인",
+        "reading": "주"
+      },
+      {
+        "meaning": "임금",
+        "reading": "주"
+      }
+    ]
+  },
+  {
+    "id": "g9-046",
+    "grade": 9,
+    "character": "天",
+    "normalizedCharacter": "天",
+    "meanings": [
+      {
+        "meaning": "하늘",
+        "reading": "천"
+      }
+    ]
+  },
+  {
+    "id": "g9-047",
+    "grade": 9,
+    "character": "川",
+    "normalizedCharacter": "川",
+    "meanings": [
+      {
+        "meaning": "내",
+        "reading": "천"
+      }
+    ]
+  },
+  {
+    "id": "g9-048",
+    "grade": 9,
+    "character": "土",
+    "normalizedCharacter": "土",
+    "meanings": [
+      {
+        "meaning": "흙",
+        "reading": "토"
+      }
+    ]
+  },
+  {
+    "id": "g9-049",
+    "grade": 9,
+    "character": "行",
+    "normalizedCharacter": "行",
+    "meanings": [
+      {
+        "meaning": "다닐",
+        "reading": "행"
+      },
+      {
+        "meaning": "항렬",
+        "reading": "항"
+      }
+    ]
+  },
+  {
+    "id": "g9-050",
+    "grade": 9,
+    "character": "火",
+    "normalizedCharacter": "火",
+    "meanings": [
+      {
+        "meaning": "불",
+        "reading": "화"
+      }
+    ]
+  }
+]

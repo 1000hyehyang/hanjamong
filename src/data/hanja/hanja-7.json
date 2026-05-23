@@ -1,0 +1,1942 @@
+[
+  {
+    "id": "g7-001",
+    "grade": 7,
+    "character": "加",
+    "normalizedCharacter": "加",
+    "meanings": [
+      {
+        "meaning": "더할",
+        "reading": "가"
+      }
+    ]
+  },
+  {
+    "id": "g7-002",
+    "grade": 7,
+    "character": "間",
+    "normalizedCharacter": "間",
+    "meanings": [
+      {
+        "meaning": "사이",
+        "reading": "간"
+      }
+    ]
+  },
+  {
+    "id": "g7-003",
+    "grade": 7,
+    "character": "江",
+    "normalizedCharacter": "江",
+    "meanings": [
+      {
+        "meaning": "큰 내",
+        "reading": "강"
+      },
+      {
+        "meaning": "강",
+        "reading": "강"
+      }
+    ]
+  },
+  {
+    "id": "g7-004",
+    "grade": 7,
+    "character": "去",
+    "normalizedCharacter": "去",
+    "meanings": [
+      {
+        "meaning": "갈",
+        "reading": "거"
+      }
+    ]
+  },
+  {
+    "id": "g7-005",
+    "grade": 7,
+    "character": "決",
+    "normalizedCharacter": "決",
+    "meanings": [
+      {
+        "meaning": "결단할",
+        "reading": "결"
+      }
+    ]
+  },
+  {
+    "id": "g7-006",
+    "grade": 7,
+    "character": "京",
+    "normalizedCharacter": "京",
+    "meanings": [
+      {
+        "meaning": "서울",
+        "reading": "경"
+      }
+    ]
+  },
+  {
+    "id": "g7-007",
+    "grade": 7,
+    "character": "慶",
+    "normalizedCharacter": "慶",
+    "meanings": [
+      {
+        "meaning": "경사",
+        "reading": "경"
+      }
+    ]
+  },
+  {
+    "id": "g7-008",
+    "grade": 7,
+    "character": "景",
+    "normalizedCharacter": "景",
+    "meanings": [
+      {
+        "meaning": "경치",
+        "reading": "경"
+      },
+      {
+        "meaning": "볕",
+        "reading": "경"
+      }
+    ]
+  },
+  {
+    "id": "g7-009",
+    "grade": 7,
+    "character": "競",
+    "normalizedCharacter": "競",
+    "meanings": [
+      {
+        "meaning": "다툴",
+        "reading": "경"
+      }
+    ]
+  },
+  {
+    "id": "g7-010",
+    "grade": 7,
+    "character": "經",
+    "normalizedCharacter": "經",
+    "meanings": [
+      {
+        "meaning": "지날",
+        "reading": "경"
+      },
+      {
+        "meaning": "글",
+        "reading": "경"
+      }
+    ]
+  },
+  {
+    "id": "g7-011",
+    "grade": 7,
+    "character": "界",
+    "normalizedCharacter": "界",
+    "meanings": [
+      {
+        "meaning": "경계할",
+        "reading": "계"
+      },
+      {
+        "meaning": "지경",
+        "reading": "계"
+      }
+    ]
+  },
+  {
+    "id": "g7-012",
+    "grade": 7,
+    "character": "計",
+    "normalizedCharacter": "計",
+    "meanings": [
+      {
+        "meaning": "셈할",
+        "reading": "계"
+      }
+    ]
+  },
+  {
+    "id": "g7-013",
+    "grade": 7,
+    "character": "告",
+    "normalizedCharacter": "告",
+    "meanings": [
+      {
+        "meaning": "고할",
+        "reading": "고"
+      },
+      {
+        "meaning": "알릴",
+        "reading": "고"
+      }
+    ]
+  },
+  {
+    "id": "g7-014",
+    "grade": 7,
+    "character": "考",
+    "normalizedCharacter": "考",
+    "meanings": [
+      {
+        "meaning": "상고할",
+        "reading": "고"
+      },
+      {
+        "meaning": "생각할",
+        "reading": "고"
+      },
+      {
+        "meaning": "살필",
+        "reading": "고"
+      }
+    ]
+  },
+  {
+    "id": "g7-015",
+    "grade": 7,
+    "character": "公",
+    "normalizedCharacter": "公",
+    "meanings": [
+      {
+        "meaning": "공변될",
+        "reading": "공"
+      },
+      {
+        "meaning": "공평할",
+        "reading": "공"
+      }
+    ]
+  },
+  {
+    "id": "g7-016",
+    "grade": 7,
+    "character": "共",
+    "normalizedCharacter": "共",
+    "meanings": [
+      {
+        "meaning": "함께",
+        "reading": "공"
+      },
+      {
+        "meaning": "한가지",
+        "reading": "공"
+      }
+    ]
+  },
+  {
+    "id": "g7-017",
+    "grade": 7,
+    "character": "過",
+    "normalizedCharacter": "過",
+    "meanings": [
+      {
+        "meaning": "지날",
+        "reading": "과"
+      },
+      {
+        "meaning": "허물",
+        "reading": "과"
+      }
+    ]
+  },
+  {
+    "id": "g7-018",
+    "grade": 7,
+    "character": "校",
+    "normalizedCharacter": "校",
+    "meanings": [
+      {
+        "meaning": "학교",
+        "reading": "교"
+      }
+    ]
+  },
+  {
+    "id": "g7-019",
+    "grade": 7,
+    "character": "求",
+    "normalizedCharacter": "求",
+    "meanings": [
+      {
+        "meaning": "구할",
+        "reading": "구"
+      },
+      {
+        "meaning": "구원할",
+        "reading": "구"
+      }
+    ]
+  },
+  {
+    "id": "g7-020",
+    "grade": 7,
+    "character": "究",
+    "normalizedCharacter": "究",
+    "meanings": [
+      {
+        "meaning": "연구할",
+        "reading": "구"
+      },
+      {
+        "meaning": "궁구할",
+        "reading": "구"
+      }
+    ]
+  },
+  {
+    "id": "g7-021",
+    "grade": 7,
+    "character": "國",
+    "normalizedCharacter": "國",
+    "meanings": [
+      {
+        "meaning": "나라",
+        "reading": "국"
+      }
+    ]
+  },
+  {
+    "id": "g7-022",
+    "grade": 7,
+    "character": "君",
+    "normalizedCharacter": "君",
+    "meanings": [
+      {
+        "meaning": "임금",
+        "reading": "군"
+      }
+    ]
+  },
+  {
+    "id": "g7-023",
+    "grade": 7,
+    "character": "基",
+    "normalizedCharacter": "基",
+    "meanings": [
+      {
+        "meaning": "터",
+        "reading": "기"
+      }
+    ]
+  },
+  {
+    "id": "g7-024",
+    "grade": 7,
+    "character": "技",
+    "normalizedCharacter": "技",
+    "meanings": [
+      {
+        "meaning": "재주",
+        "reading": "기"
+      }
+    ]
+  },
+  {
+    "id": "g7-025",
+    "grade": 7,
+    "character": "氣",
+    "normalizedCharacter": "氣",
+    "meanings": [
+      {
+        "meaning": "기운",
+        "reading": "기"
+      }
+    ]
+  },
+  {
+    "id": "g7-026",
+    "grade": 7,
+    "character": "記",
+    "normalizedCharacter": "記",
+    "meanings": [
+      {
+        "meaning": "기록할",
+        "reading": "기"
+      }
+    ]
+  },
+  {
+    "id": "g7-027",
+    "grade": 7,
+    "character": "農",
+    "normalizedCharacter": "農",
+    "meanings": [
+      {
+        "meaning": "농사",
+        "reading": "농"
+      }
+    ]
+  },
+  {
+    "id": "g7-028",
+    "grade": 7,
+    "character": "多",
+    "normalizedCharacter": "多",
+    "meanings": [
+      {
+        "meaning": "많을",
+        "reading": "다"
+      }
+    ]
+  },
+  {
+    "id": "g7-029",
+    "grade": 7,
+    "character": "答",
+    "normalizedCharacter": "答",
+    "meanings": [
+      {
+        "meaning": "대답할",
+        "reading": "답"
+      }
+    ]
+  },
+  {
+    "id": "g7-030",
+    "grade": 7,
+    "character": "圖",
+    "normalizedCharacter": "圖",
+    "meanings": [
+      {
+        "meaning": "그림",
+        "reading": "도"
+      }
+    ]
+  },
+  {
+    "id": "g7-031",
+    "grade": 7,
+    "character": "島",
+    "normalizedCharacter": "島",
+    "meanings": [
+      {
+        "meaning": "섬",
+        "reading": "도"
+      }
+    ]
+  },
+  {
+    "id": "g7-032",
+    "grade": 7,
+    "character": "度",
+    "normalizedCharacter": "度",
+    "meanings": [
+      {
+        "meaning": "법도",
+        "reading": "도"
+      }
+    ]
+  },
+  {
+    "id": "g7-033",
+    "grade": 7,
+    "character": "道",
+    "normalizedCharacter": "道",
+    "meanings": [
+      {
+        "meaning": "길",
+        "reading": "도"
+      }
+    ]
+  },
+  {
+    "id": "g7-034",
+    "grade": 7,
+    "character": "都",
+    "normalizedCharacter": "都",
+    "meanings": [
+      {
+        "meaning": "도읍",
+        "reading": "도"
+      }
+    ]
+  },
+  {
+    "id": "g7-035",
+    "grade": 7,
+    "character": "冬",
+    "normalizedCharacter": "冬",
+    "meanings": [
+      {
+        "meaning": "겨울",
+        "reading": "동"
+      }
+    ]
+  },
+  {
+    "id": "g7-036",
+    "grade": 7,
+    "character": "童",
+    "normalizedCharacter": "童",
+    "meanings": [
+      {
+        "meaning": "아이",
+        "reading": "동"
+      }
+    ]
+  },
+  {
+    "id": "g7-037",
+    "grade": 7,
+    "character": "等",
+    "normalizedCharacter": "等",
+    "meanings": [
+      {
+        "meaning": "등급",
+        "reading": "등"
+      },
+      {
+        "meaning": "무리",
+        "reading": "등"
+      }
+    ]
+  },
+  {
+    "id": "g7-038",
+    "grade": 7,
+    "character": "例",
+    "normalizedCharacter": "例",
+    "meanings": [
+      {
+        "meaning": "법식",
+        "reading": "례"
+      }
+    ]
+  },
+  {
+    "id": "g7-039",
+    "grade": 7,
+    "character": "料",
+    "normalizedCharacter": "料",
+    "meanings": [
+      {
+        "meaning": "되질할",
+        "reading": "료"
+      },
+      {
+        "meaning": "헤아릴",
+        "reading": "료"
+      }
+    ]
+  },
+  {
+    "id": "g7-040",
+    "grade": 7,
+    "character": "里",
+    "normalizedCharacter": "里",
+    "meanings": [
+      {
+        "meaning": "마을",
+        "reading": "리"
+      }
+    ]
+  },
+  {
+    "id": "g7-041",
+    "grade": 7,
+    "character": "林",
+    "normalizedCharacter": "林",
+    "meanings": [
+      {
+        "meaning": "수풀",
+        "reading": "림"
+      }
+    ]
+  },
+  {
+    "id": "g7-042",
+    "grade": 7,
+    "character": "每",
+    "normalizedCharacter": "每",
+    "meanings": [
+      {
+        "meaning": "매양",
+        "reading": "매"
+      }
+    ]
+  },
+  {
+    "id": "g7-043",
+    "grade": 7,
+    "character": "命",
+    "normalizedCharacter": "命",
+    "meanings": [
+      {
+        "meaning": "목숨",
+        "reading": "명"
+      }
+    ]
+  },
+  {
+    "id": "g7-044",
+    "grade": 7,
+    "character": "明",
+    "normalizedCharacter": "明",
+    "meanings": [
+      {
+        "meaning": "밝을",
+        "reading": "명"
+      }
+    ]
+  },
+  {
+    "id": "g7-045",
+    "grade": 7,
+    "character": "武",
+    "normalizedCharacter": "武",
+    "meanings": [
+      {
+        "meaning": "굳셀",
+        "reading": "무"
+      },
+      {
+        "meaning": "호반",
+        "reading": "무"
+      }
+    ]
+  },
+  {
+    "id": "g7-046",
+    "grade": 7,
+    "character": "聞",
+    "normalizedCharacter": "聞",
+    "meanings": [
+      {
+        "meaning": "들을",
+        "reading": "문"
+      }
+    ]
+  },
+  {
+    "id": "g7-047",
+    "grade": 7,
+    "character": "物",
+    "normalizedCharacter": "物",
+    "meanings": [
+      {
+        "meaning": "만물",
+        "reading": "물"
+      },
+      {
+        "meaning": "물건",
+        "reading": "물"
+      }
+    ]
+  },
+  {
+    "id": "g7-048",
+    "grade": 7,
+    "character": "美",
+    "normalizedCharacter": "美",
+    "meanings": [
+      {
+        "meaning": "아름다울",
+        "reading": "미"
+      }
+    ]
+  },
+  {
+    "id": "g7-049",
+    "grade": 7,
+    "character": "半",
+    "normalizedCharacter": "半",
+    "meanings": [
+      {
+        "meaning": "반",
+        "reading": "반"
+      }
+    ]
+  },
+  {
+    "id": "g7-050",
+    "grade": 7,
+    "character": "反",
+    "normalizedCharacter": "反",
+    "meanings": [
+      {
+        "meaning": "되돌릴",
+        "reading": "반"
+      },
+      {
+        "meaning": "돌이킬",
+        "reading": "반"
+      }
+    ]
+  },
+  {
+    "id": "g7-051",
+    "grade": 7,
+    "character": "放",
+    "normalizedCharacter": "放",
+    "meanings": [
+      {
+        "meaning": "놓을",
+        "reading": "방"
+      }
+    ]
+  },
+  {
+    "id": "g7-052",
+    "grade": 7,
+    "character": "番",
+    "normalizedCharacter": "番",
+    "meanings": [
+      {
+        "meaning": "차례",
+        "reading": "번"
+      }
+    ]
+  },
+  {
+    "id": "g7-053",
+    "grade": 7,
+    "character": "病",
+    "normalizedCharacter": "病",
+    "meanings": [
+      {
+        "meaning": "병들",
+        "reading": "병"
+      },
+      {
+        "meaning": "병",
+        "reading": "병"
+      }
+    ]
+  },
+  {
+    "id": "g7-054",
+    "grade": 7,
+    "character": "保",
+    "normalizedCharacter": "保",
+    "meanings": [
+      {
+        "meaning": "보전할",
+        "reading": "보"
+      },
+      {
+        "meaning": "지킬",
+        "reading": "보"
+      }
+    ]
+  },
+  {
+    "id": "g7-055",
+    "grade": 7,
+    "character": "步",
+    "normalizedCharacter": "步",
+    "meanings": [
+      {
+        "meaning": "걸음",
+        "reading": "보"
+      }
+    ]
+  },
+  {
+    "id": "g7-056",
+    "grade": 7,
+    "character": "服",
+    "normalizedCharacter": "服",
+    "meanings": [
+      {
+        "meaning": "옷",
+        "reading": "복"
+      }
+    ]
+  },
+  {
+    "id": "g7-057",
+    "grade": 7,
+    "character": "奉",
+    "normalizedCharacter": "奉",
+    "meanings": [
+      {
+        "meaning": "받들",
+        "reading": "봉"
+      }
+    ]
+  },
+  {
+    "id": "g7-058",
+    "grade": 7,
+    "character": "比",
+    "normalizedCharacter": "比",
+    "meanings": [
+      {
+        "meaning": "견줄",
+        "reading": "비"
+      }
+    ]
+  },
+  {
+    "id": "g7-059",
+    "grade": 7,
+    "character": "非",
+    "normalizedCharacter": "非",
+    "meanings": [
+      {
+        "meaning": "아닐",
+        "reading": "비"
+      }
+    ]
+  },
+  {
+    "id": "g7-060",
+    "grade": 7,
+    "character": "師",
+    "normalizedCharacter": "師",
+    "meanings": [
+      {
+        "meaning": "스승",
+        "reading": "사"
+      }
+    ]
+  },
+  {
+    "id": "g7-061",
+    "grade": 7,
+    "character": "死",
+    "normalizedCharacter": "死",
+    "meanings": [
+      {
+        "meaning": "죽을",
+        "reading": "사"
+      }
+    ]
+  },
+  {
+    "id": "g7-062",
+    "grade": 7,
+    "character": "序",
+    "normalizedCharacter": "序",
+    "meanings": [
+      {
+        "meaning": "차례",
+        "reading": "서"
+      }
+    ]
+  },
+  {
+    "id": "g7-063",
+    "grade": 7,
+    "character": "先",
+    "normalizedCharacter": "先",
+    "meanings": [
+      {
+        "meaning": "먼저",
+        "reading": "선"
+      },
+      {
+        "meaning": "앞설",
+        "reading": "선"
+      }
+    ]
+  },
+  {
+    "id": "g7-064",
+    "grade": 7,
+    "character": "線",
+    "normalizedCharacter": "線",
+    "meanings": [
+      {
+        "meaning": "줄",
+        "reading": "선"
+      }
+    ]
+  },
+  {
+    "id": "g7-065",
+    "grade": 7,
+    "character": "城",
+    "normalizedCharacter": "城",
+    "meanings": [
+      {
+        "meaning": "재",
+        "reading": "성"
+      },
+      {
+        "meaning": "성",
+        "reading": "성"
+      }
+    ]
+  },
+  {
+    "id": "g7-066",
+    "grade": 7,
+    "character": "性",
+    "normalizedCharacter": "性",
+    "meanings": [
+      {
+        "meaning": "성품",
+        "reading": "성"
+      }
+    ]
+  },
+  {
+    "id": "g7-067",
+    "grade": 7,
+    "character": "所",
+    "normalizedCharacter": "所",
+    "meanings": [
+      {
+        "meaning": "바",
+        "reading": "소"
+      }
+    ]
+  },
+  {
+    "id": "g7-068",
+    "grade": 7,
+    "character": "消",
+    "normalizedCharacter": "消",
+    "meanings": [
+      {
+        "meaning": "꺼질",
+        "reading": "소"
+      },
+      {
+        "meaning": "사라질",
+        "reading": "소"
+      }
+    ]
+  },
+  {
+    "id": "g7-069",
+    "grade": 7,
+    "character": "素",
+    "normalizedCharacter": "素",
+    "meanings": [
+      {
+        "meaning": "흴",
+        "reading": "소"
+      },
+      {
+        "meaning": "본디",
+        "reading": "소"
+      }
+    ]
+  },
+  {
+    "id": "g7-070",
+    "grade": 7,
+    "character": "俗",
+    "normalizedCharacter": "俗",
+    "meanings": [
+      {
+        "meaning": "풍속",
+        "reading": "속"
+      }
+    ]
+  },
+  {
+    "id": "g7-071",
+    "grade": 7,
+    "character": "習",
+    "normalizedCharacter": "習",
+    "meanings": [
+      {
+        "meaning": "익힐",
+        "reading": "습"
+      }
+    ]
+  },
+  {
+    "id": "g7-072",
+    "grade": 7,
+    "character": "始",
+    "normalizedCharacter": "始",
+    "meanings": [
+      {
+        "meaning": "비로소",
+        "reading": "시"
+      },
+      {
+        "meaning": "처음",
+        "reading": "시"
+      }
+    ]
+  },
+  {
+    "id": "g7-073",
+    "grade": 7,
+    "character": "時",
+    "normalizedCharacter": "時",
+    "meanings": [
+      {
+        "meaning": "때",
+        "reading": "시"
+      }
+    ]
+  },
+  {
+    "id": "g7-074",
+    "grade": 7,
+    "character": "詩",
+    "normalizedCharacter": "詩",
+    "meanings": [
+      {
+        "meaning": "시",
+        "reading": "시"
+      }
+    ]
+  },
+  {
+    "id": "g7-075",
+    "grade": 7,
+    "character": "信",
+    "normalizedCharacter": "信",
+    "meanings": [
+      {
+        "meaning": "믿을",
+        "reading": "신"
+      }
+    ]
+  },
+  {
+    "id": "g7-076",
+    "grade": 7,
+    "character": "神",
+    "normalizedCharacter": "神",
+    "meanings": [
+      {
+        "meaning": "귀신",
+        "reading": "신"
+      }
+    ]
+  },
+  {
+    "id": "g7-077",
+    "grade": 7,
+    "character": "室",
+    "normalizedCharacter": "室",
+    "meanings": [
+      {
+        "meaning": "집",
+        "reading": "실"
+      }
+    ]
+  },
+  {
+    "id": "g7-078",
+    "grade": 7,
+    "character": "實",
+    "normalizedCharacter": "實",
+    "meanings": [
+      {
+        "meaning": "열매",
+        "reading": "실"
+      }
+    ]
+  },
+  {
+    "id": "g7-079",
+    "grade": 7,
+    "character": "安",
+    "normalizedCharacter": "安",
+    "meanings": [
+      {
+        "meaning": "편안",
+        "reading": "안"
+      },
+      {
+        "meaning": "편안할",
+        "reading": "안"
+      }
+    ]
+  },
+  {
+    "id": "g7-080",
+    "grade": 7,
+    "character": "案",
+    "normalizedCharacter": "案",
+    "meanings": [
+      {
+        "meaning": "책상",
+        "reading": "안"
+      }
+    ]
+  },
+  {
+    "id": "g7-081",
+    "grade": 7,
+    "character": "野",
+    "normalizedCharacter": "野",
+    "meanings": [
+      {
+        "meaning": "들",
+        "reading": "야"
+      }
+    ]
+  },
+  {
+    "id": "g7-082",
+    "grade": 7,
+    "character": "約",
+    "normalizedCharacter": "約",
+    "meanings": [
+      {
+        "meaning": "맺을",
+        "reading": "약"
+      }
+    ]
+  },
+  {
+    "id": "g7-083",
+    "grade": 7,
+    "character": "藥",
+    "normalizedCharacter": "藥",
+    "meanings": [
+      {
+        "meaning": "약",
+        "reading": "약"
+      }
+    ]
+  },
+  {
+    "id": "g7-084",
+    "grade": 7,
+    "character": "兩",
+    "normalizedCharacter": "兩",
+    "meanings": [
+      {
+        "meaning": "두",
+        "reading": "양"
+      },
+      {
+        "meaning": "두",
+        "reading": "량"
+      }
+    ]
+  },
+  {
+    "id": "g7-085",
+    "grade": 7,
+    "character": "洋",
+    "normalizedCharacter": "洋",
+    "meanings": [
+      {
+        "meaning": "큰 바다",
+        "reading": "양"
+      }
+    ]
+  },
+  {
+    "id": "g7-086",
+    "grade": 7,
+    "character": "養",
+    "normalizedCharacter": "養",
+    "meanings": [
+      {
+        "meaning": "기를",
+        "reading": "양"
+      }
+    ]
+  },
+  {
+    "id": "g7-087",
+    "grade": 7,
+    "character": "熱",
+    "normalizedCharacter": "熱",
+    "meanings": [
+      {
+        "meaning": "더울",
+        "reading": "열"
+      }
+    ]
+  },
+  {
+    "id": "g7-088",
+    "grade": 7,
+    "character": "要",
+    "normalizedCharacter": "要",
+    "meanings": [
+      {
+        "meaning": "중요할",
+        "reading": "요"
+      },
+      {
+        "meaning": "요긴할",
+        "reading": "요"
+      }
+    ]
+  },
+  {
+    "id": "g7-089",
+    "grade": 7,
+    "character": "友",
+    "normalizedCharacter": "友",
+    "meanings": [
+      {
+        "meaning": "벗",
+        "reading": "우"
+      }
+    ]
+  },
+  {
+    "id": "g7-090",
+    "grade": 7,
+    "character": "雲",
+    "normalizedCharacter": "雲",
+    "meanings": [
+      {
+        "meaning": "구름",
+        "reading": "운"
+      }
+    ]
+  },
+  {
+    "id": "g7-091",
+    "grade": 7,
+    "character": "育",
+    "normalizedCharacter": "育",
+    "meanings": [
+      {
+        "meaning": "기를",
+        "reading": "육"
+      }
+    ]
+  },
+  {
+    "id": "g7-092",
+    "grade": 7,
+    "character": "銀",
+    "normalizedCharacter": "銀",
+    "meanings": [
+      {
+        "meaning": "은",
+        "reading": "은"
+      }
+    ]
+  },
+  {
+    "id": "g7-093",
+    "grade": 7,
+    "character": "意",
+    "normalizedCharacter": "意",
+    "meanings": [
+      {
+        "meaning": "뜻",
+        "reading": "의"
+      }
+    ]
+  },
+  {
+    "id": "g7-094",
+    "grade": 7,
+    "character": "醫",
+    "normalizedCharacter": "醫",
+    "meanings": [
+      {
+        "meaning": "의원",
+        "reading": "의"
+      }
+    ]
+  },
+  {
+    "id": "g7-095",
+    "grade": 7,
+    "character": "耳",
+    "normalizedCharacter": "耳",
+    "meanings": [
+      {
+        "meaning": "귀",
+        "reading": "이"
+      }
+    ]
+  },
+  {
+    "id": "g7-096",
+    "grade": 7,
+    "character": "字",
+    "normalizedCharacter": "字",
+    "meanings": [
+      {
+        "meaning": "글자",
+        "reading": "자"
+      }
+    ]
+  },
+  {
+    "id": "g7-097",
+    "grade": 7,
+    "character": "作",
+    "normalizedCharacter": "作",
+    "meanings": [
+      {
+        "meaning": "지을",
+        "reading": "작"
+      }
+    ]
+  },
+  {
+    "id": "g7-098",
+    "grade": 7,
+    "character": "材",
+    "normalizedCharacter": "材",
+    "meanings": [
+      {
+        "meaning": "재목",
+        "reading": "재"
+      }
+    ]
+  },
+  {
+    "id": "g7-099",
+    "grade": 7,
+    "character": "財",
+    "normalizedCharacter": "財",
+    "meanings": [
+      {
+        "meaning": "재물",
+        "reading": "재"
+      }
+    ]
+  },
+  {
+    "id": "g7-100",
+    "grade": 7,
+    "character": "爭",
+    "normalizedCharacter": "爭",
+    "meanings": [
+      {
+        "meaning": "다툴",
+        "reading": "쟁"
+      }
+    ]
+  },
+  {
+    "id": "g7-101",
+    "grade": 7,
+    "character": "典",
+    "normalizedCharacter": "典",
+    "meanings": [
+      {
+        "meaning": "법",
+        "reading": "전"
+      }
+    ]
+  },
+  {
+    "id": "g7-102",
+    "grade": 7,
+    "character": "前",
+    "normalizedCharacter": "前",
+    "meanings": [
+      {
+        "meaning": "앞",
+        "reading": "전"
+      }
+    ]
+  },
+  {
+    "id": "g7-103",
+    "grade": 7,
+    "character": "展",
+    "normalizedCharacter": "展",
+    "meanings": [
+      {
+        "meaning": "펼",
+        "reading": "전"
+      }
+    ]
+  },
+  {
+    "id": "g7-104",
+    "grade": 7,
+    "character": "戰",
+    "normalizedCharacter": "戰",
+    "meanings": [
+      {
+        "meaning": "싸울",
+        "reading": "전"
+      },
+      {
+        "meaning": "싸움",
+        "reading": "전"
+      }
+    ]
+  },
+  {
+    "id": "g7-105",
+    "grade": 7,
+    "character": "電",
+    "normalizedCharacter": "電",
+    "meanings": [
+      {
+        "meaning": "번개",
+        "reading": "전"
+      }
+    ]
+  },
+  {
+    "id": "g7-106",
+    "grade": 7,
+    "character": "定",
+    "normalizedCharacter": "定",
+    "meanings": [
+      {
+        "meaning": "정할",
+        "reading": "정"
+      }
+    ]
+  },
+  {
+    "id": "g7-107",
+    "grade": 7,
+    "character": "庭",
+    "normalizedCharacter": "庭",
+    "meanings": [
+      {
+        "meaning": "뜰",
+        "reading": "정"
+      }
+    ]
+  },
+  {
+    "id": "g7-108",
+    "grade": 7,
+    "character": "情",
+    "normalizedCharacter": "情",
+    "meanings": [
+      {
+        "meaning": "뜻",
+        "reading": "정"
+      }
+    ]
+  },
+  {
+    "id": "g7-109",
+    "grade": 7,
+    "character": "政",
+    "normalizedCharacter": "政",
+    "meanings": [
+      {
+        "meaning": "정사",
+        "reading": "정"
+      }
+    ]
+  },
+  {
+    "id": "g7-110",
+    "grade": 7,
+    "character": "正",
+    "normalizedCharacter": "正",
+    "meanings": [
+      {
+        "meaning": "바를",
+        "reading": "정"
+      }
+    ]
+  },
+  {
+    "id": "g7-111",
+    "grade": 7,
+    "character": "帝",
+    "normalizedCharacter": "帝",
+    "meanings": [
+      {
+        "meaning": "임금",
+        "reading": "제"
+      }
+    ]
+  },
+  {
+    "id": "g7-112",
+    "grade": 7,
+    "character": "朝",
+    "normalizedCharacter": "朝",
+    "meanings": [
+      {
+        "meaning": "아침",
+        "reading": "조"
+      }
+    ]
+  },
+  {
+    "id": "g7-113",
+    "grade": 7,
+    "character": "祖",
+    "normalizedCharacter": "祖",
+    "meanings": [
+      {
+        "meaning": "조상",
+        "reading": "조"
+      }
+    ]
+  },
+  {
+    "id": "g7-114",
+    "grade": 7,
+    "character": "鳥",
+    "normalizedCharacter": "鳥",
+    "meanings": [
+      {
+        "meaning": "새",
+        "reading": "조"
+      }
+    ]
+  },
+  {
+    "id": "g7-115",
+    "grade": 7,
+    "character": "族",
+    "normalizedCharacter": "族",
+    "meanings": [
+      {
+        "meaning": "겨레",
+        "reading": "족"
+      }
+    ]
+  },
+  {
+    "id": "g7-116",
+    "grade": 7,
+    "character": "種",
+    "normalizedCharacter": "種",
+    "meanings": [
+      {
+        "meaning": "씨",
+        "reading": "종"
+      }
+    ]
+  },
+  {
+    "id": "g7-117",
+    "grade": 7,
+    "character": "住",
+    "normalizedCharacter": "住",
+    "meanings": [
+      {
+        "meaning": "살",
+        "reading": "주"
+      }
+    ]
+  },
+  {
+    "id": "g7-118",
+    "grade": 7,
+    "character": "注",
+    "normalizedCharacter": "注",
+    "meanings": [
+      {
+        "meaning": "물 댈",
+        "reading": "주"
+      },
+      {
+        "meaning": "부을",
+        "reading": "주"
+      }
+    ]
+  },
+  {
+    "id": "g7-119",
+    "grade": 7,
+    "character": "竹",
+    "normalizedCharacter": "竹",
+    "meanings": [
+      {
+        "meaning": "대",
+        "reading": "죽"
+      }
+    ]
+  },
+  {
+    "id": "g7-120",
+    "grade": 7,
+    "character": "地",
+    "normalizedCharacter": "地",
+    "meanings": [
+      {
+        "meaning": "땅",
+        "reading": "지"
+      }
+    ]
+  },
+  {
+    "id": "g7-121",
+    "grade": 7,
+    "character": "指",
+    "normalizedCharacter": "指",
+    "meanings": [
+      {
+        "meaning": "손가락",
+        "reading": "지"
+      },
+      {
+        "meaning": "가리킬",
+        "reading": "지"
+      }
+    ]
+  },
+  {
+    "id": "g7-122",
+    "grade": 7,
+    "character": "止",
+    "normalizedCharacter": "止",
+    "meanings": [
+      {
+        "meaning": "그칠",
+        "reading": "지"
+      }
+    ]
+  },
+  {
+    "id": "g7-123",
+    "grade": 7,
+    "character": "紙",
+    "normalizedCharacter": "紙",
+    "meanings": [
+      {
+        "meaning": "종이",
+        "reading": "지"
+      }
+    ]
+  },
+  {
+    "id": "g7-124",
+    "grade": 7,
+    "character": "直",
+    "normalizedCharacter": "直",
+    "meanings": [
+      {
+        "meaning": "곧을",
+        "reading": "직"
+      }
+    ]
+  },
+  {
+    "id": "g7-125",
+    "grade": 7,
+    "character": "質",
+    "normalizedCharacter": "質",
+    "meanings": [
+      {
+        "meaning": "바탕",
+        "reading": "질"
+      }
+    ]
+  },
+  {
+    "id": "g7-126",
+    "grade": 7,
+    "character": "集",
+    "normalizedCharacter": "集",
+    "meanings": [
+      {
+        "meaning": "모을",
+        "reading": "집"
+      }
+    ]
+  },
+  {
+    "id": "g7-127",
+    "grade": 7,
+    "character": "靑",
+    "normalizedCharacter": "靑",
+    "meanings": [
+      {
+        "meaning": "푸를",
+        "reading": "청"
+      }
+    ]
+  },
+  {
+    "id": "g7-128",
+    "grade": 7,
+    "character": "草",
+    "normalizedCharacter": "草",
+    "meanings": [
+      {
+        "meaning": "풀",
+        "reading": "초"
+      }
+    ]
+  },
+  {
+    "id": "g7-129",
+    "grade": 7,
+    "character": "村",
+    "normalizedCharacter": "村",
+    "meanings": [
+      {
+        "meaning": "마을",
+        "reading": "촌"
+      }
+    ]
+  },
+  {
+    "id": "g7-130",
+    "grade": 7,
+    "character": "秋",
+    "normalizedCharacter": "秋",
+    "meanings": [
+      {
+        "meaning": "가을",
+        "reading": "추"
+      }
+    ]
+  },
+  {
+    "id": "g7-131",
+    "grade": 7,
+    "character": "出",
+    "normalizedCharacter": "出",
+    "meanings": [
+      {
+        "meaning": "날",
+        "reading": "출"
+      }
+    ]
+  },
+  {
+    "id": "g7-132",
+    "grade": 7,
+    "character": "充",
+    "normalizedCharacter": "充",
+    "meanings": [
+      {
+        "meaning": "가득할",
+        "reading": "충"
+      },
+      {
+        "meaning": "채울",
+        "reading": "충"
+      }
+    ]
+  },
+  {
+    "id": "g7-133",
+    "grade": 7,
+    "character": "齒",
+    "normalizedCharacter": "齒",
+    "meanings": [
+      {
+        "meaning": "이",
+        "reading": "치"
+      }
+    ]
+  },
+  {
+    "id": "g7-134",
+    "grade": 7,
+    "character": "便",
+    "normalizedCharacter": "便",
+    "meanings": [
+      {
+        "meaning": "편할",
+        "reading": "편"
+      },
+      {
+        "meaning": "똥오줌",
+        "reading": "변"
+      },
+      {
+        "meaning": "다스릴",
+        "reading": "편"
+      }
+    ]
+  },
+  {
+    "id": "g7-135",
+    "grade": 7,
+    "character": "平",
+    "normalizedCharacter": "平",
+    "meanings": [
+      {
+        "meaning": "평평할",
+        "reading": "평"
+      }
+    ]
+  },
+  {
+    "id": "g7-136",
+    "grade": 7,
+    "character": "品",
+    "normalizedCharacter": "品",
+    "meanings": [
+      {
+        "meaning": "물건",
+        "reading": "품"
+      }
+    ]
+  },
+  {
+    "id": "g7-137",
+    "grade": 7,
+    "character": "必",
+    "normalizedCharacter": "必",
+    "meanings": [
+      {
+        "meaning": "반드시",
+        "reading": "필"
+      }
+    ]
+  },
+  {
+    "id": "g7-138",
+    "grade": 7,
+    "character": "夏",
+    "normalizedCharacter": "夏",
+    "meanings": [
+      {
+        "meaning": "여름",
+        "reading": "하"
+      }
+    ]
+  },
+  {
+    "id": "g7-139",
+    "grade": 7,
+    "character": "學",
+    "normalizedCharacter": "學",
+    "meanings": [
+      {
+        "meaning": "배울",
+        "reading": "학"
+      }
+    ]
+  },
+  {
+    "id": "g7-140",
+    "grade": 7,
+    "character": "海",
+    "normalizedCharacter": "海",
+    "meanings": [
+      {
+        "meaning": "바다",
+        "reading": "해"
+      }
+    ]
+  },
+  {
+    "id": "g7-141",
+    "grade": 7,
+    "character": "香",
+    "normalizedCharacter": "香",
+    "meanings": [
+      {
+        "meaning": "향기",
+        "reading": "향"
+      }
+    ]
+  },
+  {
+    "id": "g7-142",
+    "grade": 7,
+    "character": "血",
+    "normalizedCharacter": "血",
+    "meanings": [
+      {
+        "meaning": "피",
+        "reading": "혈"
+      }
+    ]
+  },
+  {
+    "id": "g7-143",
+    "grade": 7,
+    "character": "形",
+    "normalizedCharacter": "形",
+    "meanings": [
+      {
+        "meaning": "형상",
+        "reading": "형"
+      },
+      {
+        "meaning": "모양",
+        "reading": "형"
+      }
+    ]
+  },
+  {
+    "id": "g7-144",
+    "grade": 7,
+    "character": "化",
+    "normalizedCharacter": "化",
+    "meanings": [
+      {
+        "meaning": "될",
+        "reading": "화"
+      }
+    ]
+  },
+  {
+    "id": "g7-145",
+    "grade": 7,
+    "character": "和",
+    "normalizedCharacter": "和",
+    "meanings": [
+      {
+        "meaning": "화할",
+        "reading": "화"
+      }
+    ]
+  },
+  {
+    "id": "g7-146",
+    "grade": 7,
+    "character": "花",
+    "normalizedCharacter": "花",
+    "meanings": [
+      {
+        "meaning": "꽃",
+        "reading": "화"
+      }
+    ]
+  },
+  {
+    "id": "g7-147",
+    "grade": 7,
+    "character": "話",
+    "normalizedCharacter": "話",
+    "meanings": [
+      {
+        "meaning": "말할",
+        "reading": "화"
+      },
+      {
+        "meaning": "말씀",
+        "reading": "화"
+      }
+    ]
+  },
+  {
+    "id": "g7-148",
+    "grade": 7,
+    "character": "畫",
+    "normalizedCharacter": "畫",
+    "meanings": [
+      {
+        "meaning": "그림",
+        "reading": "화"
+      }
+    ]
+  },
+  {
+    "id": "g7-149",
+    "grade": 7,
+    "character": "活",
+    "normalizedCharacter": "活",
+    "meanings": [
+      {
+        "meaning": "살",
+        "reading": "활"
+      }
+    ]
+  },
+  {
+    "id": "g7-150",
+    "grade": 7,
+    "character": "後",
+    "normalizedCharacter": "後",
+    "meanings": [
+      {
+        "meaning": "뒤",
+        "reading": "후"
+      }
+    ]
+  }
+]

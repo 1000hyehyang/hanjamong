@@ -1,0 +1,1090 @@
+[
+  {
+    "id": "q-7-001",
+    "type": "hanja_reading",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 한자(漢字)의 음(音)은 무엇입니까?\n山",
+    "choices": [
+      "산",
+      "수",
+      "소",
+      "석",
+      "고"
+    ],
+    "answerIndex": 0,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '산'입니다. 山은 '뫼 산'입니다."
+  },
+  {
+    "id": "q-7-002",
+    "type": "hanja_reading",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 한자(漢字)의 음(音)은 무엇입니까?\n雨",
+    "choices": [
+      "양",
+      "량",
+      "운",
+      "우",
+      "설"
+    ],
+    "answerIndex": 3,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '우'입니다. 雨는 '비 우'입니다."
+  },
+  {
+    "id": "q-7-003",
+    "type": "hanja_reading",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 한자(漢字)의 음(音)은 무엇입니까?\n行",
+    "choices": [
+      "행",
+      "척",
+      "리",
+      "가",
+      "형"
+    ],
+    "answerIndex": 0,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '행'입니다. 行은 '다닐 행'입니다."
+  },
+  {
+    "id": "q-7-004",
+    "type": "hanja_reading",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 한자(漢字)의 음(音)은 무엇입니까?\n力",
+    "choices": [
+      "천",
+      "학",
+      "력",
+      "우",
+      "구"
+    ],
+    "answerIndex": 2,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '력'입니다. 力은 '힘 력'입니다."
+  },
+  {
+    "id": "q-7-005",
+    "type": "hanja_reading",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 한자(漢字)의 음(音)은 무엇입니까?\n面",
+    "choices": [
+      "자",
+      "면",
+      "아",
+      "하",
+      "회"
+    ],
+    "answerIndex": 1,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '면'입니다. 面은 '낯 면'입니다."
+  },
+  {
+    "id": "q-7-006",
+    "type": "hanja_reading",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 한자(漢字)의 음(音)은 무엇입니까?\n單",
+    "choices": [
+      "난",
+      "가",
+      "차",
+      "단",
+      "전"
+    ],
+    "answerIndex": 3,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '단'입니다. 單은 '홑 단'입니다."
+  },
+  {
+    "id": "q-7-007",
+    "type": "hanja_reading",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 한자(漢字)의 음(音)은 무엇입니까?\n毛",
+    "choices": [
+      "염",
+      "수",
+      "무",
+      "소",
+      "모"
+    ],
+    "answerIndex": 4,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '모'입니다. 毛는 '털 모'입니다."
+  },
+  {
+    "id": "q-7-008",
+    "type": "hanja_reading",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 한자(漢字)의 음(音)은 무엇입니까?\n齒",
+    "choices": [
+      "계",
+      "리",
+      "치",
+      "후",
+      "설"
+    ],
+    "answerIndex": 2,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '치'입니다. 齒는 '이 치'입니다."
+  },
+  {
+    "id": "q-7-009",
+    "type": "hanja_reading",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 한자(漢字)의 음(音)은 무엇입니까?\n銀",
+    "choices": [
+      "금",
+      "동",
+      "철",
+      "납",
+      "은"
+    ],
+    "answerIndex": 4,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '은'입니다. 銀은 '은 은'입니다."
+  },
+  {
+    "id": "q-7-010",
+    "type": "hanja_reading",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 음(音)을 가진 한자는 무엇입니까?\n구",
+    "choices": [
+      "口",
+      "羊",
+      "女",
+      "心",
+      "果"
+    ],
+    "answerIndex": 0,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '口'입니다. 口는 '입 구'입니다."
+  },
+  {
+    "id": "q-7-011",
+    "type": "hanja_reading",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 음(音)을 가진 한자는 무엇입니까?\n공",
+    "choices": [
+      "人",
+      "立",
+      "魚",
+      "工",
+      "衣"
+    ],
+    "answerIndex": 3,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '工'입니다. 工은 '장인 공'입니다."
+  },
+  {
+    "id": "q-7-012",
+    "type": "hanja_reading",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 음(音)을 가진 한자는 무엇입니까?\n과",
+    "choices": [
+      "子",
+      "果",
+      "力",
+      "水",
+      "車"
+    ],
+    "answerIndex": 1,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '果'입니다. 果는 '열매 과'입니다."
+  },
+  {
+    "id": "q-7-013",
+    "type": "hanja_reading",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 음(音)을 가진 한자는 무엇입니까?\n천",
+    "choices": [
+      "身",
+      "車",
+      "川",
+      "衣",
+      "萬"
+    ],
+    "answerIndex": 2,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '川'입니다. 川은 '내 천'입니다."
+  },
+  {
+    "id": "q-7-014",
+    "type": "hanja_reading",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 음(音)을 가진 한자는 무엇입니까?\n문",
+    "choices": [
+      "文",
+      "自",
+      "田",
+      "羊",
+      "長"
+    ],
+    "answerIndex": 0,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '文'입니다. 文은 '글월 문'입니다."
+  },
+  {
+    "id": "q-7-015",
+    "type": "hanja_reading",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 음(音)을 가진 한자는 무엇입니까?\n원",
+    "choices": [
+      "光",
+      "元",
+      "成",
+      "西",
+      "初"
+    ],
+    "answerIndex": 1,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '元'입니다. 元은 '으뜸 원'입니다."
+  },
+  {
+    "id": "q-7-016",
+    "type": "hanja_reading",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 음(音)을 가진 한자는 무엇입니까?\n자",
+    "choices": [
+      "回",
+      "今",
+      "邑",
+      "者",
+      "次"
+    ],
+    "answerIndex": 3,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '者'입니다. 者는 '놈 자'입니다."
+  },
+  {
+    "id": "q-7-017",
+    "type": "hanja_reading",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 음(音)을 가진 한자는 무엇입니까?\n변",
+    "choices": [
+      "先",
+      "便",
+      "度",
+      "服",
+      "線"
+    ],
+    "answerIndex": 1,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '便'입니다. 便은 '편할 편'입니다."
+  },
+  {
+    "id": "q-7-018",
+    "type": "hanja_reading",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 음(音)을 가진 한자는 무엇입니까?\n활",
+    "choices": [
+      "充",
+      "活",
+      "政",
+      "等",
+      "洋"
+    ],
+    "answerIndex": 1,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '活'입니다. 活은 '살 활'입니다."
+  },
+  {
+    "id": "q-7-019",
+    "type": "meaning_to_hanja",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 한자(漢字)의 뜻은 무엇입니까?\n目",
+    "choices": [
+      "코",
+      "귀",
+      "입",
+      "눈",
+      "등"
+    ],
+    "answerIndex": 3,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '눈'입니다. 目은 '눈 목'입니다."
+  },
+  {
+    "id": "q-7-020",
+    "type": "meaning_to_hanja",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 한자(漢字)의 뜻은 무엇입니까?\n火",
+    "choices": [
+      "불",
+      "물",
+      "별",
+      "눈",
+      "비"
+    ],
+    "answerIndex": 0,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '불'입니다. 火는 '불 화'입니다."
+  },
+  {
+    "id": "q-7-021",
+    "type": "meaning_to_hanja",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 한자(漢字)의 뜻은 무엇입니까?\n土",
+    "choices": [
+      "열",
+      "해",
+      "흙",
+      "들",
+      "산"
+    ],
+    "answerIndex": 2,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '흙'입니다. 土는 '흙 토'입니다."
+  },
+  {
+    "id": "q-7-022",
+    "type": "meaning_to_hanja",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 한자(漢字)의 뜻은 무엇입니까?\n羊",
+    "choices": [
+      "새",
+      "소",
+      "양",
+      "닭",
+      "쥐"
+    ],
+    "answerIndex": 2,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '양'입니다. 羊은 '양 양'입니다."
+  },
+  {
+    "id": "q-7-023",
+    "type": "meaning_to_hanja",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 한자(漢字)의 뜻은 무엇입니까?\n軍",
+    "choices": [
+      "수레",
+      "군사",
+      "높다",
+      "낮다",
+      "크다"
+    ],
+    "answerIndex": 1,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '군사'입니다. 軍은 '군사 군'입니다."
+  },
+  {
+    "id": "q-7-024",
+    "type": "meaning_to_hanja",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 한자(漢字)의 뜻은 무엇입니까?\n弟",
+    "choices": [
+      "아우",
+      "친구",
+      "모이다",
+      "사귀다",
+      "시험"
+    ],
+    "answerIndex": 0,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '아우'입니다. 弟는 '아우 제'입니다."
+  },
+  {
+    "id": "q-7-025",
+    "type": "meaning_to_hanja",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 한자(漢字)의 뜻은 무엇입니까?\n圖",
+    "choices": [
+      "얼굴",
+      "그림",
+      "나라",
+      "지방",
+      "도읍"
+    ],
+    "answerIndex": 1,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '그림'입니다. 圖는 '그림 도'입니다."
+  },
+  {
+    "id": "q-7-026",
+    "type": "meaning_to_hanja",
+    "grade": 7,
+    "points": 4,
+    "question": "다음 한자(漢字)의 뜻은 무엇입니까?\n學",
+    "choices": [
+      "가르다",
+      "싸우다",
+      "따르다",
+      "푸르다",
+      "배우다"
+    ],
+    "answerIndex": 4,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '배우다'입니다. 學은 '배울 학'입니다."
+  },
+  {
+    "id": "q-7-027",
+    "type": "meaning_to_hanja",
+    "grade": 7,
+    "points": 4,
+    "question": "다음의 뜻을 가진 한자(漢字)는 무엇입니까?\n저녁",
+    "choices": [
+      "子",
+      "自",
+      "夕",
+      "車",
+      "萬"
+    ],
+    "answerIndex": 2,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '夕'입니다. 夕은 '저녁 석'입니다."
+  },
+  {
+    "id": "q-7-028",
+    "type": "meaning_to_hanja",
+    "grade": 7,
+    "points": 4,
+    "question": "다음의 뜻을 가진 한자(漢字)는 무엇입니까?\n높다",
+    "choices": [
+      "高",
+      "水",
+      "木",
+      "玉",
+      "萬"
+    ],
+    "answerIndex": 0,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '高'입니다. 高는 '높을 고'입니다."
+  },
+  {
+    "id": "q-7-029",
+    "type": "meaning_to_hanja",
+    "grade": 7,
+    "points": 4,
+    "question": "다음의 뜻을 가진 한자(漢字)는 무엇입니까?\n아버지",
+    "choices": [
+      "力",
+      "女",
+      "父",
+      "口",
+      "夫"
+    ],
+    "answerIndex": 2,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '父'입니다. 父는 '아비 부'입니다."
+  },
+  {
+    "id": "q-7-030",
+    "type": "meaning_to_hanja",
+    "grade": 7,
+    "points": 4,
+    "question": "다음의 뜻을 가진 한자(漢字)는 무엇입니까?\n길다",
+    "choices": [
+      "兒",
+      "長",
+      "石",
+      "牛",
+      "足"
+    ],
+    "answerIndex": 1,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '長'입니다. 長은 '긴 장'입니다."
+  },
+  {
+    "id": "q-7-031",
+    "type": "meaning_to_hanja",
+    "grade": 7,
+    "points": 4,
+    "question": "다음의 뜻을 가진 한자(漢字)는 무엇입니까?\n고을",
+    "choices": [
+      "音",
+      "科",
+      "百",
+      "利",
+      "邑"
+    ],
+    "answerIndex": 4,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '邑'입니다. 邑은 '고을 읍'입니다."
+  },
+  {
+    "id": "q-7-032",
+    "type": "meaning_to_hanja",
+    "grade": 7,
+    "points": 4,
+    "question": "다음의 뜻을 가진 한자(漢字)는 무엇입니까?\n오다",
+    "choices": [
+      "利",
+      "同",
+      "來",
+      "太",
+      "曲"
+    ],
+    "answerIndex": 2,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '來'입니다. 來는 '올 래'입니다."
+  },
+  {
+    "id": "q-7-033",
+    "type": "meaning_to_hanja",
+    "grade": 7,
+    "points": 4,
+    "question": "다음의 뜻을 가진 한자(漢字)는 무엇입니까?\n뜰",
+    "choices": [
+      "冬",
+      "武",
+      "神",
+      "庭",
+      "種"
+    ],
+    "answerIndex": 3,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '庭'입니다. 庭은 '뜰 정'입니다."
+  },
+  {
+    "id": "q-7-034",
+    "type": "meaning_to_hanja",
+    "grade": 7,
+    "points": 4,
+    "question": "다음의 뜻을 가진 한자(漢字)는 무엇입니까?\n다투다",
+    "choices": [
+      "爭",
+      "典",
+      "品",
+      "質",
+      "韓"
+    ],
+    "answerIndex": 0,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '爭'입니다. 爭은 '다툴 쟁'입니다."
+  },
+  {
+    "id": "q-7-035",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음 한자어(漢字語)의 음(音)은 무엇입니까?\n父子",
+    "choices": [
+      "남자",
+      "여인",
+      "노인",
+      "부인",
+      "부자"
+    ],
+    "answerIndex": 4,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '부자'입니다. 父子는 父('아비 부')와 子('아들 자')로 이루어진 한자어로, '부자'라고 읽습니다."
+  },
+  {
+    "id": "q-7-036",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음 한자어(漢字語)의 음(音)은 무엇입니까?\n木手",
+    "choices": [
+      "목수",
+      "목각",
+      "석수",
+      "석각",
+      "수목"
+    ],
+    "answerIndex": 0,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '목수'입니다. 木手는 木('나무 목')와 手('손 수')로 이루어진 한자어로, '목수'라고 읽습니다."
+  },
+  {
+    "id": "q-7-037",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음 한자어(漢字語)의 음(音)은 무엇입니까?\n身長",
+    "choices": [
+      "신장",
+      "신체",
+      "합장",
+      "합체",
+      "자신"
+    ],
+    "answerIndex": 0,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '신장'입니다. 身長는 身('몸 신')와 長('긴 장')로 이루어진 한자어로, '신장'이라고 읽습니다."
+  },
+  {
+    "id": "q-7-038",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음 한자어(漢字語)의 음(音)은 무엇입니까?\n石門",
+    "choices": [
+      "장인",
+      "공부",
+      "석문",
+      "모성",
+      "좌우"
+    ],
+    "answerIndex": 2,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '석문'입니다. 石門는 石('돌 석')와 門('문 문')로 이루어진 한자어로, '석문'이라고 읽습니다."
+  },
+  {
+    "id": "q-7-039",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음 한자어(漢字語)의 음(音)은 무엇입니까?\n千百",
+    "choices": [
+      "고만",
+      "천백",
+      "고백",
+      "천만",
+      "십백"
+    ],
+    "answerIndex": 1,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '천백'입니다. 千百는 千('일천 천')와 百('일백 백')로 이루어진 한자어로, '천백'이라고 읽습니다."
+  },
+  {
+    "id": "q-7-040",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음 한자어(漢字語)의 음(音)은 무엇입니까?\n八回",
+    "choices": [
+      "칠회",
+      "입원",
+      "팔회",
+      "입실",
+      "팔월"
+    ],
+    "answerIndex": 2,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '팔회'입니다. 八回는 八('여덟 팔')와 回('돌아올 회')로 이루어진 한자어로, '팔회'라고 읽습니다."
+  },
+  {
+    "id": "q-7-041",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음 한자어(漢字語)의 음(音)은 무엇입니까?\n出國",
+    "choices": [
+      "입국",
+      "출국",
+      "입경",
+      "출경",
+      "고국"
+    ],
+    "answerIndex": 1,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '출국'입니다. 出國는 出('날 출')와 國('나라 국')로 이루어진 한자어로, '출국'이라고 읽습니다."
+  },
+  {
+    "id": "q-7-042",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음 한자어(漢字語)의 음(音)은 무엇입니까?\n始作",
+    "choices": [
+      "시험",
+      "경험",
+      "시작",
+      "경작",
+      "시초"
+    ],
+    "answerIndex": 2,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '시작'입니다. 始作는 始('비로소 시')와 作('지을 작')로 이루어진 한자어로, '시작'이라고 읽습니다."
+  },
+  {
+    "id": "q-7-043",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음의 음(音)을 가진 한자어(漢字語)는 무엇입니까?\n석월",
+    "choices": [
+      "長子",
+      "大門",
+      "木石",
+      "面目",
+      "夕月"
+    ],
+    "answerIndex": 4,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '夕月'입니다. 夕月는 夕('저녁 석')와 月('달 월')로 이루어진 한자어로, '석월'이라고 읽습니다."
+  },
+  {
+    "id": "q-7-044",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음의 음(音)을 가진 한자어(漢字語)는 무엇입니까?\n여아",
+    "choices": [
+      "父母",
+      "女兒",
+      "手足",
+      "天文",
+      "交手"
+    ],
+    "answerIndex": 1,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '女兒'입니다. 女兒는 女('여자 녀')와 兒('아이 아')로 이루어진 한자어로, '여아'라고 읽습니다."
+  },
+  {
+    "id": "q-7-045",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음의 음(音)을 가진 한자어(漢字語)는 무엇입니까?\n민사",
+    "choices": [
+      "百方",
+      "民事",
+      "失言",
+      "世上",
+      "同業"
+    ],
+    "answerIndex": 1,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '民事'입니다. 民事는 民('백성 민')와 事('일 사')로 이루어진 한자어로, '민사'라고 읽습니다."
+  },
+  {
+    "id": "q-7-046",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음의 음(音)을 가진 한자어(漢字語)는 무엇입니까?\n경기",
+    "choices": [
+      "國都",
+      "競技",
+      "時間",
+      "病死",
+      "京室"
+    ],
+    "answerIndex": 1,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '競技'입니다. 競技는 競('다툴 경')와 技('재주 기')로 이루어진 한자어로, '경기'라고 읽습니다."
+  },
+  {
+    "id": "q-7-047",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음 한자어(漢字語)의 뜻은 무엇입니까?\n雨衣",
+    "choices": [
+      "비옷",
+      "우산",
+      "가랑비",
+      "비 올 때 신는 신발",
+      "눈 올 때 입는 옷"
+    ],
+    "answerIndex": 0,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '비옷'입니다. 雨衣는 雨('비 우')와 衣('옷 의')로 이루어진 한자어로, '비옷'을 뜻합니다."
+  },
+  {
+    "id": "q-7-048",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음 한자어(漢字語)의 뜻은 무엇입니까?\n日月",
+    "choices": [
+      "밝은 달빛",
+      "밝은 아침",
+      "늦은 밤",
+      "어른과 아이",
+      "해와 달"
+    ],
+    "answerIndex": 4,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '해와 달'입니다. 日月는 日('날 일')와 月('달 월')로 이루어진 한자어로, '해와 달'을 뜻합니다."
+  },
+  {
+    "id": "q-7-049",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음 한자어(漢字語)의 뜻은 무엇입니까?\n入金",
+    "choices": [
+      "돈을 넣음",
+      "돈을 꺼냄",
+      "숲에서 나옴",
+      "숲으로 들어감",
+      "금을 캐러 광산에 들어감"
+    ],
+    "answerIndex": 0,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '돈을 넣음'입니다. 入金는 入('들 입')와 金('쇠 금')로 이루어진 한자어로, '돈을 넣음'을 뜻합니다."
+  },
+  {
+    "id": "q-7-050",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음 한자어(漢字語)의 뜻은 무엇입니까?\n答案",
+    "choices": [
+      "문제의 해답",
+      "편지의 답장",
+      "다른 사람에게 묻기",
+      "정답을 기입하는 곳",
+      "선생님께서 말씀하신 내용"
+    ],
+    "answerIndex": 0,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '문제의 해답'입니다. 答案는 答('대답 답')와 案('책상 안')로 이루어진 한자어로, '문제의 해답'을 뜻합니다."
+  },
+  {
+    "id": "q-7-051",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음의 뜻에 해당하는 한자어(漢字語)는 무엇입니까?\n힘써 행함",
+    "choices": [
+      "立身",
+      "高天",
+      "人魚",
+      "天文",
+      "力行"
+    ],
+    "answerIndex": 4,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '力行'입니다. 力行는 力('힘 력')와 行('다닐 행')로 이루어진 한자어로, '힘써 행함'이라고 읽습니다."
+  },
+  {
+    "id": "q-7-052",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음의 뜻에 해당하는 한자어(漢字語)는 무엇입니까?\n물의 힘",
+    "choices": [
+      "月夕",
+      "水力",
+      "工人",
+      "山足",
+      "老大"
+    ],
+    "answerIndex": 1,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '水力'입니다. 水力는 水('물 수')와 力('힘 력')로 이루어진 한자어로, '물의 힘'이라고 읽습니다."
+  },
+  {
+    "id": "q-7-053",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음의 뜻에 해당하는 한자어(漢字語)는 무엇입니까?\n세상과 인생을 즐겁고 좋은 것으로 여김",
+    "choices": [
+      "合天",
+      "樂天",
+      "來世",
+      "萬世",
+      "本業"
+    ],
+    "answerIndex": 1,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '樂天'입니다. 樂天는 樂('즐길 락')와 天('하늘 천')로 이루어진 한자어로, '세상과 인생을 즐겁고 좋은 것으로 여김'이라고 읽습니다."
+  },
+  {
+    "id": "q-7-054",
+    "type": "vocabulary",
+    "grade": 7,
+    "points": 6,
+    "question": "다음의 뜻에 해당하는 한자어(漢字語)는 무엇입니까?\n어린이를 독자로 삼아 어린이의 정서를 노래한 시",
+    "choices": [
+      "童詩",
+      "病室",
+      "財物",
+      "作品",
+      "圖形"
+    ],
+    "answerIndex": 0,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '童詩'입니다. 童詩는 童('아이 동')와 詩('시 시')로 이루어진 한자어로, '어린이를 독자로 삼아 어린이의 정서를 노래한 시'라고 읽습니다."
+  },
+  {
+    "id": "q-7-055",
+    "type": "reading_comp",
+    "grade": 7,
+    "points": 8,
+    "question": "회담의 內容은(는) 극비에 붙여졌다. 밑줄 친 한자어의 음(音)은 무엇입니까?",
+    "choices": [
+      "주제",
+      "장소",
+      "일시",
+      "시간",
+      "내용"
+    ],
+    "answerIndex": 4,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '내용'입니다. 內容는 內('안 내')와 容('담을 용')로 이루어진 한자어로, '내용'이라고 읽습니다."
+  },
+  {
+    "id": "q-7-056",
+    "type": "reading_comp",
+    "grade": 7,
+    "points": 8,
+    "question": "그가 병든 것은 술이 原因이었다. 밑줄 친 한자어의 음(音)은 무엇입니까?",
+    "choices": [
+      "요인",
+      "근원",
+      "해악",
+      "핵심",
+      "원인"
+    ],
+    "answerIndex": 4,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '원인'입니다. 原因는 原('근원 원')와 因('인할 인')로 이루어진 한자어로, '원인'이라고 읽습니다."
+  },
+  {
+    "id": "q-7-057",
+    "type": "reading_comp",
+    "grade": 7,
+    "points": 8,
+    "question": "학생의 무례한 행동에 선생님은 불쾌한 表示를(을) 냈다. 밑줄 친 한자어의 음(音)은 무엇입니까?",
+    "choices": [
+      "표시",
+      "표정",
+      "감정",
+      "모습",
+      "언성"
+    ],
+    "answerIndex": 0,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '표시'입니다. 表示는 表('겉 표')와 示('보일 시')로 이루어진 한자어로, '표시'라고 읽습니다."
+  },
+  {
+    "id": "q-7-058",
+    "type": "reading_comp",
+    "grade": 7,
+    "points": 8,
+    "question": "임진년 용띠생이시면 나와 同年이군요. 밑줄 친 한자어의 뜻풀이로 적절한 것은 어느 것입니까?",
+    "choices": [
+      "같은 나이",
+      "해마다 늘어나는 나이",
+      "같은 해에 입사한 동기",
+      "동쪽에서 떠오르는 태양",
+      "같은 집에서 함께 살아온 친구"
+    ],
+    "answerIndex": 0,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '같은 나이'입니다. 同年는 同('한가지 동')와 年('해 년')로 이루어진 한자어로, '같은 나이'를 뜻합니다."
+  },
+  {
+    "id": "q-7-059",
+    "type": "reading_comp",
+    "grade": 7,
+    "points": 8,
+    "question": "집안의 家風을 보면 그 사람의 됨됨이를 알 수 있다. 밑줄 친 한자어의 뜻풀이로 적절한 것은 어느 것입니까?",
+    "choices": [
+      "집에 부는 바람",
+      "한 집안에 대한 나쁜 소문",
+      "한 집안이 오랫동안 겪은 시련",
+      "한 집안에 전해 내려오는 풍습",
+      "집집마다 가지고 있는 선풍기"
+    ],
+    "answerIndex": 3,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '한 집안에 전해 내려오는 풍습'입니다. 家風는 家('집 가')와 風('바람 풍')로 이루어진 한자어로, '한 집안에 전해 내려오는 풍습'을 뜻합니다."
+  },
+  {
+    "id": "q-7-060",
+    "type": "reading_comp",
+    "grade": 7,
+    "points": 8,
+    "question": "그녀는 문학에 대한 素養이 대단하다. 밑줄 친 한자어의 뜻풀이로 적절한 것은 어느 것입니까?",
+    "choices": [
+      "가축을 잘 기름",
+      "저장해둔 양식",
+      "부모님을 잘 봉양함",
+      "일이나 공부에 대해 잘 이해함",
+      "평소에 닦아 놓은 교양"
+    ],
+    "answerIndex": 4,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '평소에 닦아 놓은 교양'입니다. 素養는 素('흴 소')와 養('기를 양')로 이루어진 한자어로, '평소에 닦아 놓은 교양'을 뜻합니다."
+  },
+  {
+    "id": "q-7-061",
+    "type": "reading_comp",
+    "grade": 7,
+    "points": 8,
+    "question": "사또는 관복을 便服으로 바꾸어 입고 마을로 향했다. 밑줄 친 한자어의 뜻풀이로 적절한 것은 어느 것입니까?",
+    "choices": [
+      "흰옷",
+      "헐렁한 옷",
+      "여러 겹의 옷",
+      "평상시 간편하게 입는 옷",
+      "빨리 달릴 수 있게 바지 아래를 묶은 옷"
+    ],
+    "answerIndex": 3,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '평상시 간편하게 입는 옷'입니다. 便服는 便('편할 편')와 服('옷 복')로 이루어진 한자어로, '평상시 간편하게 입는 옷'을 뜻합니다."
+  },
+  {
+    "id": "q-7-062",
+    "type": "reading_comp",
+    "grade": 7,
+    "points": 8,
+    "question": "이 집의 番地가 어떻게 되지요? 밑줄 친 한자어의 뜻풀이로 적절한 것은 어느 것입니까?",
+    "choices": [
+      "우편번호",
+      "집주인의 이름",
+      "집의 총면적",
+      "땅을 경작하는 사람",
+      "땅을 일정한 기준으로 나누어서 번호를 붙인 것"
+    ],
+    "answerIndex": 4,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '땅을 일정한 기준으로 나누어서 번호를 붙인 것'입니다. 番地는 番('차례 번')와 地('땅 지')로 이루어진 한자어로, '땅을 일정한 기준으로 나누어서 번호를 붙인 것'을 뜻합니다."
+  },
+  {
+    "id": "q-7-063",
+    "type": "reading_comp",
+    "grade": 7,
+    "points": 8,
+    "question": "다음 문장에서 빈칸에 들어갈 가장 적절한 한자어(漢字語)는 어느 것입니까?\n그의 연설 내용은 크게 두 가지로 □□ 된다.",
+    "choices": [
+      "要藥",
+      "爭藥",
+      "要約",
+      "爭約",
+      "料約"
+    ],
+    "answerIndex": 2,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '要約'입니다. 要約는 要('중요할 요')와 約('맺을 약')로 이루어진 한자어로, '중요한 내용을 줄여 정리함'을 뜻합니다."
+  },
+  {
+    "id": "q-7-064",
+    "type": "reading_comp",
+    "grade": 7,
+    "points": 8,
+    "question": "다음 문장에서 빈칸에 들어갈 가장 적절한 한자어(漢字語)는 어느 것입니까?\n환자를 위해서 □□에서는 조용히 해야 한다.",
+    "choices": [
+      "兵室",
+      "病實",
+      "病室",
+      "兵失",
+      "病失"
+    ],
+    "answerIndex": 2,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '病室'입니다. 病室는 病('병 병')와 室('집 실')로 이루어진 한자어로, '병원에서 환자가 지내는 방'을 뜻합니다."
+  }
+]
