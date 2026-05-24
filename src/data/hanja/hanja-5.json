@@ -719,10 +719,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "지낼",
-        "reading": "력"
-      },
-      {
         "meaning": "지날",
         "reading": "력"
       }
@@ -1249,6 +1245,10 @@
     "formation": "형성",
     "meanings": [
       {
+        "meaning": "형세",
+        "reading": "세"
+      },
+      {
         "meaning": "권세",
         "reading": "세"
       }
@@ -1405,10 +1405,6 @@
     "radical": "氏",
     "formation": "상형",
     "meanings": [
-      {
-        "meaning": "성",
-        "reading": "씨"
-      },
       {
         "meaning": "성씨",
         "reading": "씨"
@@ -2563,10 +2559,6 @@
       {
         "meaning": "해칠",
         "reading": "해"
-      },
-      {
-        "meaning": "해할",
-        "reading": "해"
       }
     ],
     "examples": [
@@ -2603,10 +2595,6 @@
     "radical": "十",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "화할",
-        "reading": "협"
-      },
       {
         "meaning": "화합할",
         "reading": "협"

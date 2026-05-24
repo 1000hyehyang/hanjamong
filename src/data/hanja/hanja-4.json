@@ -526,10 +526,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "예",
-        "reading": "구"
-      },
-      {
         "meaning": "옛",
         "reading": "구"
       }
@@ -581,10 +577,6 @@
     "radical": "止",
     "formation": "회의",
     "meanings": [
-      {
-        "meaning": "돌아올",
-        "reading": "귀"
-      },
       {
         "meaning": "돌아갈",
         "reading": "귀"
@@ -806,10 +798,6 @@
       {
         "meaning": "마땅할",
         "reading": "당"
-      },
-      {
-        "meaning": "마땅",
-        "reading": "당"
       }
     ]
   },
@@ -1028,10 +1016,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "오얏나무",
-        "reading": "리"
-      },
-      {
         "meaning": "오얏",
         "reading": "리"
       },
@@ -1119,10 +1103,6 @@
     "radical": "女",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "손아랫누이",
-        "reading": "매"
-      },
       {
         "meaning": "누이",
         "reading": "매"
@@ -2282,10 +2262,6 @@
       {
         "meaning": "시험할",
         "reading": "시"
-      },
-      {
-        "meaning": "시험",
-        "reading": "시"
       }
     ]
   },
@@ -2947,10 +2923,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "근심할",
-        "reading": "우"
-      },
-      {
         "meaning": "근심",
         "reading": "우"
       }
@@ -3217,10 +3189,6 @@
     "formation": "회의",
     "meanings": [
       {
-        "meaning": "소리없이 울",
-        "reading": "읍"
-      },
-      {
         "meaning": "울",
         "reading": "읍"
       }
@@ -3395,10 +3363,6 @@
     "meanings": [
       {
         "meaning": "손윗누이",
-        "reading": "자"
-      },
-      {
-        "meaning": "손위누이",
         "reading": "자"
       }
     ]
@@ -4494,20 +4458,16 @@
     "formation": "형성",
     "meanings": [
       {
+        "meaning": "사나울",
+        "reading": "폭"
+      },
+      {
         "meaning": "햇빛 쪼일",
         "reading": "폭"
       },
       {
         "meaning": "사나울",
-        "reading": "폭"
-      },
-      {
-        "meaning": "사나울",
         "reading": "포"
-      },
-      {
-        "meaning": "쬘",
-        "reading": "폭"
       }
     ],
     "examples": [
@@ -4569,10 +4529,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "하례",
-        "reading": "하"
-      },
-      {
         "meaning": "하례할",
         "reading": "하"
       }
@@ -4605,10 +4561,6 @@
     "radical": "心",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "한할",
-        "reading": "한"
-      },
       {
         "meaning": "한",
         "reading": "한"

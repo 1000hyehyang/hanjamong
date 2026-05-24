@@ -47,10 +47,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "큰 내",
-        "reading": "강"
-      },
-      {
         "meaning": "강",
         "reading": "강"
       }
@@ -371,10 +367,6 @@
       {
         "meaning": "구할",
         "reading": "구"
-      },
-      {
-        "meaning": "구원할",
-        "reading": "구"
       }
     ],
     "examples": [
@@ -394,10 +386,6 @@
     "meanings": [
       {
         "meaning": "연구할",
-        "reading": "구"
-      },
-      {
-        "meaning": "궁구할",
         "reading": "구"
       }
     ],
@@ -956,10 +944,6 @@
     "formation": "회의",
     "meanings": [
       {
-        "meaning": "되돌릴",
-        "reading": "반"
-      },
-      {
         "meaning": "돌이킬",
         "reading": "반"
       }
@@ -1038,10 +1022,6 @@
     "radical": "人",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "보전할",
-        "reading": "보"
-      },
       {
         "meaning": "지킬",
         "reading": "보"
@@ -1524,10 +1504,6 @@
     "formation": "회의",
     "meanings": [
       {
-        "meaning": "편안",
-        "reading": "안"
-      },
-      {
         "meaning": "편안할",
         "reading": "안"
       }
@@ -1547,6 +1523,10 @@
     "meanings": [
       {
         "meaning": "책상",
+        "reading": "안"
+      },
+      {
+        "meaning": "생각",
         "reading": "안"
       }
     ],
@@ -1706,11 +1686,15 @@
     "formation": "상형",
     "meanings": [
       {
+        "meaning": "요긴할",
+        "reading": "요"
+      },
+      {
         "meaning": "중요할",
         "reading": "요"
       },
       {
-        "meaning": "요긴할",
+        "meaning": "구할",
         "reading": "요"
       }
     ],
@@ -2710,10 +2694,6 @@
     "radical": "彡",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "형상",
-        "reading": "형"
-      },
       {
         "meaning": "모양",
         "reading": "형"

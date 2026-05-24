@@ -594,6 +594,10 @@
         "reading": "방"
       },
       {
+        "meaning": "방위",
+        "reading": "방"
+      },
+      {
         "meaning": "본뜰",
         "reading": "방"
       }
@@ -877,10 +881,6 @@
       {
         "meaning": "오를",
         "reading": "상"
-      },
-      {
-        "meaning": "헤아릴",
-        "reading": "상"
       }
     ],
     "examples": [
@@ -1011,11 +1011,11 @@
     "formation": "회의",
     "meanings": [
       {
-        "meaning": "인간",
+        "meaning": "세상",
         "reading": "세"
       },
       {
-        "meaning": "대",
+        "meaning": "인간",
         "reading": "세"
       }
     ]

@@ -1175,10 +1175,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "소리 내어 울",
-        "reading": "곡"
-      },
-      {
         "meaning": "울",
         "reading": "곡"
       }
@@ -3334,7 +3330,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "진칠",
+        "meaning": "진 칠",
         "reading": "둔"
       }
     ]
@@ -4184,10 +4180,6 @@
     "radical": "木",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "밤나무",
-        "reading": "률"
-      },
       {
         "meaning": "밤",
         "reading": "률"
@@ -10088,10 +10080,6 @@
       {
         "meaning": "자줏빛",
         "reading": "자"
-      },
-      {
-        "meaning": "자줏빛",
-        "reading": "자"
       }
     ]
   },
@@ -11039,7 +11027,7 @@
     "formation": "회의",
     "meanings": [
       {
-        "meaning": "억제할",
+        "meaning": "지을",
         "reading": "제"
       },
       {
@@ -11754,11 +11742,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "진칠",
-        "reading": "진"
-      },
-      {
-        "meaning": "진칠",
+        "meaning": "진 칠",
         "reading": "진"
       }
     ]
