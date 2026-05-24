@@ -2981,6 +2981,10 @@
       {
         "meaning": "이를",
         "reading": "운"
+      },
+      {
+        "meaning": "구름",
+        "reading": "운"
       }
     ]
   },
@@ -4044,10 +4048,6 @@
     "radical": "止",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "이를",
-        "reading": "차"
-      },
       {
         "meaning": "이",
         "reading": "차"
