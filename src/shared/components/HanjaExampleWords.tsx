@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import { Icon } from "./icons/Icon";
 import { playSound } from "../sounds/play-sound";
 import { pressableIconButton } from "../styles/interactive";
@@ -52,17 +52,38 @@ export function HanjaExampleWords({ examples }: HanjaExampleWordsProps) {
       .map(parseExample);
   }, [examples]);
 
+  const itemsKey = useMemo(
+    () => items.map((item) => `${item.word}:${item.reading ?? ""}`).join("|"),
+    [items],
+  );
+
   const isCarousel = items.length > VISIBLE_COUNT;
   const maxPageIndex = Math.max(0, items.length - VISIBLE_COUNT);
-  const [pageIndex, setPageIndex] = useState(0);
+  const [pageState, setPageState] = useState(() => ({
+    itemsKey,
+    pageIndex: 0,
+  }));
 
-  useEffect(() => {
-    setPageIndex(0);
-  }, [examples]);
+  const pageIndex =
+    pageState.itemsKey === itemsKey
+      ? Math.min(pageState.pageIndex, maxPageIndex)
+      : 0;
 
-  useEffect(() => {
-    setPageIndex((prev) => Math.min(prev, maxPageIndex));
-  }, [maxPageIndex]);
+  const updatePageIndex = (update: number | ((prev: number) => number)) => {
+    setPageState((prev) => {
+      const currentPageIndex =
+        prev.itemsKey === itemsKey
+          ? Math.min(prev.pageIndex, maxPageIndex)
+          : 0;
+      const nextPageIndex =
+        typeof update === "function" ? update(currentPageIndex) : update;
+
+      return {
+        itemsKey,
+        pageIndex: Math.min(Math.max(0, nextPageIndex), maxPageIndex),
+      };
+    });
+  };
 
   if (items.length === 0) return null;
 
@@ -72,12 +93,12 @@ export function HanjaExampleWords({ examples }: HanjaExampleWordsProps) {
 
   const goPrev = () => {
     playSound("click");
-    setPageIndex((prev) => Math.max(0, prev - 1));
+    updatePageIndex((prev) => Math.max(0, prev - 1));
   };
 
   const goNext = () => {
     playSound("click");
-    setPageIndex((prev) => Math.min(maxPageIndex, prev + 1));
+    updatePageIndex((prev) => Math.min(maxPageIndex, prev + 1));
   };
 
   return (
@@ -128,7 +149,7 @@ export function HanjaExampleWords({ examples }: HanjaExampleWordsProps) {
               aria-current={index === pageIndex ? "true" : undefined}
               onClick={() => {
                 playSound("click");
-                setPageIndex(index);
+                updatePageIndex(index);
               }}
               className={[
                 "h-2 w-2 rounded-full transition-colors",
