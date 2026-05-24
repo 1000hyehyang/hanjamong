@@ -390,7 +390,7 @@
     "normalizedCharacter": "答",
     "meanings": [
       {
-        "meaning": "대답할",
+        "meaning": "대답",
         "reading": "답"
       }
     ]
@@ -1080,6 +1080,10 @@
       {
         "meaning": "맺을",
         "reading": "약"
+      },
+      {
+        "meaning": "약속할",
+        "reading": "약"
       }
     ]
   },
@@ -1522,11 +1526,11 @@
     "normalizedCharacter": "注",
     "meanings": [
       {
-        "meaning": "물 댈",
+        "meaning": "부을",
         "reading": "주"
       },
       {
-        "meaning": "부을",
+        "meaning": "물 댈",
         "reading": "주"
       }
     ]

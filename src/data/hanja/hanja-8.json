@@ -302,11 +302,11 @@
     "normalizedCharacter": "樂",
     "meanings": [
       {
-        "meaning": "즐거울",
+        "meaning": "즐길",
         "reading": "락"
       },
       {
-        "meaning": "풍류",
+        "meaning": "노래",
         "reading": "악"
       },
       {
@@ -860,6 +860,10 @@
       {
         "meaning": "얼굴",
         "reading": "용"
+      },
+      {
+        "meaning": "담을",
+        "reading": "용"
       }
     ]
   },
@@ -1108,6 +1112,10 @@
       {
         "meaning": "버금",
         "reading": "차"
+      },
+      {
+        "meaning": "차례",
+        "reading": "차"
       }
     ]
   },
@@ -1254,7 +1262,7 @@
     "normalizedCharacter": "兄",
     "meanings": [
       {
-        "meaning": "맏",
+        "meaning": "형",
         "reading": "형"
       }
     ]
