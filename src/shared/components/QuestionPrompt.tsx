@@ -2,38 +2,84 @@ import type { QuizQuestion } from "../types/quiz";
 import {
   parseQuestionDisplay,
   renderHighlightedText,
+  type HighlightOptions,
 } from "../utils/parse-question-display";
+
+const HANJA_TEXT_RE = /([\u4e00-\u9fff\u3400-\u4dbf\uf900-\ufaff]+)/g;
+
+function TextWithHanjaFont({ text }: { text: string }) {
+  return (
+    <>
+      {text.split(HANJA_TEXT_RE).map((segment, index) => {
+        if (!segment) {
+          return null;
+        }
+
+        if (/^[\u4e00-\u9fff\u3400-\u4dbf\uf900-\ufaff]+$/.test(segment)) {
+          return (
+            <span key={`hanja-${index}`} className="font-extrabold">
+              {segment}
+            </span>
+          );
+        }
+
+        return <span key={`text-${index}`}>{segment}</span>;
+      })}
+    </>
+  );
+}
 
 function HighlightedText({
   text,
-  underlineHanja,
-  highlightCircleMarks,
+  highlightOptions,
   className = "",
 }: {
   text: string;
-  underlineHanja: boolean;
-  highlightCircleMarks: boolean;
+  highlightOptions: HighlightOptions;
   className?: string;
 }) {
-  const parts = renderHighlightedText(text, {
-    underlineHanja,
-    highlightCircleMarks,
-  });
+  const parts = renderHighlightedText(text, highlightOptions);
 
   return (
     <span className={className}>
       {parts.map((part, index) => {
         if (typeof part === "string") {
-          return <span key={`t-${index}`}>{part}</span>;
+          return (
+            <span key={`t-${index}`}>
+              <TextWithHanjaFont text={part} />
+            </span>
+          );
         }
 
         if (part.type === "mark") {
           return (
             <span
               key={`m-${index}`}
-              className="font-extrabold text-grapefruit underline decoration-2 decoration-grapefruit underline-offset-2"
+              className="font-extrabold text-grapefruit"
             >
               {part.text}
+            </span>
+          );
+        }
+
+        if (part.type === "blank") {
+          return (
+            <span
+              key={`b-${index}`}
+              className="font-extrabold underline decoration-2 decoration-grapefruit underline-offset-[3px] tracking-widest"
+            >
+              {part.text}
+            </span>
+          );
+        }
+
+        if (part.type === "circleText") {
+          return (
+            <span
+              key={`c-${index}`}
+              className="font-extrabold underline decoration-2 decoration-border underline-offset-[3px]"
+            >
+              <TextWithHanjaFont text={part.text} />
             </span>
           );
         }
@@ -41,7 +87,10 @@ function HighlightedText({
         return (
           <span
             key={`h-${index}`}
-            className="font-serif font-bold underline decoration-2 decoration-grapefruit underline-offset-[3px]"
+            className={[
+              "font-extrabold",
+              "underline decoration-2 decoration-grapefruit underline-offset-[3px]",
+            ].join(" ")}
           >
             {part.text}
           </span>
@@ -69,8 +118,7 @@ export function QuestionPrompt({ question }: { question: QuizQuestion }) {
             <p className="text-[15px] font-semibold leading-[1.75] text-text-primary whitespace-pre-line">
               <HighlightedText
                 text={parts.passage}
-                underlineHanja={parts.underlinePassageHanja}
-                highlightCircleMarks={parts.highlightCircleMarks}
+                highlightOptions={parts.highlightOptions}
               />
             </p>
           </div>
@@ -95,14 +143,13 @@ export function QuestionPrompt({ question }: { question: QuizQuestion }) {
           className={[
             "leading-relaxed text-text-primary",
             question.type === "meaning_to_hanja"
-              ? "font-serif text-3xl font-bold"
+              ? "text-3xl font-extrabold"
               : "text-2xl font-extrabold",
           ].join(" ")}
         >
           <HighlightedText
             text={parts.content}
-            underlineHanja={parts.underlinePassageHanja}
-            highlightCircleMarks={false}
+            highlightOptions={parts.highlightOptions}
           />
         </p>
       </div>
@@ -113,8 +160,7 @@ export function QuestionPrompt({ question }: { question: QuizQuestion }) {
     <p className="text-base font-extrabold leading-relaxed text-text-primary whitespace-pre-line">
       <HighlightedText
         text={parts.content ?? question.question}
-        underlineHanja={parts.underlinePassageHanja}
-        highlightCircleMarks={parts.highlightCircleMarks}
+        highlightOptions={parts.highlightOptions}
       />
     </p>
   );

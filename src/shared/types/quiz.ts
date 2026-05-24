@@ -14,6 +14,7 @@ export interface QuizQuestion {
   choices: string[];
   answerIndex: number;
   explanation?: string;
+  choiceHints?: string[];
   relatedHanjaIds?: string[];
   source?: string;
 }

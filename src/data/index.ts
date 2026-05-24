@@ -34,6 +34,14 @@ const questionsByGrade: Record<number, QuizQuestion[]> = {
   7: questions7 as QuizQuestion[],
 };
 
+const questionTypeOrder: QuizQuestion["type"][] = [
+  "hanja_reading",
+  "meaning_to_hanja",
+  "vocabulary",
+  "idiom",
+  "reading_comp",
+];
+
 export const allQuestions = Object.values(questionsByGrade).flat();
 
 export function getHanjaByGrade(grade: number): HanjaEntry[] {
@@ -46,6 +54,18 @@ export function getAllHanja(): HanjaEntry[] {
 
 export function getHanjaById(id: string): HanjaEntry | undefined {
   return getAllHanja().find((entry) => entry.id === id);
+}
+
+const hanjaByCharacter = new Map<string, HanjaEntry>();
+
+for (const entry of getAllHanja()) {
+  if (!hanjaByCharacter.has(entry.character)) {
+    hanjaByCharacter.set(entry.character, entry);
+  }
+}
+
+export function getHanjaByCharacter(character: string): HanjaEntry | undefined {
+  return hanjaByCharacter.get(character);
 }
 
 export function getQuestionsByGrade(grade: number): QuizQuestion[] {
@@ -74,7 +94,7 @@ export function getQuestionsByIds(ids: string[]): QuizQuestion[] {
 export function getAvailableQuestionTypes(grade?: number): QuizQuestion["type"][] {
   const pool = grade !== undefined ? getQuestionsByGrade(grade) : allQuestions;
   const types = new Set(pool.map((question) => question.type));
-  return [...types];
+  return questionTypeOrder.filter((type) => types.has(type));
 }
 
 export function getGradeInfo(grade: number): GradeInfo | undefined {

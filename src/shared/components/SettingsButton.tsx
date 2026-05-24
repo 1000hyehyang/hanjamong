@@ -79,7 +79,7 @@ export function SettingsButton() {
             />
           </div>
 
-          <div className="border-t border-border pt-3">
+          <div className="space-y-3 border-t border-border pt-3">
             <a
               href={FEEDBACK_FORM_URL}
               target="_blank"
@@ -89,6 +89,9 @@ export function SettingsButton() {
               <Icon name="megaphone" size={18} />
               오류 신고 · 건의하기
             </a>
+            <p className="text-center text-[11px] font-semibold text-text-secondary">
+              made by 1000hyehyang
+            </p>
           </div>
         </div>
       ) : null}

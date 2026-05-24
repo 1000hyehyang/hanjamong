@@ -17,6 +17,7 @@ import {
   QUESTION_TYPE_LABELS,
   type QuestionType,
 } from "../../shared/types/quiz";
+import { getChoiceHints } from "../../shared/utils/choice-hints";
 import { shuffle } from "../../shared/utils/shuffle";
 import { playSound } from "../../shared/sounds/play-sound";
 
@@ -54,16 +55,17 @@ export function QuizSessionPage() {
   const locationState = location.state as QuizLocationState | null;
   const isReview = gradeParam === "review";
   const grade = isReview ? undefined : Number(gradeParam);
+  const questionIds = locationState?.questionIds;
 
   const questions = useMemo(() => {
-    if (locationState?.questionIds && locationState.questionIds.length > 0) {
-      return shuffle(getQuestionsByIds(locationState.questionIds));
+    if (questionIds && questionIds.length > 0) {
+      return shuffle(getQuestionsByIds(questionIds));
     }
     if (!isQuestionType(type) || grade === undefined || Number.isNaN(grade)) {
       return [];
     }
     return shuffle(getQuestionsByType(type, grade));
-  }, [grade, locationState?.questionIds, type]);
+  }, [grade, questionIds, type]);
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
@@ -77,7 +79,7 @@ export function QuizSessionPage() {
 
   if (
     !isReview &&
-    !locationState?.questionIds?.length &&
+    !questionIds?.length &&
     (!isQuestionType(type) || grade === undefined || Number.isNaN(grade))
   ) {
     return (
@@ -216,6 +218,7 @@ export function QuizSessionPage() {
       : "오답 복습";
 
   const completedCount = isAnswered ? currentIndex + 1 : currentIndex;
+  const choiceHints = currentQuestion ? getChoiceHints(currentQuestion) : undefined;
 
   return (
     <Screen noPadding className={isAnswered ? "pb-64" : "pb-24"}>
@@ -226,7 +229,7 @@ export function QuizSessionPage() {
             <>
               {" · "}
               <span className="text-green-dark">
-                정답 {correctCount}/{completedCount}
+                정답 {correctCount}개
               </span>
             </>
           ) : null}
@@ -249,6 +252,7 @@ export function QuizSessionPage() {
                   disabled={isAnswered}
                   onClick={() => handleSelect(choiceIndex)}
                   label={choice}
+                  hint={isAnswered ? choiceHints?.[choiceIndex] : undefined}
                 />
               ))}
             </div>

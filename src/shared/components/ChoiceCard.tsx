@@ -1,5 +1,6 @@
 import type { ButtonHTMLAttributes, ReactNode } from "react";
 import { choiceCardBase, choiceCardHover, choiceCardStates } from "../styles/ui";
+import type { ChoiceHint } from "../utils/choice-hints";
 
 export type ChoiceCardState =
   | "default"
@@ -13,6 +14,7 @@ interface ChoiceCardProps extends ButtonHTMLAttributes<HTMLButtonElement> {
   icon?: ReactNode;
   label: ReactNode;
   description?: string;
+  hint?: ChoiceHint;
 }
 
 export function ChoiceCard({
@@ -20,6 +22,7 @@ export function ChoiceCard({
   icon,
   label,
   description,
+  hint,
   className = "",
   onClick,
   disabled,
@@ -47,7 +50,15 @@ export function ChoiceCard({
           </div>
         ) : null}
         <div className="min-w-0 flex-1">
-          <div className="text-base leading-snug">{label}</div>
+          <div className="flex flex-wrap items-baseline gap-x-2 text-base leading-snug">
+            <span>{label}</span>
+            {hint ? (
+              <span className="text-sm font-semibold">
+                <span className="text-text-secondary">{hint.meaning}</span>
+                <span className="text-green-dark"> {hint.reading}</span>
+              </span>
+            ) : null}
+          </div>
           {description ? (
             <p className="mt-1 text-sm font-semibold text-text-secondary">
               {description}
