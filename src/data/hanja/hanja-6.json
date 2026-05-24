@@ -1950,6 +1950,10 @@
       {
         "meaning": "마디",
         "reading": "절"
+      },
+      {
+        "meaning": "절제할",
+        "reading": "절"
       }
     ],
     "examples": [
@@ -2562,11 +2566,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "한 수",
+        "meaning": "한나라",
         "reading": "한"
       },
       {
-        "meaning": "한나라",
+        "meaning": "사내",
         "reading": "한"
       }
     ],
@@ -2774,6 +2778,10 @@
       {
         "meaning": "본받을",
         "reading": "효"
+      },
+      {
+        "meaning": "효험",
+        "reading": "효"
       }
     ],
     "examples": [
@@ -2825,10 +2833,6 @@
     "meanings": [
       {
         "meaning": "일어날",
-        "reading": "흥"
-      },
-      {
-        "meaning": "일",
         "reading": "흥"
       }
     ],
