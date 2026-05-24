@@ -94,12 +94,12 @@
     "normalizedCharacter": "景",
     "meanings": [
       {
-        "meaning": "경치",
+        "meaning": "볕",
         "reading": "경"
       },
       {
-        "meaning": "볕",
-        "reading": "경"
+        "meaning": "그림자",
+        "reading": "영"
       }
     ]
   },
@@ -154,7 +154,7 @@
     "normalizedCharacter": "計",
     "meanings": [
       {
-        "meaning": "셈할",
+        "meaning": "셀",
         "reading": "계"
       }
     ]
@@ -1107,11 +1107,11 @@
     "meanings": [
       {
         "meaning": "두",
-        "reading": "양"
+        "reading": "량"
       },
       {
         "meaning": "두",
-        "reading": "량"
+        "reading": "양"
       }
     ]
   },

@@ -54,15 +54,15 @@
   {
     "id": "g5-005",
     "grade": 5,
-    "character": "强",
-    "normalizedCharacter": "强",
+    "character": "強",
+    "normalizedCharacter": "強",
     "meanings": [
       {
-        "meaning": "굳셀",
+        "meaning": "강할",
         "reading": "강"
       },
       {
-        "meaning": "강할",
+        "meaning": "굳셀",
         "reading": "강"
       }
     ]
@@ -254,7 +254,7 @@
     "normalizedCharacter": "其",
     "meanings": [
       {
-        "meaning": "터",
+        "meaning": "그",
         "reading": "기"
       }
     ]
@@ -291,11 +291,11 @@
     "meanings": [
       {
         "meaning": "일할",
-        "reading": "노"
+        "reading": "로"
       },
       {
         "meaning": "일할",
-        "reading": "로"
+        "reading": "노"
       }
     ]
   },
@@ -843,10 +843,6 @@
     "meanings": [
       {
         "meaning": "권세",
-        "reading": "세"
-      },
-      {
-        "meaning": "형세",
         "reading": "세"
       }
     ]
@@ -1542,11 +1538,11 @@
     "normalizedCharacter": "支",
     "meanings": [
       {
-        "meaning": "가를",
+        "meaning": "지탱할",
         "reading": "지"
       },
       {
-        "meaning": "지탱할",
+        "meaning": "가를",
         "reading": "지"
       }
     ]
@@ -1586,7 +1582,7 @@
     "normalizedCharacter": "窓",
     "meanings": [
       {
-        "meaning": "창문",
+        "meaning": "창",
         "reading": "창"
       }
     ]
@@ -1598,12 +1594,12 @@
     "normalizedCharacter": "責",
     "meanings": [
       {
-        "meaning": "빚",
-        "reading": "채"
-      },
-      {
         "meaning": "꾸짖을",
         "reading": "책"
+      },
+      {
+        "meaning": "빚",
+        "reading": "채"
       }
     ]
   },
@@ -1638,11 +1634,11 @@
     "normalizedCharacter": "追",
     "meanings": [
       {
-        "meaning": "따를",
+        "meaning": "쫓을",
         "reading": "추"
       },
       {
-        "meaning": "쫓을",
+        "meaning": "따를",
         "reading": "추"
       }
     ]

@@ -9,6 +9,9 @@ export interface HanjaEntry {
   character: string;
   normalizedCharacter: string;
   meanings: HanjaMeaning[];
+  strokeCount?: number;
+  radical?: string;
+  formation?: string;
   examples?: string[];
 }
 

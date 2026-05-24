@@ -4,6 +4,9 @@
     "grade": 3,
     "character": "架",
     "normalizedCharacter": "架",
+    "strokeCount": 9,
+    "radical": "木",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "시렁",
@@ -546,7 +549,7 @@
     "normalizedCharacter": "牽",
     "meanings": [
       {
-        "meaning": "끌",
+        "meaning": "이끌",
         "reading": "견"
       }
     ]
@@ -4710,16 +4713,16 @@
     "normalizedCharacter": "覆",
     "meanings": [
       {
-        "meaning": "돌아올",
-        "reading": "복"
-      },
-      {
-        "meaning": "다시",
+        "meaning": "뒤집힐",
         "reading": "복"
       },
       {
         "meaning": "덮을",
         "reading": "부"
+      },
+      {
+        "meaning": "다시",
+        "reading": "복"
       }
     ]
   },

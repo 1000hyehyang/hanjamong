@@ -1,3 +1,4 @@
+import type { ReactNode } from "react";
 import type { HanjaEntry } from "../types/hanja";
 import { HanjaMeaningLines } from "./HanjaMeaningLines";
 import { StarButton } from "./StarButton";
@@ -14,7 +15,66 @@ interface HanjaFlashCardProps {
 }
 
 const cardFaceClassName =
-  "absolute inset-0 flex flex-col items-center justify-center bg-surface px-6 py-10 text-center [-webkit-backface-visibility:hidden] [backface-visibility:hidden]";
+  "absolute inset-0 flex flex-col items-center justify-center bg-surface px-6 py-8 text-center [-webkit-backface-visibility:hidden] [backface-visibility:hidden]";
+
+interface HanjaMetaItem {
+  key: string;
+  content: ReactNode;
+}
+
+function HanjaMetaBadges({ entry }: { entry: HanjaEntry }) {
+  const maybeItems: Array<HanjaMetaItem | null> = [
+    entry.strokeCount !== undefined
+      ? {
+          key: "strokeCount",
+          content: (
+            <>
+              <span className="text-text-primary">{entry.strokeCount}</span>
+              <span>획</span>
+            </>
+          ),
+        }
+      : null,
+    entry.radical
+      ? {
+          key: "radical",
+          content: (
+            <>
+              <span>부수 </span>
+              <span className="text-text-primary">{entry.radical}</span>
+            </>
+          ),
+        }
+      : null,
+    entry.formation
+      ? {
+          key: "formation",
+          content: (
+            <>
+              <span>육서 </span>
+              <span className="text-text-primary">{entry.formation}자</span>
+            </>
+          ),
+        }
+      : null,
+  ];
+  const items = maybeItems.filter((item): item is HanjaMetaItem => item !== null);
+
+  if (items.length === 0) return null;
+
+  return (
+    <div className="absolute left-3 top-3 z-10 flex max-w-[240px] items-center overflow-hidden rounded-full bg-bg px-3 py-1.5 text-left text-[11px] font-extrabold leading-none text-text-secondary">
+      {items.map((item, index) => (
+        <span key={item.key} className="flex items-center">
+          {index > 0 ? (
+            <span className="mx-2 text-text-secondary">|</span>
+          ) : null}
+          <span>{item.content}</span>
+        </span>
+      ))}
+    </div>
+  );
+}
 
 export function HanjaFlashCard({
   entry,
@@ -26,6 +86,8 @@ export function HanjaFlashCard({
 }: HanjaFlashCardProps) {
   return (
     <div className="relative w-full">
+      <HanjaMetaBadges entry={entry} />
+
       <div className="absolute right-3 top-3 z-10">
         <StarButton active={bookmarked} onToggle={onToggleBookmark} />
       </div>
@@ -76,9 +138,21 @@ export function HanjaFlashCard({
               </div>
 
               {entry.examples && entry.examples.length > 0 ? (
-                <p className="mt-6 text-sm font-semibold text-text-secondary">
-                  예: {entry.examples.join(", ")}
-                </p>
+                <div className="mt-6 w-full max-w-[260px] border-t-2 border-border pt-4">
+                  <p className="text-xs font-extrabold text-text-secondary">
+                    단어
+                  </p>
+                  <div className="mt-2 flex flex-wrap justify-center gap-2">
+                    {entry.examples.map((example) => (
+                      <span
+                        key={example}
+                        className="inline-flex items-baseline gap-1 rounded-full bg-bg px-3 py-1.5 text-sm font-extrabold"
+                      >
+                        <span className="text-text-primary">{example}</span>
+                      </span>
+                    ))}
+                  </div>
+                </div>
               ) : null}
 
               <p className="mt-6 text-sm font-bold text-text-secondary">

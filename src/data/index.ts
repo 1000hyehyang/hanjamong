@@ -62,10 +62,17 @@ for (const entry of getAllHanja()) {
   if (!hanjaByCharacter.has(entry.character)) {
     hanjaByCharacter.set(entry.character, entry);
   }
+  if (!hanjaByCharacter.has(entry.normalizedCharacter)) {
+    hanjaByCharacter.set(entry.normalizedCharacter, entry);
+  }
+  const normalized = entry.character.normalize("NFKC");
+  if (!hanjaByCharacter.has(normalized)) {
+    hanjaByCharacter.set(normalized, entry);
+  }
 }
 
 export function getHanjaByCharacter(character: string): HanjaEntry | undefined {
-  return hanjaByCharacter.get(character);
+  return hanjaByCharacter.get(character) ?? hanjaByCharacter.get(character.normalize("NFKC"));
 }
 
 export function getQuestionsByGrade(grade: number): QuizQuestion[] {

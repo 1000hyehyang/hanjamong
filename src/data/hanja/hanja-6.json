@@ -54,7 +54,7 @@
     "normalizedCharacter": "客",
     "meanings": [
       {
-        "meaning": "손",
+        "meaning": "손님",
         "reading": "객"
       }
     ]
@@ -130,11 +130,15 @@
     "normalizedCharacter": "課",
     "meanings": [
       {
-        "meaning": "매길",
+        "meaning": "공부할",
         "reading": "과"
       },
       {
         "meaning": "과정",
+        "reading": "과"
+      },
+      {
+        "meaning": "매길",
         "reading": "과"
       }
     ]
@@ -606,11 +610,11 @@
     "normalizedCharacter": "富",
     "meanings": [
       {
-        "meaning": "부자",
+        "meaning": "부유할",
         "reading": "부"
       },
       {
-        "meaning": "부유할",
+        "meaning": "부자",
         "reading": "부"
       }
     ]
@@ -623,7 +627,7 @@
     "meanings": [
       {
         "meaning": "돌아올",
-        "reading": "부"
+        "reading": "복"
       },
       {
         "meaning": "다시",
