@@ -19,6 +19,7 @@ export type IconName =
   | "quote"
   | "file-text"
   | "chevron-left"
+  | "chevron-right"
   | "menu"
   | "settings"
   | "megaphone"
@@ -154,6 +155,7 @@ export function Icon({ name, size = 24, className = "", ...props }: IconProps) {
         </>
       )}
       {name === "chevron-left" && <path d="m14.5 6-6 6 6 6" {...pathProps} />}
+      {name === "chevron-right" && <path d="m9.5 6 6 6-6 6" {...pathProps} />}
       {name === "menu" && (
         <>
           <path d="M4 7h16" {...pathProps} />

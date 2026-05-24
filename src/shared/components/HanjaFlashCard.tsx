@@ -137,24 +137,6 @@ export function HanjaFlashCard({
                 />
               </div>
 
-              {entry.examples && entry.examples.length > 0 ? (
-                <div className="mt-6 w-full max-w-[260px] border-t-2 border-border pt-4">
-                  <p className="text-xs font-extrabold text-text-secondary">
-                    단어
-                  </p>
-                  <div className="mt-2 flex flex-wrap justify-center gap-2">
-                    {entry.examples.map((example) => (
-                      <span
-                        key={example}
-                        className="inline-flex items-baseline gap-1 rounded-full bg-bg px-3 py-1.5 text-sm font-extrabold"
-                      >
-                        <span className="text-text-primary">{example}</span>
-                      </span>
-                    ))}
-                  </div>
-                </div>
-              ) : null}
-
               <p className="mt-6 text-sm font-bold text-text-secondary">
                 탭해서 앞면으로
               </p>
