@@ -4,6 +4,9 @@
     "grade": 9,
     "character": "車",
     "normalizedCharacter": "車",
+    "strokeCount": 7,
+    "radical": "車",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "수레",
@@ -20,6 +23,9 @@
     "grade": 9,
     "character": "高",
     "normalizedCharacter": "高",
+    "strokeCount": 10,
+    "radical": "高",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "높을",
@@ -32,6 +38,9 @@
     "grade": 9,
     "character": "工",
     "normalizedCharacter": "工",
+    "strokeCount": 3,
+    "radical": "工",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "장인",
@@ -44,6 +53,9 @@
     "grade": 9,
     "character": "果",
     "normalizedCharacter": "果",
+    "strokeCount": 8,
+    "radical": "木",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "열매",
@@ -56,6 +68,9 @@
     "grade": 9,
     "character": "交",
     "normalizedCharacter": "交",
+    "strokeCount": 6,
+    "radical": "亠",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "사귈",
@@ -68,6 +83,9 @@
     "grade": 9,
     "character": "口",
     "normalizedCharacter": "口",
+    "strokeCount": 3,
+    "radical": "口",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "입",
@@ -80,6 +98,9 @@
     "grade": 9,
     "character": "女",
     "normalizedCharacter": "女",
+    "strokeCount": 3,
+    "radical": "女",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "여자",
@@ -92,6 +113,9 @@
     "grade": 9,
     "character": "大",
     "normalizedCharacter": "大",
+    "strokeCount": 3,
+    "radical": "大",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "큰",
@@ -104,6 +128,9 @@
     "grade": 9,
     "character": "力",
     "normalizedCharacter": "力",
+    "strokeCount": 2,
+    "radical": "力",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "힘",
@@ -116,6 +143,9 @@
     "grade": 9,
     "character": "老",
     "normalizedCharacter": "老",
+    "strokeCount": 6,
+    "radical": "老",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "늙을",
@@ -128,6 +158,9 @@
     "grade": 9,
     "character": "立",
     "normalizedCharacter": "立",
+    "strokeCount": 5,
+    "radical": "立",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "설",
@@ -140,6 +173,9 @@
     "grade": 9,
     "character": "馬",
     "normalizedCharacter": "馬",
+    "strokeCount": 10,
+    "radical": "馬",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "말",
@@ -152,6 +188,9 @@
     "grade": 9,
     "character": "萬",
     "normalizedCharacter": "萬",
+    "strokeCount": 13,
+    "radical": "艸",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "일만",
@@ -164,6 +203,9 @@
     "grade": 9,
     "character": "面",
     "normalizedCharacter": "面",
+    "strokeCount": 9,
+    "radical": "面",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "낯",
@@ -176,6 +218,9 @@
     "grade": 9,
     "character": "母",
     "normalizedCharacter": "母",
+    "strokeCount": 5,
+    "radical": "毋",
+    "formation": "지사",
     "meanings": [
       {
         "meaning": "어미",
@@ -188,6 +233,9 @@
     "grade": 9,
     "character": "木",
     "normalizedCharacter": "木",
+    "strokeCount": 4,
+    "radical": "木",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "나무",
@@ -200,6 +248,9 @@
     "grade": 9,
     "character": "目",
     "normalizedCharacter": "目",
+    "strokeCount": 5,
+    "radical": "目",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "눈",
@@ -212,6 +263,9 @@
     "grade": 9,
     "character": "文",
     "normalizedCharacter": "文",
+    "strokeCount": 4,
+    "radical": "文",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "글월",
@@ -224,6 +278,9 @@
     "grade": 9,
     "character": "門",
     "normalizedCharacter": "門",
+    "strokeCount": 8,
+    "radical": "門",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "문",
@@ -236,6 +293,9 @@
     "grade": 9,
     "character": "夫",
     "normalizedCharacter": "夫",
+    "strokeCount": 4,
+    "radical": "大",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "사내",
@@ -248,6 +308,9 @@
     "grade": 9,
     "character": "父",
     "normalizedCharacter": "父",
+    "strokeCount": 4,
+    "radical": "父",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "아비",
@@ -260,6 +323,9 @@
     "grade": 9,
     "character": "山",
     "normalizedCharacter": "山",
+    "strokeCount": 3,
+    "radical": "山",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "뫼",
@@ -272,6 +338,9 @@
     "grade": 9,
     "character": "夕",
     "normalizedCharacter": "夕",
+    "strokeCount": 3,
+    "radical": "夕",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "저녁",
@@ -284,6 +353,9 @@
     "grade": 9,
     "character": "石",
     "normalizedCharacter": "石",
+    "strokeCount": 5,
+    "radical": "石",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "돌",
@@ -296,6 +368,9 @@
     "grade": 9,
     "character": "手",
     "normalizedCharacter": "手",
+    "strokeCount": 4,
+    "radical": "手",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "손",
@@ -308,6 +383,9 @@
     "grade": 9,
     "character": "水",
     "normalizedCharacter": "水",
+    "strokeCount": 4,
+    "radical": "水",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "물",
@@ -320,6 +398,9 @@
     "grade": 9,
     "character": "身",
     "normalizedCharacter": "身",
+    "strokeCount": 7,
+    "radical": "身",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "몸",
@@ -332,6 +413,9 @@
     "grade": 9,
     "character": "心",
     "normalizedCharacter": "心",
+    "strokeCount": 4,
+    "radical": "心",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "마음",
@@ -344,6 +428,9 @@
     "grade": 9,
     "character": "兒",
     "normalizedCharacter": "兒",
+    "strokeCount": 8,
+    "radical": "儿",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "아이",
@@ -356,6 +443,9 @@
     "grade": 9,
     "character": "羊",
     "normalizedCharacter": "羊",
+    "strokeCount": 6,
+    "radical": "羊",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "양",
@@ -368,6 +458,9 @@
     "grade": 9,
     "character": "魚",
     "normalizedCharacter": "魚",
+    "strokeCount": 11,
+    "radical": "魚",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "물고기",
@@ -380,6 +473,9 @@
     "grade": 9,
     "character": "玉",
     "normalizedCharacter": "玉",
+    "strokeCount": 5,
+    "radical": "玉",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "구슬",
@@ -392,6 +488,9 @@
     "grade": 9,
     "character": "王",
     "normalizedCharacter": "王",
+    "strokeCount": 4,
+    "radical": "玉",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "임금",
@@ -404,6 +503,9 @@
     "grade": 9,
     "character": "牛",
     "normalizedCharacter": "牛",
+    "strokeCount": 4,
+    "radical": "牛",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "소",
@@ -416,6 +518,9 @@
     "grade": 9,
     "character": "雨",
     "normalizedCharacter": "雨",
+    "strokeCount": 8,
+    "radical": "雨",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "비",
@@ -428,6 +533,9 @@
     "grade": 9,
     "character": "月",
     "normalizedCharacter": "月",
+    "strokeCount": 4,
+    "radical": "月",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "달",
@@ -440,6 +548,9 @@
     "grade": 9,
     "character": "衣",
     "normalizedCharacter": "衣",
+    "strokeCount": 6,
+    "radical": "衣",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "옷",
@@ -452,6 +563,9 @@
     "grade": 9,
     "character": "人",
     "normalizedCharacter": "人",
+    "strokeCount": 2,
+    "radical": "人",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "사람",
@@ -464,6 +578,9 @@
     "grade": 9,
     "character": "日",
     "normalizedCharacter": "日",
+    "strokeCount": 4,
+    "radical": "日",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "날",
@@ -476,6 +593,9 @@
     "grade": 9,
     "character": "子",
     "normalizedCharacter": "子",
+    "strokeCount": 3,
+    "radical": "子",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "아들",
@@ -488,6 +608,9 @@
     "grade": 9,
     "character": "自",
     "normalizedCharacter": "自",
+    "strokeCount": 6,
+    "radical": "自",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "스스로",
@@ -500,6 +623,9 @@
     "grade": 9,
     "character": "長",
     "normalizedCharacter": "長",
+    "strokeCount": 8,
+    "radical": "長",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "긴",
@@ -512,6 +638,9 @@
     "grade": 9,
     "character": "田",
     "normalizedCharacter": "田",
+    "strokeCount": 5,
+    "radical": "田",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "밭",
@@ -524,6 +653,9 @@
     "grade": 9,
     "character": "足",
     "normalizedCharacter": "足",
+    "strokeCount": 7,
+    "radical": "足",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "발",
@@ -536,6 +668,9 @@
     "grade": 9,
     "character": "主",
     "normalizedCharacter": "主",
+    "strokeCount": 5,
+    "radical": "丶",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "주인",
@@ -552,6 +687,9 @@
     "grade": 9,
     "character": "天",
     "normalizedCharacter": "天",
+    "strokeCount": 4,
+    "radical": "大",
+    "formation": "지사",
     "meanings": [
       {
         "meaning": "하늘",
@@ -564,6 +702,9 @@
     "grade": 9,
     "character": "川",
     "normalizedCharacter": "川",
+    "strokeCount": 3,
+    "radical": "巛",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "내",
@@ -576,6 +717,9 @@
     "grade": 9,
     "character": "土",
     "normalizedCharacter": "土",
+    "strokeCount": 3,
+    "radical": "土",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "흙",
@@ -588,6 +732,9 @@
     "grade": 9,
     "character": "行",
     "normalizedCharacter": "行",
+    "strokeCount": 6,
+    "radical": "行",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "다닐",
@@ -604,6 +751,9 @@
     "grade": 9,
     "character": "火",
     "normalizedCharacter": "火",
+    "strokeCount": 4,
+    "radical": "火",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "불",

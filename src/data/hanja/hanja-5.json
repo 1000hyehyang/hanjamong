@@ -4,6 +4,9 @@
     "grade": 5,
     "character": "歌",
     "normalizedCharacter": "歌",
+    "strokeCount": 14,
+    "radical": "缺",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "노래",
@@ -16,6 +19,9 @@
     "grade": 5,
     "character": "街",
     "normalizedCharacter": "街",
+    "strokeCount": 12,
+    "radical": "行",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "거리",
@@ -28,6 +34,9 @@
     "grade": 5,
     "character": "各",
     "normalizedCharacter": "各",
+    "strokeCount": 6,
+    "radical": "口",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "각각",
@@ -40,6 +49,9 @@
     "grade": 5,
     "character": "干",
     "normalizedCharacter": "干",
+    "strokeCount": 3,
+    "radical": "干",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "방패",
@@ -56,6 +68,9 @@
     "grade": 5,
     "character": "強",
     "normalizedCharacter": "強",
+    "strokeCount": 11,
+    "radical": "弓",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "강할",
@@ -72,6 +87,9 @@
     "grade": 5,
     "character": "個",
     "normalizedCharacter": "個",
+    "strokeCount": 10,
+    "radical": "人",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "낱",
@@ -84,6 +102,9 @@
     "grade": 5,
     "character": "改",
     "normalizedCharacter": "改",
+    "strokeCount": 7,
+    "radical": "攴",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "고칠",
@@ -96,6 +117,9 @@
     "grade": 5,
     "character": "擧",
     "normalizedCharacter": "擧",
+    "strokeCount": 18,
+    "radical": "手",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "들",
@@ -108,6 +132,9 @@
     "grade": 5,
     "character": "犬",
     "normalizedCharacter": "犬",
+    "strokeCount": 4,
+    "radical": "犬",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "개",
@@ -120,6 +147,9 @@
     "grade": 5,
     "character": "谷",
     "normalizedCharacter": "谷",
+    "strokeCount": 7,
+    "radical": "谷",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "골",
@@ -132,6 +162,9 @@
     "grade": 5,
     "character": "骨",
     "normalizedCharacter": "骨",
+    "strokeCount": 10,
+    "radical": "骨",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "뼈",
@@ -144,6 +177,9 @@
     "grade": 5,
     "character": "久",
     "normalizedCharacter": "久",
+    "strokeCount": 3,
+    "radical": "丿",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "오랠",
@@ -156,6 +192,9 @@
     "grade": 5,
     "character": "句",
     "normalizedCharacter": "句",
+    "strokeCount": 5,
+    "radical": "口",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "글귀",
@@ -168,6 +207,9 @@
     "grade": 5,
     "character": "救",
     "normalizedCharacter": "救",
+    "strokeCount": 11,
+    "radical": "攴",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "구원할",
@@ -180,6 +222,9 @@
     "grade": 5,
     "character": "弓",
     "normalizedCharacter": "弓",
+    "strokeCount": 3,
+    "radical": "弓",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "활",
@@ -192,6 +237,9 @@
     "grade": 5,
     "character": "權",
     "normalizedCharacter": "權",
+    "strokeCount": 22,
+    "radical": "木",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "권세",
@@ -204,6 +252,9 @@
     "grade": 5,
     "character": "貴",
     "normalizedCharacter": "貴",
+    "strokeCount": 12,
+    "radical": "貝",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "귀할",
@@ -216,6 +267,9 @@
     "grade": 5,
     "character": "勤",
     "normalizedCharacter": "勤",
+    "strokeCount": 13,
+    "radical": "力",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "부지런할",
@@ -228,6 +282,9 @@
     "grade": 5,
     "character": "根",
     "normalizedCharacter": "根",
+    "strokeCount": 10,
+    "radical": "木",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "뿌리",
@@ -240,6 +297,9 @@
     "grade": 5,
     "character": "禁",
     "normalizedCharacter": "禁",
+    "strokeCount": 13,
+    "radical": "示",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "금할",
@@ -252,6 +312,9 @@
     "grade": 5,
     "character": "其",
     "normalizedCharacter": "其",
+    "strokeCount": 8,
+    "radical": "八",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "그",
@@ -264,6 +327,9 @@
     "grade": 5,
     "character": "起",
     "normalizedCharacter": "起",
+    "strokeCount": 10,
+    "radical": "走",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "일어날",
@@ -276,6 +342,9 @@
     "grade": 5,
     "character": "難",
     "normalizedCharacter": "難",
+    "strokeCount": 19,
+    "radical": "隹",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "어려울",
@@ -288,6 +357,9 @@
     "grade": 5,
     "character": "勞",
     "normalizedCharacter": "勞",
+    "strokeCount": 12,
+    "radical": "力",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "일할",
@@ -304,6 +376,9 @@
     "grade": 5,
     "character": "丹",
     "normalizedCharacter": "丹",
+    "strokeCount": 4,
+    "radical": "丶",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "붉을",
@@ -316,6 +391,9 @@
     "grade": 5,
     "character": "短",
     "normalizedCharacter": "短",
+    "strokeCount": 12,
+    "radical": "矢",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "짧을",
@@ -328,6 +406,9 @@
     "grade": 5,
     "character": "堂",
     "normalizedCharacter": "堂",
+    "strokeCount": 11,
+    "radical": "土",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "집",
@@ -340,6 +421,9 @@
     "grade": 5,
     "character": "代",
     "normalizedCharacter": "代",
+    "strokeCount": 5,
+    "radical": "人",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "대신할",
@@ -352,6 +436,9 @@
     "grade": 5,
     "character": "刀",
     "normalizedCharacter": "刀",
+    "strokeCount": 2,
+    "radical": "刀",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "칼",
@@ -364,6 +451,9 @@
     "grade": 5,
     "character": "獨",
     "normalizedCharacter": "獨",
+    "strokeCount": 16,
+    "radical": "犬",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "홀로",
@@ -376,6 +466,9 @@
     "grade": 5,
     "character": "讀",
     "normalizedCharacter": "讀",
+    "strokeCount": 22,
+    "radical": "言",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "읽을",
@@ -388,6 +481,9 @@
     "grade": 5,
     "character": "斗",
     "normalizedCharacter": "斗",
+    "strokeCount": 4,
+    "radical": "斗",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "말",
@@ -400,6 +496,9 @@
     "grade": 5,
     "character": "豆",
     "normalizedCharacter": "豆",
+    "strokeCount": 7,
+    "radical": "豆",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "콩",
@@ -412,6 +511,9 @@
     "grade": 5,
     "character": "頭",
     "normalizedCharacter": "頭",
+    "strokeCount": 16,
+    "radical": "頁",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "머리",
@@ -424,6 +526,9 @@
     "grade": 5,
     "character": "得",
     "normalizedCharacter": "得",
+    "strokeCount": 11,
+    "radical": "彳",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "얻을",
@@ -436,6 +541,9 @@
     "grade": 5,
     "character": "卵",
     "normalizedCharacter": "卵",
+    "strokeCount": 7,
+    "radical": "卩",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "알",
@@ -448,6 +556,9 @@
     "grade": 5,
     "character": "冷",
     "normalizedCharacter": "冷",
+    "strokeCount": 7,
+    "radical": "冫",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "찰",
@@ -460,6 +571,9 @@
     "grade": 5,
     "character": "良",
     "normalizedCharacter": "良",
+    "strokeCount": 7,
+    "radical": "艮",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "어질",
@@ -476,6 +590,9 @@
     "grade": 5,
     "character": "量",
     "normalizedCharacter": "量",
+    "strokeCount": 12,
+    "radical": "里",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "헤아릴",
@@ -488,6 +605,9 @@
     "grade": 5,
     "character": "歷",
     "normalizedCharacter": "歷",
+    "strokeCount": 16,
+    "radical": "止",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "지낼",
@@ -504,6 +624,9 @@
     "grade": 5,
     "character": "連",
     "normalizedCharacter": "連",
+    "strokeCount": 11,
+    "radical": "辵",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "잇닿을",
@@ -516,6 +639,9 @@
     "grade": 5,
     "character": "列",
     "normalizedCharacter": "列",
+    "strokeCount": 6,
+    "radical": "刀",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "벌일",
@@ -528,6 +654,9 @@
     "grade": 5,
     "character": "留",
     "normalizedCharacter": "留",
+    "strokeCount": 10,
+    "radical": "田",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "머무를",
@@ -540,6 +669,9 @@
     "grade": 5,
     "character": "陸",
     "normalizedCharacter": "陸",
+    "strokeCount": 11,
+    "radical": "阜",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "뭍",
@@ -552,6 +684,9 @@
     "grade": 5,
     "character": "滿",
     "normalizedCharacter": "滿",
+    "strokeCount": 14,
+    "radical": "水",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "찰",
@@ -564,6 +699,9 @@
     "grade": 5,
     "character": "望",
     "normalizedCharacter": "望",
+    "strokeCount": 11,
+    "radical": "月",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "바랄",
@@ -576,6 +714,9 @@
     "grade": 5,
     "character": "賣",
     "normalizedCharacter": "賣",
+    "strokeCount": 15,
+    "radical": "貝",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "팔",
@@ -588,6 +729,9 @@
     "grade": 5,
     "character": "勉",
     "normalizedCharacter": "勉",
+    "strokeCount": 9,
+    "radical": "力",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "힘쓸",
@@ -600,6 +744,9 @@
     "grade": 5,
     "character": "務",
     "normalizedCharacter": "務",
+    "strokeCount": 11,
+    "radical": "力",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "힘쓸",
@@ -612,6 +759,9 @@
     "grade": 5,
     "character": "舞",
     "normalizedCharacter": "舞",
+    "strokeCount": 14,
+    "radical": "舛",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "춤출",
@@ -624,6 +774,9 @@
     "grade": 5,
     "character": "味",
     "normalizedCharacter": "味",
+    "strokeCount": 8,
+    "radical": "口",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "맛",
@@ -636,6 +789,9 @@
     "grade": 5,
     "character": "米",
     "normalizedCharacter": "米",
+    "strokeCount": 6,
+    "radical": "米",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "쌀",
@@ -648,6 +804,9 @@
     "grade": 5,
     "character": "密",
     "normalizedCharacter": "密",
+    "strokeCount": 11,
+    "radical": "宀",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "빽빽할",
@@ -660,6 +819,9 @@
     "grade": 5,
     "character": "訪",
     "normalizedCharacter": "訪",
+    "strokeCount": 11,
+    "radical": "言",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "찾을",
@@ -672,6 +834,9 @@
     "grade": 5,
     "character": "防",
     "normalizedCharacter": "防",
+    "strokeCount": 7,
+    "radical": "阜",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "막을",
@@ -684,6 +849,9 @@
     "grade": 5,
     "character": "拜",
     "normalizedCharacter": "拜",
+    "strokeCount": 9,
+    "radical": "手",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "절",
@@ -696,6 +864,9 @@
     "grade": 5,
     "character": "變",
     "normalizedCharacter": "變",
+    "strokeCount": 23,
+    "radical": "言",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "변할",
@@ -708,6 +879,9 @@
     "grade": 5,
     "character": "飛",
     "normalizedCharacter": "飛",
+    "strokeCount": 9,
+    "radical": "飛",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "날",
@@ -720,6 +894,9 @@
     "grade": 5,
     "character": "氷",
     "normalizedCharacter": "氷",
+    "strokeCount": 5,
+    "radical": "水",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "얼음",
@@ -732,6 +909,9 @@
     "grade": 5,
     "character": "使",
     "normalizedCharacter": "使",
+    "strokeCount": 8,
+    "radical": "人",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "부릴",
@@ -748,6 +928,9 @@
     "grade": 5,
     "character": "寺",
     "normalizedCharacter": "寺",
+    "strokeCount": 6,
+    "radical": "寸",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "절",
@@ -760,6 +943,9 @@
     "grade": 5,
     "character": "射",
     "normalizedCharacter": "射",
+    "strokeCount": 10,
+    "radical": "寸",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "쏠",
@@ -772,6 +958,9 @@
     "grade": 5,
     "character": "殺",
     "normalizedCharacter": "殺",
+    "strokeCount": 11,
+    "radical": "殳",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "죽일",
@@ -792,6 +981,9 @@
     "grade": 5,
     "character": "尙",
     "normalizedCharacter": "尙",
+    "strokeCount": 8,
+    "radical": "小",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "오히려",
@@ -804,6 +996,9 @@
     "grade": 5,
     "character": "仙",
     "normalizedCharacter": "仙",
+    "strokeCount": 5,
+    "radical": "人",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "신선",
@@ -816,6 +1011,9 @@
     "grade": 5,
     "character": "善",
     "normalizedCharacter": "善",
+    "strokeCount": 12,
+    "radical": "口",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "착할",
@@ -828,6 +1026,9 @@
     "grade": 5,
     "character": "聲",
     "normalizedCharacter": "聲",
+    "strokeCount": 17,
+    "radical": "耳",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "소리",
@@ -840,6 +1041,9 @@
     "grade": 5,
     "character": "勢",
     "normalizedCharacter": "勢",
+    "strokeCount": 13,
+    "radical": "力",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "권세",
@@ -852,6 +1056,9 @@
     "grade": 5,
     "character": "速",
     "normalizedCharacter": "速",
+    "strokeCount": 11,
+    "radical": "辵",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "빠를",
@@ -864,6 +1071,9 @@
     "grade": 5,
     "character": "送",
     "normalizedCharacter": "送",
+    "strokeCount": 10,
+    "radical": "辵",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "보낼",
@@ -876,6 +1086,9 @@
     "grade": 5,
     "character": "授",
     "normalizedCharacter": "授",
+    "strokeCount": 11,
+    "radical": "手",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "줄",
@@ -888,6 +1101,9 @@
     "grade": 5,
     "character": "勝",
     "normalizedCharacter": "勝",
+    "strokeCount": 12,
+    "radical": "力",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "이길",
@@ -900,6 +1116,9 @@
     "grade": 5,
     "character": "施",
     "normalizedCharacter": "施",
+    "strokeCount": 9,
+    "radical": "方",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "베풀",
@@ -912,6 +1131,9 @@
     "grade": 5,
     "character": "視",
     "normalizedCharacter": "視",
+    "strokeCount": 12,
+    "radical": "見",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "볼",
@@ -924,6 +1146,9 @@
     "grade": 5,
     "character": "識",
     "normalizedCharacter": "識",
+    "strokeCount": 19,
+    "radical": "言",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "알",
@@ -944,6 +1169,9 @@
     "grade": 5,
     "character": "新",
     "normalizedCharacter": "新",
+    "strokeCount": 13,
+    "radical": "斤",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "새",
@@ -956,6 +1184,9 @@
     "grade": 5,
     "character": "氏",
     "normalizedCharacter": "氏",
+    "strokeCount": 4,
+    "radical": "氏",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "성",
@@ -972,6 +1203,9 @@
     "grade": 5,
     "character": "愛",
     "normalizedCharacter": "愛",
+    "strokeCount": 13,
+    "radical": "心",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "사랑",
@@ -984,6 +1218,9 @@
     "grade": 5,
     "character": "夜",
     "normalizedCharacter": "夜",
+    "strokeCount": 8,
+    "radical": "夕",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "밤",
@@ -996,6 +1233,9 @@
     "grade": 5,
     "character": "弱",
     "normalizedCharacter": "弱",
+    "strokeCount": 10,
+    "radical": "弓",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "약할",
@@ -1008,6 +1248,9 @@
     "grade": 5,
     "character": "若",
     "normalizedCharacter": "若",
+    "strokeCount": 9,
+    "radical": "艸",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "같을",
@@ -1024,6 +1267,9 @@
     "grade": 5,
     "character": "漁",
     "normalizedCharacter": "漁",
+    "strokeCount": 14,
+    "radical": "水",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "고기 잡을",
@@ -1036,6 +1282,9 @@
     "grade": 5,
     "character": "易",
     "normalizedCharacter": "易",
+    "strokeCount": 8,
+    "radical": "日",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "바꿀",
@@ -1052,6 +1301,9 @@
     "grade": 5,
     "character": "逆",
     "normalizedCharacter": "逆",
+    "strokeCount": 10,
+    "radical": "辵",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "거스를",
@@ -1064,6 +1316,9 @@
     "grade": 5,
     "character": "然",
     "normalizedCharacter": "然",
+    "strokeCount": 12,
+    "radical": "火",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "그러할",
@@ -1080,6 +1335,9 @@
     "grade": 5,
     "character": "硏",
     "normalizedCharacter": "硏",
+    "strokeCount": 11,
+    "radical": "石",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "갈",
@@ -1092,6 +1350,9 @@
     "grade": 5,
     "character": "榮",
     "normalizedCharacter": "榮",
+    "strokeCount": 14,
+    "radical": "木",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "꽃",
@@ -1104,6 +1365,9 @@
     "grade": 5,
     "character": "藝",
     "normalizedCharacter": "藝",
+    "strokeCount": 19,
+    "radical": "艸",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "재주",
@@ -1116,6 +1380,9 @@
     "grade": 5,
     "character": "烏",
     "normalizedCharacter": "烏",
+    "strokeCount": 10,
+    "radical": "火",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "까마귀",
@@ -1128,6 +1395,9 @@
     "grade": 5,
     "character": "屋",
     "normalizedCharacter": "屋",
+    "strokeCount": 9,
+    "radical": "尸",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "집",
@@ -1140,6 +1410,9 @@
     "grade": 5,
     "character": "溫",
     "normalizedCharacter": "溫",
+    "strokeCount": 13,
+    "radical": "水",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "따뜻할",
@@ -1152,6 +1425,9 @@
     "grade": 5,
     "character": "往",
     "normalizedCharacter": "往",
+    "strokeCount": 8,
+    "radical": "彳",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "갈",
@@ -1164,6 +1440,9 @@
     "grade": 5,
     "character": "浴",
     "normalizedCharacter": "浴",
+    "strokeCount": 10,
+    "radical": "水",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "목욕할",
@@ -1176,6 +1455,9 @@
     "grade": 5,
     "character": "勇",
     "normalizedCharacter": "勇",
+    "strokeCount": 9,
+    "radical": "力",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "날랠",
@@ -1188,6 +1470,9 @@
     "grade": 5,
     "character": "宇",
     "normalizedCharacter": "宇",
+    "strokeCount": 6,
+    "radical": "宀",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "집",
@@ -1200,6 +1485,9 @@
     "grade": 5,
     "character": "雄",
     "normalizedCharacter": "雄",
+    "strokeCount": 12,
+    "radical": "隹",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "수컷",
@@ -1212,6 +1500,9 @@
     "grade": 5,
     "character": "遠",
     "normalizedCharacter": "遠",
+    "strokeCount": 14,
+    "radical": "辵",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "멀",
@@ -1224,6 +1515,9 @@
     "grade": 5,
     "character": "願",
     "normalizedCharacter": "願",
+    "strokeCount": 19,
+    "radical": "頁",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "원할",
@@ -1236,6 +1530,9 @@
     "grade": 5,
     "character": "爲",
     "normalizedCharacter": "爲",
+    "strokeCount": 12,
+    "radical": "爪",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "할",
@@ -1248,6 +1545,9 @@
     "grade": 5,
     "character": "遺",
     "normalizedCharacter": "遺",
+    "strokeCount": 16,
+    "radical": "辵",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "끼칠",
@@ -1268,6 +1568,9 @@
     "grade": 5,
     "character": "飮",
     "normalizedCharacter": "飮",
+    "strokeCount": 13,
+    "radical": "食",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "마실",
@@ -1280,6 +1583,9 @@
     "grade": 5,
     "character": "以",
     "normalizedCharacter": "以",
+    "strokeCount": 5,
+    "radical": "人",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "써",
@@ -1292,6 +1598,9 @@
     "grade": 5,
     "character": "仁",
     "normalizedCharacter": "仁",
+    "strokeCount": 4,
+    "radical": "人",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "어질",
@@ -1304,6 +1613,9 @@
     "grade": 5,
     "character": "將",
     "normalizedCharacter": "將",
+    "strokeCount": 11,
+    "radical": "寸",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "장수",
@@ -1320,6 +1632,9 @@
     "grade": 5,
     "character": "章",
     "normalizedCharacter": "章",
+    "strokeCount": 11,
+    "radical": "立",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "글",
@@ -1332,6 +1647,9 @@
     "grade": 5,
     "character": "貯",
     "normalizedCharacter": "貯",
+    "strokeCount": 12,
+    "radical": "貝",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "쌓을",
@@ -1344,6 +1662,9 @@
     "grade": 5,
     "character": "店",
     "normalizedCharacter": "店",
+    "strokeCount": 8,
+    "radical": "广",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "가게",
@@ -1356,6 +1677,9 @@
     "grade": 5,
     "character": "第",
     "normalizedCharacter": "第",
+    "strokeCount": 11,
+    "radical": "竹",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "차례",
@@ -1368,6 +1692,9 @@
     "grade": 5,
     "character": "製",
     "normalizedCharacter": "製",
+    "strokeCount": 14,
+    "radical": "衣",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "지을",
@@ -1380,6 +1707,9 @@
     "grade": 5,
     "character": "兆",
     "normalizedCharacter": "兆",
+    "strokeCount": 6,
+    "radical": "儿",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "조짐",
@@ -1396,6 +1726,9 @@
     "grade": 5,
     "character": "助",
     "normalizedCharacter": "助",
+    "strokeCount": 7,
+    "radical": "力",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "도울",
@@ -1408,6 +1741,9 @@
     "grade": 5,
     "character": "早",
     "normalizedCharacter": "早",
+    "strokeCount": 6,
+    "radical": "日",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "이를",
@@ -1420,6 +1756,9 @@
     "grade": 5,
     "character": "造",
     "normalizedCharacter": "造",
+    "strokeCount": 11,
+    "radical": "辵",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "이를",
@@ -1436,6 +1775,9 @@
     "grade": 5,
     "character": "存",
     "normalizedCharacter": "存",
+    "strokeCount": 6,
+    "radical": "子",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "있을",
@@ -1448,6 +1790,9 @@
     "grade": 5,
     "character": "卒",
     "normalizedCharacter": "卒",
+    "strokeCount": 8,
+    "radical": "十",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "군사",
@@ -1464,6 +1809,9 @@
     "grade": 5,
     "character": "罪",
     "normalizedCharacter": "罪",
+    "strokeCount": 13,
+    "radical": "网",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "허물",
@@ -1476,6 +1824,9 @@
     "grade": 5,
     "character": "宙",
     "normalizedCharacter": "宙",
+    "strokeCount": 8,
+    "radical": "宀",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "집",
@@ -1488,6 +1839,9 @@
     "grade": 5,
     "character": "晝",
     "normalizedCharacter": "晝",
+    "strokeCount": 11,
+    "radical": "日",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "낮",
@@ -1500,6 +1854,9 @@
     "grade": 5,
     "character": "走",
     "normalizedCharacter": "走",
+    "strokeCount": 7,
+    "radical": "走",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "달릴",
@@ -1512,6 +1869,9 @@
     "grade": 5,
     "character": "衆",
     "normalizedCharacter": "衆",
+    "strokeCount": 12,
+    "radical": "血",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "무리",
@@ -1524,6 +1884,9 @@
     "grade": 5,
     "character": "增",
     "normalizedCharacter": "增",
+    "strokeCount": 15,
+    "radical": "土",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "더할",
@@ -1536,6 +1899,9 @@
     "grade": 5,
     "character": "支",
     "normalizedCharacter": "支",
+    "strokeCount": 4,
+    "radical": "支",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "지탱할",
@@ -1552,6 +1918,9 @@
     "grade": 5,
     "character": "着",
     "normalizedCharacter": "着",
+    "strokeCount": 12,
+    "radical": "目",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "붙을",
@@ -1564,6 +1933,9 @@
     "grade": 5,
     "character": "唱",
     "normalizedCharacter": "唱",
+    "strokeCount": 11,
+    "radical": "口",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "노래할",
@@ -1580,6 +1952,9 @@
     "grade": 5,
     "character": "窓",
     "normalizedCharacter": "窓",
+    "strokeCount": 11,
+    "radical": "穴",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "창",
@@ -1592,6 +1967,9 @@
     "grade": 5,
     "character": "責",
     "normalizedCharacter": "責",
+    "strokeCount": 11,
+    "radical": "貝",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "꾸짖을",
@@ -1608,6 +1986,9 @@
     "grade": 5,
     "character": "處",
     "normalizedCharacter": "處",
+    "strokeCount": 11,
+    "radical": "虍",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "곳",
@@ -1620,6 +2001,9 @@
     "grade": 5,
     "character": "最",
     "normalizedCharacter": "最",
+    "strokeCount": 12,
+    "radical": "曰",
+    "formation": "회의",
     "meanings": [
       {
         "meaning": "가장",
@@ -1632,6 +2016,9 @@
     "grade": 5,
     "character": "追",
     "normalizedCharacter": "追",
+    "strokeCount": 10,
+    "radical": "辵",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "쫓을",
@@ -1648,6 +2035,9 @@
     "grade": 5,
     "character": "春",
     "normalizedCharacter": "春",
+    "strokeCount": 9,
+    "radical": "日",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "봄",
@@ -1660,6 +2050,9 @@
     "grade": 5,
     "character": "快",
     "normalizedCharacter": "快",
+    "strokeCount": 7,
+    "radical": "心",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "쾌할",
@@ -1672,6 +2065,9 @@
     "grade": 5,
     "character": "打",
     "normalizedCharacter": "打",
+    "strokeCount": 5,
+    "radical": "手",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "칠",
@@ -1684,6 +2080,9 @@
     "grade": 5,
     "character": "退",
     "normalizedCharacter": "退",
+    "strokeCount": 10,
+    "radical": "辵",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "물러날",
@@ -1696,6 +2095,9 @@
     "grade": 5,
     "character": "判",
     "normalizedCharacter": "判",
+    "strokeCount": 7,
+    "radical": "刀",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "판단할",
@@ -1708,6 +2110,9 @@
     "grade": 5,
     "character": "敗",
     "normalizedCharacter": "敗",
+    "strokeCount": 11,
+    "radical": "攴",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "패할",
@@ -1720,6 +2125,9 @@
     "grade": 5,
     "character": "貝",
     "normalizedCharacter": "貝",
+    "strokeCount": 7,
+    "radical": "貝",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "조개",
@@ -1732,6 +2140,9 @@
     "grade": 5,
     "character": "皮",
     "normalizedCharacter": "皮",
+    "strokeCount": 5,
+    "radical": "皮",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "가죽",
@@ -1744,6 +2155,9 @@
     "grade": 5,
     "character": "河",
     "normalizedCharacter": "河",
+    "strokeCount": 8,
+    "radical": "水",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "물",
@@ -1756,6 +2170,9 @@
     "grade": 5,
     "character": "限",
     "normalizedCharacter": "限",
+    "strokeCount": 9,
+    "radical": "阜",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "한정할",
@@ -1768,6 +2185,9 @@
     "grade": 5,
     "character": "害",
     "normalizedCharacter": "害",
+    "strokeCount": 10,
+    "radical": "宀",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "해칠",
@@ -1784,6 +2204,9 @@
     "grade": 5,
     "character": "革",
     "normalizedCharacter": "革",
+    "strokeCount": 9,
+    "radical": "革",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "가죽",
@@ -1796,6 +2219,9 @@
     "grade": 5,
     "character": "協",
     "normalizedCharacter": "協",
+    "strokeCount": 8,
+    "radical": "十",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "화할",
@@ -1812,6 +2238,9 @@
     "grade": 5,
     "character": "好",
     "normalizedCharacter": "好",
+    "strokeCount": 6,
+    "radical": "女",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "좋을",
@@ -1824,6 +2253,9 @@
     "grade": 5,
     "character": "湖",
     "normalizedCharacter": "湖",
+    "strokeCount": 12,
+    "radical": "水",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "호수",
@@ -1836,6 +2268,9 @@
     "grade": 5,
     "character": "虎",
     "normalizedCharacter": "虎",
+    "strokeCount": 8,
+    "radical": "虍",
+    "formation": "상형",
     "meanings": [
       {
         "meaning": "범",
@@ -1848,6 +2283,9 @@
     "grade": 5,
     "character": "婚",
     "normalizedCharacter": "婚",
+    "strokeCount": 11,
+    "radical": "女",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "혼인할",
@@ -1860,6 +2298,9 @@
     "grade": 5,
     "character": "貨",
     "normalizedCharacter": "貨",
+    "strokeCount": 11,
+    "radical": "貝",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "재화",
@@ -1876,6 +2317,9 @@
     "grade": 5,
     "character": "患",
     "normalizedCharacter": "患",
+    "strokeCount": 11,
+    "radical": "心",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "근심",
@@ -1888,6 +2332,9 @@
     "grade": 5,
     "character": "皇",
     "normalizedCharacter": "皇",
+    "strokeCount": 9,
+    "radical": "白",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "임금",
@@ -1900,6 +2347,9 @@
     "grade": 5,
     "character": "凶",
     "normalizedCharacter": "凶",
+    "strokeCount": 4,
+    "radical": "凵",
+    "formation": "형성",
     "meanings": [
       {
         "meaning": "흉할",
