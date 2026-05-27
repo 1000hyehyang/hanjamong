@@ -8,6 +8,8 @@ import {
 } from "react";
 import {
   addWrongQuestion,
+  clearAllHanjaBookmarks,
+  clearAllWrongQuestions,
   loadAppStorage,
   removeWrongQuestion,
   saveAppStorage,
@@ -20,6 +22,8 @@ interface AppStorageContextValue {
   toggleBookmark: (hanjaId: string) => void;
   markQuestionWrong: (questionId: string) => void;
   removeWrong: (questionId: string) => void;
+  clearAllWrong: () => void;
+  clearAllBookmarks: () => void;
   isBookmarked: (hanjaId: string) => boolean;
 }
 
@@ -57,6 +61,14 @@ export function AppStorageProvider({ children }: { children: ReactNode }) {
     [commit],
   );
 
+  const clearAllWrong = useCallback(() => {
+    commit(clearAllWrongQuestions);
+  }, [commit]);
+
+  const clearAllBookmarks = useCallback(() => {
+    commit(clearAllHanjaBookmarks);
+  }, [commit]);
+
   const isBookmarked = useCallback(
     (hanjaId: string) => storage.bookmarks.hanja.includes(hanjaId),
     [storage.bookmarks.hanja],
@@ -68,9 +80,19 @@ export function AppStorageProvider({ children }: { children: ReactNode }) {
       toggleBookmark,
       markQuestionWrong,
       removeWrong,
+      clearAllWrong,
+      clearAllBookmarks,
       isBookmarked,
     }),
-    [storage, toggleBookmark, markQuestionWrong, removeWrong, isBookmarked],
+    [
+      storage,
+      toggleBookmark,
+      markQuestionWrong,
+      removeWrong,
+      clearAllWrong,
+      clearAllBookmarks,
+      isBookmarked,
+    ],
   );
 
   return (

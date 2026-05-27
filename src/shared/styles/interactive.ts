@@ -53,7 +53,7 @@ export const pressableFlashCard =
   "cursor-pointer transition-all hover:-translate-y-1 hover:border-[#d9d9d9] hover:shadow-md active:translate-y-0 active:shadow-sm";
 
 export const pressableBookmarkTile =
-  "transition-all hover:-translate-y-0.5 hover:border-[#d9d9d9] hover:bg-page hover:shadow-sm active:translate-y-[1px] active:border-b-2";
+  "cursor-pointer transition-all hover:-translate-y-0.5 hover:border-[#d9d9d9] hover:bg-page hover:shadow-sm active:translate-y-[1px] active:border-b-2";
 
 export const pressableIconButton =
   "cursor-pointer transition-all hover:-translate-y-0.5 hover:bg-page hover:text-green active:translate-y-0";

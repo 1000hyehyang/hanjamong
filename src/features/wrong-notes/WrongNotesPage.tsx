@@ -23,7 +23,7 @@ const QUESTION_TYPE_ORDER: QuestionType[] = [
 
 export function WrongNotesPage() {
   const navigate = useNavigate();
-  const { storage, removeWrong } = useAppStorage();
+  const { storage, removeWrong, clearAllWrong } = useAppStorage();
   const [typeFilter, setTypeFilter] = useState<QuestionType | "all">("all");
 
   const wrongQuestions = useMemo(
@@ -65,10 +65,19 @@ export function WrongNotesPage() {
     <Screen
       footerAboveNav
       footer={
-        filteredQuestions.length > 0 ? (
-          <Button fullWidth onClick={handleRetry}>
-            {typeFilter === "all" ? "전체 다시 풀기" : "이 유형 다시 풀기"}
-          </Button>
+        wrongQuestions.length > 0 ? (
+          <div className="space-y-3">
+            <Button
+              fullWidth
+              onClick={handleRetry}
+              disabled={filteredQuestions.length === 0}
+            >
+              {typeFilter === "all" ? "전체 다시 풀기" : "이 유형 다시 풀기"}
+            </Button>
+            <Button variant="secondary" fullWidth onClick={clearAllWrong}>
+              오답 노트 비우기
+            </Button>
+          </div>
         ) : undefined
       }
     >

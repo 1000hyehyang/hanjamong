@@ -128,6 +128,31 @@ export function removeWrongQuestion(
   };
 }
 
+export function clearAllWrongQuestions(storage: AppStorage): AppStorage {
+  if (storage.wrongQuestions.length === 0) {
+    return storage;
+  }
+
+  return {
+    ...storage,
+    wrongQuestions: [],
+  };
+}
+
+export function clearAllHanjaBookmarks(storage: AppStorage): AppStorage {
+  if (storage.bookmarks.hanja.length === 0) {
+    return storage;
+  }
+
+  return {
+    ...storage,
+    bookmarks: {
+      ...storage.bookmarks,
+      hanja: [],
+    },
+  };
+}
+
 export function clearAllStorage(): AppStorage {
   saveAppStorage({ ...DEFAULT_STORAGE });
   return { ...DEFAULT_STORAGE };

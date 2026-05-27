@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { getHanjaById, grades } from "../../data";
 import { Button } from "../../shared/components/Button";
 import { EmptyState } from "../../shared/components/EmptyState";
@@ -13,7 +13,9 @@ import type { HanjaEntry } from "../../shared/types/hanja";
 import { buildBookmarkReviewPath } from "../learn/learn-paths";
 
 export function BookmarksPage() {
-  const { storage, toggleBookmark, isBookmarked } = useAppStorage();
+  const navigate = useNavigate();
+  const { storage, toggleBookmark, isBookmarked, clearAllBookmarks } =
+    useAppStorage();
   const [gradeFilter, setGradeFilter] = useState<number | "all">("all");
 
   const bookmarkedEntries = useMemo(() => {
@@ -29,10 +31,20 @@ export function BookmarksPage() {
     <Screen
       footerAboveNav
       footer={
-        bookmarkedEntries.length > 0 ? (
-          <Link className="block w-full" to={buildBookmarkReviewPath(undefined, gradeFilter)}>
-            <Button fullWidth>복습하기</Button>
-          </Link>
+        storage.bookmarks.hanja.length > 0 ? (
+          <div className="space-y-3">
+            <Link
+              className="block w-full"
+              to={buildBookmarkReviewPath(undefined, gradeFilter)}
+            >
+              <Button fullWidth disabled={bookmarkedEntries.length === 0}>
+                복습하기
+              </Button>
+            </Link>
+            <Button variant="secondary" fullWidth onClick={clearAllBookmarks}>
+              별표 모두 해제
+            </Button>
+          </div>
         ) : undefined
       }
     >
@@ -70,9 +82,20 @@ export function BookmarksPage() {
         />
       ) : (
         <div className="grid grid-cols-2 gap-3">
-          {bookmarkedEntries.map((entry) => (
+          {bookmarkedEntries.map((entry, entryIndex) => (
             <div
               key={entry.id}
+              role="button"
+              tabIndex={0}
+              onClick={() =>
+                navigate(buildBookmarkReviewPath(entryIndex, gradeFilter))
+              }
+              onKeyDown={(event) => {
+                if (event.key === "Enter" || event.key === " ") {
+                  event.preventDefault();
+                  navigate(buildBookmarkReviewPath(entryIndex, gradeFilter));
+                }
+              }}
               className={`rounded-2xl border-2 border-b-4 border-border bg-surface p-4 ${pressableBookmarkTile}`}
             >
               <div className="flex items-start justify-between gap-2">

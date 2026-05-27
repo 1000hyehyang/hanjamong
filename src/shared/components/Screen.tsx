@@ -1,4 +1,4 @@
-import type { ReactNode } from "react";
+import { useLayoutEffect, useRef, useState, type ReactNode } from "react";
 import { Icon } from "./icons/Icon";
 import { pressableIconButton } from "../styles/interactive";
 
@@ -19,20 +19,59 @@ export function Screen({
   footerAboveNav = false,
   footerPlain = false,
 }: ScreenProps) {
+  const fixedFooterRef = useRef<HTMLDivElement>(null);
+  const [fixedFooterHeight, setFixedFooterHeight] = useState<number | null>(null);
+
+  useLayoutEffect(() => {
+    if (!footerAboveNav || !footer) {
+      setFixedFooterHeight(null);
+      return;
+    }
+
+    const node = fixedFooterRef.current;
+    if (!node) {
+      return;
+    }
+
+    const updateHeight = () => {
+      setFixedFooterHeight(node.getBoundingClientRect().height);
+    };
+
+    updateHeight();
+    const observer = new ResizeObserver(updateHeight);
+    observer.observe(node);
+    return () => observer.disconnect();
+  }, [footer, footerAboveNav]);
+
   const contentPadding = noPadding
     ? ""
     : footerAboveNav
-      ? "px-4 pt-2 pb-[calc(var(--app-action-footer-height)+var(--app-tab-bar-height)+var(--app-tab-bar-gap)+env(safe-area-inset-bottom))]"
+      ? "px-4 pt-2"
       : "px-4 pt-2 pb-[calc(var(--app-tab-bar-height)+var(--app-tab-bar-gap)+env(safe-area-inset-bottom))]";
+
+  const contentStyle =
+    !noPadding && footerAboveNav
+      ? {
+          ["--measured-footer-height" as string]: fixedFooterHeight
+            ? `${fixedFooterHeight}px`
+            : "var(--app-action-footer-height)",
+          paddingBottom:
+            "calc(var(--measured-footer-height) + var(--app-tab-bar-height) + var(--app-tab-bar-gap) + env(safe-area-inset-bottom))",
+        }
+      : undefined;
 
   return (
     <div className={`flex flex-col bg-surface ${className}`}>
-      <div className={["min-w-0 flex-1", contentPadding].filter(Boolean).join(" ")}>
+      <div
+        className={["min-w-0 flex-1", contentPadding].filter(Boolean).join(" ")}
+        style={contentStyle}
+      >
         {children}
       </div>
       {footer ? (
         footerAboveNav ? (
           <div
+            ref={fixedFooterRef}
             className={[
               "fixed inset-x-0 bottom-[calc(var(--app-tab-bar-height)+env(safe-area-inset-bottom))] z-30 mx-auto w-full max-w-[420px] border-t-2 border-border bg-surface px-4 py-4 [&>*]:w-full [&_a]:block",
               footerPlain ? "" : "",
