@@ -1,11 +1,12 @@
 import { getEffectiveVolume } from "./sound-settings";
 
-export type SoundEffect = "click" | "correct" | "error";
+export type SoundEffect = "click" | "correct" | "error" | "sessionFinish";
 
 const SOUND_SRC: Record<SoundEffect, string> = {
   click: "/sounds/click.mp3",
   correct: "/sounds/correct.mp3",
   error: "/sounds/error.mp3",
+  sessionFinish: "/sounds/session-finish.mp3",
 };
 
 const audioCache = new Map<SoundEffect, HTMLAudioElement>();

@@ -197,13 +197,13 @@ export function QuizSessionPage() {
   };
 
   const handleContinue = () => {
-    playSound("click");
-
     if (currentIndex + 1 >= questions.length) {
+      playSound("sessionFinish");
       setFinished(true);
       return;
     }
 
+    playSound("click");
     setCurrentIndex((prev) => prev + 1);
     setSelectedIndex(null);
   };
