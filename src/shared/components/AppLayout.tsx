@@ -9,6 +9,7 @@ const navItems: { to: string; label: string; icon: IconName }[] = [
   { to: "/quiz", label: "문제", icon: "pencil" },
   { to: "/bookmarks", label: "별표", icon: "star" },
   { to: "/wrong", label: "오답", icon: "clipboard" },
+  { to: "/concepts", label: "개념", icon: "lightbulb" },
 ];
 
 function isSessionRoute(pathname: string): boolean {
@@ -45,7 +46,7 @@ export function AppLayout() {
 
         {!hideNav ? (
           <nav className="fixed inset-x-0 bottom-0 z-40 mx-auto max-w-[420px] border-t-2 border-border bg-surface pb-[env(safe-area-inset-bottom)]">
-            <div className="grid grid-cols-4">
+            <div className="grid grid-cols-5">
               {navItems.map((item) => (
                 <NavLink
                   key={item.to}

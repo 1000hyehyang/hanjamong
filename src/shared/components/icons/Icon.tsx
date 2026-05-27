@@ -24,7 +24,8 @@ export type IconName =
   | "settings"
   | "megaphone"
   | "volume-2"
-  | "volume-x";
+  | "volume-x"
+  | "lightbulb";
 
 interface IconProps extends Omit<SVGProps<SVGSVGElement>, "name"> {
   name: IconName;
@@ -195,6 +196,16 @@ export function Icon({ name, size = 24, className = "", ...props }: IconProps) {
           <path d="M11 5 6 9H3v6h3l5 4V5Z" {...pathProps} />
           <path d="m16 9 5 5" {...pathProps} />
           <path d="m21 9-5 5" {...pathProps} />
+        </>
+      )}
+      {name === "lightbulb" && (
+        <>
+          <path d="M9 18h6" {...pathProps} />
+          <path d="M10 22h4" {...pathProps} />
+          <path
+            d="M12 2a6 6 0 0 0-3 11.2V16h6v-2.8A6 6 0 0 0 12 2Z"
+            {...pathProps}
+          />
         </>
       )}
     </svg>

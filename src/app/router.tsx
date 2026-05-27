@@ -8,6 +8,9 @@ import { QuizSelectPage } from "../features/quiz/QuizSelectPage";
 import { QuizSessionPage } from "../features/quiz/QuizSessionPage";
 import { QuizTypeSelectPage } from "../features/quiz/QuizTypeSelectPage";
 import { WrongNotesPage } from "../features/wrong-notes/WrongNotesPage";
+import { ConceptsSelectPage } from "../features/concepts/ConceptsSelectPage";
+import { FormationPage } from "../features/concepts/FormationPage";
+import { StrokeOrderPage } from "../features/concepts/StrokeOrderPage";
 
 export const router = createBrowserRouter([
   {
@@ -23,6 +26,9 @@ export const router = createBrowserRouter([
       { path: "/quiz/:grade/:type", element: <QuizSessionPage /> },
       { path: "/bookmarks", element: <BookmarksPage /> },
       { path: "/wrong", element: <WrongNotesPage /> },
+      { path: "/concepts", element: <ConceptsSelectPage /> },
+      { path: "/concepts/stroke-order", element: <StrokeOrderPage /> },
+      { path: "/concepts/formation", element: <FormationPage /> },
     ],
   },
 ]);
