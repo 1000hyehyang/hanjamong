@@ -17,7 +17,7 @@ import {
   QUESTION_TYPE_LABELS,
   type QuestionType,
 } from "../../shared/types/quiz";
-import { getChoiceHints } from "../../shared/utils/choice-hints";
+import { shuffleQuestionChoices } from "../../shared/utils/shuffle-question-choices";
 import { shuffle } from "../../shared/utils/shuffle";
 import { playSound } from "../../shared/sounds/play-sound";
 
@@ -47,6 +47,11 @@ function getChoiceState(
   return "muted";
 }
 
+function getSessionScore(correctCount: number, questionCount: number): number {
+  if (questionCount === 0) return 0;
+  return Math.round((correctCount / questionCount) * 100);
+}
+
 export function QuizSessionPage() {
   const { grade: gradeParam, type } = useParams<{ grade?: string; type?: string }>();
   const location = useLocation();
@@ -70,13 +75,19 @@ export function QuizSessionPage() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
   const [correctCount, setCorrectCount] = useState(0);
-  const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
+  const [attemptKey, setAttemptKey] = useState(0);
+
+  const sessionScore = getSessionScore(correctCount, questions.length);
 
   const currentQuestion = questions[currentIndex];
+  const shuffledChoices = useMemo(() => {
+    if (!currentQuestion) return null;
+    return shuffleQuestionChoices(currentQuestion);
+  }, [attemptKey, currentQuestion]);
   const isAnswered = selectedIndex !== null;
   const isCorrect =
-    isAnswered && selectedIndex === currentQuestion?.answerIndex;
+    isAnswered && selectedIndex === shuffledChoices?.answerIndex;
 
   if (
     !isReview &&
@@ -131,8 +142,8 @@ export function QuizSessionPage() {
                 setCurrentIndex(0);
                 setSelectedIndex(null);
                 setCorrectCount(0);
-                setScore(0);
                 setFinished(false);
+                setAttemptKey((prev) => prev + 1);
               }}
             >
               다시 풀기
@@ -160,7 +171,7 @@ export function QuizSessionPage() {
           <h1 className="mt-6 text-3xl font-extrabold text-text-primary">
             세션 완료!
           </h1>
-          <p className="mt-6 text-4xl font-extrabold text-grapefruit">{score}점</p>
+          <p className="mt-6 text-4xl font-extrabold text-grapefruit">{sessionScore}점</p>
           <p className="mt-3 text-lg font-bold text-text-secondary">
             {correctCount} / {questions.length}
           </p>
@@ -170,16 +181,15 @@ export function QuizSessionPage() {
   }
 
   const handleSelect = (choiceIndex: number) => {
-    if (isAnswered || !currentQuestion) return;
+    if (isAnswered || !currentQuestion || !shuffledChoices) return;
 
     setSelectedIndex(choiceIndex);
-    const correct = choiceIndex === currentQuestion.answerIndex;
+    const correct = choiceIndex === shuffledChoices.answerIndex;
 
     if (correct) {
       playSound("correct");
       removeWrong(currentQuestion.id);
       setCorrectCount((prev) => prev + 1);
-      setScore((prev) => prev + (currentQuestion.points ?? 0));
     } else {
       playSound("error");
       markQuestionWrong(currentQuestion.id);
@@ -219,7 +229,6 @@ export function QuizSessionPage() {
       : "오답 복습";
 
   const completedCount = isAnswered ? currentIndex + 1 : currentIndex;
-  const choiceHints = currentQuestion ? getChoiceHints(currentQuestion) : undefined;
 
   return (
     <Screen noPadding className={isAnswered ? "pb-64" : "pb-24"}>
@@ -236,24 +245,26 @@ export function QuizSessionPage() {
           ) : null}
         </p>
 
-        {currentQuestion ? (
+        {currentQuestion && shuffledChoices ? (
           <>
             <QuestionPrompt question={currentQuestion} />
 
             <div className="mt-6 space-y-3">
-              {currentQuestion.choices.map((choice, choiceIndex) => (
+              {shuffledChoices.choices.map((choice, choiceIndex) => (
                 <ChoiceCard
                   key={`${currentQuestion.id}-${choiceIndex}`}
                   state={getChoiceState(
                     isAnswered,
                     choiceIndex,
                     selectedIndex,
-                    currentQuestion.answerIndex,
+                    shuffledChoices.answerIndex,
                   )}
                   disabled={isAnswered}
                   onClick={() => handleSelect(choiceIndex)}
                   label={choice}
-                  hint={isAnswered ? choiceHints?.[choiceIndex] : undefined}
+                  hint={
+                    isAnswered ? shuffledChoices.choiceHints?.[choiceIndex] : undefined
+                  }
                 />
               ))}
             </div>
