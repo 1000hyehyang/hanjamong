@@ -9,6 +9,7 @@ export type IconName =
   | "clipboard"
   | "search"
   | "check-circle"
+  | "x-circle"
   | "check"
   | "x"
   | "trophy"
@@ -27,7 +28,8 @@ export type IconName =
   | "volume-x"
   | "lightbulb"
   | "layers"
-  | "brush";
+  | "brush"
+  | "notebook";
 
 interface IconProps extends Omit<SVGProps<SVGSVGElement>, "name"> {
   name: IconName;
@@ -99,6 +101,13 @@ export function Icon({ name, size = 24, className = "", ...props }: IconProps) {
         <>
           <circle cx="12" cy="12" r="9" {...pathProps} />
           <path d="m8.5 12 2.2 2.2L15.8 9" {...pathProps} />
+        </>
+      )}
+      {name === "x-circle" && (
+        <>
+          <circle cx="12" cy="12" r="9" {...pathProps} />
+          <path d="m9 9 6 6" {...pathProps} />
+          <path d="m15 9-6 6" {...pathProps} />
         </>
       )}
       {name === "check" && <path d="m5 12.5 4 4 10-10" {...pathProps} />}
@@ -224,6 +233,14 @@ export function Icon({ name, size = 24, className = "", ...props }: IconProps) {
             {...pathProps}
           />
           <path d="M8.5 9.5C6.5 12.5 6 15 6 15s1.5 1 4.5 2.5" {...pathProps} />
+        </>
+      )}
+      {name === "notebook" && (
+        <>
+          <path d="M8 2v20" {...pathProps} />
+          <path d="M12 2h6.5A2.5 2.5 0 0 1 21 4.5V20A2.5 2.5 0 0 1 18.5 22.5H12" {...pathProps} />
+          <path d="M12 7h5" {...pathProps} />
+          <path d="M12 11h5" {...pathProps} />
         </>
       )}
     </svg>

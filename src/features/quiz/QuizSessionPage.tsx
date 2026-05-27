@@ -70,6 +70,7 @@ export function QuizSessionPage() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
   const [correctCount, setCorrectCount] = useState(0);
+  const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
 
   const currentQuestion = questions[currentIndex];
@@ -119,7 +120,6 @@ export function QuizSessionPage() {
   }
 
   if (finished) {
-    const accuracy = Math.round((correctCount / questions.length) * 100);
     return (
       <Screen
         footerPlain
@@ -131,6 +131,7 @@ export function QuizSessionPage() {
                 setCurrentIndex(0);
                 setSelectedIndex(null);
                 setCorrectCount(0);
+                setScore(0);
                 setFinished(false);
               }}
             >
@@ -153,16 +154,15 @@ export function QuizSessionPage() {
         }
       >
         <div className="flex flex-col items-center py-12 text-center">
-          <div
-            className={`flex h-20 w-20 items-center justify-center rounded-full ${accuracy >= 80 ? "bg-green text-white" : "bg-correct text-green-dark"}`}
-          >
-            <Icon name={accuracy >= 80 ? "trophy" : "flame"} size={40} />
+          <div className="flex h-20 w-20 items-center justify-center rounded-full bg-grapefruit-light text-grapefruit shadow-[0_4px_0_0_#FFD4C4]">
+            <Icon name="trophy" size={40} />
           </div>
           <h1 className="mt-6 text-3xl font-extrabold text-text-primary">
             세션 완료!
           </h1>
+          <p className="mt-6 text-4xl font-extrabold text-grapefruit">{score}점</p>
           <p className="mt-3 text-lg font-bold text-text-secondary">
-            {correctCount}/{questions.length} 정답 · {accuracy}%
+            {correctCount} / {questions.length}
           </p>
         </div>
       </Screen>
@@ -179,6 +179,7 @@ export function QuizSessionPage() {
       playSound("correct");
       removeWrong(currentQuestion.id);
       setCorrectCount((prev) => prev + 1);
+      setScore((prev) => prev + (currentQuestion.points ?? 0));
     } else {
       playSound("error");
       markQuestionWrong(currentQuestion.id);

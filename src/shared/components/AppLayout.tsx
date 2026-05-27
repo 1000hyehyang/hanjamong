@@ -8,7 +8,7 @@ const navItems: { to: string; label: string; icon: IconName }[] = [
   { to: "/", label: "학습", icon: "book" },
   { to: "/quiz", label: "문제", icon: "pencil" },
   { to: "/bookmarks", label: "별표", icon: "star" },
-  { to: "/wrong", label: "오답", icon: "clipboard" },
+  { to: "/wrong", label: "오답", icon: "notebook" },
   { to: "/concepts", label: "개념", icon: "lightbulb" },
 ];
 

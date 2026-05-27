@@ -109,7 +109,7 @@ export function WrongNotesPage() {
           {filteredQuestions.length === 0 ? (
             <EmptyState
               plain
-              icon="clipboard"
+              icon="notebook"
               title="이 유형의 오답이 없어요"
               description="다른 유형을 선택해 보세요."
             />
