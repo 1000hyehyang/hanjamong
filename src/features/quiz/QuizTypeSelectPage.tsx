@@ -6,7 +6,8 @@ import {
 } from "../../data";
 import { ChoiceCard } from "../../shared/components/ChoiceCard";
 import { EmptyState } from "../../shared/components/EmptyState";
-import { Icon, quizTypeIcons } from "../../shared/components/icons/Icon";
+import { Icon } from "../../shared/components/icons/Icon";
+import { quizTypeIcons } from "../../shared/components/icons/quiz-type-icons";
 import { Screen, ScreenTitle } from "../../shared/components/Screen";
 import { SoundLink } from "../../shared/components/SoundLink";
 import { QUESTION_TYPE_LABELS } from "../../shared/types/quiz";

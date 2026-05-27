@@ -15,7 +15,7 @@ export function ConceptsSelectPage() {
           description="글자를 쓸 때 획을 긋는 순서"
           badge={
             <span className={`${gradeBadgeClassName} text-base`}>
-              <Icon name="pen-line" size={20} />
+              <Icon name="brush" size={20} />
             </span>
           }
         />
@@ -25,7 +25,7 @@ export function ConceptsSelectPage() {
           description="한자의 구성 원리 6가지"
           badge={
             <span className={`${gradeBadgeClassName} text-base`}>
-              <Icon name="hanja" size={20} />
+              <Icon name="layers" size={20} />
             </span>
           }
         />

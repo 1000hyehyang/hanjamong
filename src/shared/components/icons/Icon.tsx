@@ -25,7 +25,9 @@ export type IconName =
   | "megaphone"
   | "volume-2"
   | "volume-x"
-  | "lightbulb";
+  | "lightbulb"
+  | "layers"
+  | "brush";
 
 interface IconProps extends Omit<SVGProps<SVGSVGElement>, "name"> {
   name: IconName;
@@ -208,17 +210,22 @@ export function Icon({ name, size = 24, className = "", ...props }: IconProps) {
           />
         </>
       )}
+      {name === "layers" && (
+        <>
+          <path d="m12 2 9 5-9 5-9-5 9-5Z" {...pathProps} />
+          <path d="m3 12 9 5 9-5" {...pathProps} />
+          <path d="m3 17 9 5 9-5" {...pathProps} />
+        </>
+      )}
+      {name === "brush" && (
+        <>
+          <path
+            d="M18.5 3.5 13.5 8.5l-1.5-1.5a2 2 0 0 0-2.8 0L7.5 9l8.5 8.5 1.5-1.5a2 2 0 0 0 0-2.8L16 10l4.5-4.5a2.1 2.1 0 1 0-3-3Z"
+            {...pathProps}
+          />
+          <path d="M8.5 9.5C6.5 12.5 6 15 6 15s1.5 1 4.5 2.5" {...pathProps} />
+        </>
+      )}
     </svg>
   );
 }
-
-export const quizTypeIcons: Record<
-  "hanja_reading" | "meaning_to_hanja" | "vocabulary" | "idiom" | "reading_comp",
-  IconName
-> = {
-  hanja_reading: "hanja",
-  meaning_to_hanja: "pen-line",
-  vocabulary: "book-open",
-  idiom: "quote",
-  reading_comp: "file-text",
-};
