@@ -12,7 +12,6 @@ export interface HanjaEntry {
   strokeCount?: number;
   radical?: string;
   formation?: string;
-  examples?: string[];
 }
 
 export interface GradeInfo {

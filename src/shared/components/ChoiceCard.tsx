@@ -54,8 +54,13 @@ export function ChoiceCard({
             <span>{label}</span>
             {hint ? (
               <span className="text-sm font-semibold">
-                <span className="text-text-secondary">{hint.meaning}</span>
-                <span className="text-green-dark"> {hint.reading}</span>
+                {hint.meaning ? (
+                  <span className="text-text-secondary">{hint.meaning}</span>
+                ) : null}
+                <span className="text-green-dark">
+                  {hint.meaning ? " " : ""}
+                  {hint.reading}
+                </span>
               </span>
             ) : null}
           </div>

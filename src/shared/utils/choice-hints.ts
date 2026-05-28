@@ -15,7 +15,7 @@ function parseStoredChoiceHint(hint: string): ChoiceHint | undefined {
   const lastSpace = inner.lastIndexOf(" ");
 
   if (lastSpace <= 0) {
-    return undefined;
+    return { meaning: "", reading: inner.trim() };
   }
 
   return {

@@ -11,7 +11,6 @@ import {
 } from "./learn-paths";
 import { Button } from "../../shared/components/Button";
 import { EmptyState } from "../../shared/components/EmptyState";
-import { HanjaExampleWords } from "../../shared/components/HanjaExampleWords";
 import { HanjaFlashCard } from "../../shared/components/HanjaFlashCard";
 import { Icon } from "../../shared/components/icons/Icon";
 import { Screen } from "../../shared/components/Screen";
@@ -223,8 +222,6 @@ export function LearnPage() {
             bookmarked={isBookmarked(currentEntry.id)}
             onToggleBookmark={() => toggleBookmark(currentEntry.id)}
           />
-
-          <HanjaExampleWords examples={currentEntry.examples} />
 
           <div className="mt-6 grid grid-cols-2 gap-2">
             <Button variant="secondary" size="md" onClick={goPrev}>
