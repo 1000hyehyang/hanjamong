@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import { Link, useNavigate, useParams, useSearchParams } from "react-router-dom";
 import { getGradeInfo } from "../../data";
 import { buildBookmarkListPath, buildListPath } from "./learn-paths";
@@ -17,7 +18,7 @@ export function LearnPage() {
   const { grade: gradeParam } = useParams<{ grade: string }>();
   const [searchParams] = useSearchParams();
   const navigate = useNavigate();
-  const { storage, toggleBookmark, isBookmarked } = useAppStorage();
+  const { storage, toggleBookmark, isBookmarked, setLearnProgress } = useAppStorage();
 
   const {
     allEntries,
@@ -45,6 +46,26 @@ export function LearnPage() {
 
   const { currentEntry, goNext, goPrev, index, revealed, toggleReveal } =
     useLearnCardSession(entries, searchParams.get("index"));
+
+  useEffect(() => {
+    if (
+      isBookmarkReview ||
+      bookmarkOnly ||
+      Number.isNaN(grade) ||
+      currentEntry === undefined
+    ) {
+      return;
+    }
+
+    setLearnProgress(grade, index);
+  }, [
+    bookmarkOnly,
+    currentEntry,
+    grade,
+    index,
+    isBookmarkReview,
+    setLearnProgress,
+  ]);
 
   const handleNext = () => {
     playSound("click");
@@ -132,8 +153,8 @@ export function LearnPage() {
       : sessionLabel;
 
   const listPath = isBookmarkReview
-    ? buildBookmarkListPath(bookmarkGradeFilter)
-    : buildListPath(grade, bookmarkOnly);
+    ? buildBookmarkListPath(bookmarkGradeFilter, index)
+    : buildListPath(grade, bookmarkOnly, index);
 
   return (
     <Screen noPadding className="pb-24">

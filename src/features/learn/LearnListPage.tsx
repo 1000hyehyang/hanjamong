@@ -1,11 +1,16 @@
 import { Link, useNavigate, useParams, useSearchParams } from "react-router-dom";
+import { Badge } from "../../shared/components/Badge";
 import { Button } from "../../shared/components/Button";
 import { EmptyState } from "../../shared/components/EmptyState";
 import { HanjaMeaningLines } from "../../shared/components/HanjaMeaningLines";
 import { Icon } from "../../shared/components/icons/Icon";
 import { Screen } from "../../shared/components/Screen";
 import { StarButton } from "../../shared/components/StarButton";
-import { pressableIconButton, pressableSurfaceCard } from "../../shared/styles/interactive";
+import {
+  pressableChoiceSelected,
+  pressableIconButton,
+  pressableSurfaceCard,
+} from "../../shared/styles/interactive";
 import { useAppStorage } from "../../shared/storage/use-app-storage";
 
 import {
@@ -20,6 +25,7 @@ export function LearnListPage() {
   const [searchParams] = useSearchParams();
   const navigate = useNavigate();
   const { storage, toggleBookmark, isBookmarked } = useAppStorage();
+  const currentIndexParam = searchParams.get("index");
 
   const {
     bookmarkGradeFilter,
@@ -43,6 +49,15 @@ export function LearnListPage() {
 
     navigate("/");
   };
+
+  const currentIndex = (() => {
+    if (currentIndexParam === null) return undefined;
+    const parsed = Number(currentIndexParam);
+    if (!Number.isInteger(parsed) || parsed < 0 || parsed >= entries.length) {
+      return undefined;
+    }
+    return parsed;
+  })();
 
   const openCardAt = (entryIndex: number) => {
     if (isBookmarkReview) {
@@ -146,11 +161,18 @@ export function LearnListPage() {
         </header>
 
         <ul className="space-y-2 pb-4">
-          {entries.map((entry, entryIndex) => (
-            <li key={entry.id}>
-              <div
-                className={`flex items-center gap-3 rounded-2xl border-2 border-b-4 border-border bg-surface p-4 ${pressableSurfaceCard}`}
-              >
+          {entries.map((entry, entryIndex) => {
+            const isCurrentEntry = entryIndex === currentIndex;
+
+            return (
+              <li key={entry.id}>
+                <div
+                  className={`flex items-center gap-3 rounded-2xl border-2 border-b-4 p-4 ${
+                    isCurrentEntry
+                      ? `border-selected-border border-b-selected-border bg-selected-bg ${pressableChoiceSelected}`
+                      : `border-border border-b-border bg-surface ${pressableSurfaceCard}`
+                  }`}
+                >
                 <button
                   type="button"
                   onClick={() => openCardAt(entryIndex)}
@@ -170,6 +192,9 @@ export function LearnListPage() {
                     lineClassName="text-sm font-bold leading-snug"
                   />
                 </button>
+                {isCurrentEntry ? (
+                  <Badge tone="blue">학습중</Badge>
+                ) : null}
                 <StarButton
                   active={isBookmarked(entry.id)}
                   onToggle={() => toggleBookmark(entry.id)}
@@ -177,7 +202,8 @@ export function LearnListPage() {
                 />
               </div>
             </li>
-          ))}
+            );
+          })}
         </ul>
       </div>
 

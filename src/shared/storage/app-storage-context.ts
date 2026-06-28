@@ -6,6 +6,7 @@ export interface AppStorageContextValue {
   toggleBookmark: (hanjaId: string) => void;
   markQuestionWrong: (questionId: string) => void;
   removeWrong: (questionId: string) => void;
+  setLearnProgress: (grade: number, index: number) => void;
   clearAllWrong: () => void;
   clearAllBookmarks: () => void;
   isBookmarked: (hanjaId: string) => boolean;

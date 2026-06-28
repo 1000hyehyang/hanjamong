@@ -7,6 +7,7 @@ export interface AppStorage {
     questions: string[];
   };
   cardProgress: Record<string, CardStatus>;
+  learnProgress: Record<string, number>;
   wrongQuestions: string[];
   dailyStats: Record<string, number>;
 }
@@ -20,6 +21,7 @@ export const DEFAULT_STORAGE: AppStorage = {
     questions: [],
   },
   cardProgress: {},
+  learnProgress: {},
   wrongQuestions: [],
   dailyStats: {},
 };

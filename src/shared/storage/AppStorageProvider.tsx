@@ -12,6 +12,7 @@ import {
   removeWrongQuestion,
   saveAppStorage,
   toggleHanjaBookmark,
+  updateLearnProgress,
 } from "./app-storage";
 import {
   AppStorageContext,
@@ -51,6 +52,13 @@ export function AppStorageProvider({ children }: { children: ReactNode }) {
     [commit],
   );
 
+  const setLearnProgress = useCallback(
+    (grade: number, index: number) => {
+      commit((prev) => updateLearnProgress(prev, grade, index));
+    },
+    [commit],
+  );
+
   const clearAllWrong = useCallback(() => {
     commit(clearAllWrongQuestions);
   }, [commit]);
@@ -70,6 +78,7 @@ export function AppStorageProvider({ children }: { children: ReactNode }) {
       toggleBookmark,
       markQuestionWrong,
       removeWrong,
+      setLearnProgress,
       clearAllWrong,
       clearAllBookmarks,
       isBookmarked,
@@ -79,6 +88,7 @@ export function AppStorageProvider({ children }: { children: ReactNode }) {
       toggleBookmark,
       markQuestionWrong,
       removeWrong,
+      setLearnProgress,
       clearAllWrong,
       clearAllBookmarks,
       isBookmarked,

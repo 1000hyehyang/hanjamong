@@ -31,10 +31,17 @@ export function buildLearnPath(grade: number | string, bookmarkOnly: boolean) {
   return query ? `/learn/${grade}?${query}` : `/learn/${grade}`;
 }
 
-export function buildListPath(grade: number | string, bookmarkOnly: boolean) {
+export function buildListPath(
+  grade: number | string,
+  bookmarkOnly: boolean,
+  index?: number,
+) {
   const params = new URLSearchParams();
   if (bookmarkOnly) {
     params.set("filter", "bookmarked");
+  }
+  if (index !== undefined) {
+    params.set("index", String(index));
   }
   const query = params.toString();
   return query ? `/learn/${grade}/list?${query}` : `/learn/${grade}/list`;
@@ -52,9 +59,15 @@ export function buildBookmarkReviewPath(
   return `/learn/${BOOKMARK_REVIEW_GRADE}?${params}`;
 }
 
-export function buildBookmarkListPath(gradeFilter: BookmarkGradeFilter = "all") {
+export function buildBookmarkListPath(
+  gradeFilter: BookmarkGradeFilter = "all",
+  index?: number,
+) {
   const params = new URLSearchParams();
   appendBookmarkGradeFilter(params, gradeFilter);
+  if (index !== undefined) {
+    params.set("index", String(index));
+  }
   return `/learn/${BOOKMARK_REVIEW_GRADE}/list?${params}`;
 }
 
