@@ -1,14 +1,9 @@
-import { useEffect, useMemo, useState } from "react";
 import { Link, useNavigate, useParams, useSearchParams } from "react-router-dom";
-import { getGradeInfo, getHanjaByGrade, getHanjaById } from "../../data";
-import {
-  buildBookmarkListPath,
-  buildListPath,
-  bookmarkSessionLabel,
-  filterBookmarkEntries,
-  isBookmarkReviewRoute,
-  parseBookmarkGradeFilter,
-} from "./learn-paths";
+import { getGradeInfo } from "../../data";
+import { buildBookmarkListPath, buildListPath } from "./learn-paths";
+import { LearnQuitFooter } from "./LearnQuitFooter";
+import { useLearnCardSession } from "./use-learn-card-session";
+import { useLearnEntries } from "./use-learn-entries";
 import { Button } from "../../shared/components/Button";
 import { EmptyState } from "../../shared/components/EmptyState";
 import { HanjaFlashCard } from "../../shared/components/HanjaFlashCard";
@@ -17,7 +12,6 @@ import { Screen } from "../../shared/components/Screen";
 import { playSound } from "../../shared/sounds/play-sound";
 import { pressableIconButton } from "../../shared/styles/interactive";
 import { useAppStorage } from "../../shared/storage/use-app-storage";
-import type { HanjaEntry } from "../../shared/types/hanja";
 
 export function LearnPage() {
   const { grade: gradeParam } = useParams<{ grade: string }>();
@@ -25,17 +19,20 @@ export function LearnPage() {
   const navigate = useNavigate();
   const { storage, toggleBookmark, isBookmarked } = useAppStorage();
 
-  const isBookmarkReview = isBookmarkReviewRoute(gradeParam);
-  const grade = isBookmarkReview ? NaN : Number(gradeParam);
-  const gradeInfo = isBookmarkReview ? undefined : getGradeInfo(grade);
-  const allEntries = isBookmarkReview ? [] : getHanjaByGrade(grade);
-
-  const bookmarkOnly =
-    isBookmarkReview ||
-    searchParams.get("bookmarks") === "1" ||
-    searchParams.get("filter") === "bookmarked";
-
-  const bookmarkGradeFilter = parseBookmarkGradeFilter(searchParams.get("grade"));
+  const {
+    allEntries,
+    bookmarkGradeFilter,
+    bookmarkOnly,
+    entries,
+    grade,
+    gradeInfo,
+    isBookmarkReview,
+    sessionLabel,
+  } = useLearnEntries({
+    gradeParam,
+    searchParams,
+    bookmarkedHanjaIds: storage.bookmarks.hanja,
+  });
 
   const handleQuit = () => {
     if (bookmarkOnly) {
@@ -46,64 +43,17 @@ export function LearnPage() {
     navigate("/");
   };
 
-  const entries = useMemo(() => {
-    if (isBookmarkReview) {
-      const bookmarked = storage.bookmarks.hanja
-        .map((id) => getHanjaById(id))
-        .filter((entry): entry is HanjaEntry => entry !== undefined);
+  const { currentEntry, goNext, goPrev, index, revealed, toggleReveal } =
+    useLearnCardSession(entries, searchParams.get("index"));
 
-      return filterBookmarkEntries(bookmarked, bookmarkGradeFilter);
-    }
-
-    if (!bookmarkOnly) return allEntries;
-
-    return allEntries.filter((entry) =>
-      storage.bookmarks.hanja.includes(entry.id),
-    );
-  }, [
-    allEntries,
-    bookmarkGradeFilter,
-    bookmarkOnly,
-    isBookmarkReview,
-    storage.bookmarks.hanja,
-  ]);
-
-  const [index, setIndex] = useState(0);
-  const [revealed, setRevealed] = useState(false);
-
-  const requestedIndex = searchParams.get("index");
-
-  useEffect(() => {
-    if (entries.length === 0) return;
-
-    if (requestedIndex === null) return;
-
-    const parsed = Number(requestedIndex);
-    if (Number.isNaN(parsed)) return;
-
-    setIndex(Math.max(0, Math.min(entries.length - 1, parsed)));
-    setRevealed(false);
-  }, [entries.length, requestedIndex]);
-
-  useEffect(() => {
-    setIndex((prev) => Math.min(prev, Math.max(0, entries.length - 1)));
-  }, [entries.length]);
-
-  const currentEntry = entries[index];
-  const sessionLabel = isBookmarkReview
-    ? bookmarkSessionLabel(bookmarkGradeFilter, (g) => getGradeInfo(g)?.label)
-    : (gradeInfo?.label ?? `${grade}급`);
-
-  const goNext = () => {
+  const handleNext = () => {
     playSound("click");
-    setRevealed(false);
-    setIndex((prev) => (prev + 1 >= entries.length ? 0 : prev + 1));
+    goNext();
   };
 
-  const goPrev = () => {
+  const handlePrev = () => {
     playSound("click");
-    setRevealed(false);
-    setIndex((prev) => (prev - 1 + entries.length) % entries.length);
+    goPrev();
   };
 
   if (!isBookmarkReview && (!gradeInfo || Number.isNaN(grade))) {
@@ -139,11 +89,7 @@ export function LearnPage() {
             }
           />
         </div>
-        <div className="fixed inset-x-0 bottom-0 z-40 mx-auto max-w-[420px] border-t-2 border-border bg-surface px-4 py-4 pb-[max(1rem,env(safe-area-inset-bottom))]">
-          <Button variant="grapefruit" fullWidth onClick={handleQuit}>
-            그만하기
-          </Button>
-        </div>
+        <LearnQuitFooter onQuit={handleQuit} />
       </Screen>
     );
   }
@@ -175,11 +121,7 @@ export function LearnPage() {
             }
           />
         </div>
-        <div className="fixed inset-x-0 bottom-0 z-40 mx-auto max-w-[420px] border-t-2 border-border bg-surface px-4 py-4 pb-[max(1rem,env(safe-area-inset-bottom))]">
-          <Button variant="grapefruit" fullWidth onClick={handleQuit}>
-            그만하기
-          </Button>
-        </div>
+        <LearnQuitFooter onQuit={handleQuit} />
       </Screen>
     );
   }
@@ -215,30 +157,27 @@ export function LearnPage() {
       {currentEntry ? (
         <div className="px-4">
           <HanjaFlashCard
+            key={currentEntry.id}
             entry={currentEntry}
             gradeLabel={cardGradeLabel}
             revealed={revealed}
-            onToggleReveal={() => setRevealed((prev) => !prev)}
+            onToggleReveal={toggleReveal}
             bookmarked={isBookmarked(currentEntry.id)}
             onToggleBookmark={() => toggleBookmark(currentEntry.id)}
           />
 
           <div className="mt-6 grid grid-cols-2 gap-2">
-            <Button variant="secondary" size="md" onClick={goPrev}>
+            <Button variant="secondary" size="md" onClick={handlePrev}>
               이전
             </Button>
-            <Button variant="primary" size="md" onClick={goNext}>
+            <Button variant="primary" size="md" onClick={handleNext}>
               다음
             </Button>
           </div>
         </div>
       ) : null}
 
-      <div className="fixed inset-x-0 bottom-0 z-40 mx-auto max-w-[420px] border-t-2 border-border bg-surface px-4 py-4 pb-[max(1rem,env(safe-area-inset-bottom))]">
-        <Button variant="grapefruit" fullWidth onClick={handleQuit}>
-          그만하기
-        </Button>
-      </div>
+      <LearnQuitFooter onQuit={handleQuit} />
     </Screen>
   );
 }

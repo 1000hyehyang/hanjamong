@@ -24,7 +24,6 @@ export function Screen({
 
   useLayoutEffect(() => {
     if (!footerAboveNav || !footer) {
-      setFixedFooterHeight(null);
       return;
     }
 

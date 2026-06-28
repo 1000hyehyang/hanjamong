@@ -1,7 +1,5 @@
 import {
-  createContext,
   useCallback,
-  useContext,
   useMemo,
   useState,
   type ReactNode,
@@ -15,19 +13,11 @@ import {
   saveAppStorage,
   toggleHanjaBookmark,
 } from "./app-storage";
+import {
+  AppStorageContext,
+  type AppStorageContextValue,
+} from "./app-storage-context";
 import type { AppStorage } from "../types/storage";
-
-interface AppStorageContextValue {
-  storage: AppStorage;
-  toggleBookmark: (hanjaId: string) => void;
-  markQuestionWrong: (questionId: string) => void;
-  removeWrong: (questionId: string) => void;
-  clearAllWrong: () => void;
-  clearAllBookmarks: () => void;
-  isBookmarked: (hanjaId: string) => boolean;
-}
-
-const AppStorageContext = createContext<AppStorageContextValue | null>(null);
 
 export function AppStorageProvider({ children }: { children: ReactNode }) {
   const [storage, setStorage] = useState<AppStorage>(() => loadAppStorage());
@@ -100,12 +90,4 @@ export function AppStorageProvider({ children }: { children: ReactNode }) {
       {children}
     </AppStorageContext.Provider>
   );
-}
-
-export function useAppStorage(): AppStorageContextValue {
-  const context = useContext(AppStorageContext);
-  if (!context) {
-    throw new Error("useAppStorage must be used within AppStorageProvider");
-  }
-  return context;
 }

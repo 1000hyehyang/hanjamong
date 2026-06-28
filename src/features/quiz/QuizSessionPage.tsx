@@ -82,6 +82,7 @@ export function QuizSessionPage() {
 
   const currentQuestion = questions[currentIndex];
   const shuffledChoices = useMemo(() => {
+    void attemptKey;
     if (!currentQuestion) return null;
     return shuffleQuestionChoices(currentQuestion);
   }, [attemptKey, currentQuestion]);

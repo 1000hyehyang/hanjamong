@@ -5,6 +5,10 @@ import {
   type CardStatus,
 } from "../types/storage";
 
+const STORAGE_RESET_MARKER_KEY =
+  "hanja-app:storage-reset:2026-06-28-question-id-renumber";
+const STORAGE_KEYS_TO_RESET = [STORAGE_KEY];
+
 function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === "object" && value !== null && !Array.isArray(value);
 }
@@ -58,10 +62,31 @@ function parseStorage(raw: string): AppStorage {
   };
 }
 
+function resetAppStorageOnce(): void {
+  if (typeof window === "undefined") {
+    return;
+  }
+
+  try {
+    if (window.localStorage.getItem(STORAGE_RESET_MARKER_KEY) === "1") {
+      return;
+    }
+
+    for (const key of STORAGE_KEYS_TO_RESET) {
+      window.localStorage.removeItem(key);
+    }
+    window.localStorage.setItem(STORAGE_RESET_MARKER_KEY, "1");
+  } catch {
+    // Ignore blocked storage access in private or restricted browser modes.
+  }
+}
+
 export function loadAppStorage(): AppStorage {
   if (typeof window === "undefined") {
     return { ...DEFAULT_STORAGE };
   }
+
+  resetAppStorageOnce();
 
   try {
     const raw = window.localStorage.getItem(STORAGE_KEY);

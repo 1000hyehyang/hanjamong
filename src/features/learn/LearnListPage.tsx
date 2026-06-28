@@ -1,6 +1,4 @@
-import { useMemo } from "react";
 import { Link, useNavigate, useParams, useSearchParams } from "react-router-dom";
-import { getGradeInfo, getHanjaByGrade, getHanjaById } from "../../data";
 import { Button } from "../../shared/components/Button";
 import { EmptyState } from "../../shared/components/EmptyState";
 import { HanjaMeaningLines } from "../../shared/components/HanjaMeaningLines";
@@ -9,16 +7,13 @@ import { Screen } from "../../shared/components/Screen";
 import { StarButton } from "../../shared/components/StarButton";
 import { pressableIconButton, pressableSurfaceCard } from "../../shared/styles/interactive";
 import { useAppStorage } from "../../shared/storage/use-app-storage";
-import type { HanjaEntry } from "../../shared/types/hanja";
 
 import {
   buildBookmarkReviewPath,
   buildLearnPath,
-  bookmarkSessionLabel,
-  filterBookmarkEntries,
-  isBookmarkReviewRoute,
-  parseBookmarkGradeFilter,
 } from "./learn-paths";
+import { LearnQuitFooter } from "./LearnQuitFooter";
+import { useLearnEntries } from "./use-learn-entries";
 
 export function LearnListPage() {
   const { grade: gradeParam } = useParams<{ grade: string }>();
@@ -26,42 +21,19 @@ export function LearnListPage() {
   const navigate = useNavigate();
   const { storage, toggleBookmark, isBookmarked } = useAppStorage();
 
-  const isBookmarkReview = isBookmarkReviewRoute(gradeParam);
-  const grade = isBookmarkReview ? NaN : Number(gradeParam);
-  const gradeInfo = isBookmarkReview ? undefined : getGradeInfo(grade);
-  const allEntries = isBookmarkReview ? [] : getHanjaByGrade(grade);
-  const bookmarkGradeFilter = parseBookmarkGradeFilter(searchParams.get("grade"));
-
-  const bookmarkOnly =
-    isBookmarkReview ||
-    searchParams.get("bookmarks") === "1" ||
-    searchParams.get("filter") === "bookmarked";
-
-  const entries = useMemo(() => {
-    if (isBookmarkReview) {
-      const bookmarked = storage.bookmarks.hanja
-        .map((id) => getHanjaById(id))
-        .filter((entry): entry is HanjaEntry => entry !== undefined);
-
-      return filterBookmarkEntries(bookmarked, bookmarkGradeFilter);
-    }
-
-    if (!bookmarkOnly) return allEntries;
-
-    return allEntries.filter((entry) =>
-      storage.bookmarks.hanja.includes(entry.id),
-    );
-  }, [
-    allEntries,
+  const {
     bookmarkGradeFilter,
     bookmarkOnly,
+    entries,
+    grade,
+    gradeInfo,
     isBookmarkReview,
-    storage.bookmarks.hanja,
-  ]);
-
-  const sessionLabel = isBookmarkReview
-    ? bookmarkSessionLabel(bookmarkGradeFilter, (g) => getGradeInfo(g)?.label)
-    : (gradeInfo?.label ?? `${grade}급`);
+    sessionLabel,
+  } = useLearnEntries({
+    gradeParam,
+    searchParams,
+    bookmarkedHanjaIds: storage.bookmarks.hanja,
+  });
 
   const handleQuit = () => {
     if (bookmarkOnly) {
@@ -139,11 +111,7 @@ export function LearnListPage() {
             }
           />
         </div>
-        <div className="fixed inset-x-0 bottom-0 z-40 mx-auto max-w-[420px] border-t-2 border-border bg-surface px-4 py-4 pb-[max(1rem,env(safe-area-inset-bottom))]">
-          <Button variant="grapefruit" fullWidth onClick={handleQuit}>
-            그만하기
-          </Button>
-        </div>
+        <LearnQuitFooter onQuit={handleQuit} />
       </Screen>
     );
   }
@@ -213,11 +181,7 @@ export function LearnListPage() {
         </ul>
       </div>
 
-      <div className="fixed inset-x-0 bottom-0 z-40 mx-auto max-w-[420px] border-t-2 border-border bg-surface px-4 py-4 pb-[max(1rem,env(safe-area-inset-bottom))]">
-        <Button variant="grapefruit" fullWidth onClick={handleQuit}>
-          그만하기
-        </Button>
-      </div>
+      <LearnQuitFooter onQuit={handleQuit} />
     </Screen>
   );
 }
