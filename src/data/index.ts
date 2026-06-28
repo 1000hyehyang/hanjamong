@@ -1,5 +1,10 @@
+import type { ConfusingHanjaGroup, HomophoneItem, SynonymItem } from "../shared/types/concepts";
 import type { HanjaEntry, GradeInfo } from "../shared/types/hanja";
 import type { QuizQuestion } from "../shared/types/quiz";
+import confusingHanjaGroupsData from "./concepts/confusing-hanja.json";
+import homophoneItemsData from "./concepts/homophones.json";
+import antonymItemsData from "./concepts/antonyms.json";
+import synonymItemsData from "./concepts/synonyms.json";
 import gradesData from "./hanja/grades.json";
 import hanja9 from "./hanja/hanja-9.json";
 import hanja8 from "./hanja/hanja-8.json";
@@ -8,6 +13,7 @@ import hanja6 from "./hanja/hanja-6.json";
 import hanja5 from "./hanja/hanja-5.json";
 import hanja4 from "./hanja/hanja-4.json";
 import hanja3 from "./hanja/hanja-3.json";
+import hanja2 from "./hanja/hanja-2.json";
 import questions3 from "./questions/questions-3.json";
 import questions4 from "./questions/questions-4.json";
 import questions5 from "./questions/questions-5.json";
@@ -15,6 +21,14 @@ import questions6 from "./questions/questions-6.json";
 import questions7 from "./questions/questions-7.json";
 
 export const grades = gradesData as GradeInfo[];
+export const confusingHanjaGroups = confusingHanjaGroupsData as ConfusingHanjaGroup[];
+export const synonymItems = synonymItemsData as SynonymItem[];
+export const antonymItems = antonymItemsData as SynonymItem[];
+export const homophoneItems = homophoneItemsData as HomophoneItem[];
+
+const supplementalHanjaByGrade: Record<number, HanjaEntry[]> = {
+  2: hanja2 as HanjaEntry[],
+};
 
 const hanjaByGrade: Record<number, HanjaEntry[]> = {
   9: hanja9 as HanjaEntry[],
@@ -45,11 +59,14 @@ const questionTypeOrder: QuizQuestion["type"][] = [
 export const allQuestions = Object.values(questionsByGrade).flat();
 
 export function getHanjaByGrade(grade: number): HanjaEntry[] {
-  return hanjaByGrade[grade] ?? [];
+  return supplementalHanjaByGrade[grade] ?? hanjaByGrade[grade] ?? [];
 }
 
 export function getAllHanja(): HanjaEntry[] {
-  return grades.flatMap((gradeInfo) => getHanjaByGrade(gradeInfo.grade));
+  return [
+    ...Object.values(supplementalHanjaByGrade).flat(),
+    ...grades.flatMap((gradeInfo) => hanjaByGrade[gradeInfo.grade] ?? []),
+  ];
 }
 
 export function getHanjaById(id: string): HanjaEntry | undefined {

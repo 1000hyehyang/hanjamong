@@ -1,0 +1,74 @@
+[
+  {
+    "id": "g2-001",
+    "grade": 2,
+    "character": "遜",
+    "normalizedCharacter": "遜",
+    "strokeCount": 14,
+    "radical": "辵",
+    "formation": "형성",
+    "meanings": [
+      {
+        "meaning": "겸손할",
+        "reading": "손"
+      },
+      {
+        "meaning": "양보할",
+        "reading": "손"
+      }
+    ]
+  },
+  {
+    "id": "g2-002",
+    "grade": 2,
+    "character": "砲",
+    "normalizedCharacter": "砲",
+    "strokeCount": 10,
+    "radical": "石",
+    "formation": "형성",
+    "meanings": [
+      {
+        "meaning": "대포",
+        "reading": "포"
+      }
+    ]
+  },
+  {
+    "id": "g2-003",
+    "grade": 2,
+    "character": "緒",
+    "normalizedCharacter": "緒",
+    "strokeCount": 14,
+    "radical": "糸",
+    "formation": "형성",
+    "meanings": [
+      {
+        "meaning": "실마리",
+        "reading": "서"
+      },
+      {
+        "meaning": "차례",
+        "reading": "서"
+      }
+    ]
+  },
+  {
+    "id": "g2-004",
+    "grade": 2,
+    "character": "頑",
+    "normalizedCharacter": "頑",
+    "strokeCount": 13,
+    "radical": "頁",
+    "formation": "형성",
+    "meanings": [
+      {
+        "meaning": "완고할",
+        "reading": "완"
+      },
+      {
+        "meaning": "어리석을",
+        "reading": "완"
+      }
+    ]
+  }
+]

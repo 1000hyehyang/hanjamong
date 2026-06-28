@@ -1,0 +1,3456 @@
+[
+  {
+    "id": 1,
+    "sound": "가공",
+    "entries": [
+      {
+        "word": "加工",
+        "hanjaComposition": [
+          "加",
+          "工"
+        ],
+        "definition": "원자재나 반제품을 인공적으로 처리하여 새로운 제품을 만들거나 제품의 질을 높임"
+      },
+      {
+        "word": "架空",
+        "hanjaComposition": [
+          "架",
+          "空"
+        ],
+        "definition": "사실이 아니고 거짓이나 상상으로 꾸며냄"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sound": "가수",
+    "entries": [
+      {
+        "word": "歌手",
+        "hanjaComposition": [
+          "歌",
+          "手"
+        ],
+        "definition": "노래 부르는 것이 직업인 사람"
+      },
+      {
+        "word": "假需",
+        "hanjaComposition": [
+          "假",
+          "需"
+        ],
+        "definition": "당장 필요하지 않으면서도 일어나는 수요. 가수요의 준말"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "sound": "가장",
+    "entries": [
+      {
+        "word": "家長",
+        "hanjaComposition": [
+          "家",
+          "長"
+        ],
+        "definition": "한 가정을 이끌어 나가는 사람"
+      },
+      {
+        "word": "假裝",
+        "hanjaComposition": [
+          "假",
+          "裝"
+        ],
+        "definition": "태도를 거짓으로 꾸밈"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "sound": "가정",
+    "entries": [
+      {
+        "word": "家庭",
+        "hanjaComposition": [
+          "家",
+          "庭"
+        ],
+        "definition": "한 가족이 생활하는 집"
+      },
+      {
+        "word": "假定",
+        "hanjaComposition": [
+          "假",
+          "定"
+        ],
+        "definition": "사실이 아니거나 또는 사실인지 아닌지 분명하지 않은 것을 임시로 인정함"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "sound": "감사",
+    "entries": [
+      {
+        "word": "監司",
+        "hanjaComposition": [
+          "監",
+          "司"
+        ],
+        "definition": "조선 시대에 둔, 각 도의 으뜸 벼슬"
+      },
+      {
+        "word": "感謝",
+        "hanjaComposition": [
+          "感",
+          "謝"
+        ],
+        "definition": "고마움을 나타내는 인사"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "sound": "감상",
+    "entries": [
+      {
+        "word": "感想",
+        "hanjaComposition": [
+          "感",
+          "想"
+        ],
+        "definition": "마음속에서 일어나는 느낌이나 생각"
+      },
+      {
+        "word": "鑑賞",
+        "hanjaComposition": [
+          "鑑",
+          "賞"
+        ],
+        "definition": "주로 예술 작품을 이해하여 즐기고 평가함"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "sound": "감축",
+    "entries": [
+      {
+        "word": "感祝",
+        "hanjaComposition": [
+          "感",
+          "祝"
+        ],
+        "definition": "경사스러운 일을 함께 기뻐하고 축하함"
+      },
+      {
+        "word": "減縮",
+        "hanjaComposition": [
+          "減",
+          "縮"
+        ],
+        "definition": "덜어서 줄임"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "sound": "거부",
+    "entries": [
+      {
+        "word": "拒否",
+        "hanjaComposition": [
+          "拒",
+          "否"
+        ],
+        "definition": "요구나 제의 따위를 받아들이지 않고 물리침"
+      },
+      {
+        "word": "巨富",
+        "hanjaComposition": [
+          "巨",
+          "富"
+        ],
+        "definition": "큰 부자"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "sound": "경로",
+    "entries": [
+      {
+        "word": "經路",
+        "hanjaComposition": [
+          "經",
+          "路"
+        ],
+        "definition": "지나는 길"
+      },
+      {
+        "word": "敬老",
+        "hanjaComposition": [
+          "敬",
+          "老"
+        ],
+        "definition": "노인을 공경함"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "sound": "강수",
+    "entries": [
+      {
+        "word": "江水",
+        "hanjaComposition": [
+          "江",
+          "水"
+        ],
+        "definition": "강에 흐르는 물"
+      },
+      {
+        "word": "降水",
+        "hanjaComposition": [
+          "降",
+          "水"
+        ],
+        "definition": "비, 눈, 우박, 안개 따위로 지상에 내린 물"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "sound": "건조",
+    "entries": [
+      {
+        "word": "建造",
+        "hanjaComposition": [
+          "建",
+          "造"
+        ],
+        "definition": "건물이나 배 따위를 설계하여 만듦"
+      },
+      {
+        "word": "乾燥",
+        "hanjaComposition": [
+          "乾",
+          "燥"
+        ],
+        "definition": "말라서 습기가 없음"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "sound": "경사",
+    "entries": [
+      {
+        "word": "慶事",
+        "hanjaComposition": [
+          "慶",
+          "事"
+        ],
+        "definition": "축하할 만한 일"
+      },
+      {
+        "word": "經絲",
+        "hanjaComposition": [
+          "經",
+          "絲"
+        ],
+        "definition": "피륙의 날실"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "sound": "강요",
+    "entries": [
+      {
+        "word": "強要",
+        "hanjaComposition": [
+          "強",
+          "要"
+        ],
+        "definition": "억지로 또는 강제로 요구함"
+      },
+      {
+        "word": "綱要",
+        "hanjaComposition": [
+          "綱",
+          "要"
+        ],
+        "definition": "일의 으뜸 줄기가 될 만한 요점"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "sound": "경계",
+    "entries": [
+      {
+        "word": "境界",
+        "hanjaComposition": [
+          "境",
+          "界"
+        ],
+        "definition": "사물이 어떠한 기준에 의하여 분간되는 한계"
+      },
+      {
+        "word": "警戒",
+        "hanjaComposition": [
+          "警",
+          "戒"
+        ],
+        "definition": "뜻밖의 사고가 생기지 않도록 조심하여 단속함"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "sound": "경이",
+    "entries": [
+      {
+        "word": "驚異",
+        "hanjaComposition": [
+          "驚",
+          "異"
+        ],
+        "definition": "놀랍고 신기하게 여김"
+      },
+      {
+        "word": "輕易",
+        "hanjaComposition": [
+          "輕",
+          "易"
+        ],
+        "definition": "대수롭지 않음"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "sound": "개성",
+    "entries": [
+      {
+        "word": "個性",
+        "hanjaComposition": [
+          "個",
+          "性"
+        ],
+        "definition": "다른 사람이나 개체와 구별되는 고유의 특성"
+      },
+      {
+        "word": "開城",
+        "hanjaComposition": [
+          "開",
+          "城"
+        ],
+        "definition": "성문을 염"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "sound": "경관",
+    "entries": [
+      {
+        "word": "景觀",
+        "hanjaComposition": [
+          "景",
+          "觀"
+        ],
+        "definition": "산이나 들, 강, 바다 따위의 자연이나 지역의 풍경"
+      },
+      {
+        "word": "京官",
+        "hanjaComposition": [
+          "京",
+          "官"
+        ],
+        "definition": "조선 시대, 서울에 있던 여러 관아의 벼슬을 통칭하던 말"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "sound": "경주",
+    "entries": [
+      {
+        "word": "慶州",
+        "hanjaComposition": [
+          "慶",
+          "州"
+        ],
+        "definition": "경상북도 동남부에 있는 시"
+      },
+      {
+        "word": "競走",
+        "hanjaComposition": [
+          "競",
+          "走"
+        ],
+        "definition": "사람, 동물, 차량 따위가 일정한 거리를 달려 빠르기를 겨루는 일"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "sound": "개정",
+    "entries": [
+      {
+        "word": "改正",
+        "hanjaComposition": [
+          "改",
+          "正"
+        ],
+        "definition": "주로 문서의 내용 따위를 고쳐 바르게 함"
+      },
+      {
+        "word": "改定",
+        "hanjaComposition": [
+          "改",
+          "定"
+        ],
+        "definition": "이미 정하였던 것을 고쳐 다시 정함"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "sound": "경기",
+    "entries": [
+      {
+        "word": "京畿",
+        "hanjaComposition": [
+          "京",
+          "畿"
+        ],
+        "definition": "서울을 중심으로 한 가까운 주위의 지방"
+      },
+      {
+        "word": "競技",
+        "hanjaComposition": [
+          "競",
+          "技"
+        ],
+        "definition": "일정한 규칙 아래 기량과 기술을 겨룸"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "sound": "고성",
+    "entries": [
+      {
+        "word": "古城",
+        "hanjaComposition": [
+          "古",
+          "城"
+        ],
+        "definition": "옛날에 지은 오래된 성"
+      },
+      {
+        "word": "高聲",
+        "hanjaComposition": [
+          "高",
+          "聲"
+        ],
+        "definition": "크고 높은 목소리"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "sound": "고수",
+    "entries": [
+      {
+        "word": "固守",
+        "hanjaComposition": [
+          "固",
+          "守"
+        ],
+        "definition": "처지를 물리나 형세 따위를 굳게 지킴"
+      },
+      {
+        "word": "高手",
+        "hanjaComposition": [
+          "高",
+          "手"
+        ],
+        "definition": "바둑이나 장기 따위에서 수가 높은 사람"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "sound": "공모",
+    "entries": [
+      {
+        "word": "公募",
+        "hanjaComposition": [
+          "公",
+          "募"
+        ],
+        "definition": "일반에게 널리 공개하여 모집함"
+      },
+      {
+        "word": "共謀",
+        "hanjaComposition": [
+          "共",
+          "謀"
+        ],
+        "definition": "두 사람 이상이 어떤 불법적인 행위를 하기로 합의하는 일"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "sound": "과실",
+    "entries": [
+      {
+        "word": "果實",
+        "hanjaComposition": [
+          "果",
+          "實"
+        ],
+        "definition": "나무 따위를 가꾸어 얻는 사람이 먹을 수 있는 열매"
+      },
+      {
+        "word": "過失",
+        "hanjaComposition": [
+          "過",
+          "失"
+        ],
+        "definition": "부주의나 태만 따위에서 비롯된 잘못이나 허물"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "sound": "고지",
+    "entries": [
+      {
+        "word": "告知",
+        "hanjaComposition": [
+          "告",
+          "知"
+        ],
+        "definition": "게시나 글을 통하여 알림"
+      },
+      {
+        "word": "高地",
+        "hanjaComposition": [
+          "高",
+          "地"
+        ],
+        "definition": "지대가 높은 땅"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "sound": "공손",
+    "entries": [
+      {
+        "word": "恭遜",
+        "hanjaComposition": [
+          "恭",
+          "遜"
+        ],
+        "definition": "말이나 행동이 겸손하고 예의 바름"
+      },
+      {
+        "word": "公孫",
+        "hanjaComposition": [
+          "公",
+          "孫"
+        ],
+        "definition": "임금이나 제후의 후손"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "sound": "교정",
+    "entries": [
+      {
+        "word": "矯正",
+        "hanjaComposition": [
+          "矯",
+          "正"
+        ],
+        "definition": "틀어지거나 잘못된 것을 바로잡음"
+      },
+      {
+        "word": "校庭",
+        "hanjaComposition": [
+          "校",
+          "庭"
+        ],
+        "definition": "학교의 마당이나 뜰"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "sound": "공경",
+    "entries": [
+      {
+        "word": "公卿",
+        "hanjaComposition": [
+          "公",
+          "卿"
+        ],
+        "definition": "삼공과 구경을 아울러 이르는 말"
+      },
+      {
+        "word": "恭敬",
+        "hanjaComposition": [
+          "恭",
+          "敬"
+        ],
+        "definition": "공손히 받들어 모심"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "sound": "공약",
+    "entries": [
+      {
+        "word": "公約",
+        "hanjaComposition": [
+          "公",
+          "約"
+        ],
+        "definition": "정부, 정당, 입후보자 등이 어떤 일에 대하여 국민에게 실행할 것을 약속함"
+      },
+      {
+        "word": "空約",
+        "hanjaComposition": [
+          "空",
+          "約"
+        ],
+        "definition": "헛되게 약속함. 또는 그런 약속"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "sound": "구명",
+    "entries": [
+      {
+        "word": "救命",
+        "hanjaComposition": [
+          "救",
+          "命"
+        ],
+        "definition": "사람의 목숨을 구함"
+      },
+      {
+        "word": "究明",
+        "hanjaComposition": [
+          "究",
+          "明"
+        ],
+        "definition": "사물의 본질, 원인 따위를 깊이 연구하여 밝힘"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "sound": "공기",
+    "entries": [
+      {
+        "word": "空氣",
+        "hanjaComposition": [
+          "空",
+          "氣"
+        ],
+        "definition": "지구를 둘러싼 대기의 하층부를 구성하는 무색, 무취의 투명한 기체"
+      },
+      {
+        "word": "工期",
+        "hanjaComposition": [
+          "工",
+          "期"
+        ],
+        "definition": "공사하는 기간"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "sound": "공포",
+    "entries": [
+      {
+        "word": "公布",
+        "hanjaComposition": [
+          "公",
+          "布"
+        ],
+        "definition": "일반 대중에게 널리 알림"
+      },
+      {
+        "word": "空砲",
+        "hanjaComposition": [
+          "空",
+          "砲"
+        ],
+        "definition": "실탄을 넣지 않고 쏘는 총포"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "sound": "구조",
+    "entries": [
+      {
+        "word": "救助",
+        "hanjaComposition": [
+          "救",
+          "助"
+        ],
+        "definition": "재난 등 어려운 처지에 빠진 사람을 구해 줌"
+      },
+      {
+        "word": "構造",
+        "hanjaComposition": [
+          "構",
+          "造"
+        ],
+        "definition": "부분이나 요소가 어떤 전체를 짜 이룸"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "sound": "공로",
+    "entries": [
+      {
+        "word": "功勞",
+        "hanjaComposition": [
+          "功",
+          "勞"
+        ],
+        "definition": "일을 마치거나 목적을 이루는 데 들인 노력과 수고"
+      },
+      {
+        "word": "公路",
+        "hanjaComposition": [
+          "公",
+          "路"
+        ],
+        "definition": "많은 사람과 차가 다니는 큰길"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "sound": "과거",
+    "entries": [
+      {
+        "word": "科擧",
+        "hanjaComposition": [
+          "科",
+          "擧"
+        ],
+        "definition": "우리나라와 중국에서 관리 뽑을 때 실시하던 시험"
+      },
+      {
+        "word": "過去",
+        "hanjaComposition": [
+          "過",
+          "去"
+        ],
+        "definition": "이미 지나간 때"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "sound": "근간",
+    "entries": [
+      {
+        "word": "近刊",
+        "hanjaComposition": [
+          "近",
+          "刊"
+        ],
+        "definition": "최근에 출판함"
+      },
+      {
+        "word": "根幹",
+        "hanjaComposition": [
+          "根",
+          "幹"
+        ],
+        "definition": "사물의 바탕이나 중심이 되는 중요한 것"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "sound": "근사",
+    "entries": [
+      {
+        "word": "近思",
+        "hanjaComposition": [
+          "近",
+          "思"
+        ],
+        "definition": "높고 먼 이상을 좇지 아니하고 자기 몸 가까운 것을 생각함"
+      },
+      {
+        "word": "勤事",
+        "hanjaComposition": [
+          "勤",
+          "事"
+        ],
+        "definition": "일에 공들임"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "sound": "단서",
+    "entries": [
+      {
+        "word": "端緒",
+        "hanjaComposition": [
+          "端",
+          "緒"
+        ],
+        "definition": "어떤 문제를 해결하는 방향으로 이끌어 가는 일의 첫 부분"
+      },
+      {
+        "word": "丹書",
+        "hanjaComposition": [
+          "丹",
+          "書"
+        ],
+        "definition": "바위나 돌에 새긴 글"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "sound": "독도",
+    "entries": [
+      {
+        "word": "獨島",
+        "hanjaComposition": [
+          "獨",
+          "島"
+        ],
+        "definition": "경상북도 울릉군에 속하는 화산섬"
+      },
+      {
+        "word": "讀圖",
+        "hanjaComposition": [
+          "讀",
+          "圖"
+        ],
+        "definition": "지도나 도면을 보고 그 내용을 알아냄"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "sound": "기구",
+    "entries": [
+      {
+        "word": "機構",
+        "hanjaComposition": [
+          "機",
+          "構"
+        ],
+        "definition": "많은 사람이 모여 어떤 목적을 위하여 구성한 조직이나 기관의 구성 체계"
+      },
+      {
+        "word": "器具",
+        "hanjaComposition": [
+          "器",
+          "具"
+        ],
+        "definition": "세간, 도구, 기계 따위를 통틀어 이르는 말"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "sound": "단정",
+    "entries": [
+      {
+        "word": "端正",
+        "hanjaComposition": [
+          "端",
+          "正"
+        ],
+        "definition": "옷차림새나 몸가짐 따위가 얌전하고 바름"
+      },
+      {
+        "word": "斷定",
+        "hanjaComposition": [
+          "斷",
+          "定"
+        ],
+        "definition": "딱 잘라 판단하고 결정함"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "sound": "동정",
+    "entries": [
+      {
+        "word": "動靜",
+        "hanjaComposition": [
+          "動",
+          "靜"
+        ],
+        "definition": "물질의 운동과 정지"
+      },
+      {
+        "word": "同情",
+        "hanjaComposition": [
+          "同",
+          "情"
+        ],
+        "definition": "남의 어려운 처지를 자기 일처럼 딱하고 가엾게 여김"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "sound": "기사",
+    "entries": [
+      {
+        "word": "記事",
+        "hanjaComposition": [
+          "記",
+          "事"
+        ],
+        "definition": "사실을 적음. 또는 그런 글"
+      },
+      {
+        "word": "技師",
+        "hanjaComposition": [
+          "技",
+          "師"
+        ],
+        "definition": "관청이나 회사에서 전문 지식이 필요한 특별한 기술 업무를 맡아보는 사람"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "sound": "대기",
+    "entries": [
+      {
+        "word": "大氣",
+        "hanjaComposition": [
+          "大",
+          "氣"
+        ],
+        "definition": "천체의 표면을 둘러싸고 있는 기체"
+      },
+      {
+        "word": "待期",
+        "hanjaComposition": [
+          "待",
+          "期"
+        ],
+        "definition": "때나 기회를 기다림"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "sound": "동지",
+    "entries": [
+      {
+        "word": "冬至",
+        "hanjaComposition": [
+          "冬",
+          "至"
+        ],
+        "definition": "음력으로 열한 번째 달"
+      },
+      {
+        "word": "同志",
+        "hanjaComposition": [
+          "同",
+          "志"
+        ],
+        "definition": "목적이나 뜻이 서로 같음. 또는 그런 사람"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "sound": "단기",
+    "entries": [
+      {
+        "word": "短期",
+        "hanjaComposition": [
+          "短",
+          "期"
+        ],
+        "definition": "짧은 기간"
+      },
+      {
+        "word": "檀紀",
+        "hanjaComposition": [
+          "檀",
+          "紀"
+        ],
+        "definition": "단군이 즉위한 해인 서력 기원전 2333년을 원년으로 하는 기원"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "sound": "대신",
+    "entries": [
+      {
+        "word": "代身",
+        "hanjaComposition": [
+          "代",
+          "身"
+        ],
+        "definition": "어떤 대상의 자리나 구실을 바꾸어서 새로 맡음"
+      },
+      {
+        "word": "大臣",
+        "hanjaComposition": [
+          "大",
+          "臣"
+        ],
+        "definition": "군주 국가에서 장관을 이르는 말"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "sound": "동화",
+    "entries": [
+      {
+        "word": "動畫",
+        "hanjaComposition": [
+          "動",
+          "畫"
+        ],
+        "definition": "만화 영화에서 한 장면 한 장면의 그림을 이르는 말"
+      },
+      {
+        "word": "童話",
+        "hanjaComposition": [
+          "童",
+          "話"
+        ],
+        "definition": "어린이를 위하여 동심을 바탕으로 지은 이야기"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "sound": "단명",
+    "entries": [
+      {
+        "word": "短命",
+        "hanjaComposition": [
+          "短",
+          "命"
+        ],
+        "definition": "목숨이 짧음"
+      },
+      {
+        "word": "單名",
+        "hanjaComposition": [
+          "單",
+          "名"
+        ],
+        "definition": "단일한 개념을 나타내는 명사"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "sound": "도로",
+    "entries": [
+      {
+        "word": "道路",
+        "hanjaComposition": [
+          "道",
+          "路"
+        ],
+        "definition": "사람, 차가 다니도록 만든 넓은 길"
+      },
+      {
+        "word": "徒勞",
+        "hanjaComposition": [
+          "徒",
+          "勞"
+        ],
+        "definition": "헛되이 수고함"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "sound": "만석",
+    "entries": [
+      {
+        "word": "萬石",
+        "hanjaComposition": [
+          "萬",
+          "石"
+        ],
+        "definition": "곡식의 일만 섬"
+      },
+      {
+        "word": "滿席",
+        "hanjaComposition": [
+          "滿",
+          "席"
+        ],
+        "definition": "정한 자리가 다 참"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "sound": "면직",
+    "entries": [
+      {
+        "word": "免職",
+        "hanjaComposition": [
+          "免",
+          "職"
+        ],
+        "definition": "일정한 직위나 직무에서 물러나게 함"
+      },
+      {
+        "word": "綿織",
+        "hanjaComposition": [
+          "綿",
+          "織"
+        ],
+        "definition": "목화솜으로 짠 피륙"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "sound": "발전",
+    "entries": [
+      {
+        "word": "發展",
+        "hanjaComposition": [
+          "發",
+          "展"
+        ],
+        "definition": "더 낫고 좋은 상태나 더 높은 단계로 나아감"
+      },
+      {
+        "word": "發電",
+        "hanjaComposition": [
+          "發",
+          "電"
+        ],
+        "definition": "전기를 일으킴"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "sound": "보고",
+    "entries": [
+      {
+        "word": "報告",
+        "hanjaComposition": [
+          "報",
+          "告"
+        ],
+        "definition": "일에 관한 내용이나 결과를 말이나 글로 알림"
+      },
+      {
+        "word": "寶庫",
+        "hanjaComposition": [
+          "寶",
+          "庫"
+        ],
+        "definition": "귀중한 물건을 간수해 두는 창고"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "sound": "모연",
+    "entries": [
+      {
+        "word": "募緣",
+        "hanjaComposition": [
+          "募",
+          "緣"
+        ],
+        "definition": "승려가 시주에게 돈이나 물건을 기부하게 하여 좋은 인연을 맺게 함"
+      },
+      {
+        "word": "暮煙",
+        "hanjaComposition": [
+          "暮",
+          "煙"
+        ],
+        "definition": "저녁 무렵의 연기"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "sound": "방금",
+    "entries": [
+      {
+        "word": "防禁",
+        "hanjaComposition": [
+          "防",
+          "禁"
+        ],
+        "definition": "못 하게 막아서 금함"
+      },
+      {
+        "word": "方今",
+        "hanjaComposition": [
+          "方",
+          "今"
+        ],
+        "definition": "말하고 있는 시점보다 바로 조금 전"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "sound": "보도",
+    "entries": [
+      {
+        "word": "步道",
+        "hanjaComposition": [
+          "步",
+          "道"
+        ],
+        "definition": "보행자의 통행에 사용하도록 된 도로"
+      },
+      {
+        "word": "報道",
+        "hanjaComposition": [
+          "報",
+          "道"
+        ],
+        "definition": "대중 전달 매체를 통하여 일반 사람들에게 새로운 소식을 알림"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "sound": "무사",
+    "entries": [
+      {
+        "word": "無事",
+        "hanjaComposition": [
+          "無",
+          "事"
+        ],
+        "definition": "아무런 일이 없음"
+      },
+      {
+        "word": "武士",
+        "hanjaComposition": [
+          "武",
+          "士"
+        ],
+        "definition": "무예를 익히어 그 방면에 종사하는 사람"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "sound": "방문",
+    "entries": [
+      {
+        "word": "訪問",
+        "hanjaComposition": [
+          "訪",
+          "問"
+        ],
+        "definition": "어떤 사람이나 장소를 찾아가서 만나거나 봄"
+      },
+      {
+        "word": "房門",
+        "hanjaComposition": [
+          "房",
+          "門"
+        ],
+        "definition": "방으로 드나드는 문"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "sound": "부상",
+    "entries": [
+      {
+        "word": "負傷",
+        "hanjaComposition": [
+          "負",
+          "傷"
+        ],
+        "definition": "몸에 상처를 입음"
+      },
+      {
+        "word": "副賞",
+        "hanjaComposition": [
+          "副",
+          "賞"
+        ],
+        "definition": "본상에 딸린 상금이나 상품"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "sound": "무산",
+    "entries": [
+      {
+        "word": "霧散",
+        "hanjaComposition": [
+          "霧",
+          "散"
+        ],
+        "definition": "안개가 걷히듯 흩어져 없어짐"
+      },
+      {
+        "word": "無算",
+        "hanjaComposition": [
+          "無",
+          "算"
+        ],
+        "definition": "이루 다 헤아릴 수 없이 많음"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "sound": "변경",
+    "entries": [
+      {
+        "word": "邊境",
+        "hanjaComposition": [
+          "邊",
+          "境"
+        ],
+        "definition": "나라의 경계가 되는 변두리의 땅"
+      },
+      {
+        "word": "變更",
+        "hanjaComposition": [
+          "變",
+          "更"
+        ],
+        "definition": "다르게 바꾸어 새롭게 고침"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "sound": "부양",
+    "entries": [
+      {
+        "word": "扶養",
+        "hanjaComposition": [
+          "扶",
+          "養"
+        ],
+        "definition": "생활 능력이 없는 사람의 생활을 돌봄"
+      },
+      {
+        "word": "浮揚",
+        "hanjaComposition": [
+          "浮",
+          "揚"
+        ],
+        "definition": "가라앉은 것이 떠오름"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "sound": "문안",
+    "entries": [
+      {
+        "word": "問安",
+        "hanjaComposition": [
+          "問",
+          "安"
+        ],
+        "definition": "웃어른께 안부를 여쭘. 또는 그런 인사"
+      },
+      {
+        "word": "文案",
+        "hanjaComposition": [
+          "文",
+          "案"
+        ],
+        "definition": "나중에 자세하게 참고하거나 검토할 문서와 장부"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "sound": "병사",
+    "entries": [
+      {
+        "word": "病死",
+        "hanjaComposition": [
+          "病",
+          "死"
+        ],
+        "definition": "병으로 죽음. 또는 그런 일"
+      },
+      {
+        "word": "兵事",
+        "hanjaComposition": [
+          "兵",
+          "事"
+        ],
+        "definition": "군대, 군비, 전쟁 따위와 같은 군에 관한 일"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "sound": "부인",
+    "entries": [
+      {
+        "word": "婦人",
+        "hanjaComposition": [
+          "婦",
+          "人"
+        ],
+        "definition": "결혼한 여자"
+      },
+      {
+        "word": "否認",
+        "hanjaComposition": [
+          "否",
+          "認"
+        ],
+        "definition": "어떤 내용이나 사실을 옳거나 그러하다고 인정하지 아니함"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "sound": "부자",
+    "entries": [
+      {
+        "word": "富者",
+        "hanjaComposition": [
+          "富",
+          "者"
+        ],
+        "definition": "재물이 많아 살림이 넉넉한 사람"
+      },
+      {
+        "word": "父子",
+        "hanjaComposition": [
+          "父",
+          "子"
+        ],
+        "definition": "아버지와 아들을 아울러 이르는 말"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "sound": "사기",
+    "entries": [
+      {
+        "word": "寺基",
+        "hanjaComposition": [
+          "寺",
+          "基"
+        ],
+        "definition": "절을 세울 터"
+      },
+      {
+        "word": "史記",
+        "hanjaComposition": [
+          "史",
+          "記"
+        ],
+        "definition": "역사적 사실을 기록한 책"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "sound": "상가",
+    "entries": [
+      {
+        "word": "商街",
+        "hanjaComposition": [
+          "商",
+          "街"
+        ],
+        "definition": "상점들이 죽 늘어서 있는 거리"
+      },
+      {
+        "word": "喪家",
+        "hanjaComposition": [
+          "喪",
+          "家"
+        ],
+        "definition": "사람이 죽어 장례를 치르는 집"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "sound": "불가",
+    "entries": [
+      {
+        "word": "不可",
+        "hanjaComposition": [
+          "不",
+          "可"
+        ],
+        "definition": "옳지 않음"
+      },
+      {
+        "word": "佛家",
+        "hanjaComposition": [
+          "佛",
+          "家"
+        ],
+        "definition": "승려가 불상을 모시고 불도를 닦으며 교법을 펴는 집"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "sound": "사용",
+    "entries": [
+      {
+        "word": "使用",
+        "hanjaComposition": [
+          "使",
+          "用"
+        ],
+        "definition": "일정한 목적이나 기능에 맞게 씀"
+      },
+      {
+        "word": "私用",
+        "hanjaComposition": [
+          "私",
+          "用"
+        ],
+        "definition": "공공의 물건을 사사로이 씀. 또는 그 물건"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "sound": "상무",
+    "entries": [
+      {
+        "word": "尙武",
+        "hanjaComposition": [
+          "尙",
+          "武"
+        ],
+        "definition": "무예를 중히 여겨 높이 받듦"
+      },
+      {
+        "word": "商務",
+        "hanjaComposition": [
+          "商",
+          "務"
+        ],
+        "definition": "상업상의 업무나 볼일"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "sound": "비명",
+    "entries": [
+      {
+        "word": "碑銘",
+        "hanjaComposition": [
+          "碑",
+          "銘"
+        ],
+        "definition": "비석에 새긴 글자"
+      },
+      {
+        "word": "悲鳴",
+        "hanjaComposition": [
+          "悲",
+          "鳴"
+        ],
+        "definition": "슬피 욺"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "sound": "사유",
+    "entries": [
+      {
+        "word": "私有",
+        "hanjaComposition": [
+          "私",
+          "有"
+        ],
+        "definition": "개인이 사사로이 소유함. 또는 그런 소유물"
+      },
+      {
+        "word": "事由",
+        "hanjaComposition": [
+          "事",
+          "由"
+        ],
+        "definition": "일의 까닭"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "sound": "상설",
+    "entries": [
+      {
+        "word": "常設",
+        "hanjaComposition": [
+          "常",
+          "設"
+        ],
+        "definition": "언제든지 이용할 수 있도록 설비와 시설을 갖춤"
+      },
+      {
+        "word": "相說",
+        "hanjaComposition": [
+          "相",
+          "說"
+        ],
+        "definition": "관상에서 예로부터 전해 오는 말"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "sound": "비행",
+    "entries": [
+      {
+        "word": "飛行",
+        "hanjaComposition": [
+          "飛",
+          "行"
+        ],
+        "definition": "공중으로 날아가거나 날아다님"
+      },
+      {
+        "word": "非行",
+        "hanjaComposition": [
+          "非",
+          "行"
+        ],
+        "definition": "잘못되거나 그릇된 행위"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "sound": "사인",
+    "entries": [
+      {
+        "word": "死人",
+        "hanjaComposition": [
+          "死",
+          "人"
+        ],
+        "definition": "죽은 사람"
+      },
+      {
+        "word": "死因",
+        "hanjaComposition": [
+          "死",
+          "因"
+        ],
+        "definition": "죽게 된 원인"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "sound": "상의",
+    "entries": [
+      {
+        "word": "商議",
+        "hanjaComposition": [
+          "商",
+          "議"
+        ],
+        "definition": "어떤 일을 서로 의논함"
+      },
+      {
+        "word": "上衣",
+        "hanjaComposition": [
+          "上",
+          "衣"
+        ],
+        "definition": "윗옷"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "sound": "사고",
+    "entries": [
+      {
+        "word": "事故",
+        "hanjaComposition": [
+          "事",
+          "故"
+        ],
+        "definition": "뜻밖에 일어난 불행한 일"
+      },
+      {
+        "word": "思考",
+        "hanjaComposition": [
+          "思",
+          "考"
+        ],
+        "definition": "생각하고 궁리함"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "sound": "사형",
+    "entries": [
+      {
+        "word": "死刑",
+        "hanjaComposition": [
+          "死",
+          "刑"
+        ],
+        "definition": "수형자의 목숨을 끊음"
+      },
+      {
+        "word": "舍兄",
+        "hanjaComposition": [
+          "舍",
+          "兄"
+        ],
+        "definition": "남에게 자기의 맏형을 겸손하게 이르는 말"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "sound": "성화",
+    "entries": [
+      {
+        "word": "星火",
+        "hanjaComposition": [
+          "星",
+          "火"
+        ],
+        "definition": "지구의 대기권으로 들어와 빛을 내며 떨어지는 물체"
+      },
+      {
+        "word": "聖畫",
+        "hanjaComposition": [
+          "聖",
+          "畫"
+        ],
+        "definition": "기독교의 내용을 그린 종교화"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "sound": "세정",
+    "entries": [
+      {
+        "word": "世情",
+        "hanjaComposition": [
+          "世",
+          "情"
+        ],
+        "definition": "세상의 사정이나 형편"
+      },
+      {
+        "word": "稅政",
+        "hanjaComposition": [
+          "稅",
+          "政"
+        ],
+        "definition": "세무에 관한 행정"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "sound": "수석",
+    "entries": [
+      {
+        "word": "樹石",
+        "hanjaComposition": [
+          "樹",
+          "石"
+        ],
+        "definition": "나무와 돌을 아울러 이르는 말"
+      },
+      {
+        "word": "首席",
+        "hanjaComposition": [
+          "首",
+          "席"
+        ],
+        "definition": "등급이나 직위 따위에서 맨 윗자리"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "sound": "시상",
+    "entries": [
+      {
+        "word": "詩想",
+        "hanjaComposition": [
+          "詩",
+          "想"
+        ],
+        "definition": "시를 짓기 위한 착상이나 구상"
+      },
+      {
+        "word": "施賞",
+        "hanjaComposition": [
+          "施",
+          "賞"
+        ],
+        "definition": "상장이나 상품, 상금 따위를 줌"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "sound": "소재",
+    "entries": [
+      {
+        "word": "所在",
+        "hanjaComposition": [
+          "所",
+          "在"
+        ],
+        "definition": "어떤 곳에 있음. 또는 있는 곳"
+      },
+      {
+        "word": "素材",
+        "hanjaComposition": [
+          "素",
+          "材"
+        ],
+        "definition": "어떤 것을 만드는 데 바탕이 되는 재료"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "sound": "수습",
+    "entries": [
+      {
+        "word": "修習",
+        "hanjaComposition": [
+          "修",
+          "習"
+        ],
+        "definition": "학업이나 실무 따위를 배워 익힘"
+      },
+      {
+        "word": "收拾",
+        "hanjaComposition": [
+          "收",
+          "拾"
+        ],
+        "definition": "흩어진 재산이나 물건을 거두어 정돈함"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "sound": "시선",
+    "entries": [
+      {
+        "word": "視線",
+        "hanjaComposition": [
+          "視",
+          "線"
+        ],
+        "definition": "눈이 가는 길. 또는 눈의 방향"
+      },
+      {
+        "word": "試選",
+        "hanjaComposition": [
+          "試",
+          "選"
+        ],
+        "definition": "시험을 보아 뽑음"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "sound": "소화",
+    "entries": [
+      {
+        "word": "消化",
+        "hanjaComposition": [
+          "消",
+          "化"
+        ],
+        "definition": "섭취한 음식물을 분해하여 영양분을 흡수하기 쉬운 형태로 변화시키는 일"
+      },
+      {
+        "word": "笑話",
+        "hanjaComposition": [
+          "笑",
+          "話"
+        ],
+        "definition": "우스운 이야기를 함"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "sound": "시가",
+    "entries": [
+      {
+        "word": "詩歌",
+        "hanjaComposition": [
+          "詩",
+          "歌"
+        ],
+        "definition": "가사를 포함한 시 문학을 통틀어 이르는 말"
+      },
+      {
+        "word": "市街",
+        "hanjaComposition": [
+          "市",
+          "街"
+        ],
+        "definition": "도시의 큰 길거리"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "sound": "시인",
+    "entries": [
+      {
+        "word": "詩人",
+        "hanjaComposition": [
+          "詩",
+          "人"
+        ],
+        "definition": "시를 전문적으로 짓는 사람"
+      },
+      {
+        "word": "是認",
+        "hanjaComposition": [
+          "是",
+          "認"
+        ],
+        "definition": "어떤 내용이나 사실이 옳거나 그러하다고 인정함"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "sound": "속기",
+    "entries": [
+      {
+        "word": "速記",
+        "hanjaComposition": [
+          "速",
+          "記"
+        ],
+        "definition": "꽤 빨리 적음"
+      },
+      {
+        "word": "俗氣",
+        "hanjaComposition": [
+          "俗",
+          "氣"
+        ],
+        "definition": "속계의 공통적인 기질"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "sound": "시공",
+    "entries": [
+      {
+        "word": "施工",
+        "hanjaComposition": [
+          "施",
+          "工"
+        ],
+        "definition": "공사를 시행함"
+      },
+      {
+        "word": "時空",
+        "hanjaComposition": [
+          "時",
+          "空"
+        ],
+        "definition": "시간과 공간을 아울러 이르는 말"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "sound": "신선",
+    "entries": [
+      {
+        "word": "新鮮",
+        "hanjaComposition": [
+          "新",
+          "鮮"
+        ],
+        "definition": "새롭고 산뜻함"
+      },
+      {
+        "word": "神仙",
+        "hanjaComposition": [
+          "神",
+          "仙"
+        ],
+        "definition": "도를 닦아서 현실의 인간 세계를 떠나 자연과 벗하며 산다는 상상의 사람"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "sound": "수상",
+    "entries": [
+      {
+        "word": "受賞",
+        "hanjaComposition": [
+          "受",
+          "賞"
+        ],
+        "definition": "상을 받음"
+      },
+      {
+        "word": "手相",
+        "hanjaComposition": [
+          "手",
+          "相"
+        ],
+        "definition": "손금이나 손의 모양"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "sound": "시비",
+    "entries": [
+      {
+        "word": "施肥",
+        "hanjaComposition": [
+          "施",
+          "肥"
+        ],
+        "definition": "거름을 주는 일"
+      },
+      {
+        "word": "詩碑",
+        "hanjaComposition": [
+          "詩",
+          "碑"
+        ],
+        "definition": "시를 새긴 비석"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "sound": "신축",
+    "entries": [
+      {
+        "word": "伸縮",
+        "hanjaComposition": [
+          "伸",
+          "縮"
+        ],
+        "definition": "늘고 줆"
+      },
+      {
+        "word": "新築",
+        "hanjaComposition": [
+          "新",
+          "築"
+        ],
+        "definition": "건물 따위를 새로 만듦"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "sound": "실례",
+    "entries": [
+      {
+        "word": "失禮",
+        "hanjaComposition": [
+          "失",
+          "禮"
+        ],
+        "definition": "말이나 행동이 예의에 벗어남"
+      },
+      {
+        "word": "實例",
+        "hanjaComposition": [
+          "實",
+          "例"
+        ],
+        "definition": "구체적인 실제의 보기"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "sound": "역사",
+    "entries": [
+      {
+        "word": "力士",
+        "hanjaComposition": [
+          "力",
+          "士"
+        ],
+        "definition": "뛰어나게 힘이 센 사람"
+      },
+      {
+        "word": "歷史",
+        "hanjaComposition": [
+          "歷",
+          "史"
+        ],
+        "definition": "인류 사회의 변천과 흥망의 과정. 또는 그 기록"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "sound": "유명",
+    "entries": [
+      {
+        "word": "幽冥",
+        "hanjaComposition": [
+          "幽",
+          "冥"
+        ],
+        "definition": "깊숙하고 어두움"
+      },
+      {
+        "word": "乳名",
+        "hanjaComposition": [
+          "乳",
+          "名"
+        ],
+        "definition": "아이 때의 이름"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "sound": "안전",
+    "entries": [
+      {
+        "word": "安全",
+        "hanjaComposition": [
+          "安",
+          "全"
+        ],
+        "definition": "위험이 생기거나 사고가 날 염려가 없음"
+      },
+      {
+        "word": "眼前",
+        "hanjaComposition": [
+          "眼",
+          "前"
+        ],
+        "definition": "눈으로 볼 수 있는 아주 가까운 곳"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "sound": "역설",
+    "entries": [
+      {
+        "word": "力說",
+        "hanjaComposition": [
+          "力",
+          "說"
+        ],
+        "definition": "자기의 뜻을 힘주어 말함. 또는 그런 말"
+      },
+      {
+        "word": "逆說",
+        "hanjaComposition": [
+          "逆",
+          "說"
+        ],
+        "definition": "어떤 주의나 주장에 반대되는 이론이나 말"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "sound": "유치",
+    "entries": [
+      {
+        "word": "誘致",
+        "hanjaComposition": [
+          "誘",
+          "致"
+        ],
+        "definition": "꾀어서 데려옴"
+      },
+      {
+        "word": "留置",
+        "hanjaComposition": [
+          "留",
+          "置"
+        ],
+        "definition": "남의 물건을 맡아 둠"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "sound": "양성",
+    "entries": [
+      {
+        "word": "養成",
+        "hanjaComposition": [
+          "養",
+          "成"
+        ],
+        "definition": "가르쳐서 유능한 사람을 길러 냄"
+      },
+      {
+        "word": "陽性",
+        "hanjaComposition": [
+          "陽",
+          "性"
+        ],
+        "definition": "적극적이고 활동적인 성질을 이름"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "sound": "연기",
+    "entries": [
+      {
+        "word": "延期",
+        "hanjaComposition": [
+          "延",
+          "期"
+        ],
+        "definition": "정해진 기한을 뒤로 물려서 늘림"
+      },
+      {
+        "word": "年紀",
+        "hanjaComposition": [
+          "年",
+          "紀"
+        ],
+        "definition": "대강의 나이"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "sound": "육성",
+    "entries": [
+      {
+        "word": "育成",
+        "hanjaComposition": [
+          "育",
+          "成"
+        ],
+        "definition": "길러 자라게 함"
+      },
+      {
+        "word": "六省",
+        "hanjaComposition": [
+          "六",
+          "省"
+        ],
+        "definition": "중국 당나라 때에 둔 중앙 정부의 여섯 관아"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "sound": "양식",
+    "entries": [
+      {
+        "word": "洋式",
+        "hanjaComposition": [
+          "洋",
+          "式"
+        ],
+        "definition": "서양의 양식이나 격식"
+      },
+      {
+        "word": "良識",
+        "hanjaComposition": [
+          "良",
+          "識"
+        ],
+        "definition": "뛰어난 식견이나 건전한 판단"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "sound": "우수",
+    "entries": [
+      {
+        "word": "憂愁",
+        "hanjaComposition": [
+          "憂",
+          "愁"
+        ],
+        "definition": "근심과 걱정을 아울러 이르는 말"
+      },
+      {
+        "word": "優秀",
+        "hanjaComposition": [
+          "優",
+          "秀"
+        ],
+        "definition": "여럿 가운데 뛰어남"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "sound": "응시",
+    "entries": [
+      {
+        "word": "凝視",
+        "hanjaComposition": [
+          "凝",
+          "視"
+        ],
+        "definition": "눈길을 모아 한 곳을 똑바로 바라봄"
+      },
+      {
+        "word": "應試",
+        "hanjaComposition": [
+          "應",
+          "試"
+        ],
+        "definition": "시험에 응함"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "sound": "양육",
+    "entries": [
+      {
+        "word": "養育",
+        "hanjaComposition": [
+          "養",
+          "育"
+        ],
+        "definition": "아이를 보살피며 자라게 함"
+      },
+      {
+        "word": "羊肉",
+        "hanjaComposition": [
+          "羊",
+          "肉"
+        ],
+        "definition": "양의 고기"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "sound": "운수",
+    "entries": [
+      {
+        "word": "運輸",
+        "hanjaComposition": [
+          "運",
+          "輸"
+        ],
+        "definition": "운송이나 운반보다 큰 규모로 사람을 태워 나르거나 물건을 실어 나름"
+      },
+      {
+        "word": "運數",
+        "hanjaComposition": [
+          "運",
+          "數"
+        ],
+        "definition": "이미 정하여져 있어 인간의 힘으로는 어쩔 수 없는 천운과 기수"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "sound": "의거",
+    "entries": [
+      {
+        "word": "依據",
+        "hanjaComposition": [
+          "依",
+          "據"
+        ],
+        "definition": "어떤 사실이나 원리 따위에 근거함"
+      },
+      {
+        "word": "義擧",
+        "hanjaComposition": [
+          "義",
+          "擧"
+        ],
+        "definition": "정의를 위하여 개인이나 집단이 의로운 일을 도모함"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "sound": "의사",
+    "entries": [
+      {
+        "word": "義士",
+        "hanjaComposition": [
+          "義",
+          "士"
+        ],
+        "definition": "의로운 지사"
+      },
+      {
+        "word": "醫師",
+        "hanjaComposition": [
+          "醫",
+          "師"
+        ],
+        "definition": "일정한 자격을 가지고 병을 고치는 것을 직업으로 하는 사람"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "sound": "인도",
+    "entries": [
+      {
+        "word": "人道",
+        "hanjaComposition": [
+          "人",
+          "道"
+        ],
+        "definition": "보행자의 통행에 사용하도록 된 도로"
+      },
+      {
+        "word": "引導",
+        "hanjaComposition": [
+          "引",
+          "導"
+        ],
+        "definition": "이끌어 지도함"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "sound": "재단",
+    "entries": [
+      {
+        "word": "財團",
+        "hanjaComposition": [
+          "財",
+          "團"
+        ],
+        "definition": "어떤 사람의 사적 재산을, 채권자나 제삼자의 권리를 보호하기 위해 법률적으로 그 사람의 다른 재산과 구별해 다루는 것"
+      },
+      {
+        "word": "裁斷",
+        "hanjaComposition": [
+          "裁",
+          "斷"
+        ],
+        "definition": "옳고 그름을 가려 결정함"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "sound": "이상",
+    "entries": [
+      {
+        "word": "理想",
+        "hanjaComposition": [
+          "理",
+          "想"
+        ],
+        "definition": "생각할 수 있는 범위 안에서 가장 완전하다고 여겨지는 상태"
+      },
+      {
+        "word": "以上",
+        "hanjaComposition": [
+          "以",
+          "上"
+        ],
+        "definition": "수량이나 정도가 일정한 기준보다 더 많거나 나음"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "sound": "인정",
+    "entries": [
+      {
+        "word": "人情",
+        "hanjaComposition": [
+          "人",
+          "情"
+        ],
+        "definition": "사람이 본래 가지고 있는 감정이나 심정"
+      },
+      {
+        "word": "認定",
+        "hanjaComposition": [
+          "認",
+          "定"
+        ],
+        "definition": "확실히 그렇다고 여김"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "sound": "재화",
+    "entries": [
+      {
+        "word": "災禍",
+        "hanjaComposition": [
+          "災",
+          "禍"
+        ],
+        "definition": "재앙과 화난을 아울러 이르는 말"
+      },
+      {
+        "word": "載貨",
+        "hanjaComposition": [
+          "載",
+          "貨"
+        ],
+        "definition": "화물을 차나 배에 실음"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "sound": "이성",
+    "entries": [
+      {
+        "word": "異性",
+        "hanjaComposition": [
+          "異",
+          "性"
+        ],
+        "definition": "성질이 다름. 또는 다른 성질"
+      },
+      {
+        "word": "理性",
+        "hanjaComposition": [
+          "理",
+          "性"
+        ],
+        "definition": "개념적으로 사유하는 능력을 감각적 능력에 상대하여 이르는 말"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "sound": "장수",
+    "entries": [
+      {
+        "word": "長壽",
+        "hanjaComposition": [
+          "長",
+          "壽"
+        ],
+        "definition": "오래도록 삶"
+      },
+      {
+        "word": "將帥",
+        "hanjaComposition": [
+          "將",
+          "帥"
+        ],
+        "definition": "군사를 거느리는 우두머리"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "sound": "전기",
+    "entries": [
+      {
+        "word": "傳奇",
+        "hanjaComposition": [
+          "傳",
+          "奇"
+        ],
+        "definition": "전하여 오는 기이한 일을 세상에 전함"
+      },
+      {
+        "word": "電氣",
+        "hanjaComposition": [
+          "電",
+          "氣"
+        ],
+        "definition": "물질 안에 있는 전자 또는 공간에 있는 자유 전자나 이온들의 움직임 때문에 생기는 에너지의 한 형태"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "sound": "이해",
+    "entries": [
+      {
+        "word": "利害",
+        "hanjaComposition": [
+          "利",
+          "害"
+        ],
+        "definition": "이익과 손해를 아울러 이르는 말"
+      },
+      {
+        "word": "理解",
+        "hanjaComposition": [
+          "理",
+          "解"
+        ],
+        "definition": "사리를 분별하여 해석함"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "sound": "재고",
+    "entries": [
+      {
+        "word": "再考",
+        "hanjaComposition": [
+          "再",
+          "考"
+        ],
+        "definition": "어떤 일이나 문제 따위에 대하여 다시 생각함"
+      },
+      {
+        "word": "在庫",
+        "hanjaComposition": [
+          "在",
+          "庫"
+        ],
+        "definition": "창고 따위에 쌓여 있음"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "sound": "전례",
+    "entries": [
+      {
+        "word": "前例",
+        "hanjaComposition": [
+          "前",
+          "例"
+        ],
+        "definition": "이전부터 있었던 사례"
+      },
+      {
+        "word": "典例",
+        "hanjaComposition": [
+          "典",
+          "例"
+        ],
+        "definition": "전거가 되는 선례"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "sound": "전시",
+    "entries": [
+      {
+        "word": "展示",
+        "hanjaComposition": [
+          "展",
+          "示"
+        ],
+        "definition": "여러 가지 물품을 한곳에 벌여 놓고 보임"
+      },
+      {
+        "word": "戰時",
+        "hanjaComposition": [
+          "戰",
+          "時"
+        ],
+        "definition": "전쟁이 벌어진 때"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "sound": "제도",
+    "entries": [
+      {
+        "word": "制度",
+        "hanjaComposition": [
+          "制",
+          "度"
+        ],
+        "definition": "관습이나 도덕, 법률 따위의 규범이나 사회 구조의 체계"
+      },
+      {
+        "word": "製圖",
+        "hanjaComposition": [
+          "製",
+          "圖"
+        ],
+        "definition": "기계, 건축물, 공작물 따위의 도면이나 도안을 그림"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "sound": "조화",
+    "entries": [
+      {
+        "word": "造化",
+        "hanjaComposition": [
+          "造",
+          "化"
+        ],
+        "definition": "만물을 창조하고 기르는 대자연의 이치"
+      },
+      {
+        "word": "調和",
+        "hanjaComposition": [
+          "調",
+          "和"
+        ],
+        "definition": "서로 잘 어울림"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "sound": "전원",
+    "entries": [
+      {
+        "word": "全員",
+        "hanjaComposition": [
+          "全",
+          "員"
+        ],
+        "definition": "소속된 인원의 전체"
+      },
+      {
+        "word": "全院",
+        "hanjaComposition": [
+          "全",
+          "院"
+        ],
+        "definition": "한 원(院)의 전체"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "sound": "제약",
+    "entries": [
+      {
+        "word": "制約",
+        "hanjaComposition": [
+          "制",
+          "約"
+        ],
+        "definition": "조건을 붙여 내용을 제한함. 또는 그 조건"
+      },
+      {
+        "word": "製藥",
+        "hanjaComposition": [
+          "製",
+          "藥"
+        ],
+        "definition": "약제를 섞어서 약을 만듦. 또는 그 약"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "sound": "중도",
+    "entries": [
+      {
+        "word": "中度",
+        "hanjaComposition": [
+          "中",
+          "度"
+        ],
+        "definition": "알맞은 정도"
+      },
+      {
+        "word": "中道",
+        "hanjaComposition": [
+          "中",
+          "道"
+        ],
+        "definition": "어느 한쪽으로 치우치지 아니하는 바른 길"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "sound": "전자",
+    "entries": [
+      {
+        "word": "前者",
+        "hanjaComposition": [
+          "前",
+          "者"
+        ],
+        "definition": "말하는 때 이전의 지나간 차례나 때"
+      },
+      {
+        "word": "電子",
+        "hanjaComposition": [
+          "電",
+          "子"
+        ],
+        "definition": "음전하를 가지고 원자핵의 주위를 도는 소립자의 하나"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "sound": "제재",
+    "entries": [
+      {
+        "word": "制裁",
+        "hanjaComposition": [
+          "制",
+          "裁"
+        ],
+        "definition": "일정한 규칙이나 관습의 위반에 대하여 제한하거나 금지함. 또는 그런 조치"
+      },
+      {
+        "word": "題材",
+        "hanjaComposition": [
+          "題",
+          "材"
+        ],
+        "definition": "예술 작품이나 학술 연구의 바탕이 되는 재료"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "sound": "지각",
+    "entries": [
+      {
+        "word": "遲刻",
+        "hanjaComposition": [
+          "遲",
+          "刻"
+        ],
+        "definition": "정해진 시각보다 늦게 출근하거나 등교함"
+      },
+      {
+        "word": "知覺",
+        "hanjaComposition": [
+          "知",
+          "覺"
+        ],
+        "definition": "알아서 깨달음. 또는 그런 능력"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "sound": "절감",
+    "entries": [
+      {
+        "word": "切感",
+        "hanjaComposition": [
+          "切",
+          "感"
+        ],
+        "definition": "절실히 느낌"
+      },
+      {
+        "word": "節減",
+        "hanjaComposition": [
+          "節",
+          "減"
+        ],
+        "definition": "아끼어 줄임"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "sound": "조성",
+    "entries": [
+      {
+        "word": "造成",
+        "hanjaComposition": [
+          "造",
+          "成"
+        ],
+        "definition": "무엇을 만들어서 이룸"
+      },
+      {
+        "word": "助成",
+        "hanjaComposition": [
+          "助",
+          "成"
+        ],
+        "definition": "도와서 이루게 함"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "sound": "지급",
+    "entries": [
+      {
+        "word": "至急",
+        "hanjaComposition": [
+          "至",
+          "急"
+        ],
+        "definition": "매우 급함"
+      },
+      {
+        "word": "支給",
+        "hanjaComposition": [
+          "支",
+          "給"
+        ],
+        "definition": "돈이나 물품 따위를 정하여진 몫만큼 내줌"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "sound": "정원",
+    "entries": [
+      {
+        "word": "定員",
+        "hanjaComposition": [
+          "定",
+          "員"
+        ],
+        "definition": "일정한 규정에 의하여 정한 인원"
+      },
+      {
+        "word": "庭園",
+        "hanjaComposition": [
+          "庭",
+          "園"
+        ],
+        "definition": "집 안에 있는 뜰이나 꽃밭"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "sound": "조차",
+    "entries": [
+      {
+        "word": "潮差",
+        "hanjaComposition": [
+          "潮",
+          "差"
+        ],
+        "definition": "밀물과 썰물 때의 수위의 차"
+      },
+      {
+        "word": "租借",
+        "hanjaComposition": [
+          "租",
+          "借"
+        ],
+        "definition": "삯을 물기로 하고 집이나 땅 따위를 빌림"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "sound": "지도",
+    "entries": [
+      {
+        "word": "指導",
+        "hanjaComposition": [
+          "指",
+          "導"
+        ],
+        "definition": "어떤 목적이나 방향으로 남을 가르쳐 이끎"
+      },
+      {
+        "word": "地圖",
+        "hanjaComposition": [
+          "地",
+          "圖"
+        ],
+        "definition": "지구 표면을 일정한 비율로 줄여, 이를 약속된 기호로 평면에 나타낸 그림"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "sound": "지적",
+    "entries": [
+      {
+        "word": "指摘",
+        "hanjaComposition": [
+          "指",
+          "摘"
+        ],
+        "definition": "꼭 집어서 가리킴"
+      },
+      {
+        "word": "知的",
+        "hanjaComposition": [
+          "知",
+          "的"
+        ],
+        "definition": "지식이나 지성에 관한, 또는 그런 것"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "sound": "천리",
+    "entries": [
+      {
+        "word": "天吏",
+        "hanjaComposition": [
+          "天",
+          "吏"
+        ],
+        "definition": "천명을 받들어 백성을 다스리는 사람이라는 뜻으로 임금을 이르는 말"
+      },
+      {
+        "word": "天理",
+        "hanjaComposition": [
+          "天",
+          "理"
+        ],
+        "definition": "천지자연의 이치. 또는 하늘의 바른 도리"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "sound": "치열",
+    "entries": [
+      {
+        "word": "治熱",
+        "hanjaComposition": [
+          "治",
+          "熱"
+        ],
+        "definition": "병의 근원이 되는 열기를 다스림. 또는 그런 일"
+      },
+      {
+        "word": "齒列",
+        "hanjaComposition": [
+          "齒",
+          "列"
+        ],
+        "definition": "이가 죽 박혀 있는 열의 생김새"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "sound": "진정",
+    "entries": [
+      {
+        "word": "眞情",
+        "hanjaComposition": [
+          "眞",
+          "情"
+        ],
+        "definition": "참되고 애틋한 정이나 마음"
+      },
+      {
+        "word": "眞正",
+        "hanjaComposition": [
+          "眞",
+          "正"
+        ],
+        "definition": "거짓이 없이 참으로"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "sound": "청결",
+    "entries": [
+      {
+        "word": "淸潔",
+        "hanjaComposition": [
+          "淸",
+          "潔"
+        ],
+        "definition": "맑고 깨끗함"
+      },
+      {
+        "word": "聽決",
+        "hanjaComposition": [
+          "聽",
+          "決"
+        ],
+        "definition": "송사를 자세히 듣고 판단함"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "sound": "타산",
+    "entries": [
+      {
+        "word": "打算",
+        "hanjaComposition": [
+          "打",
+          "算"
+        ],
+        "definition": "자신에게 도움이 되는지를 따져 헤아림"
+      },
+      {
+        "word": "他山",
+        "hanjaComposition": [
+          "他",
+          "山"
+        ],
+        "definition": "다른 산. 또는 다른 사람 소유의 산"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "sound": "착지",
+    "entries": [
+      {
+        "word": "着地",
+        "hanjaComposition": [
+          "着",
+          "地"
+        ],
+        "definition": "공중에서 땅으로 내림. 또는 그런 곳"
+      },
+      {
+        "word": "錯紙",
+        "hanjaComposition": [
+          "錯",
+          "紙"
+        ],
+        "definition": "책 따위를 맬 때 잘못하여 차례가 뒤바뀐 종이"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "sound": "초대",
+    "entries": [
+      {
+        "word": "初代",
+        "hanjaComposition": [
+          "初",
+          "代"
+        ],
+        "definition": "차례로 이어 나가는 자리나 지위에서 그 첫 번째에 해당하는 차례"
+      },
+      {
+        "word": "招待",
+        "hanjaComposition": [
+          "招",
+          "待"
+        ],
+        "definition": "어떤 모임에 참가해 줄 것을 청함"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "sound": "탄성",
+    "entries": [
+      {
+        "word": "彈性",
+        "hanjaComposition": [
+          "彈",
+          "性"
+        ],
+        "definition": "물체에 외부에서 힘을 가하면 부피와 모양이 바뀌었다가, 그 힘을 제거하면 본디의 모양으로 되돌아가려고 하는 성질"
+      },
+      {
+        "word": "歎聲",
+        "hanjaComposition": [
+          "歎",
+          "聲"
+        ],
+        "definition": "몹시 한탄하거나 탄식하는 소리"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "sound": "처형",
+    "entries": [
+      {
+        "word": "妻兄",
+        "hanjaComposition": [
+          "妻",
+          "兄"
+        ],
+        "definition": "아내의 언니를 이르거나 부르는 말"
+      },
+      {
+        "word": "處刑",
+        "hanjaComposition": [
+          "處",
+          "刑"
+        ],
+        "definition": "형벌에 처함"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "sound": "최고",
+    "entries": [
+      {
+        "word": "最古",
+        "hanjaComposition": [
+          "最",
+          "古"
+        ],
+        "definition": "가장 오래됨"
+      },
+      {
+        "word": "最高",
+        "hanjaComposition": [
+          "最",
+          "高"
+        ],
+        "definition": "가장 높음"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "sound": "탈취",
+    "entries": [
+      {
+        "word": "脫臭",
+        "hanjaComposition": [
+          "脫",
+          "臭"
+        ],
+        "definition": "냄새를 빼어 없앰"
+      },
+      {
+        "word": "奪取",
+        "hanjaComposition": [
+          "奪",
+          "取"
+        ],
+        "definition": "빼앗아 가짐"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "sound": "통화",
+    "entries": [
+      {
+        "word": "通話",
+        "hanjaComposition": [
+          "通",
+          "話"
+        ],
+        "definition": "전화로 말을 주고받음"
+      },
+      {
+        "word": "通貨",
+        "hanjaComposition": [
+          "通",
+          "貨"
+        ],
+        "definition": "유통 수단이나 지불 수단으로서 기능하는 화폐"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "sound": "해독",
+    "entries": [
+      {
+        "word": "解讀",
+        "hanjaComposition": [
+          "解",
+          "讀"
+        ],
+        "definition": "어려운 문구 따위를 읽어 이해하거나 해석함"
+      },
+      {
+        "word": "害毒",
+        "hanjaComposition": [
+          "害",
+          "毒"
+        ],
+        "definition": "좋고 바른 것을 망치거나 손해를 끼침. 또는 그 손해"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "sound": "호기",
+    "entries": [
+      {
+        "word": "胡騎",
+        "hanjaComposition": [
+          "胡",
+          "騎"
+        ],
+        "definition": "오랑캐의 기병"
+      },
+      {
+        "word": "豪氣",
+        "hanjaComposition": [
+          "豪",
+          "氣"
+        ],
+        "definition": "씩씩하고 호방한 기상"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "sound": "표지",
+    "entries": [
+      {
+        "word": "表紙",
+        "hanjaComposition": [
+          "表",
+          "紙"
+        ],
+        "definition": "책의 맨 앞뒤의 겉장"
+      },
+      {
+        "word": "標識",
+        "hanjaComposition": [
+          "標",
+          "識"
+        ],
+        "definition": "표시나 특징으로 어떤 사물을 다른 것과 구별하게 함. 또는 그 표시나 특징"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "sound": "현상",
+    "entries": [
+      {
+        "word": "現象",
+        "hanjaComposition": [
+          "現",
+          "象"
+        ],
+        "definition": "인간이 지각할 수 있는, 사물의 모양과 상태"
+      },
+      {
+        "word": "現狀",
+        "hanjaComposition": [
+          "現",
+          "狀"
+        ],
+        "definition": "나타나 보이는 현재의 상태"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "sound": "호수",
+    "entries": [
+      {
+        "word": "號數",
+        "hanjaComposition": [
+          "號",
+          "數"
+        ],
+        "definition": "차례로 매겨진 번호의 수효"
+      },
+      {
+        "word": "湖水",
+        "hanjaComposition": [
+          "湖",
+          "水"
+        ],
+        "definition": "땅이 우묵하게 들어가 물이 괴어 있는 곳"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "sound": "회의",
+    "entries": [
+      {
+        "word": "會議",
+        "hanjaComposition": [
+          "會",
+          "議"
+        ],
+        "definition": "여럿이 모여 의논함. 또는 그런 모임"
+      },
+      {
+        "word": "懷疑",
+        "hanjaComposition": [
+          "懷",
+          "疑"
+        ],
+        "definition": "의심을 품음. 또는 마음속에 품고 있는 의심"
+      }
+    ]
+  }
+]

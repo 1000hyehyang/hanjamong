@@ -17,7 +17,8 @@ function isSessionRoute(pathname: string): boolean {
     pathname.startsWith("/learn/bookmarks") ||
     /^\/learn\/\d+/.test(pathname) ||
     /^\/quiz\/\d+\/[^/]+/.test(pathname) ||
-    pathname === "/quiz/review"
+    pathname === "/quiz/review" ||
+    /^\/concepts\/(confusing-hanja|synonyms|antonyms|homophones)(\/list)?$/.test(pathname)
   );
 }
 

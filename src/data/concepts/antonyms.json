@@ -1,0 +1,2498 @@
+[
+  {
+    "id": 1,
+    "word": "加減",
+    "characters": [
+      {
+        "hanja": "加",
+        "meaning": "더할",
+        "sound": "가"
+      },
+      {
+        "hanja": "減",
+        "meaning": "덜",
+        "sound": "감"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "word": "增減",
+    "characters": [
+      {
+        "hanja": "增",
+        "meaning": "더할",
+        "sound": "증"
+      },
+      {
+        "hanja": "減",
+        "meaning": "덜",
+        "sound": "감"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "word": "可否",
+    "characters": [
+      {
+        "hanja": "可",
+        "meaning": "옳을",
+        "sound": "가"
+      },
+      {
+        "hanja": "否",
+        "meaning": "아닐",
+        "sound": "부"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "word": "甘苦",
+    "characters": [
+      {
+        "hanja": "甘",
+        "meaning": "달",
+        "sound": "감"
+      },
+      {
+        "hanja": "苦",
+        "meaning": "쓸",
+        "sound": "고"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "word": "江山",
+    "characters": [
+      {
+        "hanja": "江",
+        "meaning": "강",
+        "sound": "강"
+      },
+      {
+        "hanja": "山",
+        "meaning": "산",
+        "sound": "산"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "word": "強弱",
+    "characters": [
+      {
+        "hanja": "強",
+        "meaning": "강할",
+        "sound": "강"
+      },
+      {
+        "hanja": "弱",
+        "meaning": "약할",
+        "sound": "약"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "word": "開閉",
+    "characters": [
+      {
+        "hanja": "開",
+        "meaning": "열",
+        "sound": "개"
+      },
+      {
+        "hanja": "閉",
+        "meaning": "닫을",
+        "sound": "폐"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "word": "去來",
+    "characters": [
+      {
+        "hanja": "去",
+        "meaning": "갈",
+        "sound": "거"
+      },
+      {
+        "hanja": "來",
+        "meaning": "올",
+        "sound": "래"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "word": "往來",
+    "characters": [
+      {
+        "hanja": "往",
+        "meaning": "갈",
+        "sound": "왕"
+      },
+      {
+        "hanja": "來",
+        "meaning": "올",
+        "sound": "래"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "word": "乾坤",
+    "characters": [
+      {
+        "hanja": "乾",
+        "meaning": "하늘/마를",
+        "sound": "건"
+      },
+      {
+        "hanja": "坤",
+        "meaning": "땅",
+        "sound": "곤"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "word": "乾濕",
+    "characters": [
+      {
+        "hanja": "乾",
+        "meaning": "하늘/마를",
+        "sound": "건"
+      },
+      {
+        "hanja": "濕",
+        "meaning": "젖을",
+        "sound": "습"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "word": "輕重",
+    "characters": [
+      {
+        "hanja": "輕",
+        "meaning": "가벼울",
+        "sound": "경"
+      },
+      {
+        "hanja": "重",
+        "meaning": "무거울",
+        "sound": "중"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "word": "慶弔",
+    "characters": [
+      {
+        "hanja": "慶",
+        "meaning": "경사",
+        "sound": "경"
+      },
+      {
+        "hanja": "弔",
+        "meaning": "조상할",
+        "sound": "조"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "word": "經緯",
+    "characters": [
+      {
+        "hanja": "經",
+        "meaning": "지날",
+        "sound": "경"
+      },
+      {
+        "hanja": "緯",
+        "meaning": "씨/세로",
+        "sound": "위"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "word": "京鄕",
+    "characters": [
+      {
+        "hanja": "京",
+        "meaning": "서울",
+        "sound": "경"
+      },
+      {
+        "hanja": "鄕",
+        "meaning": "시골",
+        "sound": "향"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "word": "苦樂",
+    "characters": [
+      {
+        "hanja": "苦",
+        "meaning": "괴로울",
+        "sound": "고"
+      },
+      {
+        "hanja": "樂",
+        "meaning": "즐길",
+        "sound": "락"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "word": "高低",
+    "characters": [
+      {
+        "hanja": "高",
+        "meaning": "높을",
+        "sound": "고"
+      },
+      {
+        "hanja": "低",
+        "meaning": "낮을",
+        "sound": "저"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "word": "姑婦",
+    "characters": [
+      {
+        "hanja": "姑",
+        "meaning": "시어머니",
+        "sound": "고"
+      },
+      {
+        "hanja": "婦",
+        "meaning": "며느리",
+        "sound": "부"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "word": "曲直",
+    "characters": [
+      {
+        "hanja": "曲",
+        "meaning": "굽을",
+        "sound": "곡"
+      },
+      {
+        "hanja": "直",
+        "meaning": "곧을",
+        "sound": "직"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "word": "功過",
+    "characters": [
+      {
+        "hanja": "功",
+        "meaning": "공",
+        "sound": "공"
+      },
+      {
+        "hanja": "過",
+        "meaning": "허물",
+        "sound": "과"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "word": "公私",
+    "characters": [
+      {
+        "hanja": "公",
+        "meaning": "공평할",
+        "sound": "공"
+      },
+      {
+        "hanja": "私",
+        "meaning": "사사로울",
+        "sound": "사"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "word": "攻守",
+    "characters": [
+      {
+        "hanja": "攻",
+        "meaning": "칠",
+        "sound": "공"
+      },
+      {
+        "hanja": "守",
+        "meaning": "지킬",
+        "sound": "수"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "word": "攻防",
+    "characters": [
+      {
+        "hanja": "攻",
+        "meaning": "칠",
+        "sound": "공"
+      },
+      {
+        "hanja": "防",
+        "meaning": "막을",
+        "sound": "방"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "word": "君臣",
+    "characters": [
+      {
+        "hanja": "君",
+        "meaning": "임금",
+        "sound": "군"
+      },
+      {
+        "hanja": "臣",
+        "meaning": "신하",
+        "sound": "신"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "word": "官民",
+    "characters": [
+      {
+        "hanja": "官",
+        "meaning": "벼슬",
+        "sound": "관"
+      },
+      {
+        "hanja": "民",
+        "meaning": "백성",
+        "sound": "민"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "word": "近遠",
+    "characters": [
+      {
+        "hanja": "近",
+        "meaning": "가까울",
+        "sound": "근"
+      },
+      {
+        "hanja": "遠",
+        "meaning": "멀",
+        "sound": "원"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "word": "勤怠",
+    "characters": [
+      {
+        "hanja": "勤",
+        "meaning": "부지런할",
+        "sound": "근"
+      },
+      {
+        "hanja": "怠",
+        "meaning": "게으를",
+        "sound": "태"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "word": "及落",
+    "characters": [
+      {
+        "hanja": "及",
+        "meaning": "미칠",
+        "sound": "급"
+      },
+      {
+        "hanja": "落",
+        "meaning": "떨어질",
+        "sound": "락"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "word": "起伏",
+    "characters": [
+      {
+        "hanja": "起",
+        "meaning": "일어날",
+        "sound": "기"
+      },
+      {
+        "hanja": "伏",
+        "meaning": "엎드릴",
+        "sound": "복"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "word": "吉凶",
+    "characters": [
+      {
+        "hanja": "吉",
+        "meaning": "길할",
+        "sound": "길"
+      },
+      {
+        "hanja": "凶",
+        "meaning": "흉할",
+        "sound": "흉"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "word": "難易",
+    "characters": [
+      {
+        "hanja": "難",
+        "meaning": "어려울",
+        "sound": "난"
+      },
+      {
+        "hanja": "易",
+        "meaning": "쉬울",
+        "sound": "이"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "word": "內外",
+    "characters": [
+      {
+        "hanja": "內",
+        "meaning": "안",
+        "sound": "내"
+      },
+      {
+        "hanja": "外",
+        "meaning": "바깥",
+        "sound": "외"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "word": "勞使",
+    "characters": [
+      {
+        "hanja": "勞",
+        "meaning": "일할",
+        "sound": "노"
+      },
+      {
+        "hanja": "使",
+        "meaning": "하여금/쓸",
+        "sound": "사"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "word": "老少",
+    "characters": [
+      {
+        "hanja": "老",
+        "meaning": "늙을",
+        "sound": "로"
+      },
+      {
+        "hanja": "少",
+        "meaning": "적을",
+        "sound": "소"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "word": "多少",
+    "characters": [
+      {
+        "hanja": "多",
+        "meaning": "많을",
+        "sound": "다"
+      },
+      {
+        "hanja": "少",
+        "meaning": "적을",
+        "sound": "소"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "word": "斷續",
+    "characters": [
+      {
+        "hanja": "斷",
+        "meaning": "끊을",
+        "sound": "단"
+      },
+      {
+        "hanja": "續",
+        "meaning": "이을",
+        "sound": "속"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "word": "單複",
+    "characters": [
+      {
+        "hanja": "單",
+        "meaning": "홀",
+        "sound": "단"
+      },
+      {
+        "hanja": "複",
+        "meaning": "겹칠",
+        "sound": "복"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "word": "旦夕",
+    "characters": [
+      {
+        "hanja": "旦",
+        "meaning": "아침",
+        "sound": "단"
+      },
+      {
+        "hanja": "夕",
+        "meaning": "저녁",
+        "sound": "석"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "word": "當落",
+    "characters": [
+      {
+        "hanja": "當",
+        "meaning": "마땅",
+        "sound": "당"
+      },
+      {
+        "hanja": "落",
+        "meaning": "떨어질",
+        "sound": "락"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "word": "冬夏",
+    "characters": [
+      {
+        "hanja": "冬",
+        "meaning": "겨울",
+        "sound": "동"
+      },
+      {
+        "hanja": "夏",
+        "meaning": "여름",
+        "sound": "하"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "word": "同異",
+    "characters": [
+      {
+        "hanja": "同",
+        "meaning": "한가지",
+        "sound": "동"
+      },
+      {
+        "hanja": "異",
+        "meaning": "다를",
+        "sound": "이"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "word": "動靜",
+    "characters": [
+      {
+        "hanja": "動",
+        "meaning": "움직일",
+        "sound": "동"
+      },
+      {
+        "hanja": "靜",
+        "meaning": "고요할",
+        "sound": "정"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "word": "得失",
+    "characters": [
+      {
+        "hanja": "得",
+        "meaning": "얻을",
+        "sound": "득"
+      },
+      {
+        "hanja": "失",
+        "meaning": "잃을",
+        "sound": "실"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "word": "登落",
+    "characters": [
+      {
+        "hanja": "登",
+        "meaning": "오를",
+        "sound": "등"
+      },
+      {
+        "hanja": "落",
+        "meaning": "떨어질",
+        "sound": "락"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "word": "冷熱",
+    "characters": [
+      {
+        "hanja": "冷",
+        "meaning": "찰",
+        "sound": "랭"
+      },
+      {
+        "hanja": "熱",
+        "meaning": "더울",
+        "sound": "열"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "word": "冷溫",
+    "characters": [
+      {
+        "hanja": "冷",
+        "meaning": "찰",
+        "sound": "랭"
+      },
+      {
+        "hanja": "溫",
+        "meaning": "따뜻할",
+        "sound": "온"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "word": "賣買",
+    "characters": [
+      {
+        "hanja": "賣",
+        "meaning": "팔",
+        "sound": "매"
+      },
+      {
+        "hanja": "買",
+        "meaning": "살",
+        "sound": "매"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "word": "明暗",
+    "characters": [
+      {
+        "hanja": "明",
+        "meaning": "밝을",
+        "sound": "명"
+      },
+      {
+        "hanja": "暗",
+        "meaning": "어두울",
+        "sound": "암"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "word": "文武",
+    "characters": [
+      {
+        "hanja": "文",
+        "meaning": "글월",
+        "sound": "문"
+      },
+      {
+        "hanja": "武",
+        "meaning": "호반",
+        "sound": "무"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "word": "美醜",
+    "characters": [
+      {
+        "hanja": "美",
+        "meaning": "아름다울",
+        "sound": "미"
+      },
+      {
+        "hanja": "醜",
+        "meaning": "추할",
+        "sound": "추"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "word": "夫妻",
+    "characters": [
+      {
+        "hanja": "夫",
+        "meaning": "남편",
+        "sound": "부"
+      },
+      {
+        "hanja": "妻",
+        "meaning": "아내",
+        "sound": "처"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "word": "方圓",
+    "characters": [
+      {
+        "hanja": "方",
+        "meaning": "모",
+        "sound": "방"
+      },
+      {
+        "hanja": "圓",
+        "meaning": "둥글",
+        "sound": "원"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "word": "本末",
+    "characters": [
+      {
+        "hanja": "本",
+        "meaning": "근본",
+        "sound": "본"
+      },
+      {
+        "hanja": "末",
+        "meaning": "끝",
+        "sound": "말"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "word": "浮沈",
+    "characters": [
+      {
+        "hanja": "浮",
+        "meaning": "뜰",
+        "sound": "부"
+      },
+      {
+        "hanja": "沈",
+        "meaning": "잠길",
+        "sound": "침"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "word": "逢別",
+    "characters": [
+      {
+        "hanja": "逢",
+        "meaning": "만날",
+        "sound": "봉"
+      },
+      {
+        "hanja": "別",
+        "meaning": "나눌",
+        "sound": "별"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "word": "貧富",
+    "characters": [
+      {
+        "hanja": "貧",
+        "meaning": "가난할",
+        "sound": "빈"
+      },
+      {
+        "hanja": "富",
+        "meaning": "부유할",
+        "sound": "부"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "word": "氷炭",
+    "characters": [
+      {
+        "hanja": "氷",
+        "meaning": "얼음",
+        "sound": "빙"
+      },
+      {
+        "hanja": "炭",
+        "meaning": "숯",
+        "sound": "탄"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "word": "死生",
+    "characters": [
+      {
+        "hanja": "死",
+        "meaning": "죽을",
+        "sound": "사"
+      },
+      {
+        "hanja": "生",
+        "meaning": "살",
+        "sound": "생"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "word": "師弟",
+    "characters": [
+      {
+        "hanja": "師",
+        "meaning": "스승",
+        "sound": "사"
+      },
+      {
+        "hanja": "弟",
+        "meaning": "제자",
+        "sound": "제"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "word": "賞罰",
+    "characters": [
+      {
+        "hanja": "賞",
+        "meaning": "상줄",
+        "sound": "상"
+      },
+      {
+        "hanja": "罰",
+        "meaning": "벌할",
+        "sound": "벌"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "word": "先後",
+    "characters": [
+      {
+        "hanja": "先",
+        "meaning": "먼저",
+        "sound": "선"
+      },
+      {
+        "hanja": "後",
+        "meaning": "뒤",
+        "sound": "후"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "word": "善惡",
+    "characters": [
+      {
+        "hanja": "善",
+        "meaning": "착할",
+        "sound": "선"
+      },
+      {
+        "hanja": "惡",
+        "meaning": "악할",
+        "sound": "악"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "word": "盛衰",
+    "characters": [
+      {
+        "hanja": "盛",
+        "meaning": "성할",
+        "sound": "성"
+      },
+      {
+        "hanja": "衰",
+        "meaning": "쇠할",
+        "sound": "쇠"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "word": "成敗",
+    "characters": [
+      {
+        "hanja": "成",
+        "meaning": "이룰",
+        "sound": "성"
+      },
+      {
+        "hanja": "敗",
+        "meaning": "패할",
+        "sound": "패"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "word": "損益",
+    "characters": [
+      {
+        "hanja": "損",
+        "meaning": "덜",
+        "sound": "손"
+      },
+      {
+        "hanja": "益",
+        "meaning": "더할",
+        "sound": "익"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "word": "送迎",
+    "characters": [
+      {
+        "hanja": "送",
+        "meaning": "보낼",
+        "sound": "송"
+      },
+      {
+        "hanja": "迎",
+        "meaning": "맞을",
+        "sound": "영"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "word": "首尾",
+    "characters": [
+      {
+        "hanja": "首",
+        "meaning": "머리",
+        "sound": "수"
+      },
+      {
+        "hanja": "尾",
+        "meaning": "꼬리",
+        "sound": "미"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "word": "需給",
+    "characters": [
+      {
+        "hanja": "需",
+        "meaning": "쓰일",
+        "sound": "수"
+      },
+      {
+        "hanja": "給",
+        "meaning": "줄",
+        "sound": "급"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "word": "授受",
+    "characters": [
+      {
+        "hanja": "授",
+        "meaning": "줄",
+        "sound": "수"
+      },
+      {
+        "hanja": "受",
+        "meaning": "받을",
+        "sound": "수"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "word": "順逆",
+    "characters": [
+      {
+        "hanja": "順",
+        "meaning": "순할",
+        "sound": "순"
+      },
+      {
+        "hanja": "逆",
+        "meaning": "거스를",
+        "sound": "역"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "word": "昇降",
+    "characters": [
+      {
+        "hanja": "昇",
+        "meaning": "오를",
+        "sound": "승"
+      },
+      {
+        "hanja": "降",
+        "meaning": "내릴",
+        "sound": "강"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "word": "勝負",
+    "characters": [
+      {
+        "hanja": "勝",
+        "meaning": "이길",
+        "sound": "승"
+      },
+      {
+        "hanja": "負",
+        "meaning": "질",
+        "sound": "부"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "word": "勝敗",
+    "characters": [
+      {
+        "hanja": "勝",
+        "meaning": "이길",
+        "sound": "승"
+      },
+      {
+        "hanja": "敗",
+        "meaning": "패할",
+        "sound": "패"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "word": "是非",
+    "characters": [
+      {
+        "hanja": "是",
+        "meaning": "옳을",
+        "sound": "시"
+      },
+      {
+        "hanja": "非",
+        "meaning": "아닐",
+        "sound": "비"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "word": "始末",
+    "characters": [
+      {
+        "hanja": "始",
+        "meaning": "비로소",
+        "sound": "시"
+      },
+      {
+        "hanja": "末",
+        "meaning": "끝",
+        "sound": "말"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "word": "始終",
+    "characters": [
+      {
+        "hanja": "始",
+        "meaning": "비로소",
+        "sound": "시"
+      },
+      {
+        "hanja": "終",
+        "meaning": "마칠",
+        "sound": "종"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "word": "新舊",
+    "characters": [
+      {
+        "hanja": "新",
+        "meaning": "새",
+        "sound": "신"
+      },
+      {
+        "hanja": "舊",
+        "meaning": "예",
+        "sound": "구"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "word": "伸縮",
+    "characters": [
+      {
+        "hanja": "伸",
+        "meaning": "펼",
+        "sound": "신"
+      },
+      {
+        "hanja": "縮",
+        "meaning": "줄일",
+        "sound": "축"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "word": "深淺",
+    "characters": [
+      {
+        "hanja": "深",
+        "meaning": "깊을",
+        "sound": "심"
+      },
+      {
+        "hanja": "淺",
+        "meaning": "얕을",
+        "sound": "천"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "word": "安危",
+    "characters": [
+      {
+        "hanja": "安",
+        "meaning": "편안할",
+        "sound": "안"
+      },
+      {
+        "hanja": "危",
+        "meaning": "위태할",
+        "sound": "위"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "word": "愛惡",
+    "characters": [
+      {
+        "hanja": "愛",
+        "meaning": "사랑",
+        "sound": "애"
+      },
+      {
+        "hanja": "惡",
+        "meaning": "미워할",
+        "sound": "오"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "word": "愛憎",
+    "characters": [
+      {
+        "hanja": "愛",
+        "meaning": "사랑",
+        "sound": "애"
+      },
+      {
+        "hanja": "憎",
+        "meaning": "미울",
+        "sound": "증"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "word": "哀歡",
+    "characters": [
+      {
+        "hanja": "哀",
+        "meaning": "슬플",
+        "sound": "애"
+      },
+      {
+        "hanja": "歡",
+        "meaning": "기뻐할",
+        "sound": "환"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "word": "抑揚",
+    "characters": [
+      {
+        "hanja": "抑",
+        "meaning": "누를",
+        "sound": "억"
+      },
+      {
+        "hanja": "揚",
+        "meaning": "날릴",
+        "sound": "양"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "word": "言行",
+    "characters": [
+      {
+        "hanja": "言",
+        "meaning": "말씀",
+        "sound": "언"
+      },
+      {
+        "hanja": "行",
+        "meaning": "다닐",
+        "sound": "행"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "word": "榮辱",
+    "characters": [
+      {
+        "hanja": "榮",
+        "meaning": "영화",
+        "sound": "영"
+      },
+      {
+        "hanja": "辱",
+        "meaning": "욕될",
+        "sound": "욕"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "word": "玉石",
+    "characters": [
+      {
+        "hanja": "玉",
+        "meaning": "구슬",
+        "sound": "옥"
+      },
+      {
+        "hanja": "石",
+        "meaning": "돌",
+        "sound": "석"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "word": "緩急",
+    "characters": [
+      {
+        "hanja": "緩",
+        "meaning": "느릴",
+        "sound": "완"
+      },
+      {
+        "hanja": "急",
+        "meaning": "급할",
+        "sound": "급"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "word": "往復",
+    "characters": [
+      {
+        "hanja": "往",
+        "meaning": "갈",
+        "sound": "왕"
+      },
+      {
+        "hanja": "復",
+        "meaning": "돌아올",
+        "sound": "복"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "word": "優劣",
+    "characters": [
+      {
+        "hanja": "優",
+        "meaning": "뛰어날",
+        "sound": "우"
+      },
+      {
+        "hanja": "劣",
+        "meaning": "못할",
+        "sound": "렬"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "word": "有無",
+    "characters": [
+      {
+        "hanja": "有",
+        "meaning": "있을",
+        "sound": "유"
+      },
+      {
+        "hanja": "無",
+        "meaning": "없을",
+        "sound": "무"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "word": "隱現",
+    "characters": [
+      {
+        "hanja": "隱",
+        "meaning": "숨을",
+        "sound": "은"
+      },
+      {
+        "hanja": "現",
+        "meaning": "나타날",
+        "sound": "현"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "word": "陰陽",
+    "characters": [
+      {
+        "hanja": "陰",
+        "meaning": "그늘",
+        "sound": "음"
+      },
+      {
+        "hanja": "陽",
+        "meaning": "볕",
+        "sound": "양"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "word": "離合",
+    "characters": [
+      {
+        "hanja": "離",
+        "meaning": "떠날",
+        "sound": "이"
+      },
+      {
+        "hanja": "合",
+        "meaning": "합할",
+        "sound": "합"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "word": "利害",
+    "characters": [
+      {
+        "hanja": "利",
+        "meaning": "이로울",
+        "sound": "이"
+      },
+      {
+        "hanja": "害",
+        "meaning": "해로울",
+        "sound": "해"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "word": "因果",
+    "characters": [
+      {
+        "hanja": "因",
+        "meaning": "인할",
+        "sound": "인"
+      },
+      {
+        "hanja": "果",
+        "meaning": "결과",
+        "sound": "과"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "word": "任免",
+    "characters": [
+      {
+        "hanja": "任",
+        "meaning": "맡길",
+        "sound": "임"
+      },
+      {
+        "hanja": "免",
+        "meaning": "면할",
+        "sound": "면"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "word": "自他",
+    "characters": [
+      {
+        "hanja": "自",
+        "meaning": "스스로",
+        "sound": "자"
+      },
+      {
+        "hanja": "他",
+        "meaning": "다를",
+        "sound": "타"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "word": "昨今",
+    "characters": [
+      {
+        "hanja": "昨",
+        "meaning": "어제",
+        "sound": "작"
+      },
+      {
+        "hanja": "今",
+        "meaning": "이제",
+        "sound": "금"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "word": "長幼",
+    "characters": [
+      {
+        "hanja": "長",
+        "meaning": "어른",
+        "sound": "장"
+      },
+      {
+        "hanja": "幼",
+        "meaning": "어릴",
+        "sound": "유"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "word": "長短",
+    "characters": [
+      {
+        "hanja": "長",
+        "meaning": "길",
+        "sound": "장"
+      },
+      {
+        "hanja": "短",
+        "meaning": "짧을",
+        "sound": "단"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "word": "將卒",
+    "characters": [
+      {
+        "hanja": "將",
+        "meaning": "장수",
+        "sound": "장"
+      },
+      {
+        "hanja": "卒",
+        "meaning": "군사/마칠",
+        "sound": "졸"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "word": "將兵",
+    "characters": [
+      {
+        "hanja": "將",
+        "meaning": "장수/장차",
+        "sound": "장"
+      },
+      {
+        "hanja": "兵",
+        "meaning": "군사",
+        "sound": "병"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "word": "前後",
+    "characters": [
+      {
+        "hanja": "前",
+        "meaning": "앞",
+        "sound": "전"
+      },
+      {
+        "hanja": "後",
+        "meaning": "뒤",
+        "sound": "후"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "word": "田畓",
+    "characters": [
+      {
+        "hanja": "田",
+        "meaning": "밭",
+        "sound": "전"
+      },
+      {
+        "hanja": "畓",
+        "meaning": "논",
+        "sound": "답"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "word": "正誤",
+    "characters": [
+      {
+        "hanja": "正",
+        "meaning": "바를",
+        "sound": "정"
+      },
+      {
+        "hanja": "誤",
+        "meaning": "그릇될",
+        "sound": "오"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "word": "朝夕",
+    "characters": [
+      {
+        "hanja": "朝",
+        "meaning": "아침",
+        "sound": "조"
+      },
+      {
+        "hanja": "夕",
+        "meaning": "저녁",
+        "sound": "석"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "word": "早晩",
+    "characters": [
+      {
+        "hanja": "早",
+        "meaning": "이를",
+        "sound": "조"
+      },
+      {
+        "hanja": "晩",
+        "meaning": "늦을",
+        "sound": "만"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "word": "存亡",
+    "characters": [
+      {
+        "hanja": "存",
+        "meaning": "있을",
+        "sound": "존"
+      },
+      {
+        "hanja": "亡",
+        "meaning": "망할",
+        "sound": "망"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "word": "存廢",
+    "characters": [
+      {
+        "hanja": "存",
+        "meaning": "있을",
+        "sound": "존"
+      },
+      {
+        "hanja": "廢",
+        "meaning": "버릴",
+        "sound": "폐"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "word": "尊卑",
+    "characters": [
+      {
+        "hanja": "尊",
+        "meaning": "높을",
+        "sound": "존"
+      },
+      {
+        "hanja": "卑",
+        "meaning": "낮을",
+        "sound": "비"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "word": "縱橫",
+    "characters": [
+      {
+        "hanja": "縱",
+        "meaning": "세로",
+        "sound": "종"
+      },
+      {
+        "hanja": "橫",
+        "meaning": "가로",
+        "sound": "횡"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "word": "晝夜",
+    "characters": [
+      {
+        "hanja": "晝",
+        "meaning": "낮",
+        "sound": "주"
+      },
+      {
+        "hanja": "夜",
+        "meaning": "밤",
+        "sound": "야"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "word": "主客",
+    "characters": [
+      {
+        "hanja": "主",
+        "meaning": "주인",
+        "sound": "주"
+      },
+      {
+        "hanja": "客",
+        "meaning": "손님",
+        "sound": "객"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "word": "主從",
+    "characters": [
+      {
+        "hanja": "主",
+        "meaning": "주인",
+        "sound": "주"
+      },
+      {
+        "hanja": "從",
+        "meaning": "좇을",
+        "sound": "종"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "word": "衆寡",
+    "characters": [
+      {
+        "hanja": "衆",
+        "meaning": "무리",
+        "sound": "중"
+      },
+      {
+        "hanja": "寡",
+        "meaning": "적을",
+        "sound": "과"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "word": "眞假",
+    "characters": [
+      {
+        "hanja": "眞",
+        "meaning": "참",
+        "sound": "진"
+      },
+      {
+        "hanja": "假",
+        "meaning": "거짓",
+        "sound": "가"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "word": "眞僞",
+    "characters": [
+      {
+        "hanja": "眞",
+        "meaning": "참",
+        "sound": "진"
+      },
+      {
+        "hanja": "僞",
+        "meaning": "거짓",
+        "sound": "위"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "word": "進退",
+    "characters": [
+      {
+        "hanja": "進",
+        "meaning": "나아갈",
+        "sound": "진"
+      },
+      {
+        "hanja": "退",
+        "meaning": "물러날",
+        "sound": "퇴"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "word": "集配",
+    "characters": [
+      {
+        "hanja": "集",
+        "meaning": "모을",
+        "sound": "집"
+      },
+      {
+        "hanja": "配",
+        "meaning": "나눌",
+        "sound": "배"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "word": "集散",
+    "characters": [
+      {
+        "hanja": "集",
+        "meaning": "모을",
+        "sound": "집"
+      },
+      {
+        "hanja": "散",
+        "meaning": "흩을",
+        "sound": "산"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "word": "添削",
+    "characters": [
+      {
+        "hanja": "添",
+        "meaning": "더할",
+        "sound": "첨"
+      },
+      {
+        "hanja": "削",
+        "meaning": "깎을",
+        "sound": "삭"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "word": "晴雨",
+    "characters": [
+      {
+        "hanja": "晴",
+        "meaning": "갤",
+        "sound": "청"
+      },
+      {
+        "hanja": "雨",
+        "meaning": "비",
+        "sound": "우"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "word": "淸濁",
+    "characters": [
+      {
+        "hanja": "淸",
+        "meaning": "맑을",
+        "sound": "청"
+      },
+      {
+        "hanja": "濁",
+        "meaning": "흐릴",
+        "sound": "탁"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "word": "初終",
+    "characters": [
+      {
+        "hanja": "初",
+        "meaning": "처음",
+        "sound": "초"
+      },
+      {
+        "hanja": "終",
+        "meaning": "마칠",
+        "sound": "종"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "word": "出入",
+    "characters": [
+      {
+        "hanja": "出",
+        "meaning": "날",
+        "sound": "출"
+      },
+      {
+        "hanja": "入",
+        "meaning": "들",
+        "sound": "입"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "word": "出納",
+    "characters": [
+      {
+        "hanja": "出",
+        "meaning": "날",
+        "sound": "출"
+      },
+      {
+        "hanja": "納",
+        "meaning": "들일",
+        "sound": "납"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "word": "出缺",
+    "characters": [
+      {
+        "hanja": "出",
+        "meaning": "날",
+        "sound": "출"
+      },
+      {
+        "hanja": "缺",
+        "meaning": "이지러질",
+        "sound": "결"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "word": "出沒",
+    "characters": [
+      {
+        "hanja": "出",
+        "meaning": "날",
+        "sound": "출"
+      },
+      {
+        "hanja": "沒",
+        "meaning": "빠질",
+        "sound": "몰"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "word": "取捨",
+    "characters": [
+      {
+        "hanja": "取",
+        "meaning": "가질",
+        "sound": "취"
+      },
+      {
+        "hanja": "捨",
+        "meaning": "버릴",
+        "sound": "사"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "word": "豐凶",
+    "characters": [
+      {
+        "hanja": "豐",
+        "meaning": "풍년",
+        "sound": "풍"
+      },
+      {
+        "hanja": "凶",
+        "meaning": "흉할",
+        "sound": "흉"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "word": "表裏",
+    "characters": [
+      {
+        "hanja": "表",
+        "meaning": "겉",
+        "sound": "표"
+      },
+      {
+        "hanja": "裏",
+        "meaning": "속",
+        "sound": "리"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "word": "彼此",
+    "characters": [
+      {
+        "hanja": "彼",
+        "meaning": "저",
+        "sound": "피"
+      },
+      {
+        "hanja": "此",
+        "meaning": "이",
+        "sound": "차"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "word": "寒暖",
+    "characters": [
+      {
+        "hanja": "寒",
+        "meaning": "찰",
+        "sound": "한"
+      },
+      {
+        "hanja": "暖",
+        "meaning": "따뜻할",
+        "sound": "난"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "word": "寒暑",
+    "characters": [
+      {
+        "hanja": "寒",
+        "meaning": "찰",
+        "sound": "한"
+      },
+      {
+        "hanja": "暑",
+        "meaning": "더울",
+        "sound": "서"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "word": "閑忙",
+    "characters": [
+      {
+        "hanja": "閑",
+        "meaning": "한가할",
+        "sound": "한"
+      },
+      {
+        "hanja": "忙",
+        "meaning": "바쁠",
+        "sound": "망"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "word": "玄素",
+    "characters": [
+      {
+        "hanja": "玄",
+        "meaning": "검을",
+        "sound": "현"
+      },
+      {
+        "hanja": "素",
+        "meaning": "본디/흴",
+        "sound": "소"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "word": "海陸",
+    "characters": [
+      {
+        "hanja": "海",
+        "meaning": "바다",
+        "sound": "해"
+      },
+      {
+        "hanja": "陸",
+        "meaning": "뭍/땅",
+        "sound": "륙"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "word": "呼應",
+    "characters": [
+      {
+        "hanja": "呼",
+        "meaning": "부를",
+        "sound": "호"
+      },
+      {
+        "hanja": "應",
+        "meaning": "응할",
+        "sound": "응"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "word": "呼吸",
+    "characters": [
+      {
+        "hanja": "呼",
+        "meaning": "부를",
+        "sound": "호"
+      },
+      {
+        "hanja": "吸",
+        "meaning": "마실",
+        "sound": "흡"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "word": "昏明",
+    "characters": [
+      {
+        "hanja": "昏",
+        "meaning": "어두울",
+        "sound": "혼"
+      },
+      {
+        "hanja": "明",
+        "meaning": "밝을",
+        "sound": "명"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "word": "禍福",
+    "characters": [
+      {
+        "hanja": "禍",
+        "meaning": "재앙",
+        "sound": "화"
+      },
+      {
+        "hanja": "福",
+        "meaning": "복",
+        "sound": "복"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "word": "虛實",
+    "characters": [
+      {
+        "hanja": "虛",
+        "meaning": "빌",
+        "sound": "허"
+      },
+      {
+        "hanja": "實",
+        "meaning": "열매",
+        "sound": "실"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "word": "厚薄",
+    "characters": [
+      {
+        "hanja": "厚",
+        "meaning": "두터울",
+        "sound": "후"
+      },
+      {
+        "hanja": "薄",
+        "meaning": "엷을",
+        "sound": "박"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "word": "喜怒",
+    "characters": [
+      {
+        "hanja": "喜",
+        "meaning": "기쁠",
+        "sound": "희"
+      },
+      {
+        "hanja": "怒",
+        "meaning": "성낼",
+        "sound": "로"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "word": "上下",
+    "characters": [
+      {
+        "hanja": "上",
+        "meaning": "위",
+        "sound": "상"
+      },
+      {
+        "hanja": "下",
+        "meaning": "아래",
+        "sound": "하"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "word": "水火",
+    "characters": [
+      {
+        "hanja": "水",
+        "meaning": "물",
+        "sound": "수"
+      },
+      {
+        "hanja": "火",
+        "meaning": "불",
+        "sound": "화"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "word": "手足",
+    "characters": [
+      {
+        "hanja": "手",
+        "meaning": "손",
+        "sound": "수"
+      },
+      {
+        "hanja": "足",
+        "meaning": "발",
+        "sound": "족"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "word": "心身",
+    "characters": [
+      {
+        "hanja": "心",
+        "meaning": "마음",
+        "sound": "심"
+      },
+      {
+        "hanja": "身",
+        "meaning": "몸",
+        "sound": "신"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "word": "入出",
+    "characters": [
+      {
+        "hanja": "入",
+        "meaning": "들",
+        "sound": "입"
+      },
+      {
+        "hanja": "出",
+        "meaning": "날",
+        "sound": "출"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "word": "左右",
+    "characters": [
+      {
+        "hanja": "左",
+        "meaning": "왼",
+        "sound": "좌"
+      },
+      {
+        "hanja": "右",
+        "meaning": "오른",
+        "sound": "우"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "word": "兄弟",
+    "characters": [
+      {
+        "hanja": "兄",
+        "meaning": "형",
+        "sound": "형"
+      },
+      {
+        "hanja": "弟",
+        "meaning": "아우",
+        "sound": "제"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "word": "黑白",
+    "characters": [
+      {
+        "hanja": "黑",
+        "meaning": "검을",
+        "sound": "흑"
+      },
+      {
+        "hanja": "白",
+        "meaning": "흰",
+        "sound": "백"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "word": "天地",
+    "characters": [
+      {
+        "hanja": "天",
+        "meaning": "하늘",
+        "sound": "천"
+      },
+      {
+        "hanja": "地",
+        "meaning": "땅",
+        "sound": "지"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "word": "大小",
+    "characters": [
+      {
+        "hanja": "大",
+        "meaning": "큰",
+        "sound": "대"
+      },
+      {
+        "hanja": "小",
+        "meaning": "작을",
+        "sound": "소"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "word": "東西",
+    "characters": [
+      {
+        "hanja": "東",
+        "meaning": "동녘",
+        "sound": "동"
+      },
+      {
+        "hanja": "西",
+        "meaning": "서녘",
+        "sound": "서"
+      }
+    ]
+  }
+]

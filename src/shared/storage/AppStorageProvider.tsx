@@ -12,6 +12,7 @@ import {
   removeWrongQuestion,
   saveAppStorage,
   toggleHanjaBookmark,
+  updateConceptProgress,
   updateLearnProgress,
 } from "./app-storage";
 import {
@@ -59,6 +60,13 @@ export function AppStorageProvider({ children }: { children: ReactNode }) {
     [commit],
   );
 
+  const setConceptProgress = useCallback(
+    (conceptId: string, index: number) => {
+      commit((prev) => updateConceptProgress(prev, conceptId, index));
+    },
+    [commit],
+  );
+
   const clearAllWrong = useCallback(() => {
     commit(clearAllWrongQuestions);
   }, [commit]);
@@ -78,6 +86,7 @@ export function AppStorageProvider({ children }: { children: ReactNode }) {
       toggleBookmark,
       markQuestionWrong,
       removeWrong,
+      setConceptProgress,
       setLearnProgress,
       clearAllWrong,
       clearAllBookmarks,
@@ -88,6 +97,7 @@ export function AppStorageProvider({ children }: { children: ReactNode }) {
       toggleBookmark,
       markQuestionWrong,
       removeWrong,
+      setConceptProgress,
       setLearnProgress,
       clearAllWrong,
       clearAllBookmarks,

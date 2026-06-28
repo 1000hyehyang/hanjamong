@@ -1,7 +1,9 @@
+import { useMemo, useState } from "react";
 import { Link, useNavigate, useParams, useSearchParams } from "react-router-dom";
 import { Badge } from "../../shared/components/Badge";
 import { Button } from "../../shared/components/Button";
 import { EmptyState } from "../../shared/components/EmptyState";
+import { HanjaListSearchField } from "../../shared/components/HanjaListSearchField";
 import { HanjaMeaningLines } from "../../shared/components/HanjaMeaningLines";
 import { Icon } from "../../shared/components/icons/Icon";
 import { Screen } from "../../shared/components/Screen";
@@ -12,6 +14,7 @@ import {
   pressableSurfaceCard,
 } from "../../shared/styles/interactive";
 import { useAppStorage } from "../../shared/storage/use-app-storage";
+import { matchesHanjaSearch } from "../../shared/utils/matches-hanja-search";
 
 import {
   buildBookmarkReviewPath,
@@ -26,6 +29,7 @@ export function LearnListPage() {
   const navigate = useNavigate();
   const { storage, toggleBookmark, isBookmarked } = useAppStorage();
   const currentIndexParam = searchParams.get("index");
+  const [searchQuery, setSearchQuery] = useState("");
 
   const {
     bookmarkGradeFilter,
@@ -72,6 +76,21 @@ export function LearnListPage() {
     params.set("index", String(entryIndex));
     navigate(`/learn/${grade}?${params.toString()}`);
   };
+
+  const filteredEntries = useMemo(
+    () =>
+      entries
+        .map((entry, entryIndex) => ({ entry, entryIndex }))
+        .filter(({ entry }) =>
+          matchesHanjaSearch(searchQuery, entry.character, entry.meanings),
+        ),
+    [entries, searchQuery],
+  );
+
+  const hasSearchQuery = searchQuery.trim().length > 0;
+  const listDescription = hasSearchQuery
+    ? `검색 결과 ${filteredEntries.length}자 · 탭하면 카드 학습으로 이동`
+    : `${entries.length}자 · 탭하면 카드 학습으로 이동`;
 
   if (!isBookmarkReview && (!gradeInfo || Number.isNaN(grade))) {
     return (
@@ -154,14 +173,24 @@ export function LearnListPage() {
               {sessionLabel} · 전체 목록
             </h1>
             <p className="mt-1 text-sm font-semibold text-text-secondary">
-              {entries.length}자 · 탭하면 카드 학습으로 이동
+              {listDescription}
             </p>
           </div>
           <div className="h-10 w-10 shrink-0" />
         </header>
 
+        <HanjaListSearchField value={searchQuery} onChange={setSearchQuery} />
+
+        {filteredEntries.length === 0 ? (
+          <EmptyState
+            plain
+            icon="search"
+            title="검색 결과가 없어요"
+            description="한자, 훈, 음으로 다시 검색해 보세요."
+          />
+        ) : (
         <ul className="space-y-2 pb-4">
-          {entries.map((entry, entryIndex) => {
+          {filteredEntries.map(({ entry, entryIndex }) => {
             const isCurrentEntry = entryIndex === currentIndex;
 
             return (
@@ -205,6 +234,7 @@ export function LearnListPage() {
             );
           })}
         </ul>
+        )}
       </div>
 
       <LearnQuitFooter onQuit={handleQuit} />

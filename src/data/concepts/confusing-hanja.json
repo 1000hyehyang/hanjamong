@@ -1,0 +1,50 @@
+[
+  {
+    "id": "sun-say",
+    "characters": ["日", "曰"]
+  },
+  {
+    "id": "not-yet-end",
+    "characters": ["未", "末"]
+  },
+  {
+    "id": "scholar-earth",
+    "characters": ["士", "土"]
+  },
+  {
+    "id": "person-enter",
+    "characters": ["人", "入"]
+  },
+  {
+    "id": "big-dog-great",
+    "characters": ["大", "犬", "太"]
+  },
+  {
+    "id": "tree-root-end",
+    "characters": ["木", "本", "末"]
+  },
+  {
+    "id": "self-already-snake",
+    "characters": ["己", "已", "巳"]
+  },
+  {
+    "id": "bird-crow",
+    "characters": ["鳥", "烏"]
+  },
+  {
+    "id": "shell-see",
+    "characters": ["貝", "見"]
+  },
+  {
+    "id": "noon-cow",
+    "characters": ["午", "牛"]
+  },
+  {
+    "id": "king-jade",
+    "characters": ["王", "玉"]
+  },
+  {
+    "id": "ask-between",
+    "characters": ["問", "間"]
+  }
+]

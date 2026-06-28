@@ -29,7 +29,9 @@ export type IconName =
   | "lightbulb"
   | "layers"
   | "brush"
-  | "notebook";
+  | "notebook"
+  | "arrow-left-right"
+  | "scale";
 
 interface IconProps extends Omit<SVGProps<SVGSVGElement>, "name"> {
   name: IconName;
@@ -241,6 +243,22 @@ export function Icon({ name, size = 24, className = "", ...props }: IconProps) {
           <path d="M12 2h6.5A2.5 2.5 0 0 1 21 4.5V20A2.5 2.5 0 0 1 18.5 22.5H12" {...pathProps} />
           <path d="M12 7h5" {...pathProps} />
           <path d="M12 11h5" {...pathProps} />
+        </>
+      )}
+      {name === "arrow-left-right" && (
+        <>
+          <path d="M8 3 4 7l4 4" {...pathProps} />
+          <path d="M4 7h16" {...pathProps} />
+          <path d="m16 21 4-4-4-4" {...pathProps} />
+          <path d="M20 17H4" {...pathProps} />
+        </>
+      )}
+      {name === "scale" && (
+        <>
+          <path d="M12 3v18" {...pathProps} />
+          <path d="m19 8 3 8a5 5 0 0 1-6 0z" {...pathProps} />
+          <path d="M2 8h20" {...pathProps} />
+          <path d="m5 8 3 8a5 5 0 0 1-6 0z" {...pathProps} />
         </>
       )}
     </svg>

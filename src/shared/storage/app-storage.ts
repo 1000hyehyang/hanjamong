@@ -30,6 +30,7 @@ function parseStorage(raw: string): AppStorage {
 
   const bookmarks = isRecord(parsed.bookmarks) ? parsed.bookmarks : {};
   const cardProgress = isRecord(parsed.cardProgress) ? parsed.cardProgress : {};
+  const conceptProgress = isRecord(parsed.conceptProgress) ? parsed.conceptProgress : {};
   const learnProgress = isRecord(parsed.learnProgress) ? parsed.learnProgress : {};
   const dailyStats = isRecord(parsed.dailyStats) ? parsed.dailyStats : {};
 
@@ -56,6 +57,13 @@ function parseStorage(raw: string): AppStorage {
     }
   }
 
+  const normalizedConceptProgress: Record<string, number> = {};
+  for (const [key, value] of Object.entries(conceptProgress)) {
+    if (typeof value === "number" && Number.isInteger(value) && value >= 0) {
+      normalizedConceptProgress[key] = value;
+    }
+  }
+
   return {
     version: 1,
     bookmarks: {
@@ -63,6 +71,7 @@ function parseStorage(raw: string): AppStorage {
       questions: isStringArray(bookmarks.questions) ? bookmarks.questions : [],
     },
     cardProgress: normalizedCardProgress,
+    conceptProgress: normalizedConceptProgress,
     learnProgress: normalizedLearnProgress,
     wrongQuestions: isStringArray(parsed.wrongQuestions)
       ? parsed.wrongQuestions
@@ -183,6 +192,29 @@ export function updateLearnProgress(
     learnProgress: {
       ...storage.learnProgress,
       [key]: nextIndex,
+    },
+  };
+}
+
+export function updateConceptProgress(
+  storage: AppStorage,
+  conceptId: string,
+  index: number,
+): AppStorage {
+  if (conceptId.trim() === "" || !Number.isFinite(index)) {
+    return storage;
+  }
+
+  const normalizedIndex = Math.max(0, Math.floor(index));
+  if (storage.conceptProgress[conceptId] === normalizedIndex) {
+    return storage;
+  }
+
+  return {
+    ...storage,
+    conceptProgress: {
+      ...storage.conceptProgress,
+      [conceptId]: normalizedIndex,
     },
   };
 }
