@@ -1,50 +1,689 @@
 [
   {
-    "id": "sun-say",
-    "characters": ["日", "曰"]
-  },
-  {
     "id": "not-yet-end",
-    "characters": ["未", "末"]
-  },
-  {
-    "id": "scholar-earth",
-    "characters": ["士", "土"]
+    "characters": [
+      "未",
+      "末"
+    ]
   },
   {
     "id": "person-enter",
-    "characters": ["人", "入"]
+    "characters": [
+      "人",
+      "入"
+    ]
   },
   {
     "id": "big-dog-great",
-    "characters": ["大", "犬", "太"]
+    "characters": [
+      "大",
+      "犬",
+      "太"
+    ]
   },
   {
     "id": "tree-root-end",
-    "characters": ["木", "本", "末"]
+    "characters": [
+      "木",
+      "本",
+      "末",
+      "休"
+    ]
   },
   {
     "id": "self-already-snake",
-    "characters": ["己", "已", "巳"]
+    "characters": [
+      "己",
+      "已",
+      "巳"
+    ]
   },
   {
     "id": "bird-crow",
-    "characters": ["鳥", "烏"]
+    "characters": [
+      "鳥",
+      "烏"
+    ]
   },
   {
     "id": "shell-see",
-    "characters": ["貝", "見"]
+    "characters": [
+      "貝",
+      "見"
+    ]
   },
   {
-    "id": "noon-cow",
-    "characters": ["午", "牛"]
+    "id": "sun-say",
+    "characters": [
+      "日",
+      "曰"
+    ]
   },
   {
-    "id": "king-jade",
-    "characters": ["王", "玉"]
+    "id": "mouth-field-bend",
+    "characters": [
+      "口",
+      "田",
+      "曲"
+    ]
   },
   {
-    "id": "ask-between",
-    "characters": ["問", "間"]
+    "id": "eye-sun-white-self",
+    "characters": [
+      "目",
+      "日",
+      "白",
+      "自",
+      "百"
+    ]
+  },
+  {
+    "id": "field-reason-armor-extend",
+    "characters": [
+      "田",
+      "由",
+      "甲",
+      "申",
+      "中"
+    ]
+  },
+  {
+    "id": "scholar-earth-ten",
+    "characters": [
+      "士",
+      "土",
+      "十"
+    ]
+  },
+  {
+    "id": "king-jade-lord-stem",
+    "characters": [
+      "王",
+      "玉",
+      "主",
+      "壬"
+    ]
+  },
+  {
+    "id": "life-lord",
+    "characters": [
+      "生",
+      "主"
+    ]
+  },
+  {
+    "id": "work-king",
+    "characters": [
+      "工",
+      "王"
+    ]
+  },
+  {
+    "id": "dry-thousand-at",
+    "characters": [
+      "干",
+      "千",
+      "于",
+      "午",
+      "牛"
+    ]
+  },
+  {
+    "id": "nine-round",
+    "characters": [
+      "九",
+      "丸"
+    ]
+  },
+  {
+    "id": "water-ice",
+    "characters": [
+      "水",
+      "氷"
+    ]
+  },
+  {
+    "id": "water-eternal-seek",
+    "characters": [
+      "水",
+      "永",
+      "求"
+    ]
+  },
+  {
+    "id": "sentence-period",
+    "characters": [
+      "句",
+      "旬"
+    ]
+  },
+  {
+    "id": "heaven-husband-arrow-lose",
+    "characters": [
+      "天",
+      "夫",
+      "矢",
+      "失"
+    ]
+  },
+  {
+    "id": "long-past-reach",
+    "characters": [
+      "久",
+      "乃",
+      "及"
+    ]
+  },
+  {
+    "id": "knife-power",
+    "characters": [
+      "刀",
+      "力"
+    ]
+  },
+  {
+    "id": "correct-stop",
+    "characters": [
+      "正",
+      "止"
+    ]
+  },
+  {
+    "id": "old-occupy-auspicious-tell",
+    "characters": [
+      "古",
+      "占",
+      "吉",
+      "告"
+    ]
+  },
+  {
+    "id": "same-toward",
+    "characters": [
+      "同",
+      "向"
+    ]
+  },
+  {
+    "id": "light-first-fill",
+    "characters": [
+      "光",
+      "先",
+      "充"
+    ]
+  },
+  {
+    "id": "village-heavy-child",
+    "characters": [
+      "里",
+      "重",
+      "童"
+    ]
+  },
+  {
+    "id": "and-face",
+    "characters": [
+      "而",
+      "面"
+    ]
+  },
+  {
+    "id": "gate-ask-between-hear-leisure",
+    "characters": [
+      "問",
+      "間",
+      "聞",
+      "閑",
+      "閏",
+      "閣"
+    ]
+  },
+  {
+    "id": "gate-open-close-relation",
+    "characters": [
+      "開",
+      "閉",
+      "關"
+    ]
+  },
+  {
+    "id": "branch-skill",
+    "characters": [
+      "枝",
+      "技"
+    ]
+  },
+  {
+    "id": "material-village",
+    "characters": [
+      "材",
+      "村"
+    ]
+  },
+  {
+    "id": "pray-analyze",
+    "characters": [
+      "祈",
+      "析"
+    ]
+  },
+  {
+    "id": "insult-regret",
+    "characters": [
+      "侮",
+      "悔"
+    ]
+  },
+  {
+    "id": "extend-middle",
+    "characters": [
+      "伸",
+      "仲"
+    ]
+  },
+  {
+    "id": "commander-teacher",
+    "characters": [
+      "帥",
+      "師"
+    ]
+  },
+  {
+    "id": "side-measure",
+    "characters": [
+      "側",
+      "測"
+    ]
+  },
+  {
+    "id": "increase-hate-monk",
+    "characters": [
+      "增",
+      "憎",
+      "僧"
+    ]
+  },
+  {
+    "id": "tomb-anger",
+    "characters": [
+      "墳",
+      "憤"
+    ]
+  },
+  {
+    "id": "bury-reason",
+    "characters": [
+      "埋",
+      "理"
+    ]
+  },
+  {
+    "id": "hold-wait-attend-special",
+    "characters": [
+      "持",
+      "待",
+      "侍",
+      "特"
+    ]
+  },
+  {
+    "id": "sell-edition",
+    "characters": [
+      "販",
+      "版"
+    ]
+  },
+  {
+    "id": "loan-goods",
+    "characters": [
+      "貸",
+      "貨"
+    ]
+  },
+  {
+    "id": "past-dwell",
+    "characters": [
+      "往",
+      "住"
+    ]
+  },
+  {
+    "id": "extinguish-reduce",
+    "characters": [
+      "滅",
+      "減"
+    ]
+  },
+  {
+    "id": "willow-raise",
+    "characters": [
+      "楊",
+      "揚"
+    ]
+  },
+  {
+    "id": "crow-cry",
+    "characters": [
+      "嗚",
+      "鳴"
+    ]
+  },
+  {
+    "id": "daytime-paint",
+    "characters": [
+      "晝",
+      "畫"
+    ]
+  },
+  {
+    "id": "hare-egg",
+    "characters": [
+      "卯",
+      "卵"
+    ]
+  },
+  {
+    "id": "prisoner-cause",
+    "characters": [
+      "囚",
+      "因"
+    ]
+  },
+  {
+    "id": "circle-map",
+    "characters": [
+      "圓",
+      "圖"
+    ]
+  },
+  {
+    "id": "bundle-east",
+    "characters": [
+      "束",
+      "東"
+    ]
+  },
+  {
+    "id": "press-suppress",
+    "characters": [
+      "押",
+      "抑"
+    ]
+  },
+  {
+    "id": "extend-court",
+    "characters": [
+      "延",
+      "廷"
+    ]
+  },
+  {
+    "id": "matter-object",
+    "characters": [
+      "件",
+      "仲"
+    ]
+  },
+  {
+    "id": "clean-knot",
+    "characters": [
+      "潔",
+      "結"
+    ]
+  },
+  {
+    "id": "system-person-system",
+    "characters": [
+      "系",
+      "係"
+    ]
+  },
+  {
+    "id": "system-inherit",
+    "characters": [
+      "系",
+      "繼"
+    ]
+  },
+  {
+    "id": "official-windpipe",
+    "characters": [
+      "官",
+      "管"
+    ]
+  },
+  {
+    "id": "manage-house",
+    "characters": [
+      "館",
+      "管"
+    ]
+  },
+  {
+    "id": "official-palace",
+    "characters": [
+      "官",
+      "宮"
+    ]
+  },
+  {
+    "id": "guest-each",
+    "characters": [
+      "客",
+      "各"
+    ]
+  },
+  {
+    "id": "house-luxury",
+    "characters": [
+      "家",
+      "豪"
+    ]
+  },
+  {
+    "id": "arm-friend-reverse",
+    "characters": [
+      "友",
+      "反"
+    ]
+  },
+  {
+    "id": "cloth-market-lung",
+    "characters": [
+      "布",
+      "市",
+      "肺"
+    ]
+  },
+  {
+    "id": "house-body-shoot",
+    "characters": [
+      "身",
+      "射"
+    ]
+  },
+  {
+    "id": "ear-take",
+    "characters": [
+      "耳",
+      "取"
+    ]
+  },
+  {
+    "id": "giant-minister-district",
+    "characters": [
+      "巨",
+      "臣",
+      "區"
+    ]
+  },
+  {
+    "id": "good-root",
+    "characters": [
+      "良",
+      "根"
+    ]
+  },
+  {
+    "id": "shell-page-correct",
+    "characters": [
+      "貝",
+      "貞",
+      "員"
+    ]
+  },
+  {
+    "id": "negative-correct",
+    "characters": [
+      "負",
+      "貞"
+    ]
+  },
+  {
+    "id": "noble-goods",
+    "characters": [
+      "貴",
+      "貨"
+    ]
+  },
+  {
+    "id": "red-pearl-special-stock",
+    "characters": [
+      "朱",
+      "珠",
+      "殊",
+      "株"
+    ]
+  },
+  {
+    "id": "grain-profit-harmony",
+    "characters": [
+      "禾",
+      "利",
+      "和"
+    ]
+  },
+  {
+    "id": "season-entrust-show",
+    "characters": [
+      "季",
+      "委",
+      "秀"
+    ]
+  },
+  {
+    "id": "look-wear",
+    "characters": [
+      "看",
+      "着"
+    ]
+  },
+  {
+    "id": "halberd-stem-dog",
+    "characters": [
+      "戊",
+      "戌"
+    ]
+  },
+  {
+    "id": "become-or-domain-castle",
+    "characters": [
+      "成",
+      "或",
+      "域",
+      "城"
+    ]
+  },
+  {
+    "id": "replace-cut-generation",
+    "characters": [
+      "代",
+      "伐"
+    ]
+  },
+  {
+    "id": "morning-dry",
+    "characters": [
+      "朝",
+      "乾"
+    ]
+  },
+  {
+    "id": "speak-wheel-human",
+    "characters": [
+      "論",
+      "輪",
+      "倫"
+    ]
+  },
+  {
+    "id": "transport-wheel",
+    "characters": [
+      "輸",
+      "輪"
+    ]
+  },
+  {
+    "id": "constant-normal-prize",
+    "characters": [
+      "常",
+      "賞",
+      "償"
+    ]
+  },
+  {
+    "id": "same-party-taste-prize",
+    "characters": [
+      "當",
+      "黨",
+      "堂",
+      "嘗",
+      "賞"
+    ]
+  },
+  {
+    "id": "respect-alarm-surprise",
+    "characters": [
+      "敬",
+      "警",
+      "驚"
+    ]
+  },
+  {
+    "id": "boundary-mirror-end",
+    "characters": [
+      "境",
+      "鏡",
+      "竟"
+    ]
+  },
+  {
+    "id": "hard-correct-change",
+    "characters": [
+      "硬",
+      "更"
+    ]
+  },
+  {
+    "id": "neck-top-page",
+    "characters": [
+      "項",
+      "頂",
+      "頃"
+    ]
+  },
+  {
+    "id": "solid-old",
+    "characters": [
+      "固",
+      "古"
+    ]
+  },
+  {
+    "id": "sleep-caution",
+    "characters": [
+      "眠",
+      "眼"
+    ]
   }
 ]
