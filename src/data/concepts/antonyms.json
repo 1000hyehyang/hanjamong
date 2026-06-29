@@ -241,7 +241,7 @@
   },
   {
     "id": 16,
-    "word": "苦樂",
+    "word": "苦樂",
     "characters": [
       {
         "hanja": "苦",
@@ -249,7 +249,7 @@
         "sound": "고"
       },
       {
-        "hanja": "樂",
+        "hanja": "樂",
         "meaning": "즐길",
         "sound": "락"
       }
@@ -513,10 +513,10 @@
   },
   {
     "id": 33,
-    "word": "勞使",
+    "word": "勞使",
     "characters": [
       {
-        "hanja": "勞",
+        "hanja": "勞",
         "meaning": "일할",
         "sound": "노"
       },
@@ -1409,7 +1409,7 @@
   },
   {
     "id": 89,
-    "word": "往復",
+    "word": "往復",
     "characters": [
       {
         "hanja": "往",
@@ -1417,7 +1417,7 @@
         "sound": "왕"
       },
       {
-        "hanja": "復",
+        "hanja": "復",
         "meaning": "돌아올",
         "sound": "복"
       }

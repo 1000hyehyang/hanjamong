@@ -58,7 +58,7 @@
         "reading": "견"
       },
       {
-        "meaning": "뵈올",
+        "meaning": "뵐",
         "reading": "현"
       }
     ]
@@ -89,6 +89,10 @@
     "meanings": [
       {
         "meaning": "옛",
+        "reading": "고"
+      },
+      {
+        "meaning": "예",
         "reading": "고"
       }
     ]
@@ -195,17 +199,13 @@
       {
         "meaning": "이제",
         "reading": "금"
-      },
-      {
-        "meaning": "오늘",
-        "reading": "금"
       }
     ]
   },
   {
     "id": "g8-014",
     "grade": 8,
-    "character": "金",
+    "character": "金",
     "normalizedCharacter": "金",
     "strokeCount": 8,
     "radical": "金",
@@ -363,7 +363,7 @@
   {
     "id": "g8-024",
     "grade": 8,
-    "character": "樂",
+    "character": "樂",
     "normalizedCharacter": "樂",
     "strokeCount": 15,
     "radical": "木",
@@ -420,6 +420,21 @@
   {
     "id": "g8-027",
     "grade": 8,
+    "character": "六",
+    "normalizedCharacter": "六",
+    "strokeCount": 4,
+    "radical": "八",
+    "formation": "상형",
+    "meanings": [
+      {
+        "meaning": "여섯",
+        "reading": "륙"
+      }
+    ]
+  },
+  {
+    "id": "g8-028",
+    "grade": 8,
     "character": "利",
     "normalizedCharacter": "利",
     "strokeCount": 7,
@@ -433,7 +448,7 @@
     ]
   },
   {
-    "id": "g8-028",
+    "id": "g8-029",
     "grade": 8,
     "character": "名",
     "normalizedCharacter": "名",
@@ -448,7 +463,7 @@
     ]
   },
   {
-    "id": "g8-029",
+    "id": "g8-030",
     "grade": 8,
     "character": "毛",
     "normalizedCharacter": "毛",
@@ -463,7 +478,7 @@
     ]
   },
   {
-    "id": "g8-030",
+    "id": "g8-031",
     "grade": 8,
     "character": "無",
     "normalizedCharacter": "無",
@@ -478,7 +493,7 @@
     ]
   },
   {
-    "id": "g8-031",
+    "id": "g8-032",
     "grade": 8,
     "character": "民",
     "normalizedCharacter": "民",
@@ -493,7 +508,7 @@
     ]
   },
   {
-    "id": "g8-032",
+    "id": "g8-033",
     "grade": 8,
     "character": "方",
     "normalizedCharacter": "方",
@@ -516,7 +531,7 @@
     ]
   },
   {
-    "id": "g8-033",
+    "id": "g8-034",
     "grade": 8,
     "character": "白",
     "normalizedCharacter": "白",
@@ -531,7 +546,7 @@
     ]
   },
   {
-    "id": "g8-034",
+    "id": "g8-035",
     "grade": 8,
     "character": "百",
     "normalizedCharacter": "百",
@@ -546,7 +561,7 @@
     ]
   },
   {
-    "id": "g8-035",
+    "id": "g8-036",
     "grade": 8,
     "character": "法",
     "normalizedCharacter": "法",
@@ -561,7 +576,7 @@
     ]
   },
   {
-    "id": "g8-036",
+    "id": "g8-037",
     "grade": 8,
     "character": "兵",
     "normalizedCharacter": "兵",
@@ -576,7 +591,7 @@
     ]
   },
   {
-    "id": "g8-037",
+    "id": "g8-038",
     "grade": 8,
     "character": "本",
     "normalizedCharacter": "本",
@@ -591,7 +606,7 @@
     ]
   },
   {
-    "id": "g8-038",
+    "id": "g8-039",
     "grade": 8,
     "character": "不",
     "normalizedCharacter": "不",
@@ -610,7 +625,7 @@
     ]
   },
   {
-    "id": "g8-039",
+    "id": "g8-040",
     "grade": 8,
     "character": "北",
     "normalizedCharacter": "北",
@@ -629,7 +644,7 @@
     ]
   },
   {
-    "id": "g8-040",
+    "id": "g8-041",
     "grade": 8,
     "character": "分",
     "normalizedCharacter": "分",
@@ -644,7 +659,7 @@
     ]
   },
   {
-    "id": "g8-041",
+    "id": "g8-042",
     "grade": 8,
     "character": "事",
     "normalizedCharacter": "事",
@@ -659,7 +674,7 @@
     ]
   },
   {
-    "id": "g8-042",
+    "id": "g8-043",
     "grade": 8,
     "character": "史",
     "normalizedCharacter": "史",
@@ -674,7 +689,7 @@
     ]
   },
   {
-    "id": "g8-043",
+    "id": "g8-044",
     "grade": 8,
     "character": "四",
     "normalizedCharacter": "四",
@@ -689,7 +704,7 @@
     ]
   },
   {
-    "id": "g8-044",
+    "id": "g8-045",
     "grade": 8,
     "character": "士",
     "normalizedCharacter": "士",
@@ -704,7 +719,7 @@
     ]
   },
   {
-    "id": "g8-045",
+    "id": "g8-046",
     "grade": 8,
     "character": "三",
     "normalizedCharacter": "三",
@@ -719,7 +734,7 @@
     ]
   },
   {
-    "id": "g8-046",
+    "id": "g8-047",
     "grade": 8,
     "character": "上",
     "normalizedCharacter": "上",
@@ -738,7 +753,7 @@
     ]
   },
   {
-    "id": "g8-047",
+    "id": "g8-048",
     "grade": 8,
     "character": "商",
     "normalizedCharacter": "商",
@@ -753,7 +768,7 @@
     ]
   },
   {
-    "id": "g8-048",
+    "id": "g8-049",
     "grade": 8,
     "character": "色",
     "normalizedCharacter": "色",
@@ -768,7 +783,7 @@
     ]
   },
   {
-    "id": "g8-049",
+    "id": "g8-050",
     "grade": 8,
     "character": "生",
     "normalizedCharacter": "生",
@@ -783,7 +798,7 @@
     ]
   },
   {
-    "id": "g8-050",
+    "id": "g8-051",
     "grade": 8,
     "character": "書",
     "normalizedCharacter": "書",
@@ -798,7 +813,7 @@
     ]
   },
   {
-    "id": "g8-051",
+    "id": "g8-052",
     "grade": 8,
     "character": "西",
     "normalizedCharacter": "西",
@@ -813,7 +828,7 @@
     ]
   },
   {
-    "id": "g8-052",
+    "id": "g8-053",
     "grade": 8,
     "character": "成",
     "normalizedCharacter": "成",
@@ -828,7 +843,7 @@
     ]
   },
   {
-    "id": "g8-053",
+    "id": "g8-054",
     "grade": 8,
     "character": "世",
     "normalizedCharacter": "世",
@@ -837,17 +852,17 @@
     "formation": "회의",
     "meanings": [
       {
-        "meaning": "세상",
+        "meaning": "인간",
         "reading": "세"
       },
       {
-        "meaning": "인간",
+        "meaning": "세대",
         "reading": "세"
       }
     ]
   },
   {
-    "id": "g8-054",
+    "id": "g8-055",
     "grade": 8,
     "character": "小",
     "normalizedCharacter": "小",
@@ -862,7 +877,7 @@
     ]
   },
   {
-    "id": "g8-055",
+    "id": "g8-056",
     "grade": 8,
     "character": "少",
     "normalizedCharacter": "少",
@@ -877,7 +892,7 @@
     ]
   },
   {
-    "id": "g8-056",
+    "id": "g8-057",
     "grade": 8,
     "character": "市",
     "normalizedCharacter": "市",
@@ -886,13 +901,13 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "저자",
+        "meaning": "시장",
         "reading": "시"
       }
     ]
   },
   {
-    "id": "g8-057",
+    "id": "g8-058",
     "grade": 8,
     "character": "示",
     "normalizedCharacter": "示",
@@ -907,7 +922,7 @@
     ]
   },
   {
-    "id": "g8-058",
+    "id": "g8-059",
     "grade": 8,
     "character": "食",
     "normalizedCharacter": "食",
@@ -926,7 +941,7 @@
     ]
   },
   {
-    "id": "g8-059",
+    "id": "g8-060",
     "grade": 8,
     "character": "臣",
     "normalizedCharacter": "臣",
@@ -941,7 +956,7 @@
     ]
   },
   {
-    "id": "g8-060",
+    "id": "g8-061",
     "grade": 8,
     "character": "失",
     "normalizedCharacter": "失",
@@ -956,7 +971,7 @@
     ]
   },
   {
-    "id": "g8-061",
+    "id": "g8-062",
     "grade": 8,
     "character": "十",
     "normalizedCharacter": "十",
@@ -971,7 +986,7 @@
     ]
   },
   {
-    "id": "g8-062",
+    "id": "g8-063",
     "grade": 8,
     "character": "言",
     "normalizedCharacter": "言",
@@ -986,7 +1001,7 @@
     ]
   },
   {
-    "id": "g8-063",
+    "id": "g8-064",
     "grade": 8,
     "character": "業",
     "normalizedCharacter": "業",
@@ -997,11 +1012,15 @@
       {
         "meaning": "업",
         "reading": "업"
+      },
+      {
+        "meaning": "일",
+        "reading": "업"
       }
     ]
   },
   {
-    "id": "g8-064",
+    "id": "g8-065",
     "grade": 8,
     "character": "五",
     "normalizedCharacter": "五",
@@ -1016,7 +1035,7 @@
     ]
   },
   {
-    "id": "g8-065",
+    "id": "g8-066",
     "grade": 8,
     "character": "午",
     "normalizedCharacter": "午",
@@ -1031,7 +1050,7 @@
     ]
   },
   {
-    "id": "g8-066",
+    "id": "g8-067",
     "grade": 8,
     "character": "外",
     "normalizedCharacter": "外",
@@ -1046,7 +1065,7 @@
     ]
   },
   {
-    "id": "g8-067",
+    "id": "g8-068",
     "grade": 8,
     "character": "容",
     "normalizedCharacter": "容",
@@ -1065,7 +1084,7 @@
     ]
   },
   {
-    "id": "g8-068",
+    "id": "g8-069",
     "grade": 8,
     "character": "用",
     "normalizedCharacter": "用",
@@ -1080,7 +1099,7 @@
     ]
   },
   {
-    "id": "g8-069",
+    "id": "g8-070",
     "grade": 8,
     "character": "元",
     "normalizedCharacter": "元",
@@ -1095,7 +1114,7 @@
     ]
   },
   {
-    "id": "g8-070",
+    "id": "g8-071",
     "grade": 8,
     "character": "原",
     "normalizedCharacter": "原",
@@ -1114,7 +1133,7 @@
     ]
   },
   {
-    "id": "g8-071",
+    "id": "g8-072",
     "grade": 8,
     "character": "位",
     "normalizedCharacter": "位",
@@ -1133,7 +1152,7 @@
     ]
   },
   {
-    "id": "g8-072",
+    "id": "g8-073",
     "grade": 8,
     "character": "有",
     "normalizedCharacter": "有",
@@ -1148,7 +1167,7 @@
     ]
   },
   {
-    "id": "g8-073",
+    "id": "g8-074",
     "grade": 8,
     "character": "由",
     "normalizedCharacter": "由",
@@ -1159,21 +1178,6 @@
       {
         "meaning": "말미암을",
         "reading": "유"
-      }
-    ]
-  },
-  {
-    "id": "g8-074",
-    "grade": 8,
-    "character": "六",
-    "normalizedCharacter": "六",
-    "strokeCount": 4,
-    "radical": "八",
-    "formation": "상형",
-    "meanings": [
-      {
-        "meaning": "여섯",
-        "reading": "육"
       }
     ]
   },

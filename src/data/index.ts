@@ -50,6 +50,7 @@ const questionsByGrade: Record<number, QuizQuestion[]> = {
 
 const questionTypeOrder: QuizQuestion["type"][] = [
   "hanja_reading",
+  "hanja_structure",
   "meaning_to_hanja",
   "vocabulary",
   "idiom",

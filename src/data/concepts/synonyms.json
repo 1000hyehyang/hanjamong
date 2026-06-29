@@ -913,7 +913,7 @@
   },
   {
     "id": 58,
-    "word": "舍宅",
+    "word": "舍宅",
     "characters": [
       {
         "hanja": "舍",
@@ -921,7 +921,7 @@
         "sound": "사"
       },
       {
-        "hanja": "宅",
+        "hanja": "宅",
         "meaning": "집",
         "sound": "택"
       }
@@ -945,7 +945,7 @@
   },
   {
     "id": 60,
-    "word": "家宅",
+    "word": "家宅",
     "characters": [
       {
         "hanja": "家",
@@ -953,7 +953,7 @@
         "sound": "가"
       },
       {
-        "hanja": "宅",
+        "hanja": "宅",
         "meaning": "집",
         "sound": "택"
       }
@@ -3249,7 +3249,7 @@
   },
   {
     "id": 204,
-    "word": "娛樂",
+    "word": "娛樂",
     "characters": [
       {
         "hanja": "娛",
@@ -3257,7 +3257,7 @@
         "sound": "오"
       },
       {
-        "hanja": "樂",
+        "hanja": "樂",
         "meaning": "즐길",
         "sound": "락"
       }
@@ -4385,7 +4385,7 @@
   },
   {
     "id": 275,
-    "word": "許諾",
+    "word": "許諾",
     "characters": [
       {
         "hanja": "許",
@@ -4393,7 +4393,7 @@
         "sound": "허"
       },
       {
-        "hanja": "諾",
+        "hanja": "諾",
         "meaning": "허락할",
         "sound": "락"
       }

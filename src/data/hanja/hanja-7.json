@@ -201,10 +201,6 @@
     "formation": "회의",
     "meanings": [
       {
-        "meaning": "고할",
-        "reading": "고"
-      },
-      {
         "meaning": "알릴",
         "reading": "고"
       }
@@ -219,10 +215,6 @@
     "radical": "老",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "상고할",
-        "reading": "고"
-      },
       {
         "meaning": "생각할",
         "reading": "고"
@@ -461,7 +453,7 @@
     "formation": "회의",
     "meanings": [
       {
-        "meaning": "대답",
+        "meaning": "대답할",
         "reading": "답"
       }
     ]
@@ -619,10 +611,6 @@
     "formation": "회의",
     "meanings": [
       {
-        "meaning": "되질할",
-        "reading": "료"
-      },
-      {
         "meaning": "헤아릴",
         "reading": "료"
       }
@@ -747,10 +735,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "만물",
-        "reading": "물"
-      },
-      {
         "meaning": "물건",
         "reading": "물"
       }
@@ -796,6 +780,10 @@
     "formation": "회의",
     "meanings": [
       {
+        "meaning": "반대할",
+        "reading": "반"
+      },
+      {
         "meaning": "돌이킬",
         "reading": "반"
       }
@@ -840,10 +828,6 @@
     "radical": "疒",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "병들",
-        "reading": "병"
-      },
       {
         "meaning": "병",
         "reading": "병"
@@ -997,10 +981,6 @@
       {
         "meaning": "먼저",
         "reading": "선"
-      },
-      {
-        "meaning": "앞설",
-        "reading": "선"
       }
     ]
   },
@@ -1077,10 +1057,6 @@
     "radical": "水",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "꺼질",
-        "reading": "소"
-      },
       {
         "meaning": "사라질",
         "reading": "소"
@@ -1339,7 +1315,7 @@
   {
     "id": "g7-084",
     "grade": 7,
-    "character": "兩",
+    "character": "兩",
     "normalizedCharacter": "兩",
     "strokeCount": 8,
     "radical": "入",
@@ -1348,10 +1324,6 @@
       {
         "meaning": "두",
         "reading": "량"
-      },
-      {
-        "meaning": "두",
-        "reading": "양"
       }
     ]
   },
@@ -1658,10 +1630,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "싸울",
-        "reading": "전"
-      },
-      {
         "meaning": "싸움",
         "reading": "전"
       }
@@ -1797,6 +1765,10 @@
     "formation": "형성",
     "meanings": [
       {
+        "meaning": "할아버지",
+        "reading": "조"
+      },
+      {
         "meaning": "조상",
         "reading": "조"
       }
@@ -1891,7 +1863,7 @@
     "formation": "상형",
     "meanings": [
       {
-        "meaning": "대",
+        "meaning": "대나무",
         "reading": "죽"
       }
     ]
@@ -2326,10 +2298,6 @@
     "radical": "言",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "말할",
-        "reading": "화"
-      },
       {
         "meaning": "말씀",
         "reading": "화"

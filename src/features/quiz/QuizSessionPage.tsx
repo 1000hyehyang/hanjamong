@@ -28,6 +28,7 @@ interface QuizLocationState {
 function isQuestionType(value: string | undefined): value is QuestionType {
   return (
     value === "hanja_reading" ||
+    value === "hanja_structure" ||
     value === "meaning_to_hanja" ||
     value === "vocabulary" ||
     value === "idiom" ||

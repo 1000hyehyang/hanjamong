@@ -2,7 +2,7 @@
   {
     "id": "g9-001",
     "grade": 9,
-    "character": "車",
+    "character": "車",
     "normalizedCharacter": "車",
     "strokeCount": 7,
     "radical": "車",
@@ -58,6 +58,10 @@
     "formation": "상형",
     "meanings": [
       {
+        "meaning": "실과",
+        "reading": "과"
+      },
+      {
         "meaning": "열매",
         "reading": "과"
       }
@@ -104,6 +108,10 @@
     "meanings": [
       {
         "meaning": "여자",
+        "reading": "녀"
+      },
+      {
+        "meaning": "딸",
         "reading": "녀"
       }
     ]
@@ -208,6 +216,10 @@
     "formation": "상형",
     "meanings": [
       {
+        "meaning": "얼굴",
+        "reading": "면"
+      },
+      {
         "meaning": "낯",
         "reading": "면"
       }
@@ -223,7 +235,7 @@
     "formation": "지사",
     "meanings": [
       {
-        "meaning": "어미",
+        "meaning": "어머니",
         "reading": "모"
       }
     ]
@@ -298,6 +310,14 @@
     "formation": "상형",
     "meanings": [
       {
+        "meaning": "지아비",
+        "reading": "부"
+      },
+      {
+        "meaning": "남편",
+        "reading": "부"
+      },
+      {
         "meaning": "사내",
         "reading": "부"
       }
@@ -313,7 +333,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "아비",
+        "meaning": "아버지",
         "reading": "부"
       }
     ]
@@ -327,6 +347,10 @@
     "radical": "山",
     "formation": "상형",
     "meanings": [
+      {
+        "meaning": "산",
+        "reading": "산"
+      },
       {
         "meaning": "뫼",
         "reading": "산"
@@ -480,6 +504,10 @@
       {
         "meaning": "구슬",
         "reading": "옥"
+      },
+      {
+        "meaning": "옥",
+        "reading": "옥"
       }
     ]
   },
@@ -582,6 +610,10 @@
     "radical": "日",
     "formation": "상형",
     "meanings": [
+      {
+        "meaning": "해",
+        "reading": "일"
+      },
       {
         "meaning": "날",
         "reading": "일"
@@ -741,8 +773,8 @@
         "reading": "행"
       },
       {
-        "meaning": "항렬",
-        "reading": "항"
+        "meaning": "행할",
+        "reading": "행"
       }
     ]
   },

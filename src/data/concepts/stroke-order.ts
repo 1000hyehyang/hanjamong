@@ -45,7 +45,7 @@ export const strokeOrderRules: StrokeOrderRule[] = [
     id: 6,
     title: "허리를 끊는 획",
     description: "글자의 허리를 가로지르는 획은 나중에 긋는다.",
-    examples: [{ hanja: "世", hint: "세상 세" }],
+    examples: [{ hanja: "世", hint: "인간 세/세대 세" }],
   },
   {
     id: 7,
@@ -69,7 +69,7 @@ export const strokeOrderRules: StrokeOrderRule[] = [
     id: 10,
     title: "삐침과 파임",
     description: "삐침과 파임이 만나면 삐침을 먼저 쓴다.",
-    examples: [{ hanja: "父", hint: "아비 부" }],
+    examples: [{ hanja: "父", hint: "아버지 부" }],
   },
   {
     id: 11,
