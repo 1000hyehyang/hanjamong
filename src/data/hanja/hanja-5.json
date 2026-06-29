@@ -56,10 +56,6 @@
       {
         "meaning": "방패",
         "reading": "간"
-      },
-      {
-        "meaning": "줄기",
-        "reading": "간"
       }
     ]
   },
@@ -152,7 +148,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "골",
+        "meaning": "골짜기",
         "reading": "곡"
       }
     ]
@@ -364,10 +360,6 @@
       {
         "meaning": "일할",
         "reading": "로"
-      },
-      {
-        "meaning": "일할",
-        "reading": "노"
       }
     ]
   },
@@ -426,7 +418,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "대신할",
+        "meaning": "대신",
         "reading": "대"
       },
       {
@@ -614,7 +606,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "지날",
+        "meaning": "지낼",
         "reading": "력"
       }
     ]
@@ -629,7 +621,7 @@
     "formation": "회의",
     "meanings": [
       {
-        "meaning": "잇닿을",
+        "meaning": "이을",
         "reading": "련"
       }
     ]
@@ -675,6 +667,10 @@
     "meanings": [
       {
         "meaning": "뭍",
+        "reading": "륙"
+      },
+      {
+        "meaning": "땅",
         "reading": "륙"
       }
     ]
@@ -918,11 +914,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "부릴",
+        "meaning": "하여금",
         "reading": "사"
       },
       {
-        "meaning": "하여금",
+        "meaning": "시킬",
         "reading": "사"
       }
     ]
@@ -992,6 +988,10 @@
       {
         "meaning": "오히려",
         "reading": "상"
+      },
+      {
+        "meaning": "높을",
+        "reading": "상"
       }
     ]
   },
@@ -1051,10 +1051,6 @@
     "meanings": [
       {
         "meaning": "형세",
-        "reading": "세"
-      },
-      {
-        "meaning": "권세",
         "reading": "세"
       }
     ]
@@ -1161,14 +1157,6 @@
       {
         "meaning": "알",
         "reading": "식"
-      },
-      {
-        "meaning": "기록할",
-        "reading": "지"
-      },
-      {
-        "meaning": "적을",
-        "reading": "지"
       }
     ]
   },
@@ -1182,7 +1170,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "새",
+        "meaning": "새로울",
         "reading": "신"
       }
     ]
@@ -1261,8 +1249,8 @@
         "reading": "약"
       },
       {
-        "meaning": "반야",
-        "reading": "야"
+        "meaning": "만약",
+        "reading": "약"
       }
     ]
   },
@@ -1325,7 +1313,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "그러할",
+        "meaning": "그럴",
         "reading": "연"
       },
       {
@@ -1345,6 +1333,10 @@
     "meanings": [
       {
         "meaning": "갈",
+        "reading": "연"
+      },
+      {
+        "meaning": "연구할",
         "reading": "연"
       }
     ]
@@ -1558,10 +1550,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "끼칠",
-        "reading": "유"
-      },
-      {
         "meaning": "남길",
         "reading": "유"
       },
@@ -1707,6 +1695,10 @@
       {
         "meaning": "지을",
         "reading": "제"
+      },
+      {
+        "meaning": "만들",
+        "reading": "제"
       }
     ]
   },
@@ -1720,7 +1712,7 @@
     "formation": "상형",
     "meanings": [
       {
-        "meaning": "억조",
+        "meaning": "조",
         "reading": "조"
       },
       {
@@ -1771,6 +1763,10 @@
       {
         "meaning": "지을",
         "reading": "조"
+      },
+      {
+        "meaning": "만들",
+        "reading": "조"
       }
     ]
   },
@@ -1819,6 +1815,10 @@
     "meanings": [
       {
         "meaning": "허물",
+        "reading": "죄"
+      },
+      {
+        "meaning": "죄",
         "reading": "죄"
       }
     ]
@@ -1910,10 +1910,6 @@
       {
         "meaning": "지탱할",
         "reading": "지"
-      },
-      {
-        "meaning": "가를",
-        "reading": "지"
       }
     ]
   },
@@ -1942,10 +1938,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "노래할",
-        "reading": "창"
-      },
-      {
         "meaning": "부를",
         "reading": "창"
       }
@@ -1961,7 +1953,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "창",
+        "meaning": "창문",
         "reading": "창"
       }
     ]
@@ -1982,10 +1974,6 @@
       {
         "meaning": "빚",
         "reading": "채"
-      },
-      {
-        "meaning": "책임",
-        "reading": "책"
       }
     ]
   },
@@ -2030,10 +2018,6 @@
     "meanings": [
       {
         "meaning": "쫓을",
-        "reading": "추"
-      },
-      {
-        "meaning": "따를",
         "reading": "추"
       }
     ]
@@ -2198,7 +2182,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "해칠",
+        "meaning": "해로울",
         "reading": "해"
       }
     ]
@@ -2292,7 +2276,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "혼인할",
+        "meaning": "혼인",
         "reading": "혼"
       }
     ]
@@ -2306,10 +2290,6 @@
     "radical": "貝",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "재화",
-        "reading": "화"
-      },
       {
         "meaning": "재물",
         "reading": "화"

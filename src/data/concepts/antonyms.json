@@ -58,7 +58,7 @@
       },
       {
         "hanja": "苦",
-        "meaning": "쓸",
+        "meaning": "괴로울/쓸",
         "sound": "고"
       }
     ]
@@ -74,7 +74,7 @@
       },
       {
         "hanja": "山",
-        "meaning": "산",
+        "meaning": "산/뫼",
         "sound": "산"
       }
     ]
@@ -85,7 +85,7 @@
     "characters": [
       {
         "hanja": "強",
-        "meaning": "강할",
+        "meaning": "강할/굳셀",
         "sound": "강"
       },
       {
@@ -213,12 +213,12 @@
     "characters": [
       {
         "hanja": "經",
-        "meaning": "지날",
+        "meaning": "지날/글",
         "sound": "경"
       },
       {
         "hanja": "緯",
-        "meaning": "씨/세로",
+        "meaning": "씨줄",
         "sound": "위"
       }
     ]
@@ -245,7 +245,7 @@
     "characters": [
       {
         "hanja": "苦",
-        "meaning": "괴로울",
+        "meaning": "괴로울/쓸",
         "sound": "고"
       },
       {
@@ -277,12 +277,12 @@
     "characters": [
       {
         "hanja": "姑",
-        "meaning": "시어머니",
+        "meaning": "시어미",
         "sound": "고"
       },
       {
         "hanja": "婦",
-        "meaning": "며느리",
+        "meaning": "아내/며느리",
         "sound": "부"
       }
     ]
@@ -314,7 +314,7 @@
       },
       {
         "hanja": "過",
-        "meaning": "허물",
+        "meaning": "지날/허물",
         "sound": "과"
       }
     ]
@@ -518,11 +518,11 @@
       {
         "hanja": "勞",
         "meaning": "일할",
-        "sound": "노"
+        "sound": "로"
       },
       {
         "hanja": "使",
-        "meaning": "하여금/쓸",
+        "meaning": "하여금/시킬",
         "sound": "사"
       }
     ]
@@ -570,7 +570,7 @@
       },
       {
         "hanja": "續",
-        "meaning": "이을",
+        "meaning": "잇닿을/이을",
         "sound": "속"
       }
     ]
@@ -581,7 +581,7 @@
     "characters": [
       {
         "hanja": "單",
-        "meaning": "홀",
+        "meaning": "홑",
         "sound": "단"
       },
       {
@@ -613,7 +613,7 @@
     "characters": [
       {
         "hanja": "當",
-        "meaning": "마땅",
+        "meaning": "마땅할",
         "sound": "당"
       },
       {
@@ -778,7 +778,7 @@
       },
       {
         "hanja": "武",
-        "meaning": "호반",
+        "meaning": "굳셀/호반",
         "sound": "무"
       }
     ]
@@ -794,7 +794,7 @@
       },
       {
         "hanja": "醜",
-        "meaning": "추할",
+        "meaning": "더러울/추할",
         "sound": "추"
       }
     ]
@@ -805,7 +805,7 @@
     "characters": [
       {
         "hanja": "夫",
-        "meaning": "남편",
+        "meaning": "지아비/남편/사내",
         "sound": "부"
       },
       {
@@ -821,7 +821,7 @@
     "characters": [
       {
         "hanja": "方",
-        "meaning": "모",
+        "meaning": "모/방위/본뜰",
         "sound": "방"
       },
       {
@@ -869,12 +869,12 @@
     "characters": [
       {
         "hanja": "逢",
-        "meaning": "만날",
+        "meaning": "맞이할/만날",
         "sound": "봉"
       },
       {
         "hanja": "別",
-        "meaning": "나눌",
+        "meaning": "다를/나눌",
         "sound": "별"
       }
     ]
@@ -890,7 +890,7 @@
       },
       {
         "hanja": "富",
-        "meaning": "부유할",
+        "meaning": "부유할/부자",
         "sound": "부"
       }
     ]
@@ -922,7 +922,7 @@
       },
       {
         "hanja": "生",
-        "meaning": "살",
+        "meaning": "날",
         "sound": "생"
       }
     ]
@@ -938,7 +938,7 @@
       },
       {
         "hanja": "弟",
-        "meaning": "제자",
+        "meaning": "아우",
         "sound": "제"
       }
     ]
@@ -954,7 +954,7 @@
       },
       {
         "hanja": "罰",
-        "meaning": "벌할",
+        "meaning": "벌줄/벌할",
         "sound": "벌"
       }
     ]
@@ -1077,12 +1077,12 @@
     "characters": [
       {
         "hanja": "需",
-        "meaning": "쓰일",
+        "meaning": "구할/쓸",
         "sound": "수"
       },
       {
         "hanja": "給",
-        "meaning": "줄",
+        "meaning": "공급할/줄",
         "sound": "급"
       }
     ]
@@ -1146,7 +1146,7 @@
       },
       {
         "hanja": "負",
-        "meaning": "질",
+        "meaning": "짐질/질",
         "sound": "부"
       }
     ]
@@ -1173,7 +1173,7 @@
     "characters": [
       {
         "hanja": "是",
-        "meaning": "옳을",
+        "meaning": "이/옳을",
         "sound": "시"
       },
       {
@@ -1189,7 +1189,7 @@
     "characters": [
       {
         "hanja": "始",
-        "meaning": "비로소",
+        "meaning": "비로소/처음",
         "sound": "시"
       },
       {
@@ -1205,7 +1205,7 @@
     "characters": [
       {
         "hanja": "始",
-        "meaning": "비로소",
+        "meaning": "비로소/처음",
         "sound": "시"
       },
       {
@@ -1221,12 +1221,12 @@
     "characters": [
       {
         "hanja": "新",
-        "meaning": "새",
+        "meaning": "새로울",
         "sound": "신"
       },
       {
         "hanja": "舊",
-        "meaning": "예",
+        "meaning": "옛",
         "sound": "구"
       }
     ]
@@ -1242,7 +1242,7 @@
       },
       {
         "hanja": "縮",
-        "meaning": "줄일",
+        "meaning": "오그라들/줄일",
         "sound": "축"
       }
     ]
@@ -1290,7 +1290,7 @@
       },
       {
         "hanja": "惡",
-        "meaning": "미워할",
+        "meaning": "욕설할/미워할",
         "sound": "오"
       }
     ]
@@ -1306,7 +1306,7 @@
       },
       {
         "hanja": "憎",
-        "meaning": "미울",
+        "meaning": "미워할/미울",
         "sound": "증"
       }
     ]
@@ -1322,7 +1322,7 @@
       },
       {
         "hanja": "歡",
-        "meaning": "기뻐할",
+        "meaning": "기뻐할/기쁠",
         "sound": "환"
       }
     ]
@@ -1354,7 +1354,7 @@
       },
       {
         "hanja": "行",
-        "meaning": "다닐",
+        "meaning": "다닐/행할",
         "sound": "행"
       }
     ]
@@ -1365,12 +1365,12 @@
     "characters": [
       {
         "hanja": "榮",
-        "meaning": "영화",
+        "meaning": "꽃/영화",
         "sound": "영"
       },
       {
         "hanja": "辱",
-        "meaning": "욕될",
+        "meaning": "욕/욕될",
         "sound": "욕"
       }
     ]
@@ -1381,7 +1381,7 @@
     "characters": [
       {
         "hanja": "玉",
-        "meaning": "구슬",
+        "meaning": "구슬/옥",
         "sound": "옥"
       },
       {
@@ -1397,7 +1397,7 @@
     "characters": [
       {
         "hanja": "緩",
-        "meaning": "느릴",
+        "meaning": "느슨할/느릴",
         "sound": "완"
       },
       {
@@ -1418,7 +1418,7 @@
       },
       {
         "hanja": "復",
-        "meaning": "돌아올",
+        "meaning": "회복할",
         "sound": "복"
       }
     ]
@@ -1429,12 +1429,12 @@
     "characters": [
       {
         "hanja": "優",
-        "meaning": "뛰어날",
+        "meaning": "넉넉할/뛰어날",
         "sound": "우"
       },
       {
         "hanja": "劣",
-        "meaning": "못할",
+        "meaning": "용렬할/못할",
         "sound": "렬"
       }
     ]
@@ -1494,7 +1494,7 @@
       {
         "hanja": "離",
         "meaning": "떠날",
-        "sound": "이"
+        "sound": "리"
       },
       {
         "hanja": "合",
@@ -1510,7 +1510,7 @@
       {
         "hanja": "利",
         "meaning": "이로울",
-        "sound": "이"
+        "sound": "리"
       },
       {
         "hanja": "害",
@@ -1530,7 +1530,7 @@
       },
       {
         "hanja": "果",
-        "meaning": "결과",
+        "meaning": "실과/열매",
         "sound": "과"
       }
     ]
@@ -1589,7 +1589,7 @@
     "characters": [
       {
         "hanja": "長",
-        "meaning": "어른",
+        "meaning": "길",
         "sound": "장"
       },
       {
@@ -1621,7 +1621,7 @@
     "characters": [
       {
         "hanja": "將",
-        "meaning": "장수",
+        "meaning": "장수/장차",
         "sound": "장"
       },
       {
@@ -1690,7 +1690,7 @@
       },
       {
         "hanja": "誤",
-        "meaning": "그릇될",
+        "meaning": "그릇할/그르칠",
         "sound": "오"
       }
     ]
@@ -1722,7 +1722,7 @@
       },
       {
         "hanja": "晩",
-        "meaning": "늦을",
+        "meaning": "저물/늦을",
         "sound": "만"
       }
     ]
@@ -1754,7 +1754,7 @@
       },
       {
         "hanja": "廢",
-        "meaning": "버릴",
+        "meaning": "폐할",
         "sound": "폐"
       }
     ]
@@ -1813,7 +1813,7 @@
     "characters": [
       {
         "hanja": "主",
-        "meaning": "주인",
+        "meaning": "주인/임금",
         "sound": "주"
       },
       {
@@ -1829,7 +1829,7 @@
     "characters": [
       {
         "hanja": "主",
-        "meaning": "주인",
+        "meaning": "주인/임금",
         "sound": "주"
       },
       {
@@ -1914,7 +1914,7 @@
       },
       {
         "hanja": "配",
-        "meaning": "나눌",
+        "meaning": "짝지을/나눌/짝",
         "sound": "배"
       }
     ]
@@ -2058,7 +2058,7 @@
       },
       {
         "hanja": "沒",
-        "meaning": "빠질",
+        "meaning": "잠길/빠질",
         "sound": "몰"
       }
     ]
@@ -2186,7 +2186,7 @@
       },
       {
         "hanja": "素",
-        "meaning": "본디/흴",
+        "meaning": "흴/본디",
         "sound": "소"
       }
     ]
@@ -2234,7 +2234,7 @@
       },
       {
         "hanja": "吸",
-        "meaning": "마실",
+        "meaning": "숨들이쉴/마실",
         "sound": "흡"
       }
     ]
@@ -2282,7 +2282,7 @@
       },
       {
         "hanja": "實",
-        "meaning": "열매",
+        "meaning": "열매/참",
         "sound": "실"
       }
     ]
@@ -2315,7 +2315,7 @@
       {
         "hanja": "怒",
         "meaning": "성낼",
-        "sound": "로"
+        "sound": "노"
       }
     ]
   },
@@ -2325,7 +2325,7 @@
     "characters": [
       {
         "hanja": "上",
-        "meaning": "위",
+        "meaning": "위/오를",
         "sound": "상"
       },
       {
@@ -2362,7 +2362,7 @@
       },
       {
         "hanja": "足",
-        "meaning": "발",
+        "meaning": "발/족할",
         "sound": "족"
       }
     ]
@@ -2410,7 +2410,7 @@
       },
       {
         "hanja": "右",
-        "meaning": "오른",
+        "meaning": "오른쪽",
         "sound": "우"
       }
     ]
