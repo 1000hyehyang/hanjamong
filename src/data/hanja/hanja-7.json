@@ -1060,6 +1060,10 @@
       {
         "meaning": "사라질",
         "reading": "소"
+      },
+      {
+        "meaning": "없앨",
+        "reading": "소"
       }
     ]
   },
@@ -1203,6 +1207,10 @@
       {
         "meaning": "집",
         "reading": "실"
+      },
+      {
+        "meaning": "방",
+        "reading": "실"
       }
     ]
   },
@@ -1217,6 +1225,10 @@
     "meanings": [
       {
         "meaning": "열매",
+        "reading": "실"
+      },
+      {
+        "meaning": "참",
         "reading": "실"
       }
     ]

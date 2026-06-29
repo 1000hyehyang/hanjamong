@@ -163,10 +163,6 @@
         "reading": "과"
       },
       {
-        "meaning": "과정",
-        "reading": "과"
-      },
-      {
         "meaning": "매길",
         "reading": "과"
       }
@@ -366,7 +362,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "덕",
+        "meaning": "큰",
         "reading": "덕"
       }
     ]
@@ -413,14 +409,6 @@
       {
         "meaning": "마을",
         "reading": "동"
-      },
-      {
-        "meaning": "골",
-        "reading": "동"
-      },
-      {
-        "meaning": "밝을",
-        "reading": "통"
       }
     ]
   },
@@ -451,10 +439,6 @@
       {
         "meaning": "떨어질",
         "reading": "락"
-      },
-      {
-        "meaning": "떨어질",
-        "reading": "낙"
       }
     ]
   },
@@ -468,11 +452,15 @@
     "formation": "회의",
     "meanings": [
       {
+        "meaning": "나그네",
+        "reading": "려"
+      },
+      {
         "meaning": "군사",
         "reading": "려"
       },
       {
-        "meaning": "나그네",
+        "meaning": "여행할",
         "reading": "려"
       }
     ]
@@ -548,6 +536,10 @@
     "meanings": [
       {
         "meaning": "법",
+        "reading": "률"
+      },
+      {
+        "meaning": "법칙",
         "reading": "률"
       }
     ]
@@ -636,10 +628,6 @@
     "radical": "癶",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "쏠",
-        "reading": "발"
-      },
       {
         "meaning": "필",
         "reading": "발"
@@ -747,16 +735,12 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "돌아올",
+        "meaning": "회복할",
         "reading": "복"
       },
       {
         "meaning": "다시",
         "reading": "부"
-      },
-      {
-        "meaning": "회복할",
-        "reading": "복"
       }
     ]
   },
@@ -785,11 +769,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "벼슬할",
+        "meaning": "섬길",
         "reading": "사"
       },
       {
-        "meaning": "섬길",
+        "meaning": "벼슬",
         "reading": "사"
       }
     ]
@@ -834,7 +818,7 @@
     "formation": "회의",
     "meanings": [
       {
-        "meaning": "셈",
+        "meaning": "셀",
         "reading": "산"
       }
     ]
@@ -865,6 +849,10 @@
     "meanings": [
       {
         "meaning": "서로",
+        "reading": "상"
+      },
+      {
+        "meaning": "재상",
         "reading": "상"
       }
     ]
@@ -940,10 +928,6 @@
     "meanings": [
       {
         "meaning": "고울",
-        "reading": "선"
-      },
-      {
-        "meaning": "생선",
         "reading": "선"
       }
     ]
@@ -1035,10 +1019,6 @@
       {
         "meaning": "살필",
         "reading": "성"
-      },
-      {
-        "meaning": "덜",
-        "reading": "생"
       }
     ]
   },
@@ -1098,10 +1078,6 @@
     "meanings": [
       {
         "meaning": "손자",
-        "reading": "손"
-      },
-      {
-        "meaning": "자손",
         "reading": "손"
       }
     ]
@@ -1163,10 +1139,6 @@
       {
         "meaning": "셈",
         "reading": "수"
-      },
-      {
-        "meaning": "자주",
-        "reading": "삭"
       }
     ]
   },
@@ -1210,15 +1182,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "바를",
+        "meaning": "이",
         "reading": "시"
       },
       {
         "meaning": "옳을",
-        "reading": "시"
-      },
-      {
-        "meaning": "이",
         "reading": "시"
       }
     ]
@@ -1310,10 +1278,6 @@
       {
         "meaning": "꽃부리",
         "reading": "영"
-      },
-      {
-        "meaning": "뛰어날",
-        "reading": "영"
       }
     ]
   },
@@ -1356,10 +1320,6 @@
     "radical": "辵",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "운전할",
-        "reading": "운"
-      },
       {
         "meaning": "옮길",
         "reading": "운"
@@ -1528,10 +1488,6 @@
       {
         "meaning": "두",
         "reading": "재"
-      },
-      {
-        "meaning": "다시",
-        "reading": "재"
       }
     ]
   },
@@ -1607,10 +1563,6 @@
       {
         "meaning": "마디",
         "reading": "절"
-      },
-      {
-        "meaning": "절제할",
-        "reading": "절"
       }
     ]
   },
@@ -1655,6 +1607,10 @@
     "meanings": [
       {
         "meaning": "정할",
+        "reading": "정"
+      },
+      {
+        "meaning": "자세할",
         "reading": "정"
       }
     ]
@@ -1943,10 +1899,6 @@
     "formation": "회의",
     "meanings": [
       {
-        "meaning": "취할",
-        "reading": "취"
-      },
-      {
         "meaning": "가질",
         "reading": "취"
       }
@@ -2011,7 +1963,7 @@
         "reading": "택"
       },
       {
-        "meaning": "댁",
+        "meaning": "집",
         "reading": "댁"
       }
     ]
@@ -2150,7 +2102,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "나라 이름",
+        "meaning": "한국",
+        "reading": "한"
+      },
+      {
+        "meaning": "나라",
         "reading": "한"
       }
     ]
@@ -2240,10 +2196,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "부르짖을",
-        "reading": "호"
-      },
-      {
         "meaning": "이름",
         "reading": "호"
       }
@@ -2273,10 +2225,6 @@
     "radical": "曰",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "모을",
-        "reading": "회"
-      },
       {
         "meaning": "모일",
         "reading": "회"
@@ -2357,7 +2305,7 @@
     "formation": "회의",
     "meanings": [
       {
-        "meaning": "일어날",
+        "meaning": "일",
         "reading": "흥"
       }
     ]
