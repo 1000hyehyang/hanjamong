@@ -1,6 +1,6 @@
 import type { ButtonHTMLAttributes, ReactNode } from "react";
 import { choiceCardBase, choiceCardHover, choiceCardStates } from "../styles/ui";
-import type { ChoiceHint } from "../utils/choice-hints";
+import type { ResolvedChoiceAnnotation } from "../utils/choice-annotations";
 
 export type ChoiceCardState =
   | "default"
@@ -14,7 +14,7 @@ interface ChoiceCardProps extends ButtonHTMLAttributes<HTMLButtonElement> {
   icon?: ReactNode;
   label: ReactNode;
   description?: string;
-  hint?: ChoiceHint;
+  annotation?: ResolvedChoiceAnnotation;
 }
 
 export function ChoiceCard({
@@ -22,7 +22,7 @@ export function ChoiceCard({
   icon,
   label,
   description,
-  hint,
+  annotation,
   className = "",
   onClick,
   disabled,
@@ -52,14 +52,16 @@ export function ChoiceCard({
         <div className="min-w-0 flex-1">
           <div className="flex flex-wrap items-baseline gap-x-2 text-base leading-snug">
             <span>{label}</span>
-            {hint ? (
+            {annotation ? (
               <span className="text-sm font-semibold">
-                {hint.meaning ? (
-                  <span className="text-text-secondary">{hint.meaning}</span>
+                {annotation.meaning ? (
+                  <span className="text-text-secondary">
+                    {annotation.meaning}
+                  </span>
                 ) : null}
                 <span className="text-green-dark">
-                  {hint.meaning ? " " : ""}
-                  {hint.reading}
+                  {annotation.meaning ? " " : ""}
+                  {annotation.reading}
                 </span>
               </span>
             ) : null}

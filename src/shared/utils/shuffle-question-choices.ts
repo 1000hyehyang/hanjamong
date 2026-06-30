@@ -1,20 +1,23 @@
 import type { QuizQuestion } from "../types/quiz";
-import { getChoiceHints, type ChoiceHint } from "./choice-hints";
+import {
+  getChoiceAnnotations,
+  type ResolvedChoiceAnnotation,
+} from "./choice-annotations";
 import { shuffle } from "./shuffle";
 
 export interface ShuffledQuestionChoices {
   choices: string[];
   answerIndex: number;
-  choiceHints?: (ChoiceHint | undefined)[];
+  choiceAnnotations?: (ResolvedChoiceAnnotation | undefined)[];
 }
 
 export function shuffleQuestionChoices(
   question: QuizQuestion,
 ): ShuffledQuestionChoices {
-  const hints = getChoiceHints(question);
+  const annotations = getChoiceAnnotations(question);
   const entries = question.choices.map((choice, index) => ({
     choice,
-    hint: hints?.[index],
+    annotation: annotations?.[index],
     isAnswer: index === question.answerIndex,
   }));
 
@@ -23,6 +26,8 @@ export function shuffleQuestionChoices(
   return {
     choices: shuffled.map((entry) => entry.choice),
     answerIndex: shuffled.findIndex((entry) => entry.isAnswer),
-    choiceHints: hints ? shuffled.map((entry) => entry.hint) : undefined,
+    choiceAnnotations: annotations
+      ? shuffled.map((entry) => entry.annotation)
+      : undefined,
   };
 }

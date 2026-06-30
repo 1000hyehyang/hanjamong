@@ -6,6 +6,12 @@ export type QuestionType =
   | "idiom"
   | "reading_comp";
 
+export interface ChoiceAnnotation {
+  meaning?: string;
+  reading?: string;
+  wordId?: string;
+}
+
 export interface QuizQuestion {
   id: string;
   type: QuestionType;
@@ -15,8 +21,7 @@ export interface QuizQuestion {
   choices: string[];
   answerIndex: number;
   explanation?: string;
-  choiceHints?: string[];
-  choiceReadings?: string[];
+  choiceAnnotations?: ChoiceAnnotation[];
   relatedHanjaIds?: string[];
   source?: string;
 }

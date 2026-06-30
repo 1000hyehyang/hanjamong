@@ -32,12 +32,27 @@
     "answerIndex": 2,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '調'입니다. 調는 '고를 조'입니다.",
-    "choiceHints": [
-      "住(살 주)",
-      "題(제목 제)",
-      "調(고를 조)",
-      "神(귀신 신)",
-      "的(과녁 적)"
+    "choiceAnnotations": [
+      {
+        "meaning": "살",
+        "reading": "주"
+      },
+      {
+        "meaning": "제목",
+        "reading": "제"
+      },
+      {
+        "meaning": "고를",
+        "reading": "조"
+      },
+      {
+        "meaning": "귀신",
+        "reading": "신"
+      },
+      {
+        "meaning": "과녁",
+        "reading": "적"
+      }
     ]
   },
   {
@@ -73,12 +88,27 @@
     "answerIndex": 0,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '效'입니다. 效는 '본받을 효'입니다.",
-    "choiceHints": [
-      "效(본받을 효)",
-      "絶(끊을 절)",
-      "參(참여할 참)",
-      "重(무거울 중)",
-      "完(완전할 완)"
+    "choiceAnnotations": [
+      {
+        "meaning": "본받을",
+        "reading": "효"
+      },
+      {
+        "meaning": "끊을",
+        "reading": "절"
+      },
+      {
+        "meaning": "참여할",
+        "reading": "참"
+      },
+      {
+        "meaning": "무거울",
+        "reading": "중"
+      },
+      {
+        "meaning": "완전할",
+        "reading": "완"
+      }
     ]
   },
   {
@@ -131,12 +161,22 @@
     "answerIndex": 3,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '次例'입니다. 次例는 次(차례 차), 例(법식 례)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "파선",
-      "차기",
-      "파동",
-      "차례",
-      "편어"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-11md9c7"
+      },
+      {
+        "wordId": "word-1hmnd9r"
+      },
+      {
+        "wordId": "word-1nag09f"
+      },
+      {
+        "wordId": "word-1o5bpkb"
+      },
+      {
+        "wordId": "word-h24e7c"
+      }
     ]
   },
   {
@@ -155,12 +195,22 @@
     "answerIndex": 3,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '傳統'입니다. 傳統은 傳(전할 전), 統(거느릴 통)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "조율",
-      "선명",
-      "촌수",
-      "전통",
-      "제호"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-14dk2c9"
+      },
+      {
+        "wordId": "word-s0axg4"
+      },
+      {
+        "wordId": "word-13f976n"
+      },
+      {
+        "wordId": "word-1dv6dxo"
+      },
+      {
+        "wordId": "word-1lr85us"
+      }
     ]
   },
   {
@@ -179,12 +229,22 @@
     "answerIndex": 0,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '敎訓'입니다. 敎訓은 敎(가르칠 교), 訓(가르칠 훈)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "교훈",
-      "교칙",
-      "교양",
-      "정훈",
-      "은혜"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-14a4yvq"
+      },
+      {
+        "wordId": "word-cy1ruc"
+      },
+      {
+        "wordId": "word-12pv2ek"
+      },
+      {
+        "wordId": "word-1hzyxmy"
+      },
+      {
+        "wordId": "word-vfz0x0"
+      }
     ]
   },
   {
@@ -203,12 +263,22 @@
     "answerIndex": 2,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '開通'입니다. 開通은 開(열 개), 通(통할 통)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "회기",
-      "회담",
-      "개통",
-      "개설",
-      "제재"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1tvikk5"
+      },
+      {
+        "wordId": "word-1d2nma9"
+      },
+      {
+        "wordId": "word-1nz1zaf"
+      },
+      {
+        "wordId": "word-wsivzn"
+      },
+      {
+        "wordId": "word-1mn36gn"
+      }
     ]
   },
   {
@@ -227,12 +297,22 @@
     "answerIndex": 2,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '移動'입니다. 移動은 移(옮길 이), 動(움직일 동)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "덕치",
-      "참가",
-      "이동",
-      "전년",
-      "운수"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-nk34cc"
+      },
+      {
+        "wordId": "word-1h7i9qu"
+      },
+      {
+        "wordId": "word-19mfrv8"
+      },
+      {
+        "wordId": "word-1q288xs"
+      },
+      {
+        "wordId": "word-c75b6a"
+      }
     ]
   },
   {
@@ -251,12 +331,22 @@
     "answerIndex": 2,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '設備'입니다. 設備는 設(베풀 설), 備(갖출 비)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "은덕",
-      "참가",
-      "설비",
-      "수학",
-      "설론"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1wx7r5k"
+      },
+      {
+        "wordId": "word-1h7i9qu"
+      },
+      {
+        "wordId": "word-8hhtd9"
+      },
+      {
+        "wordId": "word-sgddfs"
+      },
+      {
+        "wordId": "word-160z3vv"
+      }
     ]
   },
   {
@@ -289,16 +379,26 @@
       "效課",
       "復活"
     ],
-    "choiceReadings": [
-      "방과",
-      "방과",
-      "효과",
-      "효과",
-      "부활"
-    ],
     "answerIndex": 2,
     "source": "korcham-2013-2-a-6-pdf",
-    "explanation": "정답은 '效果'입니다. 效果는 효과로 읽고, 效(효험 효), 果(실과 과/열매 과)로 이루어진 말입니다."
+    "explanation": "정답은 '效果'입니다. 效果는 효과로 읽고, 效(효험 효), 果(실과 과/열매 과)로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-19qypgs"
+      },
+      {
+        "wordId": "word-lrhylm"
+      },
+      {
+        "wordId": "word-ouqi5f"
+      },
+      {
+        "wordId": "word-fmejpp"
+      },
+      {
+        "wordId": "word-1l84bcv"
+      }
+    ]
   },
   {
     "id": "q-6-015",
@@ -315,7 +415,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2013-2-a-6-pdf",
-    "explanation": "정답은 '節約'입니다. 節約은 節(마디 절), 約(검소할/줄일 약)으로 이루어진 말입니다. 문맥상 시간을 아낀다는 뜻입니다."
+    "explanation": "정답은 '節約'입니다. 節約은 節(마디 절), 約(검소할/줄일 약)으로 이루어진 말입니다. 문맥상 시간을 아낀다는 뜻입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-c6h67b"
+      },
+      {
+        "wordId": "word-gt0o5u"
+      },
+      {
+        "wordId": "word-1vl6ib5"
+      },
+      {
+        "wordId": "word-1aue1id"
+      },
+      {
+        "wordId": "word-tgomxs"
+      }
+    ]
   },
   {
     "id": "q-6-016",
@@ -332,7 +449,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2013-2-a-6-pdf",
-    "explanation": "정답은 '受賞'입니다. 受賞은 受(받을 수), 賞(상줄 상)으로 이루어진 말로, 상을 받는다는 뜻입니다. 따라서 '금상 수상자'는 금상을 받은 사람을 뜻합니다."
+    "explanation": "정답은 '受賞'입니다. 受賞은 受(받을 수), 賞(상줄 상)으로 이루어진 말로, 상을 받는다는 뜻입니다. 따라서 '금상 수상자'는 금상을 받은 사람을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-19448vq"
+      },
+      {
+        "wordId": "word-gx31m9"
+      },
+      {
+        "wordId": "word-1xbkiyy"
+      },
+      {
+        "wordId": "word-1c1gqe0"
+      },
+      {
+        "wordId": "word-trsr53"
+      }
+    ]
   },
   {
     "id": "q-6-017",
@@ -349,7 +483,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2013-2-a-6-pdf",
-    "explanation": "정답은 '完固'입니다. 完固는 完(완전할 완), 固(굳을 고)로 이루어진 말입니다. 여기서는 '완전하고 튼튼함'의 뜻이며, 고집이 세다는 뜻의 頑固와 구별해야 합니다."
+    "explanation": "정답은 '完固'입니다. 完固는 完(완전할 완), 固(굳을 고)로 이루어진 말입니다. 여기서는 '완전하고 튼튼함'의 뜻이며, 고집이 세다는 뜻의 頑固와 구별해야 합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-17hwq08"
+      },
+      {
+        "wordId": "word-qop1nl"
+      },
+      {
+        "wordId": "word-1mjrilr"
+      },
+      {
+        "wordId": "word-13tm3qu"
+      },
+      {
+        "wordId": "word-jh33xt"
+      }
+    ]
   },
   {
     "id": "q-6-018",
@@ -366,7 +517,24 @@
     ],
     "answerIndex": 0,
     "source": "korcham-2013-2-a-6-pdf",
-    "explanation": "정답은 '家族'입니다. 家族은 家(집 가), 族(겨레 족)으로 이루어진 말로, 한집안의 사람들을 뜻합니다."
+    "explanation": "정답은 '家族'입니다. 家族은 家(집 가), 族(겨레 족)으로 이루어진 말로, 한집안의 사람들을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1misg4d"
+      },
+      {
+        "wordId": "word-1qpleoi"
+      },
+      {
+        "wordId": "word-13p2zd0"
+      },
+      {
+        "wordId": "word-fwe9pv"
+      },
+      {
+        "wordId": "word-5z4f47"
+      }
+    ]
   },
   {
     "id": "q-6-019",
@@ -384,12 +552,27 @@
     "answerIndex": 1,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '齒'입니다. 齒는 '이 치'입니다.",
-    "choiceHints": [
-      "蟲(벌레 충)",
-      "齒(이 치)",
-      "體(몸 체)",
-      "參(참여할 참)",
-      "希(바랄 희)"
+    "choiceAnnotations": [
+      {
+        "meaning": "벌레",
+        "reading": "충"
+      },
+      {
+        "meaning": "이",
+        "reading": "치"
+      },
+      {
+        "meaning": "몸",
+        "reading": "체"
+      },
+      {
+        "meaning": "참여할",
+        "reading": "참"
+      },
+      {
+        "meaning": "바랄",
+        "reading": "희"
+      }
     ]
   }
 ]

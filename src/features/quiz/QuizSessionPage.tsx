@@ -264,8 +264,10 @@ export function QuizSessionPage() {
                   disabled={isAnswered}
                   onClick={() => handleSelect(choiceIndex)}
                   label={choice}
-                  hint={
-                    isAnswered ? shuffledChoices.choiceHints?.[choiceIndex] : undefined
+                  annotation={
+                    isAnswered
+                      ? shuffledChoices.choiceAnnotations?.[choiceIndex]
+                      : undefined
                   }
                 />
               ))}

@@ -1,0 +1,4922 @@
+[
+  {
+    "id": "word-1nyz9og",
+    "word": "(否)決",
+    "reading": "부결"
+  },
+  {
+    "id": "word-12c7y8p",
+    "word": "(否)運",
+    "reading": "비운"
+  },
+  {
+    "id": "word-14zjzxb",
+    "word": "(否)認",
+    "reading": "부인"
+  },
+  {
+    "id": "word-k4vrq7",
+    "word": "(否)定",
+    "reading": "부정"
+  },
+  {
+    "id": "word-h66juu",
+    "word": "(殺)到",
+    "reading": "쇄도"
+  },
+  {
+    "id": "word-1qw2v1q",
+    "word": "(殺)伐",
+    "reading": "살벌"
+  },
+  {
+    "id": "word-1nvpi7u",
+    "word": "(殺)傷",
+    "reading": "살상"
+  },
+  {
+    "id": "word-2kiank",
+    "word": "(塞)翁",
+    "reading": "새옹"
+  },
+  {
+    "id": "word-3y9qw8",
+    "word": "(塞)責",
+    "reading": "색책"
+  },
+  {
+    "id": "word-1txhrl6",
+    "word": "(索)引",
+    "reading": "색인"
+  },
+  {
+    "id": "word-usezix",
+    "word": "(索)出",
+    "reading": "색출"
+  },
+  {
+    "id": "word-bzam4e",
+    "word": "(衰)微",
+    "reading": "쇠미"
+  },
+  {
+    "id": "word-1spoyss",
+    "word": "(衰)顔",
+    "reading": "쇠안"
+  },
+  {
+    "id": "word-8utzsk",
+    "word": "(衰)殘",
+    "reading": "쇠잔"
+  },
+  {
+    "id": "word-t6y9ar",
+    "word": "(宿)根",
+    "reading": "숙근"
+  },
+  {
+    "id": "word-15z08gu",
+    "word": "(宿)願",
+    "reading": "숙원"
+  },
+  {
+    "id": "word-15iavkg",
+    "word": "(惡)俗",
+    "reading": "악속"
+  },
+  {
+    "id": "word-1mi3cvp",
+    "word": "(惡)種",
+    "reading": "악종"
+  },
+  {
+    "id": "word-12h9d47",
+    "word": "(惡)寒",
+    "reading": "오한"
+  },
+  {
+    "id": "word-1bjhtuj",
+    "word": "(刺)客",
+    "reading": "자객"
+  },
+  {
+    "id": "word-1vignjj",
+    "word": "(刺)擊",
+    "reading": "자격"
+  },
+  {
+    "id": "word-1iaoj92",
+    "word": "(刺)傷",
+    "reading": "자상"
+  },
+  {
+    "id": "word-73z1pw",
+    "word": "ᄀ 體際",
+    "reading": "체제"
+  },
+  {
+    "id": "word-eh1jyl",
+    "word": "街道",
+    "reading": "가도"
+  },
+  {
+    "id": "word-zcyv0g",
+    "word": "加律",
+    "reading": "가률"
+  },
+  {
+    "id": "word-1repun4",
+    "word": "加味",
+    "reading": "가미"
+  },
+  {
+    "id": "word-lme1k0",
+    "word": "加米",
+    "reading": "가미"
+  },
+  {
+    "id": "word-1u9uo01",
+    "word": "可味",
+    "reading": "가미"
+  },
+  {
+    "id": "word-1ospqf5",
+    "word": "可米",
+    "reading": "가미"
+  },
+  {
+    "id": "word-lqbh6h",
+    "word": "街味",
+    "reading": "가미"
+  },
+  {
+    "id": "word-1ffs2hq",
+    "word": "假想",
+    "reading": "가상"
+  },
+  {
+    "id": "word-em12u5",
+    "word": "家屋",
+    "reading": "가옥"
+  },
+  {
+    "id": "word-5z4f47",
+    "word": "加族",
+    "reading": "가족"
+  },
+  {
+    "id": "word-1qpleoi",
+    "word": "可族",
+    "reading": "가족"
+  },
+  {
+    "id": "word-1misg4d",
+    "word": "家族",
+    "reading": "가족"
+  },
+  {
+    "id": "word-fwe9pv",
+    "word": "可紙",
+    "reading": "가지"
+  },
+  {
+    "id": "word-13p2zd0",
+    "word": "家紙",
+    "reading": "가지"
+  },
+  {
+    "id": "word-197xmiy",
+    "word": "各自圖生",
+    "reading": "각자도생"
+  },
+  {
+    "id": "word-1wphaqo",
+    "word": "角者無齒",
+    "reading": "각자무치"
+  },
+  {
+    "id": "word-2jq0bn",
+    "word": "簡易",
+    "reading": "간이"
+  },
+  {
+    "id": "word-3u1p84",
+    "word": "間接",
+    "reading": "간접"
+  },
+  {
+    "id": "word-17h0h5l",
+    "word": "感氣",
+    "reading": "감기"
+  },
+  {
+    "id": "word-1kvbg2u",
+    "word": "感想",
+    "reading": "감상"
+  },
+  {
+    "id": "word-rz48wg",
+    "word": "感情",
+    "reading": "감정"
+  },
+  {
+    "id": "word-1eia81r",
+    "word": "甲-勿",
+    "reading": "갑-물"
+  },
+  {
+    "id": "word-1djwzx2",
+    "word": "剛博證",
+    "reading": "강박증"
+  },
+  {
+    "id": "word-u9n79q",
+    "word": "康薄症",
+    "reading": "강박증"
+  },
+  {
+    "id": "word-c8rnfe",
+    "word": "鋼拍症",
+    "reading": "강박증"
+  },
+  {
+    "id": "word-2unb20",
+    "word": "降泊證",
+    "reading": "강박증"
+  },
+  {
+    "id": "word-h2ykgc",
+    "word": "講師",
+    "reading": "강사"
+  },
+  {
+    "id": "word-c99urp",
+    "word": "講席",
+    "reading": "강석"
+  },
+  {
+    "id": "word-1u0yjsc",
+    "word": "江河",
+    "reading": "강하"
+  },
+  {
+    "id": "word-9ih4th",
+    "word": "改(惡)",
+    "reading": "개악"
+  },
+  {
+    "id": "word-1gelvtz",
+    "word": "開放",
+    "reading": "개방"
+  },
+  {
+    "id": "word-11iii05",
+    "word": "改善-進步",
+    "reading": "개선-진보"
+  },
+  {
+    "id": "word-wsivzn",
+    "word": "開設",
+    "reading": "개설"
+  },
+  {
+    "id": "word-ppqcia",
+    "word": "個性",
+    "reading": "개성"
+  },
+  {
+    "id": "word-1h2kbcw",
+    "word": "開業",
+    "reading": "개업"
+  },
+  {
+    "id": "word-2kn81k",
+    "word": "改易",
+    "reading": "개역"
+  },
+  {
+    "id": "word-1nz1zaf",
+    "word": "開通",
+    "reading": "개통"
+  },
+  {
+    "id": "word-qsazbn",
+    "word": "改革-入直",
+    "reading": "개혁-입직"
+  },
+  {
+    "id": "word-1u3jjzo",
+    "word": "客地",
+    "reading": "객지"
+  },
+  {
+    "id": "word-1tk4od6",
+    "word": "客鄕",
+    "reading": "객향"
+  },
+  {
+    "id": "word-nluj1o",
+    "word": "建設",
+    "reading": "건설"
+  },
+  {
+    "id": "word-2quoy7",
+    "word": "擊壤",
+    "reading": "격양"
+  },
+  {
+    "id": "word-1cccg9h",
+    "word": "見利思義",
+    "reading": "견리사의"
+  },
+  {
+    "id": "word-10njh04",
+    "word": "見聞一致",
+    "reading": "견문일치"
+  },
+  {
+    "id": "word-1tuk5tw",
+    "word": "見物生心",
+    "reading": "견물생심"
+  },
+  {
+    "id": "word-1lfjhum",
+    "word": "見事生風",
+    "reading": "견사생풍"
+  },
+  {
+    "id": "word-13u7hix",
+    "word": "堅持",
+    "reading": "견지"
+  },
+  {
+    "id": "word-14jod8c",
+    "word": "結局",
+    "reading": "결국"
+  },
+  {
+    "id": "word-p4jdps",
+    "word": "結末",
+    "reading": "결말"
+  },
+  {
+    "id": "word-fp3dy4",
+    "word": "決定",
+    "reading": "결정"
+  },
+  {
+    "id": "word-vuauy0",
+    "word": "結草報恩",
+    "reading": "결초보은"
+  },
+  {
+    "id": "word-1wnadq0",
+    "word": "謙讓",
+    "reading": "겸양"
+  },
+  {
+    "id": "word-1mb4772",
+    "word": "警戒",
+    "reading": "경계"
+  },
+  {
+    "id": "word-1s8ej9l",
+    "word": "經過",
+    "reading": "경과"
+  },
+  {
+    "id": "word-1mipq0o",
+    "word": "競技",
+    "reading": "경기"
+  },
+  {
+    "id": "word-1hjbsuy",
+    "word": "敬老孝親",
+    "reading": "경로효친"
+  },
+  {
+    "id": "word-1xg771b",
+    "word": "慶事",
+    "reading": "경사"
+  },
+  {
+    "id": "word-s1ca",
+    "word": "京室",
+    "reading": "경실"
+  },
+  {
+    "id": "word-js8cnq",
+    "word": "輕易",
+    "reading": "경이"
+  },
+  {
+    "id": "word-1xrve2q",
+    "word": "競爭",
+    "reading": "경쟁"
+  },
+  {
+    "id": "word-8kve0h",
+    "word": "耕地",
+    "reading": "경지"
+  },
+  {
+    "id": "word-egtmwj",
+    "word": "計量",
+    "reading": "계량"
+  },
+  {
+    "id": "word-tgbevs",
+    "word": "鷄鳴",
+    "reading": "계명"
+  },
+  {
+    "id": "word-12chigg",
+    "word": "繼續",
+    "reading": "계속"
+  },
+  {
+    "id": "word-1glq4ri",
+    "word": "固(塞)",
+    "reading": "고새"
+  },
+  {
+    "id": "word-uzghsn",
+    "word": "高潔",
+    "reading": "고결"
+  },
+  {
+    "id": "word-15gg1x0",
+    "word": "考究",
+    "reading": "고구"
+  },
+  {
+    "id": "word-jbm4gn",
+    "word": "告白",
+    "reading": "고백"
+  },
+  {
+    "id": "word-ywwgii",
+    "word": "古上",
+    "reading": "고상"
+  },
+  {
+    "id": "word-15ch0jz",
+    "word": "考上",
+    "reading": "고상"
+  },
+  {
+    "id": "word-b1npss",
+    "word": "考尙",
+    "reading": "고상"
+  },
+  {
+    "id": "word-x5ryee",
+    "word": "高上",
+    "reading": "고상"
+  },
+  {
+    "id": "word-hqry8l",
+    "word": "高尙",
+    "reading": "고상"
+  },
+  {
+    "id": "word-1xj0aep",
+    "word": "古祖",
+    "reading": "고조"
+  },
+  {
+    "id": "word-asui18",
+    "word": "高調",
+    "reading": "고조"
+  },
+  {
+    "id": "word-hqxxip",
+    "word": "高車",
+    "reading": "고차"
+  },
+  {
+    "id": "word-95bn1q",
+    "word": "高天",
+    "reading": "고천"
+  },
+  {
+    "id": "word-11be6cq",
+    "word": "故鄕",
+    "reading": "고향"
+  },
+  {
+    "id": "word-1doqmde",
+    "word": "曲線",
+    "reading": "곡선"
+  },
+  {
+    "id": "word-mebyx8",
+    "word": "困難",
+    "reading": "곤란"
+  },
+  {
+    "id": "word-r4ovmi",
+    "word": "骨肉相爭",
+    "reading": "골육상쟁"
+  },
+  {
+    "id": "word-k4tyde",
+    "word": "共間",
+    "reading": "공간"
+  },
+  {
+    "id": "word-15es7lf",
+    "word": "空間",
+    "reading": "공간"
+  },
+  {
+    "id": "word-etefaf",
+    "word": "功高",
+    "reading": "공고"
+  },
+  {
+    "id": "word-8de3mu",
+    "word": "恐懼",
+    "reading": "공구"
+  },
+  {
+    "id": "word-zll08e",
+    "word": "共同",
+    "reading": "공동"
+  },
+  {
+    "id": "word-ikp5ay",
+    "word": "共鳴",
+    "reading": "공명"
+  },
+  {
+    "id": "word-ki7w2s",
+    "word": "公明正大",
+    "reading": "공명정대"
+  },
+  {
+    "id": "word-iltrn",
+    "word": "工人",
+    "reading": "공인"
+  },
+  {
+    "id": "word-9utmen",
+    "word": "空前絶後",
+    "reading": "공전절후"
+  },
+  {
+    "id": "word-pjg8xz",
+    "word": "公衆",
+    "reading": "공중"
+  },
+  {
+    "id": "word-14b909g",
+    "word": "公證",
+    "reading": "공증"
+  },
+  {
+    "id": "word-1auqqwv",
+    "word": "功效",
+    "reading": "공효"
+  },
+  {
+    "id": "word-1y19zov",
+    "word": "科去",
+    "reading": "과거"
+  },
+  {
+    "id": "word-1upse2r",
+    "word": "科擧",
+    "reading": "과거"
+  },
+  {
+    "id": "word-1j2eoq",
+    "word": "過去",
+    "reading": "과거"
+  },
+  {
+    "id": "word-4se3jt",
+    "word": "果實",
+    "reading": "과실"
+  },
+  {
+    "id": "word-z0qs7z",
+    "word": "課業",
+    "reading": "과업"
+  },
+  {
+    "id": "word-18dh70l",
+    "word": "果然",
+    "reading": "과연"
+  },
+  {
+    "id": "word-ve4osk",
+    "word": "觀察",
+    "reading": "관찰"
+  },
+  {
+    "id": "word-k63111",
+    "word": "廣告",
+    "reading": "광고"
+  },
+  {
+    "id": "word-1fipw4a",
+    "word": "敎師",
+    "reading": "교사"
+  },
+  {
+    "id": "word-75gbf8",
+    "word": "交手",
+    "reading": "교수"
+  },
+  {
+    "id": "word-12pv2ek",
+    "word": "敎養",
+    "reading": "교양"
+  },
+  {
+    "id": "word-1ufab73",
+    "word": "敎外別傳",
+    "reading": "교외별전"
+  },
+  {
+    "id": "word-1anpqw1",
+    "word": "敎材",
+    "reading": "교재"
+  },
+  {
+    "id": "word-1yemyk1",
+    "word": "交情",
+    "reading": "교정"
+  },
+  {
+    "id": "word-4vf6gh",
+    "word": "校定",
+    "reading": "교정"
+  },
+  {
+    "id": "word-cy1ruc",
+    "word": "校則",
+    "reading": "교칙"
+  },
+  {
+    "id": "word-1a5gv02",
+    "word": "敎學",
+    "reading": "교학"
+  },
+  {
+    "id": "word-9lh5pv",
+    "word": "敎學相長",
+    "reading": "교학상장"
+  },
+  {
+    "id": "word-14a4yvq",
+    "word": "敎訓",
+    "reading": "교훈"
+  },
+  {
+    "id": "word-hs71ea",
+    "word": "求道",
+    "reading": "구도"
+  },
+  {
+    "id": "word-1h3xupf",
+    "word": "究理",
+    "reading": "구리"
+  },
+  {
+    "id": "word-3jmya",
+    "word": "救命",
+    "reading": "구명"
+  },
+  {
+    "id": "word-1p372it",
+    "word": "口文",
+    "reading": "구문"
+  },
+  {
+    "id": "word-1mx4s2f",
+    "word": "句文",
+    "reading": "구문"
+  },
+  {
+    "id": "word-1dmc7b5",
+    "word": "口味",
+    "reading": "구미"
+  },
+  {
+    "id": "word-uu02v",
+    "word": "俱成",
+    "reading": "구성"
+  },
+  {
+    "id": "word-pecmyf",
+    "word": "口失",
+    "reading": "구실"
+  },
+  {
+    "id": "word-1miqj82",
+    "word": "口室",
+    "reading": "구실"
+  },
+  {
+    "id": "word-1wc1ls0",
+    "word": "口實",
+    "reading": "구실"
+  },
+  {
+    "id": "word-1odw1p",
+    "word": "舊室",
+    "reading": "구실"
+  },
+  {
+    "id": "word-acvuzz",
+    "word": "舊實",
+    "reading": "구실"
+  },
+  {
+    "id": "word-1u5l2qe",
+    "word": "國軍",
+    "reading": "국군"
+  },
+  {
+    "id": "word-s3tc80",
+    "word": "國內",
+    "reading": "국내"
+  },
+  {
+    "id": "word-p9g336",
+    "word": "國都",
+    "reading": "국도"
+  },
+  {
+    "id": "word-1ojii74",
+    "word": "國是",
+    "reading": "국시"
+  },
+  {
+    "id": "word-1ifyrpm",
+    "word": "郡邑",
+    "reading": "군읍"
+  },
+  {
+    "id": "word-cg0n55",
+    "word": "君子務本",
+    "reading": "군자무본"
+  },
+  {
+    "id": "word-18srsr4",
+    "word": "君子三樂",
+    "reading": "군자삼락"
+  },
+  {
+    "id": "word-uyyaw9",
+    "word": "屈服",
+    "reading": "굴복"
+  },
+  {
+    "id": "word-s0u6pr",
+    "word": "屈伸",
+    "reading": "굴신"
+  },
+  {
+    "id": "word-7p8ybj",
+    "word": "窮狀",
+    "reading": "궁상"
+  },
+  {
+    "id": "word-zyai2e",
+    "word": "勸農",
+    "reading": "권농"
+  },
+  {
+    "id": "word-1jf081k",
+    "word": "權利",
+    "reading": "권리"
+  },
+  {
+    "id": "word-1teufh6",
+    "word": "勸勉",
+    "reading": "권면"
+  },
+  {
+    "id": "word-1hz27su",
+    "word": "權不十年",
+    "reading": "권불십년"
+  },
+  {
+    "id": "word-1f2110",
+    "word": "貴公",
+    "reading": "귀공"
+  },
+  {
+    "id": "word-147736v",
+    "word": "極度",
+    "reading": "극도"
+  },
+  {
+    "id": "word-qsq30e",
+    "word": "勤勉",
+    "reading": "근면"
+  },
+  {
+    "id": "word-xw540e",
+    "word": "勤務",
+    "reading": "근무"
+  },
+  {
+    "id": "word-jsmv64",
+    "word": "禁忌",
+    "reading": "금기"
+  },
+  {
+    "id": "word-19nvex7",
+    "word": "禁止-施惠",
+    "reading": "금지-시혜"
+  },
+  {
+    "id": "word-saw56x",
+    "word": "急速",
+    "reading": "급속"
+  },
+  {
+    "id": "word-1se5nb9",
+    "word": "期間",
+    "reading": "기간"
+  },
+  {
+    "id": "word-110rlu6",
+    "word": "記念",
+    "reading": "기념"
+  },
+  {
+    "id": "word-1xkj467",
+    "word": "期待",
+    "reading": "기대"
+  },
+  {
+    "id": "word-jygt40",
+    "word": "期圖",
+    "reading": "기도"
+  },
+  {
+    "id": "word-11054sc",
+    "word": "氣分",
+    "reading": "기분"
+  },
+  {
+    "id": "word-1jwfqum",
+    "word": "飢餓",
+    "reading": "기아"
+  },
+  {
+    "id": "word-1lfximx",
+    "word": "基地",
+    "reading": "기지"
+  },
+  {
+    "id": "word-1gqhq9o",
+    "word": "緊縮",
+    "reading": "긴축"
+  },
+  {
+    "id": "word-1nuzorm",
+    "word": "ᄂ 文名",
+    "reading": "문명"
+  },
+  {
+    "id": "word-zc8ukl",
+    "word": "難易",
+    "reading": "난이"
+  },
+  {
+    "id": "word-gmo0t1",
+    "word": "難解",
+    "reading": "난해"
+  },
+  {
+    "id": "word-1b3u0x2",
+    "word": "內面化",
+    "reading": "내면화"
+  },
+  {
+    "id": "word-eb6xo4",
+    "word": "內容",
+    "reading": "내용"
+  },
+  {
+    "id": "word-4brxp0",
+    "word": "女兒",
+    "reading": "여아"
+  },
+  {
+    "id": "word-5gxfa0",
+    "word": "女人",
+    "reading": "여인"
+  },
+  {
+    "id": "word-19xfht2",
+    "word": "年久",
+    "reading": "연구"
+  },
+  {
+    "id": "word-24cu1h",
+    "word": "念頭",
+    "reading": "염두"
+  },
+  {
+    "id": "word-u71utd",
+    "word": "能力",
+    "reading": "능력"
+  },
+  {
+    "id": "word-g8peui",
+    "word": "ᄃ 符應",
+    "reading": "부응"
+  },
+  {
+    "id": "word-1167eu8",
+    "word": "ᄃ 成格",
+    "reading": "성격"
+  },
+  {
+    "id": "word-8bfnww",
+    "word": "多多益善",
+    "reading": "다다익선"
+  },
+  {
+    "id": "word-z6j4xn",
+    "word": "短期",
+    "reading": "단기"
+  },
+  {
+    "id": "word-148ypu",
+    "word": "單刀直入",
+    "reading": "단도직입"
+  },
+  {
+    "id": "word-1pwpihz",
+    "word": "端初",
+    "reading": "단초"
+  },
+  {
+    "id": "word-1td7sm3",
+    "word": "談話",
+    "reading": "담화"
+  },
+  {
+    "id": "word-iizb3i",
+    "word": "糖分",
+    "reading": "당분"
+  },
+  {
+    "id": "word-cmia2c",
+    "word": "當選",
+    "reading": "당선"
+  },
+  {
+    "id": "word-12o60ym",
+    "word": "代",
+    "reading": "대"
+  },
+  {
+    "id": "word-1jotvgv",
+    "word": "大驚",
+    "reading": "대경"
+  },
+  {
+    "id": "word-m81fmw",
+    "word": "大過",
+    "reading": "대과"
+  },
+  {
+    "id": "word-ztcsky",
+    "word": "大門",
+    "reading": "대문"
+  },
+  {
+    "id": "word-15k1cxl",
+    "word": "對備",
+    "reading": "대비"
+  },
+  {
+    "id": "word-q3c1fn",
+    "word": "待遇",
+    "reading": "대우"
+  },
+  {
+    "id": "word-l2lx82",
+    "word": "對應",
+    "reading": "대응"
+  },
+  {
+    "id": "word-4f7hmp",
+    "word": "對話",
+    "reading": "대화"
+  },
+  {
+    "id": "word-nk34cc",
+    "word": "德治",
+    "reading": "덕치"
+  },
+  {
+    "id": "word-jse78v",
+    "word": "到達",
+    "reading": "도달"
+  },
+  {
+    "id": "word-1vnxgkp",
+    "word": "度量",
+    "reading": "도량"
+  },
+  {
+    "id": "word-12tfbs9",
+    "word": "道路",
+    "reading": "도로"
+  },
+  {
+    "id": "word-1t3wogg",
+    "word": "道理",
+    "reading": "도리"
+  },
+  {
+    "id": "word-henq9b",
+    "word": "倒植",
+    "reading": "도식"
+  },
+  {
+    "id": "word-17uiw0x",
+    "word": "徒食",
+    "reading": "도식"
+  },
+  {
+    "id": "word-1pbiznc",
+    "word": "跳躍",
+    "reading": "도약"
+  },
+  {
+    "id": "word-137m37w",
+    "word": "陶藝",
+    "reading": "도예"
+  },
+  {
+    "id": "word-154y9av",
+    "word": "度外",
+    "reading": "도외"
+  },
+  {
+    "id": "word-10jjapq",
+    "word": "盜賊",
+    "reading": "도적"
+  },
+  {
+    "id": "word-vwtnnd",
+    "word": "度地",
+    "reading": "탁지"
+  },
+  {
+    "id": "word-1xatsxf",
+    "word": "倒置",
+    "reading": "도치"
+  },
+  {
+    "id": "word-78fkdw",
+    "word": "圖形",
+    "reading": "도형"
+  },
+  {
+    "id": "word-dz67c3",
+    "word": "獨居",
+    "reading": "독거"
+  },
+  {
+    "id": "word-ufr2ck",
+    "word": "獨島",
+    "reading": "독도"
+  },
+  {
+    "id": "word-1wlehyj",
+    "word": "獨渡",
+    "reading": "독도"
+  },
+  {
+    "id": "word-p0ub0x",
+    "word": "獨道",
+    "reading": "독도"
+  },
+  {
+    "id": "word-zhbrjk",
+    "word": "篤島",
+    "reading": "독도"
+  },
+  {
+    "id": "word-i437b9",
+    "word": "篤道",
+    "reading": "독도"
+  },
+  {
+    "id": "word-5yejrs",
+    "word": "獨白",
+    "reading": "독백"
+  },
+  {
+    "id": "word-17ebn3u",
+    "word": "獨善",
+    "reading": "독선"
+  },
+  {
+    "id": "word-t6ype0",
+    "word": "豚舍",
+    "reading": "돈사"
+  },
+  {
+    "id": "word-1e5er4k",
+    "word": "東大門",
+    "reading": "동대문"
+  },
+  {
+    "id": "word-tp9op6",
+    "word": "東西",
+    "reading": "동서"
+  },
+  {
+    "id": "word-x3tes",
+    "word": "東西古今",
+    "reading": "동서고금"
+  },
+  {
+    "id": "word-kcjv06",
+    "word": "同性",
+    "reading": "동성"
+  },
+  {
+    "id": "word-1pbwi08",
+    "word": "同時",
+    "reading": "동시"
+  },
+  {
+    "id": "word-880m6g",
+    "word": "童詩",
+    "reading": "동시"
+  },
+  {
+    "id": "word-ob6suc",
+    "word": "同業",
+    "reading": "동업"
+  },
+  {
+    "id": "word-1914h7x",
+    "word": "冬至",
+    "reading": "동지"
+  },
+  {
+    "id": "word-n6z2t9",
+    "word": "同行",
+    "reading": "동행"
+  },
+  {
+    "id": "word-piyw0b",
+    "word": "動向",
+    "reading": "동향"
+  },
+  {
+    "id": "word-zkafq6",
+    "word": "頭緖",
+    "reading": "두서"
+  },
+  {
+    "id": "word-y18sqn",
+    "word": "ᄅ 決定",
+    "reading": "결정"
+  },
+  {
+    "id": "word-9wu72d",
+    "word": "ᄅ 徑遇",
+    "reading": "경우"
+  },
+  {
+    "id": "word-1sfht28",
+    "word": "ᄅ個個人",
+    "reading": "개개인"
+  },
+  {
+    "id": "word-hjekff",
+    "word": "落花流水",
+    "reading": "낙화유수"
+  },
+  {
+    "id": "word-13dw6m",
+    "word": "亂(刺)",
+    "reading": "난자"
+  },
+  {
+    "id": "word-j8vzud",
+    "word": "來-最",
+    "reading": "내-최"
+  },
+  {
+    "id": "word-1tnf5ph",
+    "word": "來歷",
+    "reading": "내력"
+  },
+  {
+    "id": "word-trdqxz",
+    "word": "來世",
+    "reading": "내세"
+  },
+  {
+    "id": "word-2enapr",
+    "word": "旅行",
+    "reading": "여행"
+  },
+  {
+    "id": "word-105n31x",
+    "word": "旅行-無旣力",
+    "reading": "여행-무기력"
+  },
+  {
+    "id": "word-i7ct85",
+    "word": "旅行-無氣力",
+    "reading": "여행-무기력"
+  },
+  {
+    "id": "word-1bml0kx",
+    "word": "歷史",
+    "reading": "역사"
+  },
+  {
+    "id": "word-1fwda8k",
+    "word": "力行",
+    "reading": "역행"
+  },
+  {
+    "id": "word-14q7sk",
+    "word": "憐憫",
+    "reading": "연민"
+  },
+  {
+    "id": "word-gerdqo",
+    "word": "連接",
+    "reading": "연접"
+  },
+  {
+    "id": "word-bt2qe0",
+    "word": "烈士",
+    "reading": "열사"
+  },
+  {
+    "id": "word-1su7pbu",
+    "word": "列強",
+    "reading": "열강"
+  },
+  {
+    "id": "word-1f0d2so",
+    "word": "例示",
+    "reading": "예시"
+  },
+  {
+    "id": "word-1jae2qo",
+    "word": "禮樂",
+    "reading": "예악"
+  },
+  {
+    "id": "word-m3n6ns",
+    "word": "例外",
+    "reading": "예외"
+  },
+  {
+    "id": "word-18dmq0i",
+    "word": "露(宿)",
+    "reading": "노숙"
+  },
+  {
+    "id": "word-19joaxz",
+    "word": "老大",
+    "reading": "노대"
+  },
+  {
+    "id": "word-1c85o3a",
+    "word": "勞使",
+    "reading": "노사"
+  },
+  {
+    "id": "word-hdobdh",
+    "word": "老少",
+    "reading": "노소"
+  },
+  {
+    "id": "word-8t80ah",
+    "word": "露宿",
+    "reading": "노숙"
+  },
+  {
+    "id": "word-3995ui",
+    "word": "老人",
+    "reading": "노인"
+  },
+  {
+    "id": "word-100ll4g",
+    "word": "老子",
+    "reading": "노자"
+  },
+  {
+    "id": "word-1etb8dy",
+    "word": "綠陰",
+    "reading": "녹음"
+  },
+  {
+    "id": "word-d5gz9b",
+    "word": "論理",
+    "reading": "론리"
+  },
+  {
+    "id": "word-6n2tav",
+    "word": "料約",
+    "reading": "요약"
+  },
+  {
+    "id": "word-17un664",
+    "word": "屢次",
+    "reading": "누차"
+  },
+  {
+    "id": "word-1f5didj",
+    "word": "留意",
+    "reading": "유의"
+  },
+  {
+    "id": "word-sih0gc",
+    "word": "流典",
+    "reading": "유전"
+  },
+  {
+    "id": "word-z7yjno",
+    "word": "流田",
+    "reading": "유전"
+  },
+  {
+    "id": "word-qqk4hh",
+    "word": "理想",
+    "reading": "이상"
+  },
+  {
+    "id": "word-1iy05g5",
+    "word": "利益",
+    "reading": "이익"
+  },
+  {
+    "id": "word-1jprbsb",
+    "word": "利解",
+    "reading": "이해"
+  },
+  {
+    "id": "word-u9jqt2",
+    "word": "理解",
+    "reading": "이해"
+  },
+  {
+    "id": "word-1x96os8",
+    "word": "立身",
+    "reading": "입신"
+  },
+  {
+    "id": "word-1s1kmdl",
+    "word": "立證",
+    "reading": "입증"
+  },
+  {
+    "id": "word-4lam5m",
+    "word": "ᄆ 成跡",
+    "reading": "성적"
+  },
+  {
+    "id": "word-1mr5vvg",
+    "word": "ᄆ 租職",
+    "reading": "조직"
+  },
+  {
+    "id": "word-1n77cbc",
+    "word": "ᄆ身分",
+    "reading": "신분"
+  },
+  {
+    "id": "word-1bcura1",
+    "word": "馬耳東風",
+    "reading": "마이동풍"
+  },
+  {
+    "id": "word-kkgxrz",
+    "word": "莫-已",
+    "reading": "막-이"
+  },
+  {
+    "id": "word-8swrma",
+    "word": "萬古不變",
+    "reading": "만고불변"
+  },
+  {
+    "id": "word-1ikpugp",
+    "word": "滿期",
+    "reading": "만기"
+  },
+  {
+    "id": "word-vv6ecd",
+    "word": "萬世",
+    "reading": "만세"
+  },
+  {
+    "id": "word-1kwh9b",
+    "word": "萬水",
+    "reading": "만수"
+  },
+  {
+    "id": "word-am9tfe",
+    "word": "萬川",
+    "reading": "만천"
+  },
+  {
+    "id": "word-z2vmqu",
+    "word": "末年",
+    "reading": "말년"
+  },
+  {
+    "id": "word-ktde9p",
+    "word": "望鄕",
+    "reading": "망향"
+  },
+  {
+    "id": "word-jer30h",
+    "word": "每-要",
+    "reading": "매-요"
+  },
+  {
+    "id": "word-nw2a88",
+    "word": "每家",
+    "reading": "매가"
+  },
+  {
+    "id": "word-ruofw",
+    "word": "盟誓",
+    "reading": "맹서"
+  },
+  {
+    "id": "word-1xkdv2o",
+    "word": "面目",
+    "reading": "면목"
+  },
+  {
+    "id": "word-pta9fn",
+    "word": "面接",
+    "reading": "면접"
+  },
+  {
+    "id": "word-12bojuw",
+    "word": "免除",
+    "reading": "면제"
+  },
+  {
+    "id": "word-1va7b0p",
+    "word": "名望",
+    "reading": "명망"
+  },
+  {
+    "id": "word-wwib9",
+    "word": "明示-滿足",
+    "reading": "명시-만족"
+  },
+  {
+    "id": "word-kq2o3t",
+    "word": "明若觀火",
+    "reading": "명약관화"
+  },
+  {
+    "id": "word-ulg5ps",
+    "word": "模樣",
+    "reading": "모양"
+  },
+  {
+    "id": "word-134q40j",
+    "word": "侮辱",
+    "reading": "모욕"
+  },
+  {
+    "id": "word-x7vj6i",
+    "word": "目禮",
+    "reading": "목례"
+  },
+  {
+    "id": "word-as1e7m",
+    "word": "木石",
+    "reading": "목석"
+  },
+  {
+    "id": "word-13r0l8h",
+    "word": "木手",
+    "reading": "목수"
+  },
+  {
+    "id": "word-zyc4qg",
+    "word": "妙案",
+    "reading": "묘안"
+  },
+  {
+    "id": "word-eh6r1e",
+    "word": "墓域",
+    "reading": "묘역"
+  },
+  {
+    "id": "word-55uk2r",
+    "word": "無不通知",
+    "reading": "무불통지"
+  },
+  {
+    "id": "word-1arkquc",
+    "word": "茂山",
+    "reading": "무산"
+  },
+  {
+    "id": "word-9ugtg1",
+    "word": "無所不爲",
+    "reading": "무소불위"
+  },
+  {
+    "id": "word-3o26u2",
+    "word": "無所不知",
+    "reading": "무소부지"
+  },
+  {
+    "id": "word-1tgl62",
+    "word": "無爲自然",
+    "reading": "무위자연"
+  },
+  {
+    "id": "word-4qc5oh",
+    "word": "戊辰",
+    "reading": "무진"
+  },
+  {
+    "id": "word-5jmxi7",
+    "word": "文藝",
+    "reading": "문예"
+  },
+  {
+    "id": "word-yvzlw3",
+    "word": "門外漢",
+    "reading": "문외한"
+  },
+  {
+    "id": "word-6746bo",
+    "word": "聞一知十",
+    "reading": "문일지십"
+  },
+  {
+    "id": "word-f206lp",
+    "word": "文字",
+    "reading": "문자"
+  },
+  {
+    "id": "word-x57kl9",
+    "word": "門前成市",
+    "reading": "문전성시"
+  },
+  {
+    "id": "word-o644oa",
+    "word": "問題",
+    "reading": "문제"
+  },
+  {
+    "id": "word-13y97i0",
+    "word": "物貨",
+    "reading": "물화"
+  },
+  {
+    "id": "word-1fa9sgk",
+    "word": "未備",
+    "reading": "미비"
+  },
+  {
+    "id": "word-1a07u1",
+    "word": "美食",
+    "reading": "미식"
+  },
+  {
+    "id": "word-v5dqkb",
+    "word": "民事",
+    "reading": "민사"
+  },
+  {
+    "id": "word-1ftf59j",
+    "word": "密度",
+    "reading": "밀도"
+  },
+  {
+    "id": "word-1b3sdxm",
+    "word": "密約",
+    "reading": "밀약"
+  },
+  {
+    "id": "word-xxigzc",
+    "word": "密集",
+    "reading": "밀집"
+  },
+  {
+    "id": "word-1u1dvx2",
+    "word": "ᄇ 案乃者",
+    "reading": "안내자"
+  },
+  {
+    "id": "word-8sqcy8",
+    "word": "ᄇ 裕持",
+    "reading": "유지"
+  },
+  {
+    "id": "word-nude2c",
+    "word": "ᄇ 意識",
+    "reading": "의식"
+  },
+  {
+    "id": "word-4ujc2v",
+    "word": "ᄇ平民",
+    "reading": "평민"
+  },
+  {
+    "id": "word-1t93s3f",
+    "word": "半島",
+    "reading": "반도"
+  },
+  {
+    "id": "word-76dm72",
+    "word": "半道",
+    "reading": "반도"
+  },
+  {
+    "id": "word-s4zjmo",
+    "word": "半都",
+    "reading": "반도"
+  },
+  {
+    "id": "word-6n11a",
+    "word": "反島",
+    "reading": "반도"
+  },
+  {
+    "id": "word-k4rsbf",
+    "word": "反道",
+    "reading": "반도"
+  },
+  {
+    "id": "word-5ipp99",
+    "word": "反目",
+    "reading": "반목"
+  },
+  {
+    "id": "word-my9xhe",
+    "word": "反省",
+    "reading": "반성"
+  },
+  {
+    "id": "word-1elxjih",
+    "word": "反逆",
+    "reading": "반역"
+  },
+  {
+    "id": "word-8j1pk",
+    "word": "反正",
+    "reading": "반정"
+  },
+  {
+    "id": "word-1tdy77y",
+    "word": "發-考",
+    "reading": "발-고"
+  },
+  {
+    "id": "word-ivbsj7",
+    "word": "發射",
+    "reading": "발사"
+  },
+  {
+    "id": "word-1k1g6wq",
+    "word": "發展",
+    "reading": "발전"
+  },
+  {
+    "id": "word-19qypgs",
+    "word": "放果",
+    "reading": "방과"
+  },
+  {
+    "id": "word-lrhylm",
+    "word": "放課",
+    "reading": "방과"
+  },
+  {
+    "id": "word-91az9n",
+    "word": "方今",
+    "reading": "방금"
+  },
+  {
+    "id": "word-4o6por",
+    "word": "放問",
+    "reading": "방문"
+  },
+  {
+    "id": "word-1adwyfn",
+    "word": "放文",
+    "reading": "방문"
+  },
+  {
+    "id": "word-1nxzc6k",
+    "word": "放門",
+    "reading": "방문"
+  },
+  {
+    "id": "word-f5hcs7",
+    "word": "訪問",
+    "reading": "방문"
+  },
+  {
+    "id": "word-1fcpaem",
+    "word": "訪聞",
+    "reading": "방문"
+  },
+  {
+    "id": "word-1ofq697",
+    "word": "方法",
+    "reading": "방법"
+  },
+  {
+    "id": "word-1l8d9g5",
+    "word": "防備",
+    "reading": "방비"
+  },
+  {
+    "id": "word-1os0v3p",
+    "word": "方式",
+    "reading": "방식"
+  },
+  {
+    "id": "word-bewxxc",
+    "word": "方位",
+    "reading": "방위"
+  },
+  {
+    "id": "word-1dogwng",
+    "word": "背叛",
+    "reading": "배반"
+  },
+  {
+    "id": "word-1m6tyl6",
+    "word": "百方",
+    "reading": "백방"
+  },
+  {
+    "id": "word-t7xv3y",
+    "word": "白成-結本",
+    "reading": "백성-결본"
+  },
+  {
+    "id": "word-1ry9rwb",
+    "word": "百誠-觀本",
+    "reading": "백성-관본"
+  },
+  {
+    "id": "word-un1j00",
+    "word": "白姓-近本",
+    "reading": "백성-근본"
+  },
+  {
+    "id": "word-1y9n2gt",
+    "word": "百姓-根本",
+    "reading": "백성-근본"
+  },
+  {
+    "id": "word-16zp3y1",
+    "word": "白省-現本",
+    "reading": "백성-현본"
+  },
+  {
+    "id": "word-12611o4",
+    "word": "白楊",
+    "reading": "백양"
+  },
+  {
+    "id": "word-1xsrjg9",
+    "word": "百害無益",
+    "reading": "백해무익"
+  },
+  {
+    "id": "word-1chmrcq",
+    "word": "飜覆",
+    "reading": "번복"
+  },
+  {
+    "id": "word-1vx5qz3",
+    "word": "飜譯",
+    "reading": "번역"
+  },
+  {
+    "id": "word-17t5ii",
+    "word": "伐採",
+    "reading": "벌채"
+  },
+  {
+    "id": "word-ubdzgu",
+    "word": "碧羅",
+    "reading": "벽라"
+  },
+  {
+    "id": "word-2axhgu",
+    "word": "邊(塞)",
+    "reading": "변새"
+  },
+  {
+    "id": "word-zczf3q",
+    "word": "變更-推進",
+    "reading": "변경-추진"
+  },
+  {
+    "id": "word-lubfm",
+    "word": "變考",
+    "reading": "변고"
+  },
+  {
+    "id": "word-hg06h4",
+    "word": "變聲",
+    "reading": "변성"
+  },
+  {
+    "id": "word-irfrix",
+    "word": "變數",
+    "reading": "변수"
+  },
+  {
+    "id": "word-q7rg4z",
+    "word": "變化",
+    "reading": "변화"
+  },
+  {
+    "id": "word-1d4hprd",
+    "word": "變化-進入",
+    "reading": "변화-진입"
+  },
+  {
+    "id": "word-1i9lo16",
+    "word": "病死",
+    "reading": "병사"
+  },
+  {
+    "id": "word-ijul34",
+    "word": "兵失",
+    "reading": "병실"
+  },
+  {
+    "id": "word-j8gjp",
+    "word": "兵室",
+    "reading": "병실"
+  },
+  {
+    "id": "word-1trtw28",
+    "word": "病失",
+    "reading": "병실"
+  },
+  {
+    "id": "word-svmrsl",
+    "word": "病室",
+    "reading": "병실"
+  },
+  {
+    "id": "word-147s6jj",
+    "word": "病實",
+    "reading": "병실"
+  },
+  {
+    "id": "word-9g3ocj",
+    "word": "保答",
+    "reading": "보답"
+  },
+  {
+    "id": "word-ro5tc7",
+    "word": "報答",
+    "reading": "보답"
+  },
+  {
+    "id": "word-1plh1yj",
+    "word": "步答",
+    "reading": "보답"
+  },
+  {
+    "id": "word-mw3etv",
+    "word": "報道",
+    "reading": "보도"
+  },
+  {
+    "id": "word-svl5qa",
+    "word": "報等",
+    "reading": "보등"
+  },
+  {
+    "id": "word-dwcjom",
+    "word": "步等",
+    "reading": "보등"
+  },
+  {
+    "id": "word-11jwq14",
+    "word": "保守",
+    "reading": "보수"
+  },
+  {
+    "id": "word-105hw6l",
+    "word": "補修",
+    "reading": "보수"
+  },
+  {
+    "id": "word-14st7ei",
+    "word": "復活",
+    "reading": "복활"
+  },
+  {
+    "id": "word-1l84bcv",
+    "word": "復活",
+    "reading": "부활"
+  },
+  {
+    "id": "word-zacomh",
+    "word": "本來",
+    "reading": "본래"
+  },
+  {
+    "id": "word-wtahux",
+    "word": "本業",
+    "reading": "본업"
+  },
+  {
+    "id": "word-wz5bj4",
+    "word": "奉仕",
+    "reading": "봉사"
+  },
+  {
+    "id": "word-16zu8qy",
+    "word": "富貴在天",
+    "reading": "부귀재천"
+  },
+  {
+    "id": "word-x4m1bu",
+    "word": "不立文字",
+    "reading": "불립문자"
+  },
+  {
+    "id": "word-glw554",
+    "word": "父母",
+    "reading": "부모"
+  },
+  {
+    "id": "word-sd9o5j",
+    "word": "不問可知",
+    "reading": "불문가지"
+  },
+  {
+    "id": "word-rbrltc",
+    "word": "賦稅",
+    "reading": "부세"
+  },
+  {
+    "id": "word-1pdr01h",
+    "word": "不信",
+    "reading": "불신"
+  },
+  {
+    "id": "word-hhv69u",
+    "word": "富裕",
+    "reading": "부유"
+  },
+  {
+    "id": "word-iv10h0",
+    "word": "扶助",
+    "reading": "부조"
+  },
+  {
+    "id": "word-ux09bb",
+    "word": "不幸",
+    "reading": "불행"
+  },
+  {
+    "id": "word-1vqo1iq",
+    "word": "北圍-東經",
+    "reading": "북위-동경"
+  },
+  {
+    "id": "word-cwssep",
+    "word": "北緯-東京",
+    "reading": "북위-동경"
+  },
+  {
+    "id": "word-r545gc",
+    "word": "北緯-東經",
+    "reading": "북위-동경"
+  },
+  {
+    "id": "word-qx2rc8",
+    "word": "北衛-東境",
+    "reading": "북위-동경"
+  },
+  {
+    "id": "word-1ntxeew",
+    "word": "北衛-東經",
+    "reading": "북위-동경"
+  },
+  {
+    "id": "word-a9fkyx",
+    "word": "分排-基般",
+    "reading": "분배-기반"
+  },
+  {
+    "id": "word-1qdammm",
+    "word": "分配-基盤",
+    "reading": "분배-기반"
+  },
+  {
+    "id": "word-1jupgo6",
+    "word": "分配-基般",
+    "reading": "분배-기반"
+  },
+  {
+    "id": "word-d1iyfr",
+    "word": "粉排-企盤",
+    "reading": "분배-기반"
+  },
+  {
+    "id": "word-1m86edo",
+    "word": "紛配-機盤",
+    "reading": "분배-기반"
+  },
+  {
+    "id": "word-1vmk7ar",
+    "word": "分野",
+    "reading": "분야"
+  },
+  {
+    "id": "word-1l2g3g5",
+    "word": "悲哀",
+    "reading": "비애"
+  },
+  {
+    "id": "word-56to21",
+    "word": "飛行",
+    "reading": "비행"
+  },
+  {
+    "id": "word-1r48uyn",
+    "word": "ᄉ 理由",
+    "reading": "이유"
+  },
+  {
+    "id": "word-te8alz",
+    "word": "ᄉ 事實",
+    "reading": "사실"
+  },
+  {
+    "id": "word-1sjkglm",
+    "word": "ᄉ 銳敏",
+    "reading": "예민"
+  },
+  {
+    "id": "word-1as17l5",
+    "word": "ᄉ保兵",
+    "reading": "보병"
+  },
+  {
+    "id": "word-6wydj0",
+    "word": "射(殺)",
+    "reading": "사살"
+  },
+  {
+    "id": "word-qgy3kc",
+    "word": "思(索)",
+    "reading": "사색"
+  },
+  {
+    "id": "word-41lviv",
+    "word": "事故",
+    "reading": "사고"
+  },
+  {
+    "id": "word-1l3ak81",
+    "word": "事考",
+    "reading": "사고"
+  },
+  {
+    "id": "word-1abaab5",
+    "word": "四考",
+    "reading": "사고"
+  },
+  {
+    "id": "word-1vnezvp",
+    "word": "思故",
+    "reading": "사고"
+  },
+  {
+    "id": "word-1nw57ir",
+    "word": "思考",
+    "reading": "사고"
+  },
+  {
+    "id": "word-1ucpv8g",
+    "word": "史料",
+    "reading": "사료"
+  },
+  {
+    "id": "word-1y10vog",
+    "word": "事命",
+    "reading": "사명"
+  },
+  {
+    "id": "word-1vsxhnn",
+    "word": "事明",
+    "reading": "사명"
+  },
+  {
+    "id": "word-80hnsk",
+    "word": "使命",
+    "reading": "사명"
+  },
+  {
+    "id": "word-sb9ed3",
+    "word": "使明",
+    "reading": "사명"
+  },
+  {
+    "id": "word-8nj87y",
+    "word": "思名",
+    "reading": "사명"
+  },
+  {
+    "id": "word-m8s7jo",
+    "word": "師父",
+    "reading": "사부"
+  },
+  {
+    "id": "word-179dk8p",
+    "word": "使事",
+    "reading": "사사"
+  },
+  {
+    "id": "word-2wxcbh",
+    "word": "師事",
+    "reading": "사사"
+  },
+  {
+    "id": "word-1qjjetr",
+    "word": "辭狀",
+    "reading": "사장"
+  },
+  {
+    "id": "word-u6pyl4",
+    "word": "射手",
+    "reading": "사수"
+  },
+  {
+    "id": "word-1puqmei",
+    "word": "死守",
+    "reading": "사수"
+  },
+  {
+    "id": "word-1qepix6",
+    "word": "私淑",
+    "reading": "사숙"
+  },
+  {
+    "id": "word-1ilx8hx",
+    "word": "使臣",
+    "reading": "사신"
+  },
+  {
+    "id": "word-1kclm7e",
+    "word": "事案",
+    "reading": "사안"
+  },
+  {
+    "id": "word-1iwk4vu",
+    "word": "事用-形式",
+    "reading": "사용-형식"
+  },
+  {
+    "id": "word-1254hdi",
+    "word": "使用-形式",
+    "reading": "사용-형식"
+  },
+  {
+    "id": "word-ytafao",
+    "word": "使用-形植",
+    "reading": "사용-형식"
+  },
+  {
+    "id": "word-54a62c",
+    "word": "四用-形植",
+    "reading": "사용-형식"
+  },
+  {
+    "id": "word-jfh3th",
+    "word": "思容-兄植",
+    "reading": "사용-형식"
+  },
+  {
+    "id": "word-zvedm1",
+    "word": "寺田",
+    "reading": "사전"
+  },
+  {
+    "id": "word-1wskb4i",
+    "word": "死後",
+    "reading": "사후"
+  },
+  {
+    "id": "word-i6124d",
+    "word": "山羊",
+    "reading": "산양"
+  },
+  {
+    "id": "word-ml7zj8",
+    "word": "産業",
+    "reading": "산업"
+  },
+  {
+    "id": "word-ty6dnw",
+    "word": "山戰水戰",
+    "reading": "산전수전"
+  },
+  {
+    "id": "word-1jzoe37",
+    "word": "産定",
+    "reading": "산정"
+  },
+  {
+    "id": "word-1yxxudy",
+    "word": "産正",
+    "reading": "산정"
+  },
+  {
+    "id": "word-4gts1z",
+    "word": "算定",
+    "reading": "산정"
+  },
+  {
+    "id": "word-tgq0rk",
+    "word": "算庭",
+    "reading": "산정"
+  },
+  {
+    "id": "word-1kgj0lm",
+    "word": "算正",
+    "reading": "산정"
+  },
+  {
+    "id": "word-fw2cc8",
+    "word": "山足",
+    "reading": "산족"
+  },
+  {
+    "id": "word-15v14h5",
+    "word": "山川草木",
+    "reading": "산천초목"
+  },
+  {
+    "id": "word-18b4blt",
+    "word": "殺到",
+    "reading": "쇄도"
+  },
+  {
+    "id": "word-mgvtfy",
+    "word": "殺身成仁",
+    "reading": "살신성인"
+  },
+  {
+    "id": "word-432q8h",
+    "word": "三人成虎",
+    "reading": "삼인성호"
+  },
+  {
+    "id": "word-12huajp",
+    "word": "三日天下",
+    "reading": "삼일천하"
+  },
+  {
+    "id": "word-3j6izt",
+    "word": "狀啓",
+    "reading": "장계"
+  },
+  {
+    "id": "word-d8uagv",
+    "word": "相對",
+    "reading": "상대"
+  },
+  {
+    "id": "word-11lmnie",
+    "word": "狀貌",
+    "reading": "상모"
+  },
+  {
+    "id": "word-1e66ik3",
+    "word": "相逢",
+    "reading": "상봉"
+  },
+  {
+    "id": "word-z9dy3f",
+    "word": "相思",
+    "reading": "상사"
+  },
+  {
+    "id": "word-18rbh6b",
+    "word": "常設",
+    "reading": "상설"
+  },
+  {
+    "id": "word-1qgyu9j",
+    "word": "詳述",
+    "reading": "상술"
+  },
+  {
+    "id": "word-4npndp",
+    "word": "商品",
+    "reading": "상품"
+  },
+  {
+    "id": "word-x7bwdc",
+    "word": "狀況",
+    "reading": "상황"
+  },
+  {
+    "id": "word-1elqr5",
+    "word": "生名-代己",
+    "reading": "생명-대기"
+  },
+  {
+    "id": "word-8cch4b",
+    "word": "生名-代起",
+    "reading": "생명-대기"
+  },
+  {
+    "id": "word-1v5c4df",
+    "word": "生命-大氣",
+    "reading": "생명-대기"
+  },
+  {
+    "id": "word-1llwawf",
+    "word": "生命-大起",
+    "reading": "생명-대기"
+  },
+  {
+    "id": "word-a0agqi",
+    "word": "生明-對氣",
+    "reading": "생명-대기"
+  },
+  {
+    "id": "word-1p2ylk0",
+    "word": "生活",
+    "reading": "생활"
+  },
+  {
+    "id": "word-134kllz",
+    "word": "生活事",
+    "reading": "생활사"
+  },
+  {
+    "id": "word-147c3a7",
+    "word": "敍事",
+    "reading": "서사"
+  },
+  {
+    "id": "word-23p6xn",
+    "word": "惜別",
+    "reading": "석별"
+  },
+  {
+    "id": "word-d3sp0l",
+    "word": "夕月",
+    "reading": "석월"
+  },
+  {
+    "id": "word-s0axg4",
+    "word": "鮮明",
+    "reading": "선명"
+  },
+  {
+    "id": "word-16v42cr",
+    "word": "先發",
+    "reading": "선발"
+  },
+  {
+    "id": "word-1h81nhc",
+    "word": "先約",
+    "reading": "선약"
+  },
+  {
+    "id": "word-425bit",
+    "word": "禪讓",
+    "reading": "선양"
+  },
+  {
+    "id": "word-k2cmtg",
+    "word": "善用",
+    "reading": "선용"
+  },
+  {
+    "id": "word-oq3muo",
+    "word": "善意",
+    "reading": "선의"
+  },
+  {
+    "id": "word-1p0lc44",
+    "word": "船窓",
+    "reading": "선창"
+  },
+  {
+    "id": "word-1bovvg2",
+    "word": "善處",
+    "reading": "선처"
+  },
+  {
+    "id": "word-iner19",
+    "word": "說經",
+    "reading": "설경"
+  },
+  {
+    "id": "word-15ukq2p",
+    "word": "說得",
+    "reading": "설득"
+  },
+  {
+    "id": "word-160z3vv",
+    "word": "說論",
+    "reading": "설론"
+  },
+  {
+    "id": "word-8hhtd9",
+    "word": "設備",
+    "reading": "설비"
+  },
+  {
+    "id": "word-1ayqzl2",
+    "word": "說往說來",
+    "reading": "설왕설래"
+  },
+  {
+    "id": "word-1u6q65i",
+    "word": "盛(衰)",
+    "reading": "성쇠"
+  },
+  {
+    "id": "word-xj9itk",
+    "word": "聖歌",
+    "reading": "성가"
+  },
+  {
+    "id": "word-1k6byku",
+    "word": "成功",
+    "reading": "성공"
+  },
+  {
+    "id": "word-10ts75b",
+    "word": "聖代",
+    "reading": "성대"
+  },
+  {
+    "id": "word-7wqh5o",
+    "word": "成理學者",
+    "reading": "성리학자"
+  },
+  {
+    "id": "word-5k6xrs",
+    "word": "姓氏",
+    "reading": "성씨"
+  },
+  {
+    "id": "word-vialu8",
+    "word": "成人",
+    "reading": "성인"
+  },
+  {
+    "id": "word-gwpi1i",
+    "word": "成長",
+    "reading": "성장"
+  },
+  {
+    "id": "word-c4px2j",
+    "word": "盛典",
+    "reading": "성전"
+  },
+  {
+    "id": "word-b7t9md",
+    "word": "世界",
+    "reading": "세계"
+  },
+  {
+    "id": "word-13gr0zw",
+    "word": "世上",
+    "reading": "세상"
+  },
+  {
+    "id": "word-vx72my",
+    "word": "消救",
+    "reading": "소구"
+  },
+  {
+    "id": "word-7futrg",
+    "word": "少年",
+    "reading": "소년"
+  },
+  {
+    "id": "word-pcbybw",
+    "word": "騷亂",
+    "reading": "소란"
+  },
+  {
+    "id": "word-17g3h63",
+    "word": "所望",
+    "reading": "소망"
+  },
+  {
+    "id": "word-1moe0rc",
+    "word": "消費",
+    "reading": "소비"
+  },
+  {
+    "id": "word-ju7xt6",
+    "word": "素養",
+    "reading": "소양"
+  },
+  {
+    "id": "word-y84lrr",
+    "word": "所遠",
+    "reading": "소원"
+  },
+  {
+    "id": "word-1llun6n",
+    "word": "所願",
+    "reading": "소원"
+  },
+  {
+    "id": "word-1vvcdif",
+    "word": "消願",
+    "reading": "소원"
+  },
+  {
+    "id": "word-1gsww5z",
+    "word": "素遠",
+    "reading": "소원"
+  },
+  {
+    "id": "word-tuz6pr",
+    "word": "素願",
+    "reading": "소원"
+  },
+  {
+    "id": "word-w3qpla",
+    "word": "小子",
+    "reading": "소자"
+  },
+  {
+    "id": "word-cfq2b7",
+    "word": "素材",
+    "reading": "소재"
+  },
+  {
+    "id": "word-170dj2v",
+    "word": "素地",
+    "reading": "소지"
+  },
+  {
+    "id": "word-18o4eoo",
+    "word": "消火",
+    "reading": "소화"
+  },
+  {
+    "id": "word-u8c1cl",
+    "word": "速度",
+    "reading": "속도"
+  },
+  {
+    "id": "word-xoto13",
+    "word": "送舊",
+    "reading": "송구"
+  },
+  {
+    "id": "word-14vj3u8",
+    "word": "送信",
+    "reading": "송신"
+  },
+  {
+    "id": "word-7cusr2",
+    "word": "須-也",
+    "reading": "수-야"
+  },
+  {
+    "id": "word-1wud0in",
+    "word": "搜(索)",
+    "reading": "수색"
+  },
+  {
+    "id": "word-106ltcg",
+    "word": "水(刺)",
+    "reading": "수라"
+  },
+  {
+    "id": "word-salkve",
+    "word": "需給",
+    "reading": "수급"
+  },
+  {
+    "id": "word-7dj1o7",
+    "word": "水落石出",
+    "reading": "수락석출"
+  },
+  {
+    "id": "word-1rp62uj",
+    "word": "水力",
+    "reading": "수력"
+  },
+  {
+    "id": "word-1scjrwx",
+    "word": "水面",
+    "reading": "수면"
+  },
+  {
+    "id": "word-9f1dqk",
+    "word": "睡眠",
+    "reading": "수면"
+  },
+  {
+    "id": "word-5lxz80",
+    "word": "受尙",
+    "reading": "수상"
+  },
+  {
+    "id": "word-19448vq",
+    "word": "受想",
+    "reading": "수상"
+  },
+  {
+    "id": "word-trsr53",
+    "word": "受賞",
+    "reading": "수상"
+  },
+  {
+    "id": "word-1pxouql",
+    "word": "守尙",
+    "reading": "수상"
+  },
+  {
+    "id": "word-x1ys5s",
+    "word": "守相",
+    "reading": "수상"
+  },
+  {
+    "id": "word-g2d56q",
+    "word": "守賞",
+    "reading": "수상"
+  },
+  {
+    "id": "word-gx31m9",
+    "word": "收想",
+    "reading": "수상"
+  },
+  {
+    "id": "word-1xbkiyy",
+    "word": "收相",
+    "reading": "수상"
+  },
+  {
+    "id": "word-1c1gqe0",
+    "word": "收賞",
+    "reading": "수상"
+  },
+  {
+    "id": "word-ne1mxk",
+    "word": "守成",
+    "reading": "수성"
+  },
+  {
+    "id": "word-12fmlmf",
+    "word": "守星",
+    "reading": "수성"
+  },
+  {
+    "id": "word-946zoo",
+    "word": "守誠",
+    "reading": "수성"
+  },
+  {
+    "id": "word-sx0ic5",
+    "word": "收星",
+    "reading": "수성"
+  },
+  {
+    "id": "word-mlb2on",
+    "word": "收省",
+    "reading": "수성"
+  },
+  {
+    "id": "word-1c89u1b",
+    "word": "收入",
+    "reading": "수입"
+  },
+  {
+    "id": "word-lt78xm",
+    "word": "秀才",
+    "reading": "수재"
+  },
+  {
+    "id": "word-185rkwy",
+    "word": "手足",
+    "reading": "수족"
+  },
+  {
+    "id": "word-sgddfs",
+    "word": "數學",
+    "reading": "수학"
+  },
+  {
+    "id": "word-5j356e",
+    "word": "宿(惡)",
+    "reading": "숙악"
+  },
+  {
+    "id": "word-18lx0mn",
+    "word": "熟眠",
+    "reading": "숙면"
+  },
+  {
+    "id": "word-1ns0iur",
+    "word": "順理",
+    "reading": "순리"
+  },
+  {
+    "id": "word-1h8t7i3",
+    "word": "巡査",
+    "reading": "순사"
+  },
+  {
+    "id": "word-5h8boq",
+    "word": "順序",
+    "reading": "순서"
+  },
+  {
+    "id": "word-1dmybmj",
+    "word": "順應",
+    "reading": "순응"
+  },
+  {
+    "id": "word-1e9xk00",
+    "word": "順從",
+    "reading": "순종"
+  },
+  {
+    "id": "word-1vnssgw",
+    "word": "脣齒",
+    "reading": "순치"
+  },
+  {
+    "id": "word-1sky70s",
+    "word": "順航",
+    "reading": "순항"
+  },
+  {
+    "id": "word-j082a6",
+    "word": "勝氣",
+    "reading": "승기"
+  },
+  {
+    "id": "word-1oa5sta",
+    "word": "昇段",
+    "reading": "승단"
+  },
+  {
+    "id": "word-1tm8n9c",
+    "word": "勝利",
+    "reading": "승리"
+  },
+  {
+    "id": "word-6m03gh",
+    "word": "勝戰",
+    "reading": "승전"
+  },
+  {
+    "id": "word-1txi8pe",
+    "word": "市街",
+    "reading": "시가"
+  },
+  {
+    "id": "word-1p80u48",
+    "word": "視覺",
+    "reading": "시각"
+  },
+  {
+    "id": "word-1i4xeg2",
+    "word": "時間",
+    "reading": "시간"
+  },
+  {
+    "id": "word-pyzyqh",
+    "word": "視力",
+    "reading": "시력"
+  },
+  {
+    "id": "word-1504apg",
+    "word": "是非",
+    "reading": "시비"
+  },
+  {
+    "id": "word-mjpgb1",
+    "word": "始事",
+    "reading": "시사"
+  },
+  {
+    "id": "word-xuy61u",
+    "word": "時事",
+    "reading": "시사"
+  },
+  {
+    "id": "word-13xh1y3",
+    "word": "時史",
+    "reading": "시사"
+  },
+  {
+    "id": "word-stf18q",
+    "word": "示師",
+    "reading": "시사"
+  },
+  {
+    "id": "word-18i1m9m",
+    "word": "詩史",
+    "reading": "시사"
+  },
+  {
+    "id": "word-jx90cr",
+    "word": "視線",
+    "reading": "시선"
+  },
+  {
+    "id": "word-18t5e75",
+    "word": "施設",
+    "reading": "시설"
+  },
+  {
+    "id": "word-wscin2",
+    "word": "時作",
+    "reading": "시작"
+  },
+  {
+    "id": "word-b6adkz",
+    "word": "詩調",
+    "reading": "시조"
+  },
+  {
+    "id": "word-h5lbok",
+    "word": "施惠",
+    "reading": "시혜"
+  },
+  {
+    "id": "word-1oecdxr",
+    "word": "食言",
+    "reading": "식언"
+  },
+  {
+    "id": "word-1v4p74t",
+    "word": "信念",
+    "reading": "신념"
+  },
+  {
+    "id": "word-12sj1qc",
+    "word": "信望",
+    "reading": "신망"
+  },
+  {
+    "id": "word-1h5l674",
+    "word": "信門",
+    "reading": "신문"
+  },
+  {
+    "id": "word-7k4i5o",
+    "word": "新問",
+    "reading": "신문"
+  },
+  {
+    "id": "word-1ietgvx",
+    "word": "新聞",
+    "reading": "신문"
+  },
+  {
+    "id": "word-54ng9v",
+    "word": "新門",
+    "reading": "신문"
+  },
+  {
+    "id": "word-1im6s14",
+    "word": "身聞",
+    "reading": "신문"
+  },
+  {
+    "id": "word-1p6xfng",
+    "word": "神仙",
+    "reading": "신선"
+  },
+  {
+    "id": "word-3qyzxe",
+    "word": "信實",
+    "reading": "신실"
+  },
+  {
+    "id": "word-xykd95",
+    "word": "信義",
+    "reading": "신의"
+  },
+  {
+    "id": "word-1fwoosq",
+    "word": "身土不二",
+    "reading": "신토불이"
+  },
+  {
+    "id": "word-qt0jlj",
+    "word": "實事求是",
+    "reading": "실사구시"
+  },
+  {
+    "id": "word-opta84",
+    "word": "失言",
+    "reading": "실언"
+  },
+  {
+    "id": "word-jbtqer",
+    "word": "失敗",
+    "reading": "실패"
+  },
+  {
+    "id": "word-1j6ewuj",
+    "word": "實現",
+    "reading": "실현"
+  },
+  {
+    "id": "word-19ymnti",
+    "word": "ᄋ 分命",
+    "reading": "분명"
+  },
+  {
+    "id": "word-1iq6fve",
+    "word": "ᄋ 四物",
+    "reading": "사물"
+  },
+  {
+    "id": "word-1ld5w6n",
+    "word": "ᄋ例",
+    "reading": "예"
+  },
+  {
+    "id": "word-y3xs6p",
+    "word": "樂曲",
+    "reading": "악곡"
+  },
+  {
+    "id": "word-1p03s00",
+    "word": "樂觀",
+    "reading": "낙관"
+  },
+  {
+    "id": "word-1v6d9wa",
+    "word": "樂山樂水",
+    "reading": "요산요수"
+  },
+  {
+    "id": "word-18m4wh6",
+    "word": "樂歲",
+    "reading": "낙세"
+  },
+  {
+    "id": "word-sqxiwd",
+    "word": "樂天",
+    "reading": "낙천"
+  },
+  {
+    "id": "word-12fxvw3",
+    "word": "安(否)",
+    "reading": "안부"
+  },
+  {
+    "id": "word-akik4d",
+    "word": "安分知足",
+    "reading": "안분지족"
+  },
+  {
+    "id": "word-1ut9zq9",
+    "word": "安樂",
+    "reading": "안락"
+  },
+  {
+    "id": "word-140tqto",
+    "word": "安全",
+    "reading": "안전"
+  },
+  {
+    "id": "word-5b5b45",
+    "word": "暗(殺)",
+    "reading": "암살"
+  },
+  {
+    "id": "word-1mu5uvi",
+    "word": "殃禍",
+    "reading": "앙화"
+  },
+  {
+    "id": "word-l73oa1",
+    "word": "愛敬",
+    "reading": "애경"
+  },
+  {
+    "id": "word-odaf6k",
+    "word": "夜間",
+    "reading": "야간"
+  },
+  {
+    "id": "word-1hnyemx",
+    "word": "野性",
+    "reading": "야성"
+  },
+  {
+    "id": "word-7ggyye",
+    "word": "藥師",
+    "reading": "약사"
+  },
+  {
+    "id": "word-6rct5i",
+    "word": "弱孫",
+    "reading": "약손"
+  },
+  {
+    "id": "word-1j7y60n",
+    "word": "養虎遺患",
+    "reading": "양호유환"
+  },
+  {
+    "id": "word-1255zpj",
+    "word": "漁夫",
+    "reading": "어부"
+  },
+  {
+    "id": "word-1ob4bpw",
+    "word": "抑揚",
+    "reading": "억양"
+  },
+  {
+    "id": "word-mdltuk",
+    "word": "言文一致",
+    "reading": "언문일치"
+  },
+  {
+    "id": "word-g9s0b2",
+    "word": "言中有骨",
+    "reading": "언중유골"
+  },
+  {
+    "id": "word-1jayiox",
+    "word": "汝行-無期力",
+    "reading": "여행-무기력"
+  },
+  {
+    "id": "word-pkqgjx",
+    "word": "餘行-武氣力",
+    "reading": "여행-무기력"
+  },
+  {
+    "id": "word-6qys7i",
+    "word": "餘行-無氣力",
+    "reading": "여행-무기력"
+  },
+  {
+    "id": "word-10i9ht",
+    "word": "易理",
+    "reading": "역리"
+  },
+  {
+    "id": "word-xterb6",
+    "word": "逆順",
+    "reading": "역순"
+  },
+  {
+    "id": "word-zh92m2",
+    "word": "易地-入場",
+    "reading": "역지-입장"
+  },
+  {
+    "id": "word-nczxnf",
+    "word": "演劇",
+    "reading": "연극"
+  },
+  {
+    "id": "word-1nt03vm",
+    "word": "永久不變",
+    "reading": "영구불변"
+  },
+  {
+    "id": "word-126sws",
+    "word": "迎新",
+    "reading": "영신"
+  },
+  {
+    "id": "word-1lq2lrq",
+    "word": "營養",
+    "reading": "영양"
+  },
+  {
+    "id": "word-1mckobr",
+    "word": "榮華",
+    "reading": "영화"
+  },
+  {
+    "id": "word-cnqjqb",
+    "word": "傲慢",
+    "reading": "오만"
+  },
+  {
+    "id": "word-fufgmt",
+    "word": "玉骨仙風",
+    "reading": "옥골선풍"
+  },
+  {
+    "id": "word-bohin7",
+    "word": "溫度-增加",
+    "reading": "온도-증가"
+  },
+  {
+    "id": "word-qk2lup",
+    "word": "完決",
+    "reading": "완결"
+  },
+  {
+    "id": "word-1wm6wgb",
+    "word": "完結",
+    "reading": "완결"
+  },
+  {
+    "id": "word-1mjrilr",
+    "word": "完古",
+    "reading": "완고"
+  },
+  {
+    "id": "word-qop1nl",
+    "word": "完告",
+    "reading": "완고"
+  },
+  {
+    "id": "word-jh33xt",
+    "word": "完固",
+    "reading": "완고"
+  },
+  {
+    "id": "word-13tm3qu",
+    "word": "完故",
+    "reading": "완고"
+  },
+  {
+    "id": "word-17hwq08",
+    "word": "完考",
+    "reading": "완고"
+  },
+  {
+    "id": "word-1k1yftm",
+    "word": "完定",
+    "reading": "완정"
+  },
+  {
+    "id": "word-1n4ap1f",
+    "word": "往-處",
+    "reading": "왕-처"
+  },
+  {
+    "id": "word-17p28d9",
+    "word": "外國人",
+    "reading": "외국인"
+  },
+  {
+    "id": "word-g84wtj",
+    "word": "要(塞)",
+    "reading": "요새"
+  },
+  {
+    "id": "word-o8rbm8",
+    "word": "要求-表現",
+    "reading": "요구-표현"
+  },
+  {
+    "id": "word-7ndevj",
+    "word": "要約",
+    "reading": "요약"
+  },
+  {
+    "id": "word-hi8u96",
+    "word": "要藥",
+    "reading": "요약"
+  },
+  {
+    "id": "word-14vjlc9",
+    "word": "勇基",
+    "reading": "용기"
+  },
+  {
+    "id": "word-y7v10g",
+    "word": "勇氣",
+    "reading": "용기"
+  },
+  {
+    "id": "word-4trp1f",
+    "word": "勇記",
+    "reading": "용기"
+  },
+  {
+    "id": "word-fyt40j",
+    "word": "容基",
+    "reading": "용기"
+  },
+  {
+    "id": "word-3zb3du",
+    "word": "容氣",
+    "reading": "용기"
+  },
+  {
+    "id": "word-dwst5y",
+    "word": "容易",
+    "reading": "용이"
+  },
+  {
+    "id": "word-iuuvw8",
+    "word": "雨衣",
+    "reading": "우의"
+  },
+  {
+    "id": "word-1uv5mv4",
+    "word": "牛耳讀經",
+    "reading": "우이독경"
+  },
+  {
+    "id": "word-1oyd5in",
+    "word": "宇宙",
+    "reading": "우주"
+  },
+  {
+    "id": "word-b9bqln",
+    "word": "宇晝",
+    "reading": "우주"
+  },
+  {
+    "id": "word-qthu7y",
+    "word": "宇注",
+    "reading": "우주"
+  },
+  {
+    "id": "word-1vzd0u6",
+    "word": "雨宙",
+    "reading": "우주"
+  },
+  {
+    "id": "word-uha9yn",
+    "word": "雨注",
+    "reading": "우주"
+  },
+  {
+    "id": "word-yybetg",
+    "word": "運動",
+    "reading": "운동"
+  },
+  {
+    "id": "word-ht3p4o",
+    "word": "運命",
+    "reading": "운명"
+  },
+  {
+    "id": "word-18l2jjc",
+    "word": "運送",
+    "reading": "운송"
+  },
+  {
+    "id": "word-c75b6a",
+    "word": "運數",
+    "reading": "운수"
+  },
+  {
+    "id": "word-c3v6by",
+    "word": "韻致",
+    "reading": "운치"
+  },
+  {
+    "id": "word-24z2vx",
+    "word": "雄志",
+    "reading": "웅지"
+  },
+  {
+    "id": "word-1x0gx9b",
+    "word": "願望",
+    "reading": "원망"
+  },
+  {
+    "id": "word-1ioq3hm",
+    "word": "原因",
+    "reading": "원인"
+  },
+  {
+    "id": "word-14j811l",
+    "word": "月夕",
+    "reading": "월석"
+  },
+  {
+    "id": "word-ix6h6",
+    "word": "月下氷人",
+    "reading": "월하빙인"
+  },
+  {
+    "id": "word-rc8lxc",
+    "word": "有口無言",
+    "reading": "유구무언"
+  },
+  {
+    "id": "word-oiybox",
+    "word": "誘導",
+    "reading": "유도"
+  },
+  {
+    "id": "word-1llgjvy",
+    "word": "由來",
+    "reading": "유래"
+  },
+  {
+    "id": "word-va5hb7",
+    "word": "有名無實",
+    "reading": "유명무실"
+  },
+  {
+    "id": "word-16pzor4",
+    "word": "油腐",
+    "reading": "유부"
+  },
+  {
+    "id": "word-19d4hms",
+    "word": "遺失",
+    "reading": "유실"
+  },
+  {
+    "id": "word-1svdio5",
+    "word": "柔弱",
+    "reading": "유약"
+  },
+  {
+    "id": "word-pjtqdf",
+    "word": "有用",
+    "reading": "유용"
+  },
+  {
+    "id": "word-fnvh4c",
+    "word": "有田",
+    "reading": "유전"
+  },
+  {
+    "id": "word-13dg4vo",
+    "word": "油典",
+    "reading": "유전"
+  },
+  {
+    "id": "word-1abulx8",
+    "word": "油田",
+    "reading": "유전"
+  },
+  {
+    "id": "word-1wx7r5k",
+    "word": "恩德",
+    "reading": "은덕"
+  },
+  {
+    "id": "word-vfz0x0",
+    "word": "恩惠",
+    "reading": "은혜"
+  },
+  {
+    "id": "word-z9ge3b",
+    "word": "音樂",
+    "reading": "음악"
+  },
+  {
+    "id": "word-7s3k3j",
+    "word": "應敎",
+    "reading": "응교"
+  },
+  {
+    "id": "word-mjacbh",
+    "word": "意見",
+    "reading": "의견"
+  },
+  {
+    "id": "word-1wzwz1k",
+    "word": "意圖",
+    "reading": "의도"
+  },
+  {
+    "id": "word-hnczi9",
+    "word": "議論",
+    "reading": "의논"
+  },
+  {
+    "id": "word-pxz8wt",
+    "word": "意事",
+    "reading": "의사"
+  },
+  {
+    "id": "word-t4z5zq",
+    "word": "意式",
+    "reading": "의식"
+  },
+  {
+    "id": "word-1ok81o1",
+    "word": "意識",
+    "reading": "의식"
+  },
+  {
+    "id": "word-165khmm",
+    "word": "義植",
+    "reading": "의식"
+  },
+  {
+    "id": "word-nd8gcb",
+    "word": "議式",
+    "reading": "의식"
+  },
+  {
+    "id": "word-jgtek",
+    "word": "議識",
+    "reading": "의식"
+  },
+  {
+    "id": "word-p0mvpw",
+    "word": "議會",
+    "reading": "의회"
+  },
+  {
+    "id": "word-19mfrv8",
+    "word": "移動",
+    "reading": "이동"
+  },
+  {
+    "id": "word-w0h19b",
+    "word": "二北",
+    "reading": "이북"
+  },
+  {
+    "id": "word-1imcy2s",
+    "word": "以北",
+    "reading": "이북"
+  },
+  {
+    "id": "word-tvwwe5",
+    "word": "已北",
+    "reading": "이북"
+  },
+  {
+    "id": "word-g2hh96",
+    "word": "移北",
+    "reading": "이북"
+  },
+  {
+    "id": "word-nrk10f",
+    "word": "而北",
+    "reading": "이북"
+  },
+  {
+    "id": "word-6s9rj8",
+    "word": "異常",
+    "reading": "이상"
+  },
+  {
+    "id": "word-xkbqze",
+    "word": "忍苦",
+    "reading": "인고"
+  },
+  {
+    "id": "word-dqpe7f",
+    "word": "人工",
+    "reading": "인공"
+  },
+  {
+    "id": "word-ttd60e",
+    "word": "人命在天",
+    "reading": "인명재천"
+  },
+  {
+    "id": "word-1fy9ozw",
+    "word": "人物",
+    "reading": "인물"
+  },
+  {
+    "id": "word-1slq5ou",
+    "word": "人事",
+    "reading": "인사"
+  },
+  {
+    "id": "word-92zzuv",
+    "word": "人魚",
+    "reading": "인어"
+  },
+  {
+    "id": "word-1wg27mm",
+    "word": "一擧兩得",
+    "reading": "일거양득"
+  },
+  {
+    "id": "word-1qohgd2",
+    "word": "日夕",
+    "reading": "일석"
+  },
+  {
+    "id": "word-1gxfsj3",
+    "word": "一瞬",
+    "reading": "일순"
+  },
+  {
+    "id": "word-1jmfrg",
+    "word": "日月",
+    "reading": "일월"
+  },
+  {
+    "id": "word-q4qpvb",
+    "word": "一日三省",
+    "reading": "일일삼성"
+  },
+  {
+    "id": "word-1v27u6y",
+    "word": "一日三秋",
+    "reading": "일일삼추"
+  },
+  {
+    "id": "word-ghcikc",
+    "word": "一片丹心",
+    "reading": "일편단심"
+  },
+  {
+    "id": "word-1ek20d4",
+    "word": "任命",
+    "reading": "임명"
+  },
+  {
+    "id": "word-1jqlb5w",
+    "word": "ᄌ 生活",
+    "reading": "생활"
+  },
+  {
+    "id": "word-kiaapm",
+    "word": "ᄌ 正報",
+    "reading": "정보"
+  },
+  {
+    "id": "word-499dok",
+    "word": "自古以來",
+    "reading": "자고이래"
+  },
+  {
+    "id": "word-whqd89",
+    "word": "自立",
+    "reading": "자립"
+  },
+  {
+    "id": "word-5tojh1",
+    "word": "自手成家",
+    "reading": "자수성가"
+  },
+  {
+    "id": "word-4d7yvu",
+    "word": "自身",
+    "reading": "자신"
+  },
+  {
+    "id": "word-gvhq8r",
+    "word": "自若",
+    "reading": "자약"
+  },
+  {
+    "id": "word-1vbjg5x",
+    "word": "自業自得",
+    "reading": "자업자득"
+  },
+  {
+    "id": "word-1hx1oa7",
+    "word": "自然",
+    "reading": "자연"
+  },
+  {
+    "id": "word-5pqupz",
+    "word": "作別",
+    "reading": "작별"
+  },
+  {
+    "id": "word-19ndpz",
+    "word": "作品",
+    "reading": "작품"
+  },
+  {
+    "id": "word-awuzcn",
+    "word": "長子",
+    "reading": "장자"
+  },
+  {
+    "id": "word-yw6sdk",
+    "word": "長指",
+    "reading": "장지"
+  },
+  {
+    "id": "word-cargq0",
+    "word": "場車",
+    "reading": "장차"
+  },
+  {
+    "id": "word-1d7x4uu",
+    "word": "將次",
+    "reading": "장차"
+  },
+  {
+    "id": "word-186o8f8",
+    "word": "章車",
+    "reading": "장차"
+  },
+  {
+    "id": "word-5f158m",
+    "word": "長次",
+    "reading": "장차"
+  },
+  {
+    "id": "word-1wo53fg",
+    "word": "將着",
+    "reading": "장착"
+  },
+  {
+    "id": "word-cxhwyv",
+    "word": "再起",
+    "reading": "재기"
+  },
+  {
+    "id": "word-1w17kym",
+    "word": "再能",
+    "reading": "재능"
+  },
+  {
+    "id": "word-1p0f71d",
+    "word": "在能",
+    "reading": "재능"
+  },
+  {
+    "id": "word-1dmnl3y",
+    "word": "才能",
+    "reading": "재능"
+  },
+  {
+    "id": "word-18dnhxl",
+    "word": "材能",
+    "reading": "재능"
+  },
+  {
+    "id": "word-vxsaki",
+    "word": "財能",
+    "reading": "재능"
+  },
+  {
+    "id": "word-ndsxqp",
+    "word": "在來",
+    "reading": "재래"
+  },
+  {
+    "id": "word-1ucvzqh",
+    "word": "財物",
+    "reading": "재물"
+  },
+  {
+    "id": "word-w4172w",
+    "word": "再選",
+    "reading": "재선"
+  },
+  {
+    "id": "word-5js5t1",
+    "word": "才藝",
+    "reading": "재예"
+  },
+  {
+    "id": "word-19nj9b5",
+    "word": "在外",
+    "reading": "재외"
+  },
+  {
+    "id": "word-14q3edu",
+    "word": "爭約",
+    "reading": "쟁약"
+  },
+  {
+    "id": "word-lyn0n",
+    "word": "爭藥",
+    "reading": "쟁약"
+  },
+  {
+    "id": "word-w3m7i4",
+    "word": "適當",
+    "reading": "적당"
+  },
+  {
+    "id": "word-1nr0gqo",
+    "word": "敵對",
+    "reading": "적대"
+  },
+  {
+    "id": "word-14likh4",
+    "word": "的中",
+    "reading": "적중"
+  },
+  {
+    "id": "word-himlxu",
+    "word": "傳記",
+    "reading": "전기"
+  },
+  {
+    "id": "word-16n96xl",
+    "word": "電氣",
+    "reading": "전기"
+  },
+  {
+    "id": "word-1q288xs",
+    "word": "前年",
+    "reading": "전년"
+  },
+  {
+    "id": "word-8l1gjm",
+    "word": "傳達",
+    "reading": "전달"
+  },
+  {
+    "id": "word-u0blp3",
+    "word": "前代未聞",
+    "reading": "전대미문"
+  },
+  {
+    "id": "word-12c77ib",
+    "word": "傳保",
+    "reading": "전보"
+  },
+  {
+    "id": "word-1h5ptsv",
+    "word": "傳報",
+    "reading": "전보"
+  },
+  {
+    "id": "word-fdgel9",
+    "word": "展報",
+    "reading": "전보"
+  },
+  {
+    "id": "word-ankl97",
+    "word": "電保",
+    "reading": "전보"
+  },
+  {
+    "id": "word-f4yzd3",
+    "word": "電報",
+    "reading": "전보"
+  },
+  {
+    "id": "word-1fblt1x",
+    "word": "戰線",
+    "reading": "전선"
+  },
+  {
+    "id": "word-f3r5j1",
+    "word": "傳受",
+    "reading": "전수"
+  },
+  {
+    "id": "word-zi47sh",
+    "word": "全市",
+    "reading": "전시"
+  },
+  {
+    "id": "word-41q226",
+    "word": "展示",
+    "reading": "전시"
+  },
+  {
+    "id": "word-1cgjcua",
+    "word": "展視",
+    "reading": "전시"
+  },
+  {
+    "id": "word-vgy5c9",
+    "word": "戰時",
+    "reading": "전시"
+  },
+  {
+    "id": "word-1avy9k8",
+    "word": "電視",
+    "reading": "전시"
+  },
+  {
+    "id": "word-1kdq5fo",
+    "word": "全用",
+    "reading": "전용"
+  },
+  {
+    "id": "word-9fxby1",
+    "word": "前日",
+    "reading": "전일"
+  },
+  {
+    "id": "word-1dxucv",
+    "word": "全體",
+    "reading": "전체"
+  },
+  {
+    "id": "word-1dv6dxo",
+    "word": "傳統",
+    "reading": "전통"
+  },
+  {
+    "id": "word-1wljott",
+    "word": "竊盜",
+    "reading": "절도"
+  },
+  {
+    "id": "word-tgomxs",
+    "word": "節約",
+    "reading": "절약"
+  },
+  {
+    "id": "word-1aue1id",
+    "word": "節藥",
+    "reading": "절약"
+  },
+  {
+    "id": "word-gt0o5u",
+    "word": "絶約",
+    "reading": "절약"
+  },
+  {
+    "id": "word-c6h67b",
+    "word": "絶藥",
+    "reading": "절약"
+  },
+  {
+    "id": "word-1vl6ib5",
+    "word": "節統",
+    "reading": "절통"
+  },
+  {
+    "id": "word-xti81r",
+    "word": "絶筆",
+    "reading": "절필"
+  },
+  {
+    "id": "word-lzzrso",
+    "word": "接近",
+    "reading": "접근"
+  },
+  {
+    "id": "word-1lxuyzc",
+    "word": "庭競",
+    "reading": "정경"
+  },
+  {
+    "id": "word-zqc0bh",
+    "word": "情景",
+    "reading": "정경"
+  },
+  {
+    "id": "word-y935hv",
+    "word": "政經",
+    "reading": "정경"
+  },
+  {
+    "id": "word-15gst7j",
+    "word": "正經",
+    "reading": "정경"
+  },
+  {
+    "id": "word-wh9hco",
+    "word": "精景",
+    "reading": "정경"
+  },
+  {
+    "id": "word-dgg417",
+    "word": "精誠",
+    "reading": "정성"
+  },
+  {
+    "id": "word-7vf4pr",
+    "word": "情神",
+    "reading": "정신"
+  },
+  {
+    "id": "word-1jynedu",
+    "word": "情身",
+    "reading": "정신"
+  },
+  {
+    "id": "word-fyttad",
+    "word": "正神",
+    "reading": "정신"
+  },
+  {
+    "id": "word-1yap82u",
+    "word": "精神",
+    "reading": "정신"
+  },
+  {
+    "id": "word-139xyvf",
+    "word": "精身",
+    "reading": "정신"
+  },
+  {
+    "id": "word-1kyygpc",
+    "word": "停止",
+    "reading": "정지"
+  },
+  {
+    "id": "word-14gz0wx",
+    "word": "政治的",
+    "reading": "정치적"
+  },
+  {
+    "id": "word-1hzyxmy",
+    "word": "庭訓",
+    "reading": "정훈"
+  },
+  {
+    "id": "word-m1ate0",
+    "word": "齊(衰)",
+    "reading": "제최"
+  },
+  {
+    "id": "word-1fyphmr",
+    "word": "諸國",
+    "reading": "제국"
+  },
+  {
+    "id": "word-2p0b9p",
+    "word": "弟夫",
+    "reading": "제부"
+  },
+  {
+    "id": "word-1a3inmm",
+    "word": "題詩",
+    "reading": "제시"
+  },
+  {
+    "id": "word-1mn36gn",
+    "word": "題材",
+    "reading": "제재"
+  },
+  {
+    "id": "word-15sqjzt",
+    "word": "製助",
+    "reading": "제조"
+  },
+  {
+    "id": "word-1oingf",
+    "word": "製調",
+    "reading": "제조"
+  },
+  {
+    "id": "word-11wnwf4",
+    "word": "製造",
+    "reading": "제조"
+  },
+  {
+    "id": "word-p8kei4",
+    "word": "題調",
+    "reading": "제조"
+  },
+  {
+    "id": "word-cu44oj",
+    "word": "題造",
+    "reading": "제조"
+  },
+  {
+    "id": "word-1lr85us",
+    "word": "題號",
+    "reading": "제호"
+  },
+  {
+    "id": "word-14dk2c9",
+    "word": "調律",
+    "reading": "조율"
+  },
+  {
+    "id": "word-1ias4r9",
+    "word": "朝變夕改",
+    "reading": "조변석개"
+  },
+  {
+    "id": "word-19bfw3u",
+    "word": "朝鮮",
+    "reading": "조선"
+  },
+  {
+    "id": "word-d6f61m",
+    "word": "調節",
+    "reading": "조절"
+  },
+  {
+    "id": "word-3d7eoq",
+    "word": "朝庭",
+    "reading": "조정"
+  },
+  {
+    "id": "word-c1mfbz",
+    "word": "調定",
+    "reading": "조정"
+  },
+  {
+    "id": "word-vn9a1",
+    "word": "祖宗",
+    "reading": "조종"
+  },
+  {
+    "id": "word-1unmhtg",
+    "word": "組合",
+    "reading": "조합"
+  },
+  {
+    "id": "word-1cyfn56",
+    "word": "調和",
+    "reading": "조화"
+  },
+  {
+    "id": "word-1bcgtrl",
+    "word": "造化",
+    "reading": "조화"
+  },
+  {
+    "id": "word-44ke85",
+    "word": "存亡",
+    "reading": "존망"
+  },
+  {
+    "id": "word-1mb1fe6",
+    "word": "存才",
+    "reading": "존재"
+  },
+  {
+    "id": "word-1ihselz",
+    "word": "卒哭",
+    "reading": "졸곡"
+  },
+  {
+    "id": "word-9nsa68",
+    "word": "終講",
+    "reading": "종강"
+  },
+  {
+    "id": "word-6pelmo",
+    "word": "宗師",
+    "reading": "종사"
+  },
+  {
+    "id": "word-1uzkbvs",
+    "word": "罪目",
+    "reading": "죄목"
+  },
+  {
+    "id": "word-1l5nmsa",
+    "word": "罪狀",
+    "reading": "죄상"
+  },
+  {
+    "id": "word-1s8mv0i",
+    "word": "主力",
+    "reading": "주력"
+  },
+  {
+    "id": "word-uref9y",
+    "word": "注目",
+    "reading": "주목"
+  },
+  {
+    "id": "word-1re7lul",
+    "word": "注視",
+    "reading": "주시"
+  },
+  {
+    "id": "word-141qwej",
+    "word": "周易",
+    "reading": "주역"
+  },
+  {
+    "id": "word-fqkiaa",
+    "word": "注意-進入",
+    "reading": "주의-진입"
+  },
+  {
+    "id": "word-1v97gy8",
+    "word": "主人工",
+    "reading": "주인공"
+  },
+  {
+    "id": "word-1k3ifz4",
+    "word": "俊傑",
+    "reading": "준걸"
+  },
+  {
+    "id": "word-1vhu53w",
+    "word": "重九",
+    "reading": "중구"
+  },
+  {
+    "id": "word-u9t34b",
+    "word": "衆口難防",
+    "reading": "중구난방"
+  },
+  {
+    "id": "word-1mb58ev",
+    "word": "中立性",
+    "reading": "중립성"
+  },
+  {
+    "id": "word-1foop0w",
+    "word": "衆望",
+    "reading": "중망"
+  },
+  {
+    "id": "word-1pumuph",
+    "word": "重望",
+    "reading": "중망"
+  },
+  {
+    "id": "word-yj0910",
+    "word": "衆生",
+    "reading": "중생"
+  },
+  {
+    "id": "word-i7nxbx",
+    "word": "仲裁",
+    "reading": "중재"
+  },
+  {
+    "id": "word-1qryf2q",
+    "word": "重責",
+    "reading": "중책"
+  },
+  {
+    "id": "word-1sjmk00",
+    "word": "增加",
+    "reading": "증가"
+  },
+  {
+    "id": "word-1aca1mk",
+    "word": "症狀",
+    "reading": "증상"
+  },
+  {
+    "id": "word-1l9aupr",
+    "word": "增便",
+    "reading": "증편"
+  },
+  {
+    "id": "word-1bvs493",
+    "word": "支給",
+    "reading": "지급"
+  },
+  {
+    "id": "word-vf77sc",
+    "word": "知德",
+    "reading": "지덕"
+  },
+  {
+    "id": "word-1rob6ff",
+    "word": "知識",
+    "reading": "지식"
+  },
+  {
+    "id": "word-1md1xxq",
+    "word": "枝葉",
+    "reading": "지엽"
+  },
+  {
+    "id": "word-19n1mf5",
+    "word": "指章",
+    "reading": "지장"
+  },
+  {
+    "id": "word-49gw6c",
+    "word": "支出",
+    "reading": "지출"
+  },
+  {
+    "id": "word-5s78i4",
+    "word": "志向",
+    "reading": "지향"
+  },
+  {
+    "id": "word-5xcpmm",
+    "word": "直立",
+    "reading": "직립"
+  },
+  {
+    "id": "word-4cpnk6",
+    "word": "直言",
+    "reading": "직언"
+  },
+  {
+    "id": "word-1izdnrj",
+    "word": "辰(宿)",
+    "reading": "진수"
+  },
+  {
+    "id": "word-d3hc7y",
+    "word": "進路",
+    "reading": "진로"
+  },
+  {
+    "id": "word-1faffbw",
+    "word": "進步",
+    "reading": "진보"
+  },
+  {
+    "id": "word-t2ehjs",
+    "word": "進退兩難",
+    "reading": "진퇴양난"
+  },
+  {
+    "id": "word-47pngu",
+    "word": "進行",
+    "reading": "진행"
+  },
+  {
+    "id": "word-1h36uoe",
+    "word": "質問",
+    "reading": "질문"
+  },
+  {
+    "id": "word-167zyc9",
+    "word": "ᄎ 利用",
+    "reading": "이용"
+  },
+  {
+    "id": "word-1q6j6hy",
+    "word": "ᄎ 主張",
+    "reading": "주장"
+  },
+  {
+    "id": "word-1dhe284",
+    "word": "ᄎ 必然",
+    "reading": "필연"
+  },
+  {
+    "id": "word-kzf95n",
+    "word": "借-亦",
+    "reading": "차-역"
+  },
+  {
+    "id": "word-1hmnd9r",
+    "word": "次期",
+    "reading": "차기"
+  },
+  {
+    "id": "word-1o5bpkb",
+    "word": "次例",
+    "reading": "차례"
+  },
+  {
+    "id": "word-1910hki",
+    "word": "次元-意圖",
+    "reading": "차원-의도"
+  },
+  {
+    "id": "word-1but2j2",
+    "word": "次遠-議圖",
+    "reading": "차원-의도"
+  },
+  {
+    "id": "word-krdavi",
+    "word": "次願-意道",
+    "reading": "차원-의도"
+  },
+  {
+    "id": "word-5qol57",
+    "word": "車元-醫圖",
+    "reading": "차원-의도"
+  },
+  {
+    "id": "word-8mkgor",
+    "word": "車原-意度",
+    "reading": "차원-의도"
+  },
+  {
+    "id": "word-gxiqrh",
+    "word": "着陸",
+    "reading": "착륙"
+  },
+  {
+    "id": "word-1h7i9qu",
+    "word": "參加",
+    "reading": "참가"
+  },
+  {
+    "id": "word-m925zo",
+    "word": "參席",
+    "reading": "참석"
+  },
+  {
+    "id": "word-6lript",
+    "word": "唱歌",
+    "reading": "창가"
+  },
+  {
+    "id": "word-2vneoh",
+    "word": "創造",
+    "reading": "창조"
+  },
+  {
+    "id": "word-15p48tr",
+    "word": "責務",
+    "reading": "책무"
+  },
+  {
+    "id": "word-1i13del",
+    "word": "千客萬來",
+    "reading": "천객만래"
+  },
+  {
+    "id": "word-eg7twt",
+    "word": "千年一淸",
+    "reading": "천년일청"
+  },
+  {
+    "id": "word-lb68pf",
+    "word": "天文",
+    "reading": "천문"
+  },
+  {
+    "id": "word-1ueshdc",
+    "word": "天水",
+    "reading": "천수"
+  },
+  {
+    "id": "word-10rf2nf",
+    "word": "天心",
+    "reading": "천심"
+  },
+  {
+    "id": "word-1jztyno",
+    "word": "鐵(索)",
+    "reading": "철삭"
+  },
+  {
+    "id": "word-1i0k03l",
+    "word": "淸算",
+    "reading": "청산"
+  },
+  {
+    "id": "word-a3h66n",
+    "word": "靑山流水",
+    "reading": "청산유수"
+  },
+  {
+    "id": "word-1w7fqqr",
+    "word": "靑天白日",
+    "reading": "청천백일"
+  },
+  {
+    "id": "word-1dtyucu",
+    "word": "體育",
+    "reading": "체육"
+  },
+  {
+    "id": "word-1k5zedf",
+    "word": "招待",
+    "reading": "초대"
+  },
+  {
+    "id": "word-1c4tb30",
+    "word": "初旬",
+    "reading": "초순"
+  },
+  {
+    "id": "word-1j10l2",
+    "word": "招請",
+    "reading": "초청"
+  },
+  {
+    "id": "word-13f976n",
+    "word": "寸數",
+    "reading": "촌수"
+  },
+  {
+    "id": "word-d1bgrj",
+    "word": "最-先",
+    "reading": "최-선"
+  },
+  {
+    "id": "word-12irgyn",
+    "word": "最高",
+    "reading": "최고"
+  },
+  {
+    "id": "word-uy8dwy",
+    "word": "最近",
+    "reading": "최근"
+  },
+  {
+    "id": "word-uimbw8",
+    "word": "追加",
+    "reading": "추가"
+  },
+  {
+    "id": "word-ifj4l7",
+    "word": "追考",
+    "reading": "추고"
+  },
+  {
+    "id": "word-u9t1rt",
+    "word": "追放",
+    "reading": "추방"
+  },
+  {
+    "id": "word-1vvt00d",
+    "word": "抽移-召詳",
+    "reading": "추이-소상"
+  },
+  {
+    "id": "word-1x6e818",
+    "word": "抽移-掃祥",
+    "reading": "추이-소상"
+  },
+  {
+    "id": "word-1kb37mf",
+    "word": "推以-疏詳",
+    "reading": "추이-소상"
+  },
+  {
+    "id": "word-v9lrr9",
+    "word": "推夷-昭祥",
+    "reading": "추이-소상"
+  },
+  {
+    "id": "word-h3nzq7",
+    "word": "推移-昭詳",
+    "reading": "추이-소상"
+  },
+  {
+    "id": "word-1nuxzp5",
+    "word": "出-致",
+    "reading": "출-치"
+  },
+  {
+    "id": "word-fb1hpp",
+    "word": "出發",
+    "reading": "출발"
+  },
+  {
+    "id": "word-1ck932u",
+    "word": "充滿",
+    "reading": "충만"
+  },
+  {
+    "id": "word-1nyo2dc",
+    "word": "忠實",
+    "reading": "충실"
+  },
+  {
+    "id": "word-1r6l5oq",
+    "word": "蟲齒",
+    "reading": "충치"
+  },
+  {
+    "id": "word-74ld21",
+    "word": "取消",
+    "reading": "취소"
+  },
+  {
+    "id": "word-17j5qvs",
+    "word": "治國安民",
+    "reading": "치국안민"
+  },
+  {
+    "id": "word-1t9mw6f",
+    "word": "治仕",
+    "reading": "치사"
+  },
+  {
+    "id": "word-18f621l",
+    "word": "治士",
+    "reading": "치사"
+  },
+  {
+    "id": "word-1yt3yta",
+    "word": "致仕",
+    "reading": "치사"
+  },
+  {
+    "id": "word-1dhwe4w",
+    "word": "致士",
+    "reading": "치사"
+  },
+  {
+    "id": "word-zwq6c6",
+    "word": "致思",
+    "reading": "치사"
+  },
+  {
+    "id": "word-1yzzyoh",
+    "word": "沈黙",
+    "reading": "침묵"
+  },
+  {
+    "id": "word-1y1cmy5",
+    "word": "ᄏ 人定",
+    "reading": "인정"
+  },
+  {
+    "id": "word-1v9ym3z",
+    "word": "ᄐ 政部",
+    "reading": "정부"
+  },
+  {
+    "id": "word-dvx2uy",
+    "word": "土門",
+    "reading": "토문"
+  },
+  {
+    "id": "word-12n7q4",
+    "word": "痛感",
+    "reading": "통감"
+  },
+  {
+    "id": "word-aub5dd",
+    "word": "統計",
+    "reading": "통계"
+  },
+  {
+    "id": "word-1mmrjfa",
+    "word": "退步",
+    "reading": "퇴보"
+  },
+  {
+    "id": "word-b1404f",
+    "word": "投(宿)",
+    "reading": "투숙"
+  },
+  {
+    "id": "word-1hgy7vs",
+    "word": "特別",
+    "reading": "특별"
+  },
+  {
+    "id": "word-1sb1upo",
+    "word": "特定",
+    "reading": "특정"
+  },
+  {
+    "id": "word-g8tbl3",
+    "word": "ᄑ 支今",
+    "reading": "지금"
+  },
+  {
+    "id": "word-1nag09f",
+    "word": "波動",
+    "reading": "파동"
+  },
+  {
+    "id": "word-11md9c7",
+    "word": "波線",
+    "reading": "파선"
+  },
+  {
+    "id": "word-19gvr46",
+    "word": "罷職",
+    "reading": "파직"
+  },
+  {
+    "id": "word-1aeqtlg",
+    "word": "八方美人",
+    "reading": "팔방미인"
+  },
+  {
+    "id": "word-1ya5ecu",
+    "word": "敗走",
+    "reading": "패주"
+  },
+  {
+    "id": "word-rl9k05",
+    "word": "片道",
+    "reading": "편도"
+  },
+  {
+    "id": "word-h24e7c",
+    "word": "片語",
+    "reading": "편어"
+  },
+  {
+    "id": "word-1hk7t0d",
+    "word": "便易",
+    "reading": "편이"
+  },
+  {
+    "id": "word-886esr",
+    "word": "平素",
+    "reading": "평소"
+  },
+  {
+    "id": "word-p4o99w",
+    "word": "平地風波",
+    "reading": "평지풍파"
+  },
+  {
+    "id": "word-1s740yc",
+    "word": "暴露",
+    "reading": "폭로"
+  },
+  {
+    "id": "word-1lhqn7t",
+    "word": "表情",
+    "reading": "표정"
+  },
+  {
+    "id": "word-6ajwu5",
+    "word": "表現",
+    "reading": "표현"
+  },
+  {
+    "id": "word-vn64h7",
+    "word": "風樂",
+    "reading": "풍악"
+  },
+  {
+    "id": "word-1b591h9",
+    "word": "必要",
+    "reading": "필요"
+  },
+  {
+    "id": "word-krwzha",
+    "word": "ᄒ 確因",
+    "reading": "확인"
+  },
+  {
+    "id": "word-flil6e",
+    "word": "韓國語",
+    "reading": "한국어"
+  },
+  {
+    "id": "word-1715cxt",
+    "word": "寒冷",
+    "reading": "한랭"
+  },
+  {
+    "id": "word-15bhqu8",
+    "word": "漢詩",
+    "reading": "한시"
+  },
+  {
+    "id": "word-14gunn2",
+    "word": "限定",
+    "reading": "한정"
+  },
+  {
+    "id": "word-q2rcyv",
+    "word": "合天",
+    "reading": "합천"
+  },
+  {
+    "id": "word-1eohvip",
+    "word": "解産",
+    "reading": "해산"
+  },
+  {
+    "id": "word-oe22ri",
+    "word": "解消",
+    "reading": "해소"
+  },
+  {
+    "id": "word-1gcu3rp",
+    "word": "解約",
+    "reading": "해약"
+  },
+  {
+    "id": "word-1bifm9m",
+    "word": "海洋",
+    "reading": "해양"
+  },
+  {
+    "id": "word-1o8rutc",
+    "word": "行世",
+    "reading": "행세"
+  },
+  {
+    "id": "word-1lqevvf",
+    "word": "行雲流水",
+    "reading": "행운유수"
+  },
+  {
+    "id": "word-1xz7ofo",
+    "word": "鄕客",
+    "reading": "향객"
+  },
+  {
+    "id": "word-1a2l3tf",
+    "word": "虛空",
+    "reading": "허공"
+  },
+  {
+    "id": "word-13kmyu7",
+    "word": "革面",
+    "reading": "혁면"
+  },
+  {
+    "id": "word-nxw2iw",
+    "word": "革名-忍式",
+    "reading": "혁명-인식"
+  },
+  {
+    "id": "word-8mrlx8",
+    "word": "革命-因識",
+    "reading": "혁명-인식"
+  },
+  {
+    "id": "word-1izdte5",
+    "word": "革命-認識",
+    "reading": "혁명-인식"
+  },
+  {
+    "id": "word-4c7d73",
+    "word": "革明-認式",
+    "reading": "혁명-인식"
+  },
+  {
+    "id": "word-f23o12",
+    "word": "革明-認識",
+    "reading": "혁명-인식"
+  },
+  {
+    "id": "word-1f0r5nt",
+    "word": "革新",
+    "reading": "혁신"
+  },
+  {
+    "id": "word-b1a312",
+    "word": "現場",
+    "reading": "현장"
+  },
+  {
+    "id": "word-e8wlcv",
+    "word": "協助",
+    "reading": "협조"
+  },
+  {
+    "id": "word-1rk8ae7",
+    "word": "形成",
+    "reading": "형성"
+  },
+  {
+    "id": "word-t8fviu",
+    "word": "形勢",
+    "reading": "형세"
+  },
+  {
+    "id": "word-6of26t",
+    "word": "慧敏",
+    "reading": "혜민"
+  },
+  {
+    "id": "word-zrug48",
+    "word": "豪傑",
+    "reading": "호걸"
+  },
+  {
+    "id": "word-gchri1",
+    "word": "號令",
+    "reading": "호령"
+  },
+  {
+    "id": "word-cnm68p",
+    "word": "湖水",
+    "reading": "호수"
+  },
+  {
+    "id": "word-ukmij",
+    "word": "婚禮",
+    "reading": "혼례"
+  },
+  {
+    "id": "word-1p9mmxg",
+    "word": "混線",
+    "reading": "혼선"
+  },
+  {
+    "id": "word-122md0k",
+    "word": "和易",
+    "reading": "화이"
+  },
+  {
+    "id": "word-158sxx3",
+    "word": "花朝月夕",
+    "reading": "화조월석"
+  },
+  {
+    "id": "word-klv7w0",
+    "word": "環狀",
+    "reading": "환상"
+  },
+  {
+    "id": "word-uqt66z",
+    "word": "患者",
+    "reading": "환자"
+  },
+  {
+    "id": "word-1n3bnfw",
+    "word": "活動",
+    "reading": "활동"
+  },
+  {
+    "id": "word-iy480w",
+    "word": "皇京",
+    "reading": "황경"
+  },
+  {
+    "id": "word-dzhjcm",
+    "word": "回顧",
+    "reading": "회고"
+  },
+  {
+    "id": "word-1tvikk5",
+    "word": "會期",
+    "reading": "회기"
+  },
+  {
+    "id": "word-1d2nma9",
+    "word": "會談",
+    "reading": "회담"
+  },
+  {
+    "id": "word-ouqi5f",
+    "word": "效果",
+    "reading": "효과"
+  },
+  {
+    "id": "word-fmejpp",
+    "word": "效課",
+    "reading": "효과"
+  },
+  {
+    "id": "word-e5wqop",
+    "word": "孝養",
+    "reading": "효양"
+  },
+  {
+    "id": "word-u6ayg3",
+    "word": "後",
+    "reading": "후"
+  },
+  {
+    "id": "word-1x1d7ie",
+    "word": "後報",
+    "reading": "후보"
+  },
+  {
+    "id": "word-sl5fsq",
+    "word": "訓練",
+    "reading": "훈련"
+  },
+  {
+    "id": "word-1qwc8e7",
+    "word": "訓育",
+    "reading": "훈육"
+  },
+  {
+    "id": "word-1mj4ern",
+    "word": "訓話",
+    "reading": "훈화"
+  },
+  {
+    "id": "word-1uel7ec",
+    "word": "休息",
+    "reading": "휴식"
+  },
+  {
+    "id": "word-vilr2g",
+    "word": "凶計",
+    "reading": "흉계"
+  },
+  {
+    "id": "word-utnk60",
+    "word": "戱劇",
+    "reading": "희극"
+  },
+  {
+    "id": "word-19qjvl8",
+    "word": "稀薄",
+    "reading": "희박"
+  },
+  {
+    "id": "word-17j2vi5",
+    "word": "強迫症",
+    "reading": "강박증"
+  },
+  {
+    "id": "word-1woz09u",
+    "word": "豐富",
+    "reading": "풍부"
+  }
+]

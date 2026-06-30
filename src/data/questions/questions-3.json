@@ -219,12 +219,27 @@
     "answerIndex": 0,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '運'입니다. 運은 '옮길 운'입니다.",
-    "choiceHints": [
-      "運(옮길 운)",
-      "變(변할 변)",
-      "達(통달할 달)",
-      "得(얻을 득)",
-      "順(순할 순)"
+    "choiceAnnotations": [
+      {
+        "meaning": "옮길",
+        "reading": "운"
+      },
+      {
+        "meaning": "변할",
+        "reading": "변"
+      },
+      {
+        "meaning": "통달할",
+        "reading": "달"
+      },
+      {
+        "meaning": "얻을",
+        "reading": "득"
+      },
+      {
+        "meaning": "순할",
+        "reading": "순"
+      }
     ]
   },
   {
@@ -243,12 +258,27 @@
     "answerIndex": 1,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '都'입니다. 都는 '도읍 도'입니다.",
-    "choiceHints": [
-      "保(지킬 보)",
-      "都(도읍 도)",
-      "考(생각할 고)",
-      "素(흴 소)",
-      "調(고를 조)"
+    "choiceAnnotations": [
+      {
+        "meaning": "지킬",
+        "reading": "보"
+      },
+      {
+        "meaning": "도읍",
+        "reading": "도"
+      },
+      {
+        "meaning": "생각할",
+        "reading": "고"
+      },
+      {
+        "meaning": "흴",
+        "reading": "소"
+      },
+      {
+        "meaning": "고를",
+        "reading": "조"
+      }
     ]
   },
   {
@@ -267,12 +297,27 @@
     "answerIndex": 3,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '武'입니다. 武는 '굳셀 무'입니다.",
-    "choiceHints": [
-      "究(연구할 구)",
-      "斗(말 두)",
-      "數(셈 수)",
-      "武(굳셀 무)",
-      "富(부유할 부)"
+    "choiceAnnotations": [
+      {
+        "meaning": "연구할",
+        "reading": "구"
+      },
+      {
+        "meaning": "말",
+        "reading": "두"
+      },
+      {
+        "meaning": "셈",
+        "reading": "수"
+      },
+      {
+        "meaning": "굳셀",
+        "reading": "무"
+      },
+      {
+        "meaning": "부유할",
+        "reading": "부"
+      }
     ]
   },
   {
@@ -291,12 +336,27 @@
     "answerIndex": 2,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '屋'입니다. 屋은 '집 옥'입니다.",
-    "choiceHints": [
-      "歷(지낼 력)",
-      "溫(따뜻할 온)",
-      "屋(집 옥)",
-      "密(빽빽할/은밀할 밀)",
-      "烏(까마귀 오)"
+    "choiceAnnotations": [
+      {
+        "meaning": "지낼",
+        "reading": "력"
+      },
+      {
+        "meaning": "따뜻할",
+        "reading": "온"
+      },
+      {
+        "meaning": "집",
+        "reading": "옥"
+      },
+      {
+        "meaning": "빽빽할/은밀할",
+        "reading": "밀"
+      },
+      {
+        "meaning": "까마귀",
+        "reading": "오"
+      }
     ]
   },
   {
@@ -315,12 +375,27 @@
     "answerIndex": 4,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '勞'입니다. 勞는 '일할 로'입니다.",
-    "choiceHints": [
-      "步(걸음 보)",
-      "量(헤아릴 량)",
-      "料(헤아릴 료)",
-      "進(나아갈 진)",
-      "勞(일할 로)"
+    "choiceAnnotations": [
+      {
+        "meaning": "걸음",
+        "reading": "보"
+      },
+      {
+        "meaning": "헤아릴",
+        "reading": "량"
+      },
+      {
+        "meaning": "헤아릴",
+        "reading": "료"
+      },
+      {
+        "meaning": "나아갈",
+        "reading": "진"
+      },
+      {
+        "meaning": "일할",
+        "reading": "로"
+      }
     ]
   },
   {
@@ -339,12 +414,27 @@
     "answerIndex": 2,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '服'입니다. 服은 '옷 복'입니다.",
-    "choiceHints": [
-      "植(심을 식)",
-      "俗(풍속 속)",
-      "服(옷 복)",
-      "客(손님 객)",
-      "獨(홀로 독)"
+    "choiceAnnotations": [
+      {
+        "meaning": "심을",
+        "reading": "식"
+      },
+      {
+        "meaning": "풍속",
+        "reading": "속"
+      },
+      {
+        "meaning": "옷",
+        "reading": "복"
+      },
+      {
+        "meaning": "손님",
+        "reading": "객"
+      },
+      {
+        "meaning": "홀로",
+        "reading": "독"
+      }
     ]
   },
   {
@@ -363,12 +453,27 @@
     "answerIndex": 3,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '統'입니다. 統은 '거느릴 통'입니다.",
-    "choiceHints": [
-      "衆(무리 중)",
-      "豐(풍년 풍)",
-      "省(살필 성)",
-      "統(거느릴 통)",
-      "庭(뜰 정)"
+    "choiceAnnotations": [
+      {
+        "meaning": "무리",
+        "reading": "중"
+      },
+      {
+        "meaning": "풍년",
+        "reading": "풍"
+      },
+      {
+        "meaning": "살필",
+        "reading": "성"
+      },
+      {
+        "meaning": "거느릴",
+        "reading": "통"
+      },
+      {
+        "meaning": "뜰",
+        "reading": "정"
+      }
     ]
   },
   {
@@ -387,12 +492,27 @@
     "answerIndex": 3,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '窓'입니다. 窓은 '창문 창'입니다.",
-    "choiceHints": [
-      "賞(상줄 상)",
-      "空(빌 공)",
-      "着(붙을 착)",
-      "窓(창문 창)",
-      "長(길 장)"
+    "choiceAnnotations": [
+      {
+        "meaning": "상줄",
+        "reading": "상"
+      },
+      {
+        "meaning": "빌",
+        "reading": "공"
+      },
+      {
+        "meaning": "붙을",
+        "reading": "착"
+      },
+      {
+        "meaning": "창문",
+        "reading": "창"
+      },
+      {
+        "meaning": "길",
+        "reading": "장"
+      }
     ]
   },
   {
@@ -581,12 +701,27 @@
     "answerIndex": 2,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '貴'입니다. 貴는 '귀할 귀'입니다.",
-    "choiceHints": [
-      "皮(가죽 피)",
-      "患(근심 환)",
-      "貴(귀할 귀)",
-      "凶(흉할 흉)",
-      "退(물러날 퇴)"
+    "choiceAnnotations": [
+      {
+        "meaning": "가죽",
+        "reading": "피"
+      },
+      {
+        "meaning": "근심",
+        "reading": "환"
+      },
+      {
+        "meaning": "귀할",
+        "reading": "귀"
+      },
+      {
+        "meaning": "흉할",
+        "reading": "흉"
+      },
+      {
+        "meaning": "물러날",
+        "reading": "퇴"
+      }
     ]
   },
   {
@@ -605,12 +740,27 @@
     "answerIndex": 4,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '報'입니다. 報는 '알릴 보/갚을 보'입니다.",
-    "choiceHints": [
-      "責(꾸짖을 책/빚 채)",
-      "油(기름 유)",
-      "要(중요할 요)",
-      "業(업 업)",
-      "報(알릴 보/갚을 보)"
+    "choiceAnnotations": [
+      {
+        "meaning": "빚",
+        "reading": "채"
+      },
+      {
+        "meaning": "기름",
+        "reading": "유"
+      },
+      {
+        "meaning": "중요할",
+        "reading": "요"
+      },
+      {
+        "meaning": "업",
+        "reading": "업"
+      },
+      {
+        "meaning": "갚을/알릴",
+        "reading": "보"
+      }
     ]
   },
   {
@@ -629,12 +779,27 @@
     "answerIndex": 1,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '敗'입니다. 敗는 '패할 패'입니다.",
-    "choiceHints": [
-      "半(반 반)",
-      "敗(패할 패)",
-      "備(갖출 비)",
-      "材(재목 재)",
-      "洞(마을 동)"
+    "choiceAnnotations": [
+      {
+        "meaning": "반",
+        "reading": "반"
+      },
+      {
+        "meaning": "패할",
+        "reading": "패"
+      },
+      {
+        "meaning": "갖출",
+        "reading": "비"
+      },
+      {
+        "meaning": "재목",
+        "reading": "재"
+      },
+      {
+        "meaning": "마을",
+        "reading": "동"
+      }
     ]
   },
   {
@@ -653,12 +818,27 @@
     "answerIndex": 2,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '感'입니다. 感은 '느낄 감'입니다.",
-    "choiceHints": [
-      "敬(공경할 경)",
-      "考(생각할 고)",
-      "感(느낄 감)",
-      "結(맺을 결)",
-      "落(떨어질 락)"
+    "choiceAnnotations": [
+      {
+        "meaning": "공경할",
+        "reading": "경"
+      },
+      {
+        "meaning": "생각할",
+        "reading": "고"
+      },
+      {
+        "meaning": "느낄",
+        "reading": "감"
+      },
+      {
+        "meaning": "맺을",
+        "reading": "결"
+      },
+      {
+        "meaning": "떨어질",
+        "reading": "락"
+      }
     ]
   },
   {
@@ -677,12 +857,27 @@
     "answerIndex": 1,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '勉'입니다. 勉은 '힘쓸 면'입니다.",
-    "choiceHints": [
-      "節(마디 절)",
-      "勉(힘쓸 면)",
-      "慶(경사 경)",
-      "季(계절 계)",
-      "調(고를 조)"
+    "choiceAnnotations": [
+      {
+        "meaning": "마디",
+        "reading": "절"
+      },
+      {
+        "meaning": "힘쓸",
+        "reading": "면"
+      },
+      {
+        "meaning": "경사",
+        "reading": "경"
+      },
+      {
+        "meaning": "계절",
+        "reading": "계"
+      },
+      {
+        "meaning": "고를",
+        "reading": "조"
+      }
     ]
   },
   {
@@ -701,12 +896,27 @@
     "answerIndex": 4,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '唱'입니다. 唱은 '부를 창'입니다.",
-    "choiceHints": [
-      "注(물 댈 주)",
-      "發(필 발)",
-      "商(장사 상)",
-      "種(씨 종)",
-      "唱(부를 창)"
+    "choiceAnnotations": [
+      {
+        "meaning": "물 댈",
+        "reading": "주"
+      },
+      {
+        "meaning": "필",
+        "reading": "발"
+      },
+      {
+        "meaning": "장사",
+        "reading": "상"
+      },
+      {
+        "meaning": "씨",
+        "reading": "종"
+      },
+      {
+        "meaning": "부를",
+        "reading": "창"
+      }
     ]
   },
   {
@@ -725,12 +935,27 @@
     "answerIndex": 4,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '察'입니다. 察은 '살필 찰'입니다.",
-    "choiceHints": [
-      "別(다를 별)",
-      "商(장사 상)",
-      "發(필 발)",
-      "每(매양 매)",
-      "察(살필 찰)"
+    "choiceAnnotations": [
+      {
+        "meaning": "다를",
+        "reading": "별"
+      },
+      {
+        "meaning": "장사",
+        "reading": "상"
+      },
+      {
+        "meaning": "필",
+        "reading": "발"
+      },
+      {
+        "meaning": "매양",
+        "reading": "매"
+      },
+      {
+        "meaning": "살필",
+        "reading": "찰"
+      }
     ]
   },
   {
@@ -749,12 +974,27 @@
     "answerIndex": 2,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '增'입니다. 增은 '더할 증'입니다.",
-    "choiceHints": [
-      "求(구할 구)",
-      "反(돌이킬 반)",
-      "增(더할 증)",
-      "陽(볕 양)",
-      "理(다스릴 리)"
+    "choiceAnnotations": [
+      {
+        "meaning": "구할",
+        "reading": "구"
+      },
+      {
+        "meaning": "돌이킬",
+        "reading": "반"
+      },
+      {
+        "meaning": "더할",
+        "reading": "증"
+      },
+      {
+        "meaning": "볕",
+        "reading": "양"
+      },
+      {
+        "meaning": "다스릴",
+        "reading": "리"
+      }
     ]
   },
   {
@@ -773,12 +1013,27 @@
     "answerIndex": 1,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '集'입니다. 集은 '모을 집'입니다.",
-    "choiceHints": [
-      "婚(혼인 혼)",
-      "集(모을 집)",
-      "雄(수컷 웅)",
-      "硏(갈/연구할 연)",
-      "賞(상줄 상)"
+    "choiceAnnotations": [
+      {
+        "meaning": "혼인",
+        "reading": "혼"
+      },
+      {
+        "meaning": "모을",
+        "reading": "집"
+      },
+      {
+        "meaning": "수컷",
+        "reading": "웅"
+      },
+      {
+        "meaning": "갈/연구할",
+        "reading": "연"
+      },
+      {
+        "meaning": "상줄",
+        "reading": "상"
+      }
     ]
   },
   {
@@ -797,12 +1052,27 @@
     "answerIndex": 2,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '選'입니다. 選은 '가릴 선'입니다.",
-    "choiceHints": [
-      "貴(귀할 귀)",
-      "夜(밤 야)",
-      "選(가릴 선)",
-      "根(뿌리 근)",
-      "福(복 복)"
+    "choiceAnnotations": [
+      {
+        "meaning": "귀할",
+        "reading": "귀"
+      },
+      {
+        "meaning": "밤",
+        "reading": "야"
+      },
+      {
+        "meaning": "가릴",
+        "reading": "선"
+      },
+      {
+        "meaning": "뿌리",
+        "reading": "근"
+      },
+      {
+        "meaning": "복",
+        "reading": "복"
+      }
     ]
   },
   {
@@ -821,12 +1091,22 @@
     "answerIndex": 1,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '事故'입니다. 思考와 事故는 모두 '사고'로 읽습니다. 思考는 '생각', 事故는 '사건·재해'의 뜻을 가져 발음은 같고 뜻이 다릅니다.",
-    "choiceHints": [
-      "사전",
-      "사고",
-      "공고",
-      "사후",
-      "소지"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-zvedm1"
+      },
+      {
+        "wordId": "word-41lviv"
+      },
+      {
+        "wordId": "word-etefaf"
+      },
+      {
+        "wordId": "word-1wskb4i"
+      },
+      {
+        "wordId": "word-170dj2v"
+      }
     ]
   },
   {
@@ -845,12 +1125,22 @@
     "answerIndex": 2,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '聖歌'입니다. 聲價와 聖歌는 모두 '성가'로 읽습니다. 聲價는 '명성과 가치', 聖歌는 '성인의 노래(찬미가)'의 뜻을 가져 발음은 같고 뜻이 다릅니다.",
-    "choiceHints": [
-      "녹음",
-      "사숙",
-      "성가",
-      "상설",
-      "성전"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1etb8dy"
+      },
+      {
+        "wordId": "word-1qepix6"
+      },
+      {
+        "wordId": "word-xj9itk"
+      },
+      {
+        "wordId": "word-18rbh6b"
+      },
+      {
+        "wordId": "word-c4px2j"
+      }
     ]
   },
   {
@@ -869,12 +1159,22 @@
     "answerIndex": 3,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '飢餓'입니다. 棄兒와 飢餓는 모두 '기아'로 읽습니다. 棄兒는 '버려진 아이', 飢餓는 '굶주림'의 뜻을 가져 발음은 같고 뜻이 다릅니다.",
-    "choiceHints": [
-      "억양",
-      "보수",
-      "유부",
-      "기아",
-      "희박"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1ob4bpw"
+      },
+      {
+        "wordId": "word-105hw6l"
+      },
+      {
+        "wordId": "word-16pzor4"
+      },
+      {
+        "wordId": "word-1jwfqum"
+      },
+      {
+        "wordId": "word-19qjvl8"
+      }
     ]
   },
   {
@@ -893,12 +1193,22 @@
     "answerIndex": 2,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '過去'입니다. 科擧와 過去는 모두 '과거'로 읽습니다. 科擧는 '과거 시험', 過去는 '지나간 때'의 뜻을 가져 발음은 같고 뜻이 다릅니다.",
-    "choiceHints": [
-      "과실",
-      "고구",
-      "과거",
-      "교정",
-      "국시"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-4se3jt"
+      },
+      {
+        "wordId": "word-15gg1x0"
+      },
+      {
+        "wordId": "word-1j2eoq"
+      },
+      {
+        "wordId": "word-4vf6gh"
+      },
+      {
+        "wordId": "word-1ojii74"
+      }
     ]
   },
   {
@@ -917,12 +1227,22 @@
     "answerIndex": 2,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '傳記'입니다. 電氣와 傳記는 모두 '전기'로 읽습니다. 電氣는 전기 에너지를 뜻하고, 傳記는 한 사람의 생애를 기록한 글을 뜻합니다.",
-    "choiceHints": [
-      "과업",
-      "기분",
-      "전기",
-      "가도",
-      "군읍"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-z0qs7z"
+      },
+      {
+        "wordId": "word-11054sc"
+      },
+      {
+        "wordId": "word-himlxu"
+      },
+      {
+        "wordId": "word-eh1jyl"
+      },
+      {
+        "wordId": "word-1ifyrpm"
+      }
     ]
   },
   {
@@ -941,12 +1261,22 @@
     "answerIndex": 0,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '說經'입니다. 雪景와 說經는 모두 '설경'으로 읽습니다. 雪景는 '눈 내리는 경치', 說經는 '불경을 설명함'의 뜻을 가져 발음은 같고 뜻이 다릅니다.",
-    "choiceHints": [
-      "설경",
-      "애경",
-      "황경",
-      "교정",
-      "구도"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-iner19"
+      },
+      {
+        "wordId": "word-l73oa1"
+      },
+      {
+        "wordId": "word-iy480w"
+      },
+      {
+        "wordId": "word-1yemyk1"
+      },
+      {
+        "wordId": "word-hs71ea"
+      }
     ]
   },
   {
@@ -965,12 +1295,22 @@
     "answerIndex": 4,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '戰時'입니다. 展示와 戰時는 모두 '전시'로 읽습니다. 展示는 '펼쳐 보임', 戰時는 '전쟁 때'의 뜻을 가져 발음은 같고 뜻이 다릅니다.",
-    "choiceHints": [
-      "주시",
-      "전체",
-      "국시",
-      "전달",
-      "전시"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1re7lul"
+      },
+      {
+        "wordId": "word-1dxucv"
+      },
+      {
+        "wordId": "word-1ojii74"
+      },
+      {
+        "wordId": "word-8l1gjm"
+      },
+      {
+        "wordId": "word-vgy5c9"
+      }
     ]
   },
   {
@@ -989,12 +1329,27 @@
     "answerIndex": 3,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '衆'입니다. 衆은 '무리 중'입니다. 빈칸에 衆을 넣으면 衆口(중구), 大衆(대중), 觀衆(관중)이 됩니다.",
-    "choiceHints": [
-      "詩(시 시)",
-      "老(늙을 로)",
-      "客(손님 객)",
-      "衆(무리 중)",
-      "發(필 발)"
+    "choiceAnnotations": [
+      {
+        "meaning": "시",
+        "reading": "시"
+      },
+      {
+        "meaning": "늙을",
+        "reading": "로"
+      },
+      {
+        "meaning": "손님",
+        "reading": "객"
+      },
+      {
+        "meaning": "무리",
+        "reading": "중"
+      },
+      {
+        "meaning": "필",
+        "reading": "발"
+      }
     ]
   },
   {
@@ -1013,12 +1368,27 @@
     "answerIndex": 3,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '行'입니다. 行은 '다닐 행'입니다. 빈칸에 行을 넣으면 決行(결행), 銀行(은행), 流行(유행)이 됩니다.",
-    "choiceHints": [
-      "心(마음 심)",
-      "惠(은혜 혜)",
-      "淸(맑을 청)",
-      "行(다닐 행)",
-      "傳(전할 전)"
+    "choiceAnnotations": [
+      {
+        "meaning": "마음",
+        "reading": "심"
+      },
+      {
+        "meaning": "은혜",
+        "reading": "혜"
+      },
+      {
+        "meaning": "맑을",
+        "reading": "청"
+      },
+      {
+        "meaning": "다닐",
+        "reading": "행"
+      },
+      {
+        "meaning": "전할",
+        "reading": "전"
+      }
     ]
   },
   {
@@ -1037,12 +1407,27 @@
     "answerIndex": 4,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '貴'입니다. 貴는 '귀할 귀'입니다. 빈칸에 貴를 넣으면 貴族(귀족), 貴門(귀문), 權貴(권귀)가 됩니다.",
-    "choiceHints": [
-      "望(바랄 망)",
-      "原(근원 원)",
-      "百(일백 백)",
-      "熱(더울 열)",
-      "貴(귀할 귀)"
+    "choiceAnnotations": [
+      {
+        "meaning": "바랄",
+        "reading": "망"
+      },
+      {
+        "meaning": "근원",
+        "reading": "원"
+      },
+      {
+        "meaning": "일백",
+        "reading": "백"
+      },
+      {
+        "meaning": "더울",
+        "reading": "열"
+      },
+      {
+        "meaning": "귀할",
+        "reading": "귀"
+      }
     ]
   },
   {
@@ -1061,12 +1446,27 @@
     "answerIndex": 1,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '性'입니다. 性은 '성품 성'입니다. 빈칸에 性을 넣으면 性命(성명), 見性(견성), 品性(품성)이 됩니다.",
-    "choiceHints": [
-      "木(나무 목)",
-      "性(성품 성)",
-      "飛(날 비)",
-      "義(옳을 의)",
-      "質(바탕 질)"
+    "choiceAnnotations": [
+      {
+        "meaning": "나무",
+        "reading": "목"
+      },
+      {
+        "meaning": "성품",
+        "reading": "성"
+      },
+      {
+        "meaning": "날",
+        "reading": "비"
+      },
+      {
+        "meaning": "옳을",
+        "reading": "의"
+      },
+      {
+        "meaning": "바탕",
+        "reading": "질"
+      }
     ]
   },
   {
@@ -1085,12 +1485,27 @@
     "answerIndex": 4,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '請'입니다. 請은 '청할 청'입니다. 빈칸에 請을 넣으면 招請(초청), 請願(청원), 申請(신청)이 됩니다.",
-    "choiceHints": [
-      "稅(세금 세)",
-      "民(백성 민)",
-      "士(선비 사)",
-      "來(올 래)",
-      "請(청할 청)"
+    "choiceAnnotations": [
+      {
+        "meaning": "세금",
+        "reading": "세"
+      },
+      {
+        "meaning": "백성",
+        "reading": "민"
+      },
+      {
+        "meaning": "선비",
+        "reading": "사"
+      },
+      {
+        "meaning": "올",
+        "reading": "래"
+      },
+      {
+        "meaning": "청할",
+        "reading": "청"
+      }
     ]
   },
   {
@@ -1244,7 +1659,24 @@
     ],
     "answerIndex": 1,
     "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '八方美人'입니다. 八方美人은 八(여덟 팔), 方(모 방), 美(아름다울 미), 人(사람 인)으로 이루어진 말입니다. '여러 방면의 일에 능통한 사람'을 뜻합니다."
+    "explanation": "정답은 '八方美人'입니다. 八方美人은 八(여덟 팔), 方(모 방), 美(아름다울 미), 人(사람 인)으로 이루어진 말입니다. '여러 방면의 일에 능통한 사람'을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-fufgmt"
+      },
+      {
+        "wordId": "word-1aeqtlg"
+      },
+      {
+        "wordId": "word-17j5qvs"
+      },
+      {
+        "wordId": "word-1i13del"
+      },
+      {
+        "wordId": "word-5tojh1"
+      }
+    ]
   },
   {
     "id": "q-3-062",
@@ -1261,7 +1693,24 @@
     ],
     "answerIndex": 0,
     "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '靑山流水'입니다. 靑山流水는 靑(푸를 청), 山(산 산/뫼 산), 流(흐를 류), 水(물 수)으로 이루어진 말입니다. '말을 거침없이 잘함'을 뜻합니다."
+    "explanation": "정답은 '靑山流水'입니다. 靑山流水는 靑(푸를 청), 山(산 산/뫼 산), 流(흐를 류), 水(물 수)으로 이루어진 말입니다. '말을 거침없이 잘함'을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-a3h66n"
+      },
+      {
+        "wordId": "word-g9s0b2"
+      },
+      {
+        "wordId": "word-mdltuk"
+      },
+      {
+        "wordId": "word-hjekff"
+      },
+      {
+        "wordId": "word-rc8lxc"
+      }
+    ]
   },
   {
     "id": "q-3-063",
@@ -1278,7 +1727,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '花朝月夕'입니다. 花朝月夕은 花(꽃 화), 朝(아침 조), 月(달 월), 夕(저녁 석)으로 이루어진 말입니다. '경치가 좋은 시절'을 뜻합니다."
+    "explanation": "정답은 '花朝月夕'입니다. 花朝月夕은 花(꽃 화), 朝(아침 조), 月(달 월), 夕(저녁 석)으로 이루어진 말입니다. '경치가 좋은 시절'을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-15v14h5"
+      },
+      {
+        "wordId": "word-7dj1o7"
+      },
+      {
+        "wordId": "word-158sxx3"
+      },
+      {
+        "wordId": "word-akik4d"
+      },
+      {
+        "wordId": "word-1v6d9wa"
+      }
+    ]
   },
   {
     "id": "q-3-064",
@@ -1295,7 +1761,24 @@
     ],
     "answerIndex": 0,
     "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '聞一知十'입니다. 聞一知十은 聞(들을 문), 一(한 일), 知(알 지), 十(열 십)으로 이루어진 말입니다. '매우 총명함'을 뜻합니다."
+    "explanation": "정답은 '聞一知十'입니다. 聞一知十은 聞(들을 문), 一(한 일), 知(알 지), 十(열 십)으로 이루어진 말입니다. '매우 총명함'을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-6746bo"
+      },
+      {
+        "wordId": "word-x4m1bu"
+      },
+      {
+        "wordId": "word-148ypu"
+      },
+      {
+        "wordId": "word-8bfnww"
+      },
+      {
+        "wordId": "word-kq2o3t"
+      }
+    ]
   },
   {
     "id": "q-3-065",
@@ -1312,7 +1795,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '馬耳東風'입니다. 馬耳東風은 馬(말 마), 耳(귀 이), 東(동녘 동), 風(바람 풍)으로 이루어진 말입니다. '남의 의견이나 충고를 귀담아 듣지 않음'을 뜻합니다."
+    "explanation": "정답은 '馬耳東風'입니다. 馬耳東風은 馬(말 마), 耳(귀 이), 東(동녘 동), 風(바람 풍)으로 이루어진 말입니다. '남의 의견이나 충고를 귀담아 듣지 않음'을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-x57kl9"
+      },
+      {
+        "wordId": "word-1ias4r9"
+      },
+      {
+        "wordId": "word-akik4d"
+      },
+      {
+        "wordId": "word-1bcura1"
+      },
+      {
+        "wordId": "word-1xsrjg9"
+      }
+    ]
   },
   {
     "id": "q-3-066",
@@ -1534,12 +2034,22 @@
     "answerIndex": 2,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '茂山'입니다. 霧散와 茂山는 모두 '무산'으로 읽습니다. 霧散는 '안개가 흩어짐', 茂山는 '무성한 산(지명)'의 뜻을 가져 발음은 같고 뜻이 다릅니다.",
-    "choiceHints": [
-      "무진",
-      "묘역",
-      "무산",
-      "운치",
-      "수면"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-4qc5oh"
+      },
+      {
+        "wordId": "word-eh6r1e"
+      },
+      {
+        "wordId": "word-1arkquc"
+      },
+      {
+        "wordId": "word-c3v6by"
+      },
+      {
+        "wordId": "word-9f1dqk"
+      }
     ]
   },
   {
@@ -1558,12 +2068,22 @@
     "answerIndex": 2,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '齊(衰)'입니다. 다른 보기의 衰는 '쇠'로 읽지만, 齊衰에서는 '최'로 읽습니다.",
-    "choiceHints": [
-      "쇠안",
-      "성쇠",
-      "제최",
-      "쇠미",
-      "쇠잔"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1spoyss"
+      },
+      {
+        "wordId": "word-1u6q65i"
+      },
+      {
+        "wordId": "word-m1ate0"
+      },
+      {
+        "wordId": "word-bzam4e"
+      },
+      {
+        "wordId": "word-8utzsk"
+      }
     ]
   },
   {
@@ -1582,12 +2102,27 @@
     "answerIndex": 3,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '猛'입니다. 猛은 '사나울 맹'입니다. 빈칸에 猛을 넣으면 勇猛(용맹), 猛禽(맹금), 猛將(맹장)이 됩니다.",
-    "choiceHints": [
-      "敢(감히 감)",
-      "家(집 가)",
-      "敗(패할 패)",
-      "猛(사나울 맹)",
-      "斷(끊을 단)"
+    "choiceAnnotations": [
+      {
+        "meaning": "감히",
+        "reading": "감"
+      },
+      {
+        "meaning": "집",
+        "reading": "가"
+      },
+      {
+        "meaning": "패할",
+        "reading": "패"
+      },
+      {
+        "meaning": "사나울",
+        "reading": "맹"
+      },
+      {
+        "meaning": "끊을",
+        "reading": "단"
+      }
     ]
   },
   {
@@ -1606,12 +2141,22 @@
     "answerIndex": 0,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '騷亂'입니다. 靜寂(정적)은 고요하고 조용함이고, 騷亂(소란)은 시끄럽고 소란스러움이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "소란",
-      "긴축",
-      "경계",
-      "회고",
-      "희극"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-pcbybw"
+      },
+      {
+        "wordId": "word-1gqhq9o"
+      },
+      {
+        "wordId": "word-1mb4772"
+      },
+      {
+        "wordId": "word-dzhjcm"
+      },
+      {
+        "wordId": "word-utnk60"
+      }
     ]
   },
   {
@@ -1630,12 +2175,22 @@
     "answerIndex": 1,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '沈黙'입니다. 多辯(다변)은 말이 많음이고, 沈黙(침묵)은 말을 하지 않고 조용함이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "공구",
-      "침묵",
-      "연민",
-      "누차",
-      "도치"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-8de3mu"
+      },
+      {
+        "wordId": "word-1yzzyoh"
+      },
+      {
+        "wordId": "word-14q7sk"
+      },
+      {
+        "wordId": "word-17un664"
+      },
+      {
+        "wordId": "word-1xatsxf"
+      }
     ]
   },
   {
@@ -1654,12 +2209,22 @@
     "answerIndex": 3,
     "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '辭狀'입니다. 다른 보기의 狀은 '상'으로 읽지만, 辭狀에서는 '장'으로 읽습니다.",
-    "choiceHints": [
-      "증상",
-      "상모",
-      "죄상",
-      "사장",
-      "궁상"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1aca1mk"
+      },
+      {
+        "wordId": "word-11lmnie"
+      },
+      {
+        "wordId": "word-1l5nmsa"
+      },
+      {
+        "wordId": "word-1qjjetr"
+      },
+      {
+        "wordId": "word-7p8ybj"
+      }
     ]
   },
   {
@@ -1677,7 +2242,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '俱成'입니다. 문맥에서는 '구성'을 構成으로 써야 합니다. 構成은 構(얽을 구), 成(이룰 성)으로 이루어진 말입니다. 俱는 '함께 구'라서 이 표기에는 맞지 않습니다."
+    "explanation": "정답은 '俱成'입니다. 문맥에서는 '구성'을 構成으로 써야 합니다. 構成은 構(얽을 구), 成(이룰 성)으로 이루어진 말입니다. 俱는 '함께 구'라서 이 표기에는 맞지 않습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-14jod8c"
+      },
+      {
+        "wordId": "word-1sb1upo"
+      },
+      {
+        "wordId": "word-l2lx82"
+      },
+      {
+        "wordId": "word-1unmhtg"
+      },
+      {
+        "wordId": "word-uu02v"
+      }
+    ]
   },
   {
     "id": "q-3-085",
@@ -1694,7 +2276,24 @@
     ],
     "answerIndex": 1,
     "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '一瞬'입니다. 매순간은 每瞬間이고, 瞬이 공통입니다."
+    "explanation": "정답은 '一瞬'입니다. 매순간은 每瞬間이고, 瞬이 공통입니다. 瞬은 '눈깜빡일 순'입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1c4tb30"
+      },
+      {
+        "wordId": "word-1gxfsj3"
+      },
+      {
+        "wordId": "word-1h8t7i3"
+      },
+      {
+        "wordId": "word-1vnssgw"
+      },
+      {
+        "wordId": "word-1sky70s"
+      }
+    ]
   },
   {
     "id": "q-3-086",
@@ -1711,7 +2310,24 @@
     ],
     "answerIndex": 0,
     "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '推移 - 昭詳'입니다. 推移는 推(밀 추), 移(옮길 이)로, 昭詳은 昭(밝을 소), 詳(자세할 상)으로 이루어진 말입니다."
+    "explanation": "정답은 '推移 - 昭詳'입니다. 推移는 推(밀 추), 移(옮길 이)로, 昭詳은 昭(밝을 소), 詳(자세할 상)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-h3nzq7"
+      },
+      {
+        "wordId": "word-1vvt00d"
+      },
+      {
+        "wordId": "word-v9lrr9"
+      },
+      {
+        "wordId": "word-1kb37mf"
+      },
+      {
+        "wordId": "word-1x6e818"
+      }
+    ]
   },
   {
     "id": "q-3-087",
@@ -1728,7 +2344,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '敍事'입니다. 敍事는 敍(펼 서), 事(일 사)으로 이루어진 말입니다."
+    "explanation": "정답은 '敍事'입니다. 敍事는 敍(펼 서), 事(일 사)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-nczxnf"
+      },
+      {
+        "wordId": "word-15ukq2p"
+      },
+      {
+        "wordId": "word-147c3a7"
+      },
+      {
+        "wordId": "word-oiybox"
+      },
+      {
+        "wordId": "word-1vx5qz3"
+      }
+    ]
   },
   {
     "id": "q-3-088",
@@ -1746,12 +2379,22 @@
     "answerIndex": 4,
     "source": "korcham-2017-1-grade3-pdf",
     "explanation": "정답은 '鐵(索)'입니다. 다른 보기의 索은 '색'으로 읽지만, 鐵索에서는 '삭'으로 읽습니다.",
-    "choiceHints": [
-      "사색",
-      "색출",
-      "수색",
-      "색인",
-      "철삭"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-qgy3kc"
+      },
+      {
+        "wordId": "word-usezix"
+      },
+      {
+        "wordId": "word-1wud0in"
+      },
+      {
+        "wordId": "word-1txhrl6"
+      },
+      {
+        "wordId": "word-1jztyno"
+      }
     ]
   },
   {
@@ -1770,12 +2413,27 @@
     "answerIndex": 0,
     "source": "korcham-2017-1-grade3-pdf",
     "explanation": "정답은 '牧'입니다. 牧은 '칠 목'입니다. 빈칸에 牧을 넣으면 放牧(방목), 牧畜(목축), 牧使(목사)가 됩니다.",
-    "choiceHints": [
-      "牧(칠 목)",
-      "送(보낼 송)",
-      "養(기를 양)",
-      "差(다를 차)",
-      "苗(모 묘)"
+    "choiceAnnotations": [
+      {
+        "meaning": "칠",
+        "reading": "목"
+      },
+      {
+        "meaning": "보낼",
+        "reading": "송"
+      },
+      {
+        "meaning": "기를",
+        "reading": "양"
+      },
+      {
+        "meaning": "다를",
+        "reading": "차"
+      },
+      {
+        "meaning": "모",
+        "reading": "묘"
+      }
     ]
   },
   {
@@ -1794,12 +2452,22 @@
     "answerIndex": 4,
     "source": "korcham-2017-1-grade3-pdf",
     "explanation": "정답은 '謙讓'입니다. 自慢(자만)은 자신을 내세움이고, 謙讓(겸양)은 겸손하고 사양함이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "통감",
-      "금기",
-      "상술",
-      "절도",
-      "겸양"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-12n7q4"
+      },
+      {
+        "wordId": "word-jsmv64"
+      },
+      {
+        "wordId": "word-1qgyu9j"
+      },
+      {
+        "wordId": "word-1wljott"
+      },
+      {
+        "wordId": "word-1wnadq0"
+      }
     ]
   },
   {
@@ -1818,12 +2486,22 @@
     "answerIndex": 1,
     "source": "korcham-2017-1-grade3-pdf",
     "explanation": "정답은 '創造'입니다. 踏襲(답습)은 기존 방식을 그대로 따름이고, 創造(창조)은 새롭게 만들어 냄이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "영양",
-      "창조",
-      "호걸",
-      "중재",
-      "혜민"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1lq2lrq"
+      },
+      {
+        "wordId": "word-2vneoh"
+      },
+      {
+        "wordId": "word-zrug48"
+      },
+      {
+        "wordId": "word-i7nxbx"
+      },
+      {
+        "wordId": "word-6of26t"
+      }
     ]
   },
   {
@@ -1841,7 +2519,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '決定'입니다. 決定은 決(결단할 결), 定(정할 정)으로 이루어진 말입니다."
+    "explanation": "정답은 '決定'입니다. 決定은 決(결단할 결), 定(정할 정)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-73z1pw"
+      },
+      {
+        "wordId": "word-1nuzorm"
+      },
+      {
+        "wordId": "word-1167eu8"
+      },
+      {
+        "wordId": "word-y18sqn"
+      },
+      {
+        "wordId": "word-1mr5vvg"
+      }
+    ]
   },
   {
     "id": "q-3-093",
@@ -1858,7 +2553,24 @@
     ],
     "answerIndex": 1,
     "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '改易'입니다. 改易은 改(고칠 개), 易(바꿀 역/쉬울 이)으로 이루어진 말입니다."
+    "explanation": "정답은 '改易'입니다. 改易은 改(고칠 개), 易(바꿀 역/쉬울 이)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-2jq0bn"
+      },
+      {
+        "wordId": "word-2kn81k"
+      },
+      {
+        "wordId": "word-122md0k"
+      },
+      {
+        "wordId": "word-dwst5y"
+      },
+      {
+        "wordId": "word-1hk7t0d"
+      }
+    ]
   },
   {
     "id": "q-3-094",
@@ -1875,7 +2587,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '分配 - 基盤'입니다. 分配는 分(나눌 분), 配(나눌 배)로, 基盤은 基(터 기), 盤(소반 반)으로 이루어진 말입니다."
+    "explanation": "정답은 '分配 - 基盤'입니다. 分配는 分(나눌 분), 配(나눌 배)로, 基盤은 基(터 기), 盤(소반 반)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1jupgo6"
+      },
+      {
+        "wordId": "word-d1iyfr"
+      },
+      {
+        "wordId": "word-1m86edo"
+      },
+      {
+        "wordId": "word-a9fkyx"
+      },
+      {
+        "wordId": "word-1qdammm"
+      }
+    ]
   },
   {
     "id": "q-3-095",
@@ -1893,12 +2622,27 @@
     "answerIndex": 0,
     "source": "korcham-2017-1-grade3-pdf",
     "explanation": "정답은 '手'입니다. 교환은 交換이고, 換의 부수는 手입니다.",
-    "choiceHints": [
-      "手(손 수)",
-      "辶(쉬엄쉬엄 갈 착)",
-      "玉(구슬 옥)",
-      "欠(하품 흠)",
-      "火(불 화)"
+    "choiceAnnotations": [
+      {
+        "meaning": "손",
+        "reading": "수"
+      },
+      {
+        "meaning": "쉬엄쉬엄 갈",
+        "reading": "착"
+      },
+      {
+        "meaning": "구슬",
+        "reading": "옥"
+      },
+      {
+        "meaning": "하품",
+        "reading": "흠"
+      },
+      {
+        "meaning": "불",
+        "reading": "화"
+      }
     ]
   },
   {
@@ -1916,7 +2660,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '變化 - 進入'입니다. 變化는 變(변할 변), 化(될 화)로, 進入은 進(나아갈 진), 入(들 입)으로 이루어진 말입니다."
+    "explanation": "정답은 '變化 - 進入'입니다. 變化는 變(변할 변), 化(될 화)로, 進入은 進(나아갈 진), 入(들 입)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-zczf3q"
+      },
+      {
+        "wordId": "word-zh92m2"
+      },
+      {
+        "wordId": "word-1d4hprd"
+      },
+      {
+        "wordId": "word-qsazbn"
+      },
+      {
+        "wordId": "word-11iii05"
+      }
+    ]
   },
   {
     "id": "q-3-097",
@@ -2104,12 +2865,27 @@
     "answerIndex": 2,
     "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '川'입니다. 川은 '내 천'입니다.",
-    "choiceHints": [
-      "身(몸 신)",
-      "車(수레 차)",
-      "川(내 천)",
-      "衣(옷 의)",
-      "石(돌 석)"
+    "choiceAnnotations": [
+      {
+        "meaning": "몸",
+        "reading": "신"
+      },
+      {
+        "meaning": "수레",
+        "reading": "차"
+      },
+      {
+        "meaning": "내",
+        "reading": "천"
+      },
+      {
+        "meaning": "옷",
+        "reading": "의"
+      },
+      {
+        "meaning": "돌",
+        "reading": "석"
+      }
     ]
   },
   {
@@ -2281,12 +3057,27 @@
     "answerIndex": 0,
     "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '高'입니다. 高는 '높을 고'입니다.",
-    "choiceHints": [
-      "高(높을 고)",
-      "水(물 수)",
-      "木(나무 목)",
-      "玉(구슬 옥)",
-      "日(날 일)"
+    "choiceAnnotations": [
+      {
+        "meaning": "높을",
+        "reading": "고"
+      },
+      {
+        "meaning": "물",
+        "reading": "수"
+      },
+      {
+        "meaning": "나무",
+        "reading": "목"
+      },
+      {
+        "meaning": "구슬",
+        "reading": "옥"
+      },
+      {
+        "meaning": "날",
+        "reading": "일"
+      }
     ]
   },
   {
@@ -2305,12 +3096,27 @@
     "answerIndex": 2,
     "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '魚'입니다. 魚는 '물고기 어'입니다.",
-    "choiceHints": [
-      "兒(아이 아)",
-      "月(달 월)",
-      "魚(물고기 어)",
-      "文(글월 문)",
-      "山(산 산/뫼 산)"
+    "choiceAnnotations": [
+      {
+        "meaning": "아이",
+        "reading": "아"
+      },
+      {
+        "meaning": "달",
+        "reading": "월"
+      },
+      {
+        "meaning": "물고기",
+        "reading": "어"
+      },
+      {
+        "meaning": "글월",
+        "reading": "문"
+      },
+      {
+        "meaning": "산/뫼",
+        "reading": "산"
+      }
     ]
   },
   {
@@ -2329,12 +3135,27 @@
     "answerIndex": 1,
     "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '長'입니다. 長은 '길 장'입니다.",
-    "choiceHints": [
-      "兒(아이 아)",
-      "長(길 장)",
-      "石(돌 석)",
-      "牛(소 우)",
-      "天(하늘 천)"
+    "choiceAnnotations": [
+      {
+        "meaning": "아이",
+        "reading": "아"
+      },
+      {
+        "meaning": "길",
+        "reading": "장"
+      },
+      {
+        "meaning": "돌",
+        "reading": "석"
+      },
+      {
+        "meaning": "소",
+        "reading": "우"
+      },
+      {
+        "meaning": "하늘",
+        "reading": "천"
+      }
     ]
   },
   {
@@ -2506,12 +3327,22 @@
     "answerIndex": 2,
     "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '主力'입니다. 主力은 主(주인 주), 力(힘 력)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "여인",
-      "목수",
-      "주력",
-      "만수",
-      "일월"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-5gxfa0"
+      },
+      {
+        "wordId": "word-13r0l8h"
+      },
+      {
+        "wordId": "word-1s8mv0i"
+      },
+      {
+        "wordId": "word-1kwh9b"
+      },
+      {
+        "wordId": "word-1jmfrg"
+      }
     ]
   },
   {
@@ -2530,12 +3361,22 @@
     "answerIndex": 0,
     "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '老子'입니다. 老子는 老(늙을 로), 子(아들 자)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "노자",
-      "구문",
-      "토문",
-      "자립",
-      "부모"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-100ll4g"
+      },
+      {
+        "wordId": "word-1p372it"
+      },
+      {
+        "wordId": "word-dvx2uy"
+      },
+      {
+        "wordId": "word-whqd89"
+      },
+      {
+        "wordId": "word-glw554"
+      }
     ]
   },
   {
@@ -2554,12 +3395,22 @@
     "answerIndex": 2,
     "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '方位'입니다. 方位는 方(모 방), 位(자리 위)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "유래",
-      "음악",
-      "방위",
-      "성인",
-      "전용"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1llgjvy"
+      },
+      {
+        "wordId": "word-z9ge3b"
+      },
+      {
+        "wordId": "word-bewxxc"
+      },
+      {
+        "wordId": "word-vialu8"
+      },
+      {
+        "wordId": "word-1kdq5fo"
+      }
     ]
   },
   {
@@ -2578,12 +3429,22 @@
     "answerIndex": 0,
     "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '例外'입니다. 例外는 例(법식 례), 外(바깥 외)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "예외",
-      "소양",
-      "경쟁",
-      "선약",
-      "직언"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-m3n6ns"
+      },
+      {
+        "wordId": "word-ju7xt6"
+      },
+      {
+        "wordId": "word-1xrve2q"
+      },
+      {
+        "wordId": "word-1h81nhc"
+      },
+      {
+        "wordId": "word-4cpnk6"
+      }
     ]
   },
   {
@@ -2602,12 +3463,22 @@
     "answerIndex": 3,
     "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '感情'입니다. 感情은 感(느낄 감), 情(뜻 정)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "경과",
-      "관찰",
-      "풍부",
-      "감정",
-      "결말"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1s8ej9l"
+      },
+      {
+        "wordId": "word-ve4osk"
+      },
+      {
+        "wordId": "word-1woz09u"
+      },
+      {
+        "wordId": "word-rz48wg"
+      },
+      {
+        "wordId": "word-p4jdps"
+      }
     ]
   },
   {
@@ -2626,12 +3497,22 @@
     "answerIndex": 1,
     "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '參席'입니다. 參席은 參(참여할 참), 席(자리 석)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "교훈",
-      "참석",
-      "충치",
-      "절필",
-      "호령"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-14a4yvq"
+      },
+      {
+        "wordId": "word-m925zo"
+      },
+      {
+        "wordId": "word-1r6l5oq"
+      },
+      {
+        "wordId": "word-xti81r"
+      },
+      {
+        "wordId": "word-gchri1"
+      }
     ]
   },
   {
@@ -2650,12 +3531,22 @@
     "answerIndex": 2,
     "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '問題'입니다. 問題는 問(물을 문), 題(제목 제)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "접근",
-      "전수",
-      "문제",
-      "편도",
-      "사수"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-lzzrso"
+      },
+      {
+        "wordId": "word-f3r5j1"
+      },
+      {
+        "wordId": "word-o644oa"
+      },
+      {
+        "wordId": "word-rl9k05"
+      },
+      {
+        "wordId": "word-1puqmei"
+      }
     ]
   },
   {
@@ -2674,12 +3565,22 @@
     "answerIndex": 4,
     "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '議論'입니다. 議論은 議(의논할 의), 論(논할 론)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "체육",
-      "신념",
-      "반성",
-      "이동",
-      "의논"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1dtyucu"
+      },
+      {
+        "wordId": "word-1v4p74t"
+      },
+      {
+        "wordId": "word-my9xhe"
+      },
+      {
+        "wordId": "word-19mfrv8"
+      },
+      {
+        "wordId": "word-hnczi9"
+      }
     ]
   },
   {
@@ -2698,12 +3599,22 @@
     "answerIndex": 0,
     "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '精誠'입니다. 精誠은 精(정할 정), 誠(정성 성)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "정성",
-      "상사",
-      "성공",
-      "조종",
-      "적중"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-dgg417"
+      },
+      {
+        "wordId": "word-z9dy3f"
+      },
+      {
+        "wordId": "word-1k6byku"
+      },
+      {
+        "wordId": "word-vn9a1"
+      },
+      {
+        "wordId": "word-14likh4"
+      }
     ]
   },
   {
@@ -2722,12 +3633,22 @@
     "answerIndex": 3,
     "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '淸算'입니다. 淸算은 淸(맑을 청), 算(셀 산)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "이익",
-      "순서",
-      "지덕",
-      "청산",
-      "도달"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1iy05g5"
+      },
+      {
+        "wordId": "word-5h8boq"
+      },
+      {
+        "wordId": "word-vf77sc"
+      },
+      {
+        "wordId": "word-1i0k03l"
+      },
+      {
+        "wordId": "word-jse78v"
+      }
     ]
   },
   {
@@ -2828,16 +3749,26 @@
       "人工",
       "高車"
     ],
-    "choiceReadings": [
-      "수면",
-      "우의",
-      "노인",
-      "인공",
-      "고차"
-    ],
     "answerIndex": 1,
     "source": "korcham-2017-1-6-pdf",
-    "explanation": "정답은 '雨衣'입니다. 雨衣는 우의로 읽고, 雨(비 우), 衣(옷 의)으로 이루어진 말입니다."
+    "explanation": "정답은 '雨衣'입니다. 雨衣는 우의로 읽고, 雨(비 우), 衣(옷 의)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1scjrwx"
+      },
+      {
+        "wordId": "word-iuuvw8"
+      },
+      {
+        "wordId": "word-3995ui"
+      },
+      {
+        "wordId": "word-dqpe7f"
+      },
+      {
+        "wordId": "word-hqxxip"
+      }
+    ]
   },
   {
     "id": "q-3-145",
@@ -2852,16 +3783,26 @@
       "山羊",
       "萬川"
     ],
-    "choiceReadings": [
-      "천수",
-      "일석",
-      "천심",
-      "산양",
-      "만천"
-    ],
     "answerIndex": 2,
     "source": "korcham-2017-1-6-pdf",
-    "explanation": "정답은 '天心'입니다. 天心은 천심으로 읽고, 天(하늘 천), 心(마음 심)으로 이루어진 말입니다."
+    "explanation": "정답은 '天心'입니다. 天心은 천심으로 읽고, 天(하늘 천), 心(마음 심)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1ueshdc"
+      },
+      {
+        "wordId": "word-1qohgd2"
+      },
+      {
+        "wordId": "word-10rf2nf"
+      },
+      {
+        "wordId": "word-i6124d"
+      },
+      {
+        "wordId": "word-am9tfe"
+      }
+    ]
   },
   {
     "id": "q-3-146",
@@ -2876,16 +3817,26 @@
       "少年",
       "同行"
     ],
-    "choiceReadings": [
-      "세상",
-      "본래",
-      "유용",
-      "소년",
-      "동행"
-    ],
     "answerIndex": 3,
     "source": "korcham-2017-1-6-pdf",
-    "explanation": "정답은 '少年'입니다. 少年은 소년으로 읽고, 少(적을 소), 年(해 년)으로 이루어진 말입니다."
+    "explanation": "정답은 '少年'입니다. 少年은 소년으로 읽고, 少(적을 소), 年(해 년)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-13gr0zw"
+      },
+      {
+        "wordId": "word-zacomh"
+      },
+      {
+        "wordId": "word-pjtqdf"
+      },
+      {
+        "wordId": "word-7futrg"
+      },
+      {
+        "wordId": "word-n6z2t9"
+      }
+    ]
   },
   {
     "id": "q-3-147",
@@ -2900,16 +3851,26 @@
       "直立",
       "素材"
     ],
-    "choiceReadings": [
-      "곡선",
-      "고백",
-      "해양",
-      "직립",
-      "소재"
-    ],
     "answerIndex": 4,
     "source": "korcham-2017-1-6-pdf",
-    "explanation": "정답은 '素材'입니다. 素材는 소재로 읽고, 素(흴 소), 材(재목 재)으로 이루어진 말입니다."
+    "explanation": "정답은 '素材'입니다. 素材는 소재로 읽고, 素(흴 소), 材(재목 재)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1doqmde"
+      },
+      {
+        "wordId": "word-jbm4gn"
+      },
+      {
+        "wordId": "word-1bifm9m"
+      },
+      {
+        "wordId": "word-5xcpmm"
+      },
+      {
+        "wordId": "word-cfq2b7"
+      }
+    ]
   },
   {
     "id": "q-3-148",
@@ -2924,16 +3885,26 @@
       "出發",
       "相對"
     ],
-    "choiceReadings": [
-      "개방",
-      "적중",
-      "참석",
-      "출발",
-      "상대"
-    ],
     "answerIndex": 0,
     "source": "korcham-2017-1-6-pdf",
-    "explanation": "정답은 '開放'입니다. 開放은 개방으로 읽고, 開(열 개), 放(놓을 방)으로 이루어진 말입니다."
+    "explanation": "정답은 '開放'입니다. 開放은 개방으로 읽고, 開(열 개), 放(놓을 방)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1gelvtz"
+      },
+      {
+        "wordId": "word-14likh4"
+      },
+      {
+        "wordId": "word-m925zo"
+      },
+      {
+        "wordId": "word-fb1hpp"
+      },
+      {
+        "wordId": "word-d8uagv"
+      }
+    ]
   },
   {
     "id": "q-3-149",
@@ -3035,7 +4006,24 @@
     ],
     "answerIndex": 1,
     "source": "korcham-2017-1-6-pdf",
-    "explanation": "정답은 '半島'입니다. 半島는 半(반 반), 島(섬 도)으로 이루어진 말입니다. 半島는 바다로 둘러싸이고 한쪽은 육지에 붙은 땅을 뜻하므로, 대륙과 해양으로 진출이 유리한 나라라는 문맥에 알맞습니다."
+    "explanation": "정답은 '半島'입니다. 半島는 半(반 반), 島(섬 도)으로 이루어진 말입니다. 半島는 바다로 둘러싸이고 한쪽은 육지에 붙은 땅을 뜻하므로, 대륙과 해양으로 진출이 유리한 나라라는 문맥에 알맞습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-76dm72"
+      },
+      {
+        "wordId": "word-1t93s3f"
+      },
+      {
+        "wordId": "word-s4zjmo"
+      },
+      {
+        "wordId": "word-k4rsbf"
+      },
+      {
+        "wordId": "word-6n11a"
+      }
+    ]
   },
   {
     "id": "q-3-155",
@@ -3052,7 +4040,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2017-1-6-pdf",
-    "explanation": "정답은 '時事'입니다. 時事는 時(때 시), 事(일 사)으로 이루어진 말입니다. 時事는 그때그때의 사회적 사건·현안을 뜻하므로, 오늘 프로그램에서 그 사건을 다루었다는 문맥에 알맞습니다."
+    "explanation": "정답은 '時事'입니다. 時事는 時(때 시), 事(일 사)으로 이루어진 말입니다. 時事는 그때그때의 사회적 사건·현안을 뜻하므로, 오늘 프로그램에서 그 사건을 다루었다는 문맥에 알맞습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-13xh1y3"
+      },
+      {
+        "wordId": "word-mjpgb1"
+      },
+      {
+        "wordId": "word-18i1m9m"
+      },
+      {
+        "wordId": "word-xuy61u"
+      },
+      {
+        "wordId": "word-stf18q"
+      }
+    ]
   },
   {
     "id": "q-3-156",
@@ -3069,7 +4074,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2017-1-6-pdf",
-    "explanation": "정답은 '守成'입니다. 守成은 守(지킬 수), 成(이룰 성)으로 이루어진 말입니다. 守成은 이룬 일을 지켜 나가는 뜻이므로, 나라를 창업하는 것보다 더 힘들다는 문맥에 알맞습니다."
+    "explanation": "정답은 '守成'입니다. 守成은 守(지킬 수), 成(이룰 성)으로 이루어진 말입니다. 守成은 이룬 일을 지켜 나가는 뜻이므로, 나라를 창업하는 것보다 더 힘들다는 문맥에 알맞습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-sx0ic5"
+      },
+      {
+        "wordId": "word-mlb2on"
+      },
+      {
+        "wordId": "word-12fmlmf"
+      },
+      {
+        "wordId": "word-946zoo"
+      },
+      {
+        "wordId": "word-ne1mxk"
+      }
+    ]
   },
   {
     "id": "q-3-157",
@@ -3086,7 +4108,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-2017-1-6-pdf",
-    "explanation": "정답은 '報答'입니다. 報答은 報(갚을 보), 答(대답할 답)으로 이루어진 말입니다. 報答은 은혜나 도움에 갚는 뜻이므로, 어머니 은혜에 보답하기 위해 공부했다는 문맥에 알맞습니다."
+    "explanation": "정답은 '報答'입니다. 報答은 報(갚을 보), 答(대답할 답)으로 이루어진 말입니다. 報答은 은혜나 도움에 갚는 뜻이므로, 어머니 은혜에 보답하기 위해 공부했다는 문맥에 알맞습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1plh1yj"
+      },
+      {
+        "wordId": "word-svl5qa"
+      },
+      {
+        "wordId": "word-ro5tc7"
+      },
+      {
+        "wordId": "word-9g3ocj"
+      },
+      {
+        "wordId": "word-dwcjom"
+      }
+    ]
   },
   {
     "id": "q-3-158",
@@ -3103,7 +4142,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2017-1-6-pdf",
-    "explanation": "정답은 '致仕'입니다. 致仕는 致(이를 치), 仕(벼슬 사)으로 이루어진 말입니다. 致仕는 벼슬을 그만두고 물러나는 뜻이므로, 일흔에 고향으로 돌아갔다는 문맥에 알맞습니다."
+    "explanation": "정답은 '致仕'입니다. 致仕는 致(이를 치), 仕(벼슬 사)으로 이루어진 말입니다. 致仕는 벼슬을 그만두고 물러나는 뜻이므로, 일흔에 고향으로 돌아갔다는 문맥에 알맞습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-zwq6c6"
+      },
+      {
+        "wordId": "word-1t9mw6f"
+      },
+      {
+        "wordId": "word-18f621l"
+      },
+      {
+        "wordId": "word-1dhwe4w"
+      },
+      {
+        "wordId": "word-1yt3yta"
+      }
+    ]
   },
   {
     "id": "q-3-159",
@@ -3121,12 +4177,27 @@
     "answerIndex": 2,
     "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '美'입니다. 美는 '아름다울 미'입니다.",
-    "choiceHints": [
-      "洗(씻을 세)",
-      "應(응할 응)",
-      "美(아름다울 미)",
-      "觀(볼 관)",
-      "孫(손자 손)"
+    "choiceAnnotations": [
+      {
+        "meaning": "씻을",
+        "reading": "세"
+      },
+      {
+        "meaning": "응할",
+        "reading": "응"
+      },
+      {
+        "meaning": "아름다울",
+        "reading": "미"
+      },
+      {
+        "meaning": "볼",
+        "reading": "관"
+      },
+      {
+        "meaning": "손자",
+        "reading": "손"
+      }
     ]
   },
   {
@@ -3144,7 +4215,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2017-1-6-pdf",
-    "explanation": "정답은 '才能'입니다. 才能은 才(재주 재), 能(능할 능)으로 이루어진 말입니다."
+    "explanation": "정답은 '才能'입니다. 才能은 才(재주 재), 能(능할 능)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-18dnhxl"
+      },
+      {
+        "wordId": "word-1p0f71d"
+      },
+      {
+        "wordId": "word-1w17kym"
+      },
+      {
+        "wordId": "word-vxsaki"
+      },
+      {
+        "wordId": "word-1dmnl3y"
+      }
+    ]
   },
   {
     "id": "q-3-161",
@@ -3264,12 +4352,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '冷'입니다. 冷은 '찰 랭'입니다.",
-    "choiceHints": [
-      "量(헤아릴 량)",
-      "令(하여금 령)",
-      "冷(찰 랭)",
-      "良(어질 량)",
-      "歷(지낼 력)"
+    "choiceAnnotations": [
+      {
+        "meaning": "헤아릴",
+        "reading": "량"
+      },
+      {
+        "meaning": "하여금",
+        "reading": "령"
+      },
+      {
+        "meaning": "찰",
+        "reading": "랭"
+      },
+      {
+        "meaning": "어질",
+        "reading": "량"
+      },
+      {
+        "meaning": "지낼",
+        "reading": "력"
+      }
     ]
   },
   {
@@ -3288,12 +4391,27 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '質'입니다. 質은 '바탕 질'입니다.",
-    "choiceHints": [
-      "近(가까울 근)",
-      "進(나아갈 진)",
-      "支(지탱할 지)",
-      "爲(할 위)",
-      "質(바탕 질)"
+    "choiceAnnotations": [
+      {
+        "meaning": "가까울",
+        "reading": "근"
+      },
+      {
+        "meaning": "나아갈",
+        "reading": "진"
+      },
+      {
+        "meaning": "지탱할",
+        "reading": "지"
+      },
+      {
+        "meaning": "할",
+        "reading": "위"
+      },
+      {
+        "meaning": "바탕",
+        "reading": "질"
+      }
     ]
   },
   {
@@ -3312,12 +4430,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '序'입니다. 序는 '차례 서'입니다.",
-    "choiceHints": [
-      "序(차례 서)",
-      "步(걸음 보)",
-      "登(오를 등)",
-      "受(받을 수)",
-      "思(생각 사)"
+    "choiceAnnotations": [
+      {
+        "meaning": "차례",
+        "reading": "서"
+      },
+      {
+        "meaning": "걸음",
+        "reading": "보"
+      },
+      {
+        "meaning": "오를",
+        "reading": "등"
+      },
+      {
+        "meaning": "받을",
+        "reading": "수"
+      },
+      {
+        "meaning": "생각",
+        "reading": "사"
+      }
     ]
   },
   {
@@ -3336,12 +4469,27 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '救'입니다. 救는 '구원할 구'입니다.",
-    "choiceHints": [
-      "奉(받들 봉)",
-      "仕(벼슬 사)",
-      "拜(절 배)",
-      "列(벌일 렬)",
-      "救(구원할 구)"
+    "choiceAnnotations": [
+      {
+        "meaning": "받들",
+        "reading": "봉"
+      },
+      {
+        "meaning": "벼슬",
+        "reading": "사"
+      },
+      {
+        "meaning": "절",
+        "reading": "배"
+      },
+      {
+        "meaning": "벌일",
+        "reading": "렬"
+      },
+      {
+        "meaning": "구원할",
+        "reading": "구"
+      }
     ]
   },
   {
@@ -3360,12 +4508,27 @@
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '船'입니다. 船은 '배 선'입니다.",
-    "choiceHints": [
-      "兆(조/조짐 조)",
-      "船(배 선)",
-      "調(고를 조)",
-      "油(기름 유)",
-      "榮(꽃/영화 영)"
+    "choiceAnnotations": [
+      {
+        "meaning": "조/조짐",
+        "reading": "조"
+      },
+      {
+        "meaning": "배",
+        "reading": "선"
+      },
+      {
+        "meaning": "고를",
+        "reading": "조"
+      },
+      {
+        "meaning": "기름",
+        "reading": "유"
+      },
+      {
+        "meaning": "꽃/영화",
+        "reading": "영"
+      }
     ]
   },
   {
@@ -3384,12 +4547,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '宗'입니다. 宗은 '마루 종'입니다.",
-    "choiceHints": [
-      "長(길 장)",
-      "地(땅 지)",
-      "宗(마루 종)",
-      "重(무거울 중)",
-      "晝(낮 주)"
+    "choiceAnnotations": [
+      {
+        "meaning": "길",
+        "reading": "장"
+      },
+      {
+        "meaning": "땅",
+        "reading": "지"
+      },
+      {
+        "meaning": "마루",
+        "reading": "종"
+      },
+      {
+        "meaning": "무거울",
+        "reading": "중"
+      },
+      {
+        "meaning": "낮",
+        "reading": "주"
+      }
     ]
   },
   {
@@ -3408,12 +4586,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '洗'입니다. 洗는 '씻을 세'입니다.",
-    "choiceHints": [
-      "速(빠를 속)",
-      "師(스승 사)",
-      "設(베풀 설)",
-      "洗(씻을 세)",
-      "史(역사 사)"
+    "choiceAnnotations": [
+      {
+        "meaning": "빠를",
+        "reading": "속"
+      },
+      {
+        "meaning": "스승",
+        "reading": "사"
+      },
+      {
+        "meaning": "베풀",
+        "reading": "설"
+      },
+      {
+        "meaning": "씻을",
+        "reading": "세"
+      },
+      {
+        "meaning": "역사",
+        "reading": "사"
+      }
     ]
   },
   {
@@ -3432,12 +4625,27 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '收'입니다. 授는 '줄 수', 收는 '거둘 수'로 둘 다 음이 '수'입니다.",
-    "choiceHints": [
-      "干(방패 간)",
-      "救(구원할 구)",
-      "注(물 댈 주)",
-      "官(벼슬 관)",
-      "收(거둘 수)"
+    "choiceAnnotations": [
+      {
+        "meaning": "방패",
+        "reading": "간"
+      },
+      {
+        "meaning": "구원할",
+        "reading": "구"
+      },
+      {
+        "meaning": "물 댈",
+        "reading": "주"
+      },
+      {
+        "meaning": "벼슬",
+        "reading": "관"
+      },
+      {
+        "meaning": "거둘",
+        "reading": "수"
+      }
     ]
   },
   {
@@ -3456,12 +4664,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '唱'입니다. 窓는 '창문 창', 唱는 '부를 창'으로 둘 다 음이 '창'입니다.",
-    "choiceHints": [
-      "處(곳 처)",
-      "取(가질 취)",
-      "陸(뭍/땅 륙)",
-      "唱(부를 창)",
-      "住(살 주)"
+    "choiceAnnotations": [
+      {
+        "meaning": "곳",
+        "reading": "처"
+      },
+      {
+        "meaning": "가질",
+        "reading": "취"
+      },
+      {
+        "meaning": "뭍/땅",
+        "reading": "륙"
+      },
+      {
+        "meaning": "부를",
+        "reading": "창"
+      },
+      {
+        "meaning": "살",
+        "reading": "주"
+      }
     ]
   },
   {
@@ -3480,12 +4703,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '加'입니다. 價는 '값 가', 加는 '더할 가'로 둘 다 음이 '가'입니다.",
-    "choiceHints": [
-      "答(대답할 답)",
-      "課(공부할 과)",
-      "仕(벼슬 사)",
-      "加(더할 가)",
-      "到(이를 도)"
+    "choiceAnnotations": [
+      {
+        "meaning": "대답할",
+        "reading": "답"
+      },
+      {
+        "meaning": "공부할",
+        "reading": "과"
+      },
+      {
+        "meaning": "벼슬",
+        "reading": "사"
+      },
+      {
+        "meaning": "더할",
+        "reading": "가"
+      },
+      {
+        "meaning": "이를",
+        "reading": "도"
+      }
     ]
   },
   {
@@ -3504,12 +4742,27 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '産'입니다. 算는 '셈 산', 産는 '낳을 산'로 둘 다 음이 '산'입니다.",
-    "choiceHints": [
-      "春(봄 춘)",
-      "然(그럴/불탈 연)",
-      "新(새로울 신)",
-      "判(판단할 판)",
-      "産(낳을 산)"
+    "choiceAnnotations": [
+      {
+        "meaning": "봄",
+        "reading": "춘"
+      },
+      {
+        "meaning": "그럴/불탈",
+        "reading": "연"
+      },
+      {
+        "meaning": "새로울",
+        "reading": "신"
+      },
+      {
+        "meaning": "판단할",
+        "reading": "판"
+      },
+      {
+        "meaning": "낳을",
+        "reading": "산"
+      }
     ]
   },
   {
@@ -3528,12 +4781,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '然'입니다. 硏는 '갈 연', 然는 '그럴 연'로 둘 다 음이 '연'입니다.",
-    "choiceHints": [
-      "然(그럴/불탈 연)",
-      "邑(고을 읍)",
-      "榮(꽃/영화 영)",
-      "科(과목 과)",
-      "熱(더울 열)"
+    "choiceAnnotations": [
+      {
+        "meaning": "그럴/불탈",
+        "reading": "연"
+      },
+      {
+        "meaning": "고을",
+        "reading": "읍"
+      },
+      {
+        "meaning": "꽃/영화",
+        "reading": "영"
+      },
+      {
+        "meaning": "과목",
+        "reading": "과"
+      },
+      {
+        "meaning": "더울",
+        "reading": "열"
+      }
     ]
   },
   {
@@ -3552,12 +4820,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '獨'입니다. 讀는 '읽을 독', 獨는 '홀로 독'로 둘 다 음이 '독'입니다.",
-    "choiceHints": [
-      "雄(수컷 웅)",
-      "接(이을 접)",
-      "獨(홀로 독)",
-      "感(느낄 감)",
-      "德(덕 덕)"
+    "choiceAnnotations": [
+      {
+        "meaning": "수컷",
+        "reading": "웅"
+      },
+      {
+        "meaning": "이을",
+        "reading": "접"
+      },
+      {
+        "meaning": "홀로",
+        "reading": "독"
+      },
+      {
+        "meaning": "느낄",
+        "reading": "감"
+      },
+      {
+        "meaning": "덕",
+        "reading": "덕"
+      }
     ]
   },
   {
@@ -3576,12 +4859,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '紙'입니다. 指는 '가리킬 지', 紙는 '종이 지'로 둘 다 음이 '지'입니다.",
-    "choiceHints": [
-      "紙(종이 지)",
-      "走(달릴 주)",
-      "電(번개 전)",
-      "罪(허물/죄 죄)",
-      "住(살 주)"
+    "choiceAnnotations": [
+      {
+        "meaning": "종이",
+        "reading": "지"
+      },
+      {
+        "meaning": "달릴",
+        "reading": "주"
+      },
+      {
+        "meaning": "번개",
+        "reading": "전"
+      },
+      {
+        "meaning": "허물/죄",
+        "reading": "죄"
+      },
+      {
+        "meaning": "살",
+        "reading": "주"
+      }
     ]
   },
   {
@@ -3600,12 +4898,27 @@
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '素'입니다. 消는 '없앨 소', 素는 '흴 소'로 둘 다 음이 '소'입니다.",
-    "choiceHints": [
-      "收(거둘 수)",
-      "素(흴 소)",
-      "到(이를 도)",
-      "固(굳을 고)",
-      "朝(아침 조)"
+    "choiceAnnotations": [
+      {
+        "meaning": "거둘",
+        "reading": "수"
+      },
+      {
+        "meaning": "흴",
+        "reading": "소"
+      },
+      {
+        "meaning": "이를",
+        "reading": "도"
+      },
+      {
+        "meaning": "굳을",
+        "reading": "고"
+      },
+      {
+        "meaning": "아침",
+        "reading": "조"
+      }
     ]
   },
   {
@@ -3624,12 +4937,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '神'입니다. 新는 '새 신', 神는 '귀신 신'로 둘 다 음이 '신'입니다.",
-    "choiceHints": [
-      "案(책상 안)",
-      "場(마당 장)",
-      "神(귀신 신)",
-      "産(낳을 산)",
-      "殺(죽일 살/감할/빠를 쇄)"
+    "choiceAnnotations": [
+      {
+        "meaning": "책상",
+        "reading": "안"
+      },
+      {
+        "meaning": "마당",
+        "reading": "장"
+      },
+      {
+        "meaning": "귀신",
+        "reading": "신"
+      },
+      {
+        "meaning": "낳을",
+        "reading": "산"
+      },
+      {
+        "meaning": "감할/빠를",
+        "reading": "쇄"
+      }
     ]
   },
   {
@@ -3648,12 +4976,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '夜'입니다. 野는 '들 야', 夜는 '밤 야'로 둘 다 음이 '야'입니다.",
-    "choiceHints": [
-      "夜(밤 야)",
-      "愛(사랑 애)",
-      "逆(거스를 역)",
-      "兒(아이 아)",
-      "羊(양 양)"
+    "choiceAnnotations": [
+      {
+        "meaning": "밤",
+        "reading": "야"
+      },
+      {
+        "meaning": "사랑",
+        "reading": "애"
+      },
+      {
+        "meaning": "거스를",
+        "reading": "역"
+      },
+      {
+        "meaning": "아이",
+        "reading": "아"
+      },
+      {
+        "meaning": "양",
+        "reading": "양"
+      }
     ]
   },
   {
@@ -3672,12 +5015,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '展'입니다. 典는 '법 전', 展는 '펼 전'로 둘 다 음이 '전'입니다.",
-    "choiceHints": [
-      "展(펼 전)",
-      "接(이을 접)",
-      "處(곳 처)",
-      "財(재물 재)",
-      "再(두 재)"
+    "choiceAnnotations": [
+      {
+        "meaning": "펼",
+        "reading": "전"
+      },
+      {
+        "meaning": "이을",
+        "reading": "접"
+      },
+      {
+        "meaning": "곳",
+        "reading": "처"
+      },
+      {
+        "meaning": "재물",
+        "reading": "재"
+      },
+      {
+        "meaning": "두",
+        "reading": "재"
+      }
     ]
   },
   {
@@ -3696,12 +5054,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '電'입니다. 傳는 '전할 전', 電는 '번개 전'로 둘 다 음이 '전'입니다.",
-    "choiceHints": [
-      "孫(손자 손)",
-      "密(빽빽할/은밀할 밀)",
-      "眞(참 진)",
-      "電(번개 전)",
-      "線(줄 선)"
+    "choiceAnnotations": [
+      {
+        "meaning": "손자",
+        "reading": "손"
+      },
+      {
+        "meaning": "빽빽할/은밀할",
+        "reading": "밀"
+      },
+      {
+        "meaning": "참",
+        "reading": "진"
+      },
+      {
+        "meaning": "번개",
+        "reading": "전"
+      },
+      {
+        "meaning": "줄",
+        "reading": "선"
+      }
     ]
   },
   {
@@ -3720,12 +5093,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '遠'입니다. 園는 '동산 원', 遠는 '멀 원'로 둘 다 음이 '원'입니다.",
-    "choiceHints": [
-      "遠(멀 원)",
-      "習(익힐 습)",
-      "然(그럴/불탈 연)",
-      "面(얼굴 면)",
-      "爭(다툴 쟁)"
+    "choiceAnnotations": [
+      {
+        "meaning": "멀",
+        "reading": "원"
+      },
+      {
+        "meaning": "익힐",
+        "reading": "습"
+      },
+      {
+        "meaning": "그럴/불탈",
+        "reading": "연"
+      },
+      {
+        "meaning": "얼굴",
+        "reading": "면"
+      },
+      {
+        "meaning": "다툴",
+        "reading": "쟁"
+      }
     ]
   },
   {
@@ -3744,12 +5132,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '姓'입니다. 省는 '살필 성', 姓는 '성씨 성'로 둘 다 음이 '성'입니다.",
-    "choiceHints": [
-      "姓(성씨 성)",
-      "商(장사 상)",
-      "勝(이길 승)",
-      "勢(형세 세)",
-      "容(얼굴 용)"
+    "choiceAnnotations": [
+      {
+        "meaning": "성씨",
+        "reading": "성"
+      },
+      {
+        "meaning": "장사",
+        "reading": "상"
+      },
+      {
+        "meaning": "이길",
+        "reading": "승"
+      },
+      {
+        "meaning": "형세",
+        "reading": "세"
+      },
+      {
+        "meaning": "얼굴",
+        "reading": "용"
+      }
     ]
   },
   {
@@ -3768,12 +5171,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '夏'입니다. 河는 '물 하', 夏는 '여름 하'로 둘 다 음이 '하'입니다.",
-    "choiceHints": [
-      "便(편할 편)",
-      "每(매양 매)",
-      "夏(여름 하)",
-      "學(배울 학)",
-      "價(값 가)"
+    "choiceAnnotations": [
+      {
+        "meaning": "편할",
+        "reading": "편"
+      },
+      {
+        "meaning": "매양",
+        "reading": "매"
+      },
+      {
+        "meaning": "여름",
+        "reading": "하"
+      },
+      {
+        "meaning": "배울",
+        "reading": "학"
+      },
+      {
+        "meaning": "값",
+        "reading": "가"
+      }
     ]
   },
   {
@@ -3911,12 +5329,27 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '要'입니다. 要는 '구할 요/요긴할 요'입니다.",
-    "choiceHints": [
-      "路(길 로)",
-      "武(굳셀 무)",
-      "究(연구할 구)",
-      "對(대답할 대)",
-      "要(구할 요)"
+    "choiceAnnotations": [
+      {
+        "meaning": "길",
+        "reading": "로"
+      },
+      {
+        "meaning": "굳셀",
+        "reading": "무"
+      },
+      {
+        "meaning": "연구할",
+        "reading": "구"
+      },
+      {
+        "meaning": "대답할",
+        "reading": "대"
+      },
+      {
+        "meaning": "구할",
+        "reading": "요"
+      }
     ]
   },
   {
@@ -3935,12 +5368,27 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '奉'입니다. 奉은 '받들 봉'입니다.",
-    "choiceHints": [
-      "省(살필 성)",
-      "步(걸음 보)",
-      "設(베풀 설)",
-      "聞(들을 문)",
-      "奉(받들 봉)"
+    "choiceAnnotations": [
+      {
+        "meaning": "살필",
+        "reading": "성"
+      },
+      {
+        "meaning": "걸음",
+        "reading": "보"
+      },
+      {
+        "meaning": "베풀",
+        "reading": "설"
+      },
+      {
+        "meaning": "들을",
+        "reading": "문"
+      },
+      {
+        "meaning": "받들",
+        "reading": "봉"
+      }
     ]
   },
   {
@@ -3959,12 +5407,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '養'입니다. 養은 '기를 양'입니다.",
-    "choiceHints": [
-      "衆(무리 중)",
-      "害(해로울 해)",
-      "養(기를 양)",
-      "富(부유할 부)",
-      "追(쫓을 추)"
+    "choiceAnnotations": [
+      {
+        "meaning": "무리",
+        "reading": "중"
+      },
+      {
+        "meaning": "해로울",
+        "reading": "해"
+      },
+      {
+        "meaning": "기를",
+        "reading": "양"
+      },
+      {
+        "meaning": "부유할",
+        "reading": "부"
+      },
+      {
+        "meaning": "쫓을",
+        "reading": "추"
+      }
     ]
   },
   {
@@ -3983,12 +5446,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '易'입니다. 易은 '바꿀 역/쉬울 이'입니다.",
-    "choiceHints": [
-      "期(기약할 기)",
-      "注(물 댈 주)",
-      "皮(가죽 피)",
-      "易(바꿀 역)",
-      "收(거둘 수)"
+    "choiceAnnotations": [
+      {
+        "meaning": "기약할",
+        "reading": "기"
+      },
+      {
+        "meaning": "물 댈",
+        "reading": "주"
+      },
+      {
+        "meaning": "가죽",
+        "reading": "피"
+      },
+      {
+        "meaning": "바꿀",
+        "reading": "역"
+      },
+      {
+        "meaning": "거둘",
+        "reading": "수"
+      }
     ]
   },
   {
@@ -4006,7 +5484,29 @@
     ],
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '爲'입니다. 爲는 '할 위'입니다."
+    "explanation": "정답은 '爲'입니다. 爲는 '할 위'입니다.",
+    "choiceAnnotations": [
+      {
+        "meaning": "할",
+        "reading": "위"
+      },
+      {
+        "meaning": "이로울",
+        "reading": "리"
+      },
+      {
+        "meaning": "일할",
+        "reading": "로"
+      },
+      {
+        "meaning": "헤아릴",
+        "reading": "료"
+      },
+      {
+        "meaning": "붉을",
+        "reading": "단"
+      }
+    ]
   },
   {
     "id": "q-3-201",
@@ -4024,12 +5524,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '連'입니다. 連은 '이을 련'입니다.",
-    "choiceHints": [
-      "店(가게 점)",
-      "速(빠를 속)",
-      "連(이을 련)",
-      "道(길 도)",
-      "罪(허물/죄 죄)"
+    "choiceAnnotations": [
+      {
+        "meaning": "가게",
+        "reading": "점"
+      },
+      {
+        "meaning": "빠를",
+        "reading": "속"
+      },
+      {
+        "meaning": "이을",
+        "reading": "련"
+      },
+      {
+        "meaning": "길",
+        "reading": "도"
+      },
+      {
+        "meaning": "허물/죄",
+        "reading": "죄"
+      }
     ]
   },
   {
@@ -4048,12 +5563,27 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '宙'입니다. 宙는 '집 주'입니다.",
-    "choiceHints": [
-      "革(가죽/고칠 혁)",
-      "凶(흉할 흉)",
-      "蟲(벌레 충)",
-      "往(갈 왕)",
-      "宙(집 주)"
+    "choiceAnnotations": [
+      {
+        "meaning": "가죽/고칠",
+        "reading": "혁"
+      },
+      {
+        "meaning": "흉할",
+        "reading": "흉"
+      },
+      {
+        "meaning": "벌레",
+        "reading": "충"
+      },
+      {
+        "meaning": "갈",
+        "reading": "왕"
+      },
+      {
+        "meaning": "집",
+        "reading": "주"
+      }
     ]
   },
   {
@@ -4072,12 +5602,27 @@
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '敎'입니다. 訓은 '가르칠 훈', 敎는 '가르칠 교'로 뜻이 비슷합니다.",
-    "choiceHints": [
-      "川(내 천)",
-      "敎(가르칠 교)",
-      "其(그 기)",
-      "強(강할/굳셀 강)",
-      "務(힘쓸 무)"
+    "choiceAnnotations": [
+      {
+        "meaning": "내",
+        "reading": "천"
+      },
+      {
+        "meaning": "가르칠",
+        "reading": "교"
+      },
+      {
+        "meaning": "그",
+        "reading": "기"
+      },
+      {
+        "meaning": "강할/굳셀",
+        "reading": "강"
+      },
+      {
+        "meaning": "힘쓸",
+        "reading": "무"
+      }
     ]
   },
   {
@@ -4096,12 +5641,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '財'입니다. 財는 '재물 재'입니다.",
-    "choiceHints": [
-      "化(될 화)",
-      "和(화할 화)",
-      "話(말씀 화)",
-      "財(재물 재)",
-      "婚(혼인 혼)"
+    "choiceAnnotations": [
+      {
+        "meaning": "될",
+        "reading": "화"
+      },
+      {
+        "meaning": "화할",
+        "reading": "화"
+      },
+      {
+        "meaning": "말씀",
+        "reading": "화"
+      },
+      {
+        "meaning": "재물",
+        "reading": "재"
+      },
+      {
+        "meaning": "혼인",
+        "reading": "혼"
+      }
     ]
   },
   {
@@ -4120,12 +5680,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '施'입니다. 施는 '베풀 시'입니다.",
-    "choiceHints": [
-      "施(베풀 시)",
-      "登(오를 등)",
-      "說(말씀 설)",
-      "神(귀신 신)",
-      "指(손가락 지)"
+    "choiceAnnotations": [
+      {
+        "meaning": "베풀",
+        "reading": "시"
+      },
+      {
+        "meaning": "오를",
+        "reading": "등"
+      },
+      {
+        "meaning": "말씀",
+        "reading": "설"
+      },
+      {
+        "meaning": "귀신",
+        "reading": "신"
+      },
+      {
+        "meaning": "손가락",
+        "reading": "지"
+      }
     ]
   },
   {
@@ -4144,12 +5719,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '察'입니다. 察은 '살필 찰'입니다.",
-    "choiceHints": [
-      "察(살필 찰)",
-      "列(벌일 렬)",
-      "結(맺을 결)",
-      "動(움직일 동)",
-      "務(힘쓸 무)"
+    "choiceAnnotations": [
+      {
+        "meaning": "살필",
+        "reading": "찰"
+      },
+      {
+        "meaning": "벌일",
+        "reading": "렬"
+      },
+      {
+        "meaning": "맺을",
+        "reading": "결"
+      },
+      {
+        "meaning": "움직일",
+        "reading": "동"
+      },
+      {
+        "meaning": "힘쓸",
+        "reading": "무"
+      }
     ]
   },
   {
@@ -4168,12 +5758,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '量'입니다. 量은 '헤아릴 량'입니다.",
-    "choiceHints": [
-      "能(능할 능)",
-      "里(마을 리)",
-      "事(일 사)",
-      "量(헤아릴 량)",
-      "問(물을 문)"
+    "choiceAnnotations": [
+      {
+        "meaning": "능할",
+        "reading": "능"
+      },
+      {
+        "meaning": "마을",
+        "reading": "리"
+      },
+      {
+        "meaning": "일",
+        "reading": "사"
+      },
+      {
+        "meaning": "헤아릴",
+        "reading": "량"
+      },
+      {
+        "meaning": "물을",
+        "reading": "문"
+      }
     ]
   },
   {
@@ -4192,12 +5797,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '告'입니다. 告는 '알릴 고'입니다.",
-    "choiceHints": [
-      "界(경계 계)",
-      "善(착할 선)",
-      "見(볼 견)",
-      "告(알릴 고)",
-      "本(근본 본)"
+    "choiceAnnotations": [
+      {
+        "meaning": "경계",
+        "reading": "계"
+      },
+      {
+        "meaning": "착할",
+        "reading": "선"
+      },
+      {
+        "meaning": "볼",
+        "reading": "견"
+      },
+      {
+        "meaning": "알릴",
+        "reading": "고"
+      },
+      {
+        "meaning": "근본",
+        "reading": "본"
+      }
     ]
   },
   {
@@ -4216,12 +5836,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '皮'입니다. 皮는 '가죽 피'입니다.",
-    "choiceHints": [
-      "臣(신하 신)",
-      "命(목숨 명)",
-      "毛(털 모)",
-      "皮(가죽 피)",
-      "新(새로울 신)"
+    "choiceAnnotations": [
+      {
+        "meaning": "신하",
+        "reading": "신"
+      },
+      {
+        "meaning": "목숨",
+        "reading": "명"
+      },
+      {
+        "meaning": "털",
+        "reading": "모"
+      },
+      {
+        "meaning": "가죽",
+        "reading": "피"
+      },
+      {
+        "meaning": "새로울",
+        "reading": "신"
+      }
     ]
   },
   {
@@ -4240,12 +5875,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '圖'입니다. 圖는 '그림 도'입니다.",
-    "choiceHints": [
-      "仙(신선 선)",
-      "蟲(벌레 충)",
-      "筆(붓 필)",
-      "圖(그림 도)",
-      "案(책상 안)"
+    "choiceAnnotations": [
+      {
+        "meaning": "신선",
+        "reading": "선"
+      },
+      {
+        "meaning": "벌레",
+        "reading": "충"
+      },
+      {
+        "meaning": "붓",
+        "reading": "필"
+      },
+      {
+        "meaning": "그림",
+        "reading": "도"
+      },
+      {
+        "meaning": "책상",
+        "reading": "안"
+      }
     ]
   },
   {
@@ -4264,12 +5914,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '製'입니다. 製는 '지을/만들 제'입니다.",
-    "choiceHints": [
-      "製(지을/만들 제)",
-      "業(업 업)",
-      "指(손가락 지)",
-      "感(느낄 감)",
-      "送(보낼 송)"
+    "choiceAnnotations": [
+      {
+        "meaning": "지을/만들",
+        "reading": "제"
+      },
+      {
+        "meaning": "업",
+        "reading": "업"
+      },
+      {
+        "meaning": "손가락",
+        "reading": "지"
+      },
+      {
+        "meaning": "느낄",
+        "reading": "감"
+      },
+      {
+        "meaning": "보낼",
+        "reading": "송"
+      }
     ]
   },
   {
@@ -4288,12 +5953,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '獨'입니다. 獨은 '홀로 독'입니다.",
-    "choiceHints": [
-      "獨(홀로 독)",
-      "信(믿을 신)",
-      "身(몸 신)",
-      "反(돌이킬 반)",
-      "淸(맑을 청)"
+    "choiceAnnotations": [
+      {
+        "meaning": "홀로",
+        "reading": "독"
+      },
+      {
+        "meaning": "믿을",
+        "reading": "신"
+      },
+      {
+        "meaning": "몸",
+        "reading": "신"
+      },
+      {
+        "meaning": "돌이킬",
+        "reading": "반"
+      },
+      {
+        "meaning": "맑을",
+        "reading": "청"
+      }
     ]
   },
   {
@@ -4312,12 +5992,27 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '式'입니다. 式은 '법 식'입니다.",
-    "choiceHints": [
-      "師(스승 사)",
-      "說(말씀 설)",
-      "課(공부할 과)",
-      "命(목숨 명)",
-      "式(법 식)"
+    "choiceAnnotations": [
+      {
+        "meaning": "스승",
+        "reading": "사"
+      },
+      {
+        "meaning": "말씀",
+        "reading": "설"
+      },
+      {
+        "meaning": "공부할",
+        "reading": "과"
+      },
+      {
+        "meaning": "목숨",
+        "reading": "명"
+      },
+      {
+        "meaning": "법",
+        "reading": "식"
+      }
     ]
   },
   {
@@ -4336,12 +6031,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '年'입니다. 年은 '해 년'입니다.",
-    "choiceHints": [
-      "年(해 년)",
-      "凶(흉할 흉)",
-      "成(이룰 성)",
-      "末(끝 말)",
-      "次(버금 차)"
+    "choiceAnnotations": [
+      {
+        "meaning": "해",
+        "reading": "년"
+      },
+      {
+        "meaning": "흉할",
+        "reading": "흉"
+      },
+      {
+        "meaning": "이룰",
+        "reading": "성"
+      },
+      {
+        "meaning": "끝",
+        "reading": "말"
+      },
+      {
+        "meaning": "버금",
+        "reading": "차"
+      }
     ]
   },
   {
@@ -4360,12 +6070,27 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '觀'입니다. 觀은 '볼 관'입니다.",
-    "choiceHints": [
-      "備(갖출 비)",
-      "的(과녁 적)",
-      "節(마디 절)",
-      "貨(재물 화)",
-      "觀(볼 관)"
+    "choiceAnnotations": [
+      {
+        "meaning": "갖출",
+        "reading": "비"
+      },
+      {
+        "meaning": "과녁",
+        "reading": "적"
+      },
+      {
+        "meaning": "마디",
+        "reading": "절"
+      },
+      {
+        "meaning": "재물",
+        "reading": "화"
+      },
+      {
+        "meaning": "볼",
+        "reading": "관"
+      }
     ]
   },
   {
@@ -4384,12 +6109,22 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '倒植'입니다. 塗飾와 倒植는 모두 '도식'으로 읽습니다. 塗飾는 '칠하고 꾸밈', 倒植는 '거꾸로 심음'의 뜻을 가져 발음은 같고 뜻이 다릅니다.",
-    "choiceHints": [
-      "도적",
-      "도약",
-      "휴식",
-      "도식",
-      "도예"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-10jjapq"
+      },
+      {
+        "wordId": "word-1pbiznc"
+      },
+      {
+        "wordId": "word-1uel7ec"
+      },
+      {
+        "wordId": "word-henq9b"
+      },
+      {
+        "wordId": "word-137m37w"
+      }
     ]
   },
   {
@@ -4408,12 +6143,22 @@
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '每家'입니다. 賣價와 每家는 모두 '매가'로 읽습니다. 賣價는 '파는 값', 每家는 '집집마다'의 뜻을 가져 발음은 같고 뜻이 다릅니다.",
-    "choiceHints": [
-      "추가",
-      "매가",
-      "건설",
-      "결정",
-      "창가"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-uimbw8"
+      },
+      {
+        "wordId": "word-nw2a88"
+      },
+      {
+        "wordId": "word-nluj1o"
+      },
+      {
+        "wordId": "word-fp3dy4"
+      },
+      {
+        "wordId": "word-6lript"
+      }
     ]
   },
   {
@@ -4432,12 +6177,22 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '現場'입니다. 賢將와 現場는 모두 '현장'으로 읽습니다. 賢將는 '어진 장수', 現場는 '일이 벌어지는 곳'의 뜻을 가져 발음은 같고 뜻이 다릅니다.",
-    "choiceHints": [
-      "초청",
-      "혼선",
-      "현장",
-      "권농",
-      "단초"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1j10l2"
+      },
+      {
+        "wordId": "word-1p9mmxg"
+      },
+      {
+        "wordId": "word-b1a312"
+      },
+      {
+        "wordId": "word-zyai2e"
+      },
+      {
+        "wordId": "word-1pwpihz"
+      }
     ]
   },
   {
@@ -4456,12 +6211,22 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '繼續'입니다. 繫屬와 繼續는 모두 '계속'으로 읽습니다. 繫屬는 '매달려 이어짐', 繼續는 '이어 감'의 뜻을 가져 발음은 같고 뜻이 다릅니다.",
-    "choiceHints": [
-      "벽라",
-      "앙화",
-      "당분",
-      "돈사",
-      "계속"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-ubdzgu"
+      },
+      {
+        "wordId": "word-1mu5uvi"
+      },
+      {
+        "wordId": "word-iizb3i"
+      },
+      {
+        "wordId": "word-t6ype0"
+      },
+      {
+        "wordId": "word-12chigg"
+      }
     ]
   },
   {
@@ -4480,12 +6245,22 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '冬至'입니다. 動止와 冬至는 모두 '동지'로 읽습니다. 動止는 '몸의 움직임이나 거동', 冬至는 '일 년 중 밤이 가장 긴 무렵의 절기'를 뜻합니다.",
-    "choiceHints": [
-      "동성",
-      "동서",
-      "동지",
-      "장지",
-      "소지"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-kcjv06"
+      },
+      {
+        "wordId": "word-tp9op6"
+      },
+      {
+        "wordId": "word-1914h7x"
+      },
+      {
+        "wordId": "word-yw6sdk"
+      },
+      {
+        "wordId": "word-170dj2v"
+      }
     ]
   },
   {
@@ -4504,12 +6279,22 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '使臣'입니다. 四神와 使臣는 모두 '사신'으로 읽습니다. 四神는 '사방의 신', 使臣는 '나라를 대표해 파견된 신하'의 뜻을 가져 발음은 같고 뜻이 다릅니다.",
-    "choiceHints": [
-      "종사",
-      "역사",
-      "증가",
-      "발사",
-      "사신"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-6pelmo"
+      },
+      {
+        "wordId": "word-1bml0kx"
+      },
+      {
+        "wordId": "word-1sjmk00"
+      },
+      {
+        "wordId": "word-ivbsj7"
+      },
+      {
+        "wordId": "word-1ilx8hx"
+      }
     ]
   },
   {
@@ -4528,12 +6313,22 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '年久'입니다. 硏究와 年久는 모두 '연구'로 읽습니다. 硏究는 '깊이 연구함', 年久는 '오래됨'의 뜻을 가져 발음은 같고 뜻이 다릅니다.",
-    "choiceHints": [
-      "보도",
-      "구명",
-      "여행",
-      "연구",
-      "유의"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-mw3etv"
+      },
+      {
+        "wordId": "word-3jmya"
+      },
+      {
+        "wordId": "word-2enapr"
+      },
+      {
+        "wordId": "word-19xfht2"
+      },
+      {
+        "wordId": "word-1f5didj"
+      }
     ]
   },
   {
@@ -4552,12 +6347,22 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '辰(宿)'입니다. 다른 보기의 宿은 '숙'으로 읽지만, 辰宿에서는 '수'로 읽습니다.",
-    "choiceHints": [
-      "숙원",
-      "숙근",
-      "노숙",
-      "진수",
-      "투숙"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-15z08gu"
+      },
+      {
+        "wordId": "word-t6y9ar"
+      },
+      {
+        "wordId": "word-18dmq0i"
+      },
+      {
+        "wordId": "word-1izdnrj"
+      },
+      {
+        "wordId": "word-b1404f"
+      }
     ]
   },
   {
@@ -4576,12 +6381,22 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '(惡)寒'입니다. 다른 보기의 惡은 '악'으로 읽지만, 惡寒에서는 '오'로 읽습니다.",
-    "choiceHints": [
-      "악속",
-      "개악",
-      "악종",
-      "숙악",
-      "오한"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-15iavkg"
+      },
+      {
+        "wordId": "word-9ih4th"
+      },
+      {
+        "wordId": "word-1mi3cvp"
+      },
+      {
+        "wordId": "word-5j356e"
+      },
+      {
+        "wordId": "word-12h9d47"
+      }
     ]
   },
   {
@@ -4600,12 +6415,22 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '(否)運'입니다. 다른 보기의 否는 '부'로 읽지만, 否運에서는 '비'로 읽습니다.",
-    "choiceHints": [
-      "부결",
-      "부정",
-      "부인",
-      "비운",
-      "안부"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1nyz9og"
+      },
+      {
+        "wordId": "word-k4vrq7"
+      },
+      {
+        "wordId": "word-14zjzxb"
+      },
+      {
+        "wordId": "word-12c7y8p"
+      },
+      {
+        "wordId": "word-12fxvw3"
+      }
     ]
   },
   {
@@ -4624,12 +6449,22 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '(塞)責'입니다. 다른 보기의 塞은 '새'로 읽지만, 塞責에서는 '색'으로 읽습니다.",
-    "choiceHints": [
-      "고새",
-      "새옹",
-      "요새",
-      "색책",
-      "변새"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1glq4ri"
+      },
+      {
+        "wordId": "word-2kiank"
+      },
+      {
+        "wordId": "word-g84wtj"
+      },
+      {
+        "wordId": "word-3y9qw8"
+      },
+      {
+        "wordId": "word-2axhgu"
+      }
     ]
   },
   {
@@ -4648,12 +6483,22 @@
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '水(刺)'입니다. 다른 보기의 刺는 '자'로 읽지만, 水刺에서는 '라'로 읽습니다.",
-    "choiceHints": [
-      "자격",
-      "수라",
-      "자상",
-      "난자",
-      "자객"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1vignjj"
+      },
+      {
+        "wordId": "word-106ltcg"
+      },
+      {
+        "wordId": "word-1iaoj92"
+      },
+      {
+        "wordId": "word-13dw6m"
+      },
+      {
+        "wordId": "word-1bjhtuj"
+      }
     ]
   },
   {
@@ -4672,12 +6517,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '重'입니다. 重은 '무거울 중'입니다. 빈칸에 重을 넣으면 重客(중객), 萬重(만중), 重陽(중양)이 됩니다.",
-    "choiceHints": [
-      "眞(참 진)",
-      "對(대답할 대)",
-      "重(무거울 중)",
-      "代(대신/세대 대)",
-      "善(착할 선)"
+    "choiceAnnotations": [
+      {
+        "meaning": "참",
+        "reading": "진"
+      },
+      {
+        "meaning": "대답할",
+        "reading": "대"
+      },
+      {
+        "meaning": "무거울",
+        "reading": "중"
+      },
+      {
+        "meaning": "대신/세대",
+        "reading": "대"
+      },
+      {
+        "meaning": "착할",
+        "reading": "선"
+      }
     ]
   },
   {
@@ -4696,12 +6556,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '助'입니다. 助는 '도울 조'입니다. 빈칸에 助를 넣으면 助力(조력), 助産(조산), 自助(자조)가 됩니다.",
-    "choiceHints": [
-      "富(부유할 부)",
-      "命(목숨 명)",
-      "助(도울 조)",
-      "今(이제 금)",
-      "落(떨어질 락)"
+    "choiceAnnotations": [
+      {
+        "meaning": "부유할",
+        "reading": "부"
+      },
+      {
+        "meaning": "목숨",
+        "reading": "명"
+      },
+      {
+        "meaning": "도울",
+        "reading": "조"
+      },
+      {
+        "meaning": "이제",
+        "reading": "금"
+      },
+      {
+        "meaning": "떨어질",
+        "reading": "락"
+      }
     ]
   },
   {
@@ -4720,12 +6595,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '達'입니다. 達은 '통달할 달'입니다. 빈칸에 達을 넣으면 八達(팔달), 達士(달사), 達官(달관)이 됩니다.",
-    "choiceHints": [
-      "達(통달할 달)",
-      "江(강 강)",
-      "安(편안할 안)",
-      "可(옳을 가)",
-      "仁(어질 인)"
+    "choiceAnnotations": [
+      {
+        "meaning": "통달할",
+        "reading": "달"
+      },
+      {
+        "meaning": "강",
+        "reading": "강"
+      },
+      {
+        "meaning": "편안할",
+        "reading": "안"
+      },
+      {
+        "meaning": "옳을",
+        "reading": "가"
+      },
+      {
+        "meaning": "어질",
+        "reading": "인"
+      }
     ]
   },
   {
@@ -4744,12 +6634,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '寢'입니다. 寢은 '잠잘 침'입니다. 빈칸에 寢을 넣으면 陵寢(능침), 寢殿(침전), 寢睡(침수)가 됩니다.",
-    "choiceHints": [
-      "寢(잠잘 침)",
-      "枕(베개 침)",
-      "宮(집 궁)",
-      "眠(잘 면)",
-      "沈(잠길 침)"
+    "choiceAnnotations": [
+      {
+        "meaning": "잠잘",
+        "reading": "침"
+      },
+      {
+        "meaning": "베개",
+        "reading": "침"
+      },
+      {
+        "meaning": "집",
+        "reading": "궁"
+      },
+      {
+        "meaning": "잘",
+        "reading": "면"
+      },
+      {
+        "meaning": "잠길",
+        "reading": "침"
+      }
     ]
   },
   {
@@ -4768,12 +6673,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '歌'입니다. 歌는 '노래 가'입니다. 빈칸에 歌를 넣으면 歌客(가객), 軍歌(군가), 歌手(가수)가 됩니다.",
-    "choiceHints": [
-      "詩(시 시)",
-      "時(때 시)",
-      "歌(노래 가)",
-      "臣(신하 신)",
-      "食(밥 식)"
+    "choiceAnnotations": [
+      {
+        "meaning": "시",
+        "reading": "시"
+      },
+      {
+        "meaning": "때",
+        "reading": "시"
+      },
+      {
+        "meaning": "노래",
+        "reading": "가"
+      },
+      {
+        "meaning": "신하",
+        "reading": "신"
+      },
+      {
+        "meaning": "밥",
+        "reading": "식"
+      }
     ]
   },
   {
@@ -4792,12 +6712,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '計'입니다. 計는 '셀 계'입니다. 빈칸에 計를 넣으면 家計(가계), 會計(회계), 計量(계량)이 됩니다.",
-    "choiceHints": [
-      "期(기약할 기)",
-      "共(함께 공)",
-      "計(셀 계)",
-      "同(한가지 동)",
-      "外(바깥 외)"
+    "choiceAnnotations": [
+      {
+        "meaning": "기약할",
+        "reading": "기"
+      },
+      {
+        "meaning": "함께",
+        "reading": "공"
+      },
+      {
+        "meaning": "셀",
+        "reading": "계"
+      },
+      {
+        "meaning": "한가지",
+        "reading": "동"
+      },
+      {
+        "meaning": "바깥",
+        "reading": "외"
+      }
     ]
   },
   {
@@ -4816,12 +6751,27 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '崇'입니다. 崇은 '높을 숭'입니다. 빈칸에 崇을 넣으면 崇仰(숭앙), 尊崇(존숭), 崇高(숭고)가 됩니다.",
-    "choiceHints": [
-      "偉(훌륭할 위)",
-      "逢(만날 봉)",
-      "盡(다할 진)",
-      "輕(가벼울 경)",
-      "崇(높을 숭)"
+    "choiceAnnotations": [
+      {
+        "meaning": "훌륭할",
+        "reading": "위"
+      },
+      {
+        "meaning": "만날",
+        "reading": "봉"
+      },
+      {
+        "meaning": "다할",
+        "reading": "진"
+      },
+      {
+        "meaning": "가벼울",
+        "reading": "경"
+      },
+      {
+        "meaning": "높을",
+        "reading": "숭"
+      }
     ]
   },
   {
@@ -4840,12 +6790,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '難'입니다. 難은 '어려울 난'입니다. 빈칸에 難을 넣으면 難色(난색), 受難(수난), 難易(난이)가 됩니다.",
-    "choiceHints": [
-      "面(얼굴 면)",
-      "業(업 업)",
-      "天(하늘 천)",
-      "難(어려울 난)",
-      "音(소리 음)"
+    "choiceAnnotations": [
+      {
+        "meaning": "얼굴",
+        "reading": "면"
+      },
+      {
+        "meaning": "업",
+        "reading": "업"
+      },
+      {
+        "meaning": "하늘",
+        "reading": "천"
+      },
+      {
+        "meaning": "어려울",
+        "reading": "난"
+      },
+      {
+        "meaning": "소리",
+        "reading": "음"
+      }
     ]
   },
   {
@@ -4864,12 +6829,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '密'입니다. 密은 '빽빽할 밀/은밀할 밀'입니다. 빈칸에 密을 넣으면 密命(밀명), 密語(밀어), 過密(과밀)이 됩니다.",
-    "choiceHints": [
-      "密(빽빽할/은밀할 밀)",
-      "肉(고기 육)",
-      "有(있을 유)",
-      "富(부유할 부)",
-      "運(옮길 운)"
+    "choiceAnnotations": [
+      {
+        "meaning": "빽빽할/은밀할",
+        "reading": "밀"
+      },
+      {
+        "meaning": "고기",
+        "reading": "육"
+      },
+      {
+        "meaning": "있을",
+        "reading": "유"
+      },
+      {
+        "meaning": "부유할",
+        "reading": "부"
+      },
+      {
+        "meaning": "옮길",
+        "reading": "운"
+      }
     ]
   },
   {
@@ -4888,12 +6868,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '現'입니다. 現은 '나타날 현'입니다. 빈칸에 現을 넣으면 現價(현가), 發現(발현), 表現(표현)이 됩니다.",
-    "choiceHints": [
-      "財(재물 재)",
-      "面(얼굴 면)",
-      "開(열 개)",
-      "現(나타날 현)",
-      "電(번개 전)"
+    "choiceAnnotations": [
+      {
+        "meaning": "재물",
+        "reading": "재"
+      },
+      {
+        "meaning": "얼굴",
+        "reading": "면"
+      },
+      {
+        "meaning": "열",
+        "reading": "개"
+      },
+      {
+        "meaning": "나타날",
+        "reading": "현"
+      },
+      {
+        "meaning": "번개",
+        "reading": "전"
+      }
     ]
   },
   {
@@ -4912,12 +6907,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '氷'입니다. 氷은 '얼음 빙'입니다. 빈칸에 氷을 넣으면 氷雪(빙설), 氷河(빙하), 結氷(결빙)이 됩니다.",
-    "choiceHints": [
-      "淸(맑을 청)",
-      "雨(비 우)",
-      "飛(날 비)",
-      "氷(얼음 빙)",
-      "作(지을 작)"
+    "choiceAnnotations": [
+      {
+        "meaning": "맑을",
+        "reading": "청"
+      },
+      {
+        "meaning": "비",
+        "reading": "우"
+      },
+      {
+        "meaning": "날",
+        "reading": "비"
+      },
+      {
+        "meaning": "얼음",
+        "reading": "빙"
+      },
+      {
+        "meaning": "지을",
+        "reading": "작"
+      }
     ]
   },
   {
@@ -4936,12 +6946,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '氏'입니다. 氏는 '성씨 씨'입니다. 빈칸에 氏를 넣으면 氏族(씨족), 宗氏(종씨), 母氏(모씨)가 됩니다.",
-    "choiceHints": [
-      "父(아버지 부)",
-      "兄(형 형)",
-      "仁(어질 인)",
-      "氏(성씨 씨)",
-      "安(편안할 안)"
+    "choiceAnnotations": [
+      {
+        "meaning": "아버지",
+        "reading": "부"
+      },
+      {
+        "meaning": "형",
+        "reading": "형"
+      },
+      {
+        "meaning": "어질",
+        "reading": "인"
+      },
+      {
+        "meaning": "성씨",
+        "reading": "씨"
+      },
+      {
+        "meaning": "편안할",
+        "reading": "안"
+      }
     ]
   },
   {
@@ -4960,12 +6985,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '牧'입니다. 牧은 '칠 목'입니다. 빈칸에 牧을 넣으면 放牧(방목), 牧畜(목축), 牧使(목사)가 됩니다.",
-    "choiceHints": [
-      "牧(칠 목)",
-      "差(다를 차)",
-      "養(기를 양)",
-      "苗(모 묘)",
-      "送(보낼 송)"
+    "choiceAnnotations": [
+      {
+        "meaning": "칠",
+        "reading": "목"
+      },
+      {
+        "meaning": "다를",
+        "reading": "차"
+      },
+      {
+        "meaning": "기를",
+        "reading": "양"
+      },
+      {
+        "meaning": "모",
+        "reading": "묘"
+      },
+      {
+        "meaning": "보낼",
+        "reading": "송"
+      }
     ]
   },
   {
@@ -4984,12 +7024,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '禁'입니다. 禁은 '금할 금'입니다. 빈칸에 禁을 넣으면 禁書(금서), 通禁(통금), 禁足(금족)이 됩니다.",
-    "choiceHints": [
-      "手(손 수)",
-      "行(다닐 행)",
-      "風(바람 풍)",
-      "禁(금할 금)",
-      "史(역사 사)"
+    "choiceAnnotations": [
+      {
+        "meaning": "손",
+        "reading": "수"
+      },
+      {
+        "meaning": "다닐",
+        "reading": "행"
+      },
+      {
+        "meaning": "바람",
+        "reading": "풍"
+      },
+      {
+        "meaning": "금할",
+        "reading": "금"
+      },
+      {
+        "meaning": "역사",
+        "reading": "사"
+      }
     ]
   },
   {
@@ -5008,12 +7063,27 @@
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '遺'입니다. 遺는 '남길 유/따를 수'입니다. 빈칸에 遺를 넣으면 遺俗(유속), 遺傳(유전), 遺志(유지)가 됩니다.",
-    "choiceHints": [
-      "風(바람 풍)",
-      "遺(남길 유/따를 수)",
-      "思(생각 사)",
-      "流(흐를 류)",
-      "由(말미암을 유)"
+    "choiceAnnotations": [
+      {
+        "meaning": "바람",
+        "reading": "풍"
+      },
+      {
+        "meaning": "따를",
+        "reading": "수"
+      },
+      {
+        "meaning": "생각",
+        "reading": "사"
+      },
+      {
+        "meaning": "흐를",
+        "reading": "류"
+      },
+      {
+        "meaning": "말미암을",
+        "reading": "유"
+      }
     ]
   },
   {
@@ -5032,12 +7102,27 @@
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '晩'입니다. 晩은 '저물 만'입니다. 빈칸에 晩을 넣으면 晩婚(만혼), 歲晩(세만), 早晩(조만)이 됩니다.",
-    "choiceHints": [
-      "結(맺을 결)",
-      "晩(저물 만)",
-      "寒(찰 한)",
-      "貧(가난할 빈)",
-      "逢(만날 봉)"
+    "choiceAnnotations": [
+      {
+        "meaning": "맺을",
+        "reading": "결"
+      },
+      {
+        "meaning": "저물",
+        "reading": "만"
+      },
+      {
+        "meaning": "찰",
+        "reading": "한"
+      },
+      {
+        "meaning": "가난할",
+        "reading": "빈"
+      },
+      {
+        "meaning": "만날",
+        "reading": "봉"
+      }
     ]
   },
   {
@@ -5056,12 +7141,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '頭'입니다. 頭는 '머리 두'입니다. 빈칸에 頭를 넣으면 頭角(두각), 話頭(화두), 頭上(두상)이 됩니다.",
-    "choiceHints": [
-      "家(집 가)",
-      "說(말씀 설)",
-      "天(하늘 천)",
-      "頭(머리 두)",
-      "法(법 법)"
+    "choiceAnnotations": [
+      {
+        "meaning": "집",
+        "reading": "가"
+      },
+      {
+        "meaning": "말씀",
+        "reading": "설"
+      },
+      {
+        "meaning": "하늘",
+        "reading": "천"
+      },
+      {
+        "meaning": "머리",
+        "reading": "두"
+      },
+      {
+        "meaning": "법",
+        "reading": "법"
+      }
     ]
   },
   {
@@ -5080,12 +7180,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '榮'입니다. 榮은 '꽃/영화 영'입니다. 빈칸에 榮을 넣으면 榮達(영달), 光榮(광영), 榮名(영명)이 됩니다.",
-    "choiceHints": [
-      "榮(꽃/영화 영)",
-      "善(착할 선)",
-      "告(알릴 고)",
-      "運(옮길 운)",
-      "無(없을 무)"
+    "choiceAnnotations": [
+      {
+        "meaning": "꽃/영화",
+        "reading": "영"
+      },
+      {
+        "meaning": "착할",
+        "reading": "선"
+      },
+      {
+        "meaning": "알릴",
+        "reading": "고"
+      },
+      {
+        "meaning": "옮길",
+        "reading": "운"
+      },
+      {
+        "meaning": "없을",
+        "reading": "무"
+      }
     ]
   },
   {
@@ -5104,12 +7219,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '最'입니다. 最는 '가장 최'입니다. 빈칸에 最를 넣으면 最古(최고), 最新(최신), 最少(최소)가 됩니다.",
-    "choiceHints": [
-      "淸(맑을 청)",
-      "革(가죽/고칠 혁)",
-      "多(많을 다)",
-      "最(가장 최)",
-      "近(가까울 근)"
+    "choiceAnnotations": [
+      {
+        "meaning": "맑을",
+        "reading": "청"
+      },
+      {
+        "meaning": "가죽/고칠",
+        "reading": "혁"
+      },
+      {
+        "meaning": "많을",
+        "reading": "다"
+      },
+      {
+        "meaning": "가장",
+        "reading": "최"
+      },
+      {
+        "meaning": "가까울",
+        "reading": "근"
+      }
     ]
   },
   {
@@ -5128,12 +7258,27 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '防'입니다. 防은 '막을 방'입니다. 빈칸에 防을 넣으면 防空(방공), 消防(소방), 防止(방지)가 됩니다.",
-    "choiceHints": [
-      "風(바람 풍)",
-      "同(한가지 동)",
-      "害(해로울 해)",
-      "中(가운데 중)",
-      "防(막을 방)"
+    "choiceAnnotations": [
+      {
+        "meaning": "바람",
+        "reading": "풍"
+      },
+      {
+        "meaning": "한가지",
+        "reading": "동"
+      },
+      {
+        "meaning": "해로울",
+        "reading": "해"
+      },
+      {
+        "meaning": "가운데",
+        "reading": "중"
+      },
+      {
+        "meaning": "막을",
+        "reading": "방"
+      }
     ]
   },
   {
@@ -5152,12 +7297,27 @@
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '勇'입니다. 勇은 '날랠 용'입니다. 빈칸에 勇을 넣으면 忠勇(충용), 勇將(용장), 勇氣(용기)가 됩니다.",
-    "choiceHints": [
-      "誠(정성 성)",
-      "勇(날랠 용)",
-      "知(알 지)",
-      "罪(허물/죄 죄)",
-      "卒(군사 졸)"
+    "choiceAnnotations": [
+      {
+        "meaning": "정성",
+        "reading": "성"
+      },
+      {
+        "meaning": "날랠",
+        "reading": "용"
+      },
+      {
+        "meaning": "알",
+        "reading": "지"
+      },
+      {
+        "meaning": "허물/죄",
+        "reading": "죄"
+      },
+      {
+        "meaning": "군사",
+        "reading": "졸"
+      }
     ]
   },
   {
@@ -5176,12 +7336,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '貨'입니다. 貨는 '재물 화'입니다. 빈칸에 貨를 넣으면 銀貨(은화), 貨主(화주), 良貨(양화)가 됩니다.",
-    "choiceHints": [
-      "全(온전할 전)",
-      "發(필 발)",
-      "金(쇠 금)",
-      "貨(재물 화)",
-      "車(수레 차)"
+    "choiceAnnotations": [
+      {
+        "meaning": "온전할",
+        "reading": "전"
+      },
+      {
+        "meaning": "필",
+        "reading": "발"
+      },
+      {
+        "meaning": "쇠",
+        "reading": "금"
+      },
+      {
+        "meaning": "재물",
+        "reading": "화"
+      },
+      {
+        "meaning": "수레",
+        "reading": "차"
+      }
     ]
   },
   {
@@ -5200,12 +7375,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '逸'입니다. 逸은 '편안할 일'입니다. 빈칸에 逸을 넣으면 隱逸(은일), 逸居(일거), 逸群(일군)이 됩니다.",
-    "choiceHints": [
-      "逸(편안할 일)",
-      "鷄(닭 계)",
-      "幽(그윽할 유)",
-      "德(덕 덕)",
-      "慢(게으를 만)"
+    "choiceAnnotations": [
+      {
+        "meaning": "편안할",
+        "reading": "일"
+      },
+      {
+        "meaning": "닭",
+        "reading": "계"
+      },
+      {
+        "meaning": "그윽할",
+        "reading": "유"
+      },
+      {
+        "meaning": "덕",
+        "reading": "덕"
+      },
+      {
+        "meaning": "게으를",
+        "reading": "만"
+      }
     ]
   },
   {
@@ -5224,12 +7414,27 @@
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '得'입니다. 得은 '얻을 득'입니다. 빈칸에 得을 넣으면 得道(득도), 利得(이득), 得意(득의)가 됩니다.",
-    "choiceHints": [
-      "步(걸음 보)",
-      "得(얻을 득)",
-      "善(착할 선)",
-      "變(변할 변)",
-      "害(해로울 해)"
+    "choiceAnnotations": [
+      {
+        "meaning": "걸음",
+        "reading": "보"
+      },
+      {
+        "meaning": "얻을",
+        "reading": "득"
+      },
+      {
+        "meaning": "착할",
+        "reading": "선"
+      },
+      {
+        "meaning": "변할",
+        "reading": "변"
+      },
+      {
+        "meaning": "해로울",
+        "reading": "해"
+      }
     ]
   },
   {
@@ -5248,12 +7453,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '陸'입니다. 陸은 '뭍/땅 륙'입니다. 빈칸에 陸을 넣으면 陸上(육상), 陸路(육로), 大陸(대륙)이 됩니다.",
-    "choiceHints": [
-      "無(없을 무)",
-      "命(목숨 명)",
-      "陸(뭍/땅 륙)",
-      "下(아래 하)",
-      "來(올 래)"
+    "choiceAnnotations": [
+      {
+        "meaning": "없을",
+        "reading": "무"
+      },
+      {
+        "meaning": "목숨",
+        "reading": "명"
+      },
+      {
+        "meaning": "뭍/땅",
+        "reading": "륙"
+      },
+      {
+        "meaning": "아래",
+        "reading": "하"
+      },
+      {
+        "meaning": "올",
+        "reading": "래"
+      }
     ]
   },
   {
@@ -5272,12 +7492,22 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '權利'입니다. 義務(의무)은 해야 할 일이고, 權利(권리)은 누릴 수 있는 권한이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "권리",
-      "면접",
-      "존망",
-      "발전",
-      "개성"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1jf081k"
+      },
+      {
+        "wordId": "word-pta9fn"
+      },
+      {
+        "wordId": "word-44ke85"
+      },
+      {
+        "wordId": "word-1k1g6wq"
+      },
+      {
+        "wordId": "word-ppqcia"
+      }
     ]
   },
   {
@@ -5296,12 +7526,22 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '保守'입니다. 革新(혁신)은 낡은 것을 고쳐 새롭게 함이고, 保守(보수)은 기존의 것을 지켜 유지함이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "야성",
-      "진보",
-      "중망",
-      "난해",
-      "보수"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1hnyemx"
+      },
+      {
+        "wordId": "word-1faffbw"
+      },
+      {
+        "wordId": "word-1pumuph"
+      },
+      {
+        "wordId": "word-gmo0t1"
+      },
+      {
+        "wordId": "word-11jwq14"
+      }
     ]
   },
   {
@@ -5320,12 +7560,22 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '密集'입니다. 散在(산재)은 흩어져 있음이고, 密集(밀집)은 빽빽이 모여 있음이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "밀집",
-      "묘안",
-      "방문",
-      "훈련",
-      "기대"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-xxigzc"
+      },
+      {
+        "wordId": "word-zyc4qg"
+      },
+      {
+        "wordId": "word-f5hcs7"
+      },
+      {
+        "wordId": "word-sl5fsq"
+      },
+      {
+        "wordId": "word-1xkj467"
+      }
     ]
   },
   {
@@ -5344,12 +7594,22 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '共同'입니다. 單獨(단독)은 홀로 함이고, 共同(공동)은 함께 함이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "의식",
-      "도달",
-      "복활",
-      "공동",
-      "전선"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1ok81o1"
+      },
+      {
+        "wordId": "word-jse78v"
+      },
+      {
+        "wordId": "word-14st7ei"
+      },
+      {
+        "wordId": "word-zll08e"
+      },
+      {
+        "wordId": "word-1fblt1x"
+      }
     ]
   },
   {
@@ -5368,12 +7628,22 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '支出'입니다. 收入(수입)은 들어옴이고, 支出(지출)은 나감이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "지출",
-      "제부",
-      "표정",
-      "형세",
-      "만기"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-49gw6c"
+      },
+      {
+        "wordId": "word-2p0b9p"
+      },
+      {
+        "wordId": "word-1lhqn7t"
+      },
+      {
+        "wordId": "word-t8fviu"
+      },
+      {
+        "wordId": "word-1ikpugp"
+      }
     ]
   },
   {
@@ -5392,12 +7662,22 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '悲哀'입니다. 歡樂(환락)은 즐거움이고, 悲哀(비애)은 슬픔이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "비애",
-      "인고",
-      "고결",
-      "상봉",
-      "당선"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1l2g3g5"
+      },
+      {
+        "wordId": "word-xkbqze"
+      },
+      {
+        "wordId": "word-uzghsn"
+      },
+      {
+        "wordId": "word-1e66ik3"
+      },
+      {
+        "wordId": "word-cmia2c"
+      }
     ]
   },
   {
@@ -5416,12 +7696,22 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '問題'입니다. 解答(해답)은 답함이고, 問題(문제)은 묻는 것이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "문제",
-      "충실",
-      "내력",
-      "퇴보",
-      "특별"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-o644oa"
+      },
+      {
+        "wordId": "word-1nyo2dc"
+      },
+      {
+        "wordId": "word-1tnf5ph"
+      },
+      {
+        "wordId": "word-1mmrjfa"
+      },
+      {
+        "wordId": "word-1hgy7vs"
+      }
     ]
   },
   {
@@ -5440,12 +7730,22 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '未備'입니다. 完全(완전)은 모두 갖춤이고, 未備(미비)은 아직 갖추지 못함이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "미비",
-      "참석",
-      "소원",
-      "대화",
-      "쇄도"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1fa9sgk"
+      },
+      {
+        "wordId": "word-m925zo"
+      },
+      {
+        "wordId": "word-1llun6n"
+      },
+      {
+        "wordId": "word-4f7hmp"
+      },
+      {
+        "wordId": "word-18b4blt"
+      }
     ]
   },
   {
@@ -5464,12 +7764,22 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '遺失'입니다. 拾得(습득)은 주움이고, 遺失(유실)은 잃어버림이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "녹음",
-      "곤란",
-      "훈련",
-      "가상",
-      "유실"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1etb8dy"
+      },
+      {
+        "wordId": "word-mebyx8"
+      },
+      {
+        "wordId": "word-sl5fsq"
+      },
+      {
+        "wordId": "word-1ffs2hq"
+      },
+      {
+        "wordId": "word-19d4hms"
+      }
     ]
   },
   {
@@ -5488,12 +7798,22 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '發展'입니다. 退步(퇴보)은 뒤로 물러남이고, 發展(발전)은 앞으로 나아감이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "송신",
-      "면접",
-      "증편",
-      "발전",
-      "담화"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-14vj3u8"
+      },
+      {
+        "wordId": "word-pta9fn"
+      },
+      {
+        "wordId": "word-1l9aupr"
+      },
+      {
+        "wordId": "word-1k1g6wq"
+      },
+      {
+        "wordId": "word-1td7sm3"
+      }
     ]
   },
   {
@@ -5512,12 +7832,22 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '質問'입니다. 對答(대답)은 대답함이고, 質問(질문)은 묻음이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "동향",
-      "과거",
-      "경사",
-      "도로",
-      "질문"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-piyw0b"
+      },
+      {
+        "wordId": "word-1j2eoq"
+      },
+      {
+        "wordId": "word-1xg771b"
+      },
+      {
+        "wordId": "word-12tfbs9"
+      },
+      {
+        "wordId": "word-1h36uoe"
+      }
     ]
   },
   {
@@ -5536,12 +7866,22 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '柔弱'입니다. 剛健(강건)은 굳세고 튼튼함이고, 柔弱(유약)은 부드럽고 약함이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "준걸",
-      "절도",
-      "유약",
-      "졸곡",
-      "배반"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1k3ifz4"
+      },
+      {
+        "wordId": "word-1wljott"
+      },
+      {
+        "wordId": "word-1svdio5"
+      },
+      {
+        "wordId": "word-1ihselz"
+      },
+      {
+        "wordId": "word-1dogwng"
+      }
     ]
   },
   {
@@ -5560,12 +7900,22 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '屈服'입니다. 抵抗(저항)은 맞서 저항함이고, 屈服(굴복)은 굴복하여 따름이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "맹서",
-      "오만",
-      "번복",
-      "굴복",
-      "모욕"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-ruofw"
+      },
+      {
+        "wordId": "word-cnqjqb"
+      },
+      {
+        "wordId": "word-1chmrcq"
+      },
+      {
+        "wordId": "word-uyyaw9"
+      },
+      {
+        "wordId": "word-134q40j"
+      }
     ]
   },
   {
@@ -5584,12 +7934,22 @@
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '作別'입니다. 相逢(상봉)은 만남이고, 作別(작별)은 헤어짐이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "웅지",
-      "작별",
-      "변성",
-      "극도",
-      "노숙"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-24z2vx"
+      },
+      {
+        "wordId": "word-5pqupz"
+      },
+      {
+        "wordId": "word-hg06h4"
+      },
+      {
+        "wordId": "word-147736v"
+      },
+      {
+        "wordId": "word-8t80ah"
+      }
     ]
   },
   {
@@ -5608,12 +7968,22 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '理想'입니다. 現實(현실)은 실제로 있는 것이고, 理想(이상)은 바라는 이상이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "전기",
-      "제시",
-      "이상",
-      "계량",
-      "독거"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-16n96xl"
+      },
+      {
+        "wordId": "word-1a3inmm"
+      },
+      {
+        "wordId": "word-qqk4hh"
+      },
+      {
+        "wordId": "word-egtmwj"
+      },
+      {
+        "wordId": "word-dz67c3"
+      }
     ]
   },
   {
@@ -5632,12 +8002,22 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '國內'입니다. 海外(해외)은 바다 밖이고, 國內(국내)은 나라 안이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "국내",
-      "한정",
-      "산업",
-      "물화",
-      "순서"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-s3tc80"
+      },
+      {
+        "wordId": "word-14gunn2"
+      },
+      {
+        "wordId": "word-ml7zj8"
+      },
+      {
+        "wordId": "word-13y97i0"
+      },
+      {
+        "wordId": "word-5h8boq"
+      }
     ]
   },
   {
@@ -5656,12 +8036,22 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '進行'입니다. 停止(정지)은 멈춤이고, 進行(진행)은 나아감이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "해약",
-      "주역",
-      "진행",
-      "운명",
-      "종강"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1gcu3rp"
+      },
+      {
+        "wordId": "word-141qwej"
+      },
+      {
+        "wordId": "word-47pngu"
+      },
+      {
+        "wordId": "word-ht3p4o"
+      },
+      {
+        "wordId": "word-9nsa68"
+      }
     ]
   },
   {
@@ -5680,12 +8070,22 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '富裕'입니다. 困窮(곤궁)은 궁함이고, 富裕(부유)은 넉넉함이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "면제",
-      "임명",
-      "파직",
-      "부유",
-      "굴신"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-12bojuw"
+      },
+      {
+        "wordId": "word-1ek20d4"
+      },
+      {
+        "wordId": "word-19gvr46"
+      },
+      {
+        "wordId": "word-hhv69u"
+      },
+      {
+        "wordId": "word-s0u6pr"
+      }
     ]
   },
   {
@@ -5704,12 +8104,22 @@
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '消費'입니다. 貯蓄(저축)은 저축함이고, 消費(소비)은 써 없앰이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "두서",
-      "소비",
-      "부세",
-      "수급",
-      "승단"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-zkafq6"
+      },
+      {
+        "wordId": "word-1moe0rc"
+      },
+      {
+        "wordId": "word-rbrltc"
+      },
+      {
+        "wordId": "word-salkve"
+      },
+      {
+        "wordId": "word-1oa5sta"
+      }
     ]
   },
   {
@@ -5728,12 +8138,22 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '出發'입니다. 到着(도착)은 도착함이고, 出發(출발)은 떠남이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "쇄도",
-      "방비",
-      "원망",
-      "출발",
-      "시혜"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-18b4blt"
+      },
+      {
+        "wordId": "word-1l8d9g5"
+      },
+      {
+        "wordId": "word-1x0gx9b"
+      },
+      {
+        "wordId": "word-fb1hpp"
+      },
+      {
+        "wordId": "word-h5lbok"
+      }
     ]
   },
   {
@@ -5752,12 +8172,22 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '原因'입니다. 結果(결과)은 일이 일어난 결과이고, 原因(원인)은 일이 일어난 까닭이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "도달",
-      "야간",
-      "방비",
-      "원인",
-      "문예"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-jse78v"
+      },
+      {
+        "wordId": "word-odaf6k"
+      },
+      {
+        "wordId": "word-1l8d9g5"
+      },
+      {
+        "wordId": "word-1ioq3hm"
+      },
+      {
+        "wordId": "word-5jmxi7"
+      }
     ]
   },
   {
@@ -5776,12 +8206,22 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '困難'입니다. 順調(순조)는 일이 막힘없이 잘되어 감이고, 困難(곤란)은 어렵고 곤란함이므로 서로 반대되는 한자어입니다.",
-    "choiceHints": [
-      "곤란",
-      "부조",
-      "과업",
-      "근무",
-      "경쟁"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-mebyx8"
+      },
+      {
+        "wordId": "word-iv10h0"
+      },
+      {
+        "wordId": "word-z0qs7z"
+      },
+      {
+        "wordId": "word-xw540e"
+      },
+      {
+        "wordId": "word-1xrve2q"
+      }
     ]
   },
   {
@@ -5800,12 +8240,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '行'입니다. 빈칸에 行을 넣으면 論功行賞이 됩니다. 공을 세워 상을 내린다는 뜻입니다. 行은 '행할 행/다닐 행'입니다.",
-    "choiceHints": [
-      "行(행할 행/다닐 행)",
-      "信(믿을 신)",
-      "可(옳을 가)",
-      "出(날 출)",
-      "議(의논할 의)"
+    "choiceAnnotations": [
+      {
+        "meaning": "다닐/행할",
+        "reading": "행"
+      },
+      {
+        "meaning": "믿을",
+        "reading": "신"
+      },
+      {
+        "meaning": "옳을",
+        "reading": "가"
+      },
+      {
+        "meaning": "날",
+        "reading": "출"
+      },
+      {
+        "meaning": "의논할",
+        "reading": "의"
+      }
     ]
   },
   {
@@ -5824,12 +8279,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '曲'입니다. 빈칸에 曲을 넣으면 是非曲直이 됩니다. 옳고 그름과 굽고 곧음을 따진다는 뜻입니다. 曲은 '굽을 곡'입니다.",
-    "choiceHints": [
-      "是(이/옳을 시)",
-      "作(지을 작)",
-      "曲(굽을 곡)",
-      "加(더할 가)",
-      "求(구할 구)"
+    "choiceAnnotations": [
+      {
+        "meaning": "이/옳을",
+        "reading": "시"
+      },
+      {
+        "meaning": "지을",
+        "reading": "작"
+      },
+      {
+        "meaning": "굽을",
+        "reading": "곡"
+      },
+      {
+        "meaning": "더할",
+        "reading": "가"
+      },
+      {
+        "meaning": "구할",
+        "reading": "구"
+      }
     ]
   },
   {
@@ -5848,12 +8318,27 @@
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '不'입니다. 빈칸에 不을 넣으면 獨不將軍이 됩니다. 혼자서는 장군이 될 수 없다는 뜻으로, 혼자서는 큰일을 이루기 어렵다는 말입니다. 不은 '아닐 불'입니다.",
-    "choiceHints": [
-      "行(다닐 행)",
-      "不(아닐 불)",
-      "身(몸 신)",
-      "入(들 입)",
-      "立(설 립)"
+    "choiceAnnotations": [
+      {
+        "meaning": "다닐",
+        "reading": "행"
+      },
+      {
+        "meaning": "아닐",
+        "reading": "불"
+      },
+      {
+        "meaning": "몸",
+        "reading": "신"
+      },
+      {
+        "meaning": "들",
+        "reading": "입"
+      },
+      {
+        "meaning": "설",
+        "reading": "립"
+      }
     ]
   },
   {
@@ -5872,12 +8357,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '代'입니다. 빈칸에 代를 넣으면 前代未聞이 됩니다. 지금까지 들어 본 적이 없다는 뜻입니다. 代는 '대신/세대 대'입니다.",
-    "choiceHints": [
-      "道(길 도)",
-      "時(때 시)",
-      "代(대신/세대 대)",
-      "後(뒤 후)",
-      "面(얼굴 면)"
+    "choiceAnnotations": [
+      {
+        "meaning": "길",
+        "reading": "도"
+      },
+      {
+        "meaning": "때",
+        "reading": "시"
+      },
+      {
+        "meaning": "대신/세대",
+        "reading": "대"
+      },
+      {
+        "meaning": "뒤",
+        "reading": "후"
+      },
+      {
+        "meaning": "얼굴",
+        "reading": "면"
+      }
     ]
   },
   {
@@ -5896,12 +8396,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '報'입니다. 빈칸에 報를 넣으면 結草報恩이 됩니다. 죽어서도 풀을 묶어 은혜를 갚는다는 뜻으로, 은혜를 잊지 않고 반드시 갚음을 이르는 말입니다. 報는 '갚을 보'입니다.",
-    "choiceHints": [
-      "保(지킬 보)",
-      "惠(은혜 혜)",
-      "救(구원할 구)",
-      "報(갚을 보)",
-      "步(걸음 보)"
+    "choiceAnnotations": [
+      {
+        "meaning": "지킬",
+        "reading": "보"
+      },
+      {
+        "meaning": "은혜",
+        "reading": "혜"
+      },
+      {
+        "meaning": "구원할",
+        "reading": "구"
+      },
+      {
+        "meaning": "갚을",
+        "reading": "보"
+      },
+      {
+        "meaning": "걸음",
+        "reading": "보"
+      }
     ]
   },
   {
@@ -5920,12 +8435,27 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '虎'입니다. 빈칸에 虎를 넣으면 三人成虎가 됩니다. 여러 사람이 같은 말을 하면 거짓도 사실처럼 믿게 된다는 뜻입니다. 虎는 '범 호'입니다.",
-    "choiceHints": [
-      "立(설 립)",
-      "神(귀신 신)",
-      "仁(어질 인)",
-      "市(시장 시)",
-      "虎(범 호)"
+    "choiceAnnotations": [
+      {
+        "meaning": "설",
+        "reading": "립"
+      },
+      {
+        "meaning": "귀신",
+        "reading": "신"
+      },
+      {
+        "meaning": "어질",
+        "reading": "인"
+      },
+      {
+        "meaning": "시장",
+        "reading": "시"
+      },
+      {
+        "meaning": "범",
+        "reading": "호"
+      }
     ]
   },
   {
@@ -5944,12 +8474,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '言'입니다. 빈칸에 言을 넣으면 重言復言이 됩니다. 같은 말을 되풀이한다는 뜻입니다. 言은 '말씀 언'입니다.",
-    "choiceHints": [
-      "言(말씀 언)",
-      "興(일 흥)",
-      "活(살 활)",
-      "古(옛 고)",
-      "命(목숨 명)"
+    "choiceAnnotations": [
+      {
+        "meaning": "말씀",
+        "reading": "언"
+      },
+      {
+        "meaning": "일",
+        "reading": "흥"
+      },
+      {
+        "meaning": "살",
+        "reading": "활"
+      },
+      {
+        "meaning": "옛",
+        "reading": "고"
+      },
+      {
+        "meaning": "목숨",
+        "reading": "명"
+      }
     ]
   },
   {
@@ -5968,12 +8513,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '計'입니다. 빈칸에 計을 넣으면 亡子計齒가 됩니다. 죽은 아이의 나이를 세어 한탄한다는 뜻으로, 이미 돌이킬 수 없는 일을 뒤늦게 후회함을 이르는 말입니다. 計는 '셀 계'입니다.",
-    "choiceHints": [
-      "好(좋을 호)",
-      "知(알 지)",
-      "兒(아이 아)",
-      "計(셀 계)",
-      "義(옳을 의)"
+    "choiceAnnotations": [
+      {
+        "meaning": "좋을",
+        "reading": "호"
+      },
+      {
+        "meaning": "알",
+        "reading": "지"
+      },
+      {
+        "meaning": "아이",
+        "reading": "아"
+      },
+      {
+        "meaning": "셀",
+        "reading": "계"
+      },
+      {
+        "meaning": "옳을",
+        "reading": "의"
+      }
     ]
   },
   {
@@ -5992,12 +8552,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '果'입니다. 빈칸에 果를 넣으면 因果應報이 됩니다. 원인과 결과, 벌과 보상이 서로 맞물린다는 뜻입니다. 果는 '열매 과'입니다.",
-    "choiceHints": [
-      "科(과목 과)",
-      "告(알릴 고)",
-      "果(열매 과)",
-      "課(공부할 과)",
-      "考(생각할 고)"
+    "choiceAnnotations": [
+      {
+        "meaning": "과목",
+        "reading": "과"
+      },
+      {
+        "meaning": "알릴",
+        "reading": "고"
+      },
+      {
+        "meaning": "열매",
+        "reading": "과"
+      },
+      {
+        "meaning": "공부할",
+        "reading": "과"
+      },
+      {
+        "meaning": "생각할",
+        "reading": "고"
+      }
     ]
   },
   {
@@ -6016,12 +8591,27 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '齒'입니다. 빈칸에 齒를 넣으면 角者無齒가 됩니다. 뿔 있는 짐승에게는 이가 없다는 뜻으로, 한 사람이 모든 재주나 복을 다 가질 수 없음을 이르는 말입니다. 齒는 '이 치'입니다.",
-    "choiceHints": [
-      "通(통할 통)",
-      "責(꾸짖을 책/빚 채)",
-      "身(몸 신)",
-      "患(근심 환)",
-      "齒(이 치)"
+    "choiceAnnotations": [
+      {
+        "meaning": "통할",
+        "reading": "통"
+      },
+      {
+        "meaning": "빚",
+        "reading": "채"
+      },
+      {
+        "meaning": "몸",
+        "reading": "신"
+      },
+      {
+        "meaning": "근심",
+        "reading": "환"
+      },
+      {
+        "meaning": "이",
+        "reading": "치"
+      }
     ]
   },
   {
@@ -6040,12 +8630,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '場'입니다. 빈칸에 場을 넣으면 滿場一致가 됩니다. 온 장에 한목소리로 같다는 뜻으로, 견해가 전원 일치함을 이르는 말입니다. 場은 '마당 장'입니다.",
-    "choiceHints": [
-      "場(마당 장)",
-      "章(글 장)",
-      "將(장수 장)",
-      "長(길 장)",
-      "爭(다툴 쟁)"
+    "choiceAnnotations": [
+      {
+        "meaning": "마당",
+        "reading": "장"
+      },
+      {
+        "meaning": "글",
+        "reading": "장"
+      },
+      {
+        "meaning": "장수",
+        "reading": "장"
+      },
+      {
+        "meaning": "길",
+        "reading": "장"
+      },
+      {
+        "meaning": "다툴",
+        "reading": "쟁"
+      }
     ]
   },
   {
@@ -6064,12 +8669,27 @@
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '年'입니다. 빈칸에 年을 넣으면 百年河淸이 됩니다. 백 년을 기다려도 황하의 물이 맑아지기 어렵다는 뜻으로, 아무리 오래 기다려도 바라는 일이 이루어지기 어려움을 이르는 말입니다. 年은 '해 년'입니다.",
-    "choiceHints": [
-      "代(대신/세대 대)",
-      "年(해 년)",
-      "步(걸음 보)",
-      "時(때 시)",
-      "萬(일만 만)"
+    "choiceAnnotations": [
+      {
+        "meaning": "대신/세대",
+        "reading": "대"
+      },
+      {
+        "meaning": "해",
+        "reading": "년"
+      },
+      {
+        "meaning": "걸음",
+        "reading": "보"
+      },
+      {
+        "meaning": "때",
+        "reading": "시"
+      },
+      {
+        "meaning": "일만",
+        "reading": "만"
+      }
     ]
   },
   {
@@ -6088,12 +8708,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '利'입니다. 빈칸에 利를 넣으면 見利思義가 됩니다. 이익을 보면 먼저 의로움을 생각한다는 뜻입니다. 利는 '이로울 리'입니다.",
-    "choiceHints": [
-      "安(편안할 안)",
-      "守(지킬 수)",
-      "利(이로울 리)",
-      "例(법식 례)",
-      "理(다스릴 리)"
+    "choiceAnnotations": [
+      {
+        "meaning": "편안할",
+        "reading": "안"
+      },
+      {
+        "meaning": "지킬",
+        "reading": "수"
+      },
+      {
+        "meaning": "이로울",
+        "reading": "리"
+      },
+      {
+        "meaning": "법식",
+        "reading": "례"
+      },
+      {
+        "meaning": "다스릴",
+        "reading": "리"
+      }
     ]
   },
   {
@@ -6112,12 +8747,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '接'입니다. 빈칸에 接을 넣으면 皮骨相接이 됩니다. 살가죽과 뼈가 맞닿을 정도로 몹시 마른 상태를 뜻합니다. 接은 '이을 접'입니다.",
-    "choiceHints": [
-      "接(이을 접)",
-      "的(과녁 적)",
-      "全(온전할 전)",
-      "感(느낄 감)",
-      "店(가게 점)"
+    "choiceAnnotations": [
+      {
+        "meaning": "이을",
+        "reading": "접"
+      },
+      {
+        "meaning": "과녁",
+        "reading": "적"
+      },
+      {
+        "meaning": "온전할",
+        "reading": "전"
+      },
+      {
+        "meaning": "느낄",
+        "reading": "감"
+      },
+      {
+        "meaning": "가게",
+        "reading": "점"
+      }
     ]
   },
   {
@@ -6136,12 +8786,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '可'입니다. 빈칸에 可를 넣으면 不可思議이 됩니다. 생각으로 헤아릴 수 없을 만큼 매우 이상함을 뜻합니다. 可는 '옳을 가'입니다.",
-    "choiceHints": [
-      "可(옳을 가)",
-      "歌(노래 가)",
-      "家(집 가)",
-      "街(거리 가)",
-      "加(더할 가)"
+    "choiceAnnotations": [
+      {
+        "meaning": "옳을",
+        "reading": "가"
+      },
+      {
+        "meaning": "노래",
+        "reading": "가"
+      },
+      {
+        "meaning": "집",
+        "reading": "가"
+      },
+      {
+        "meaning": "거리",
+        "reading": "가"
+      },
+      {
+        "meaning": "더할",
+        "reading": "가"
+      }
     ]
   },
   {
@@ -6278,7 +8943,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '一日三秋'입니다. 一日三秋는 一(한 일), 日(날 일), 三(석 삼), 秋(가을 추)으로 이루어진 말입니다. '매우 지루하거나 몹시 애태우며 기다림'을 뜻합니다."
+    "explanation": "정답은 '一日三秋'입니다. 一日三秋는 一(한 일), 日(날 일), 三(석 삼), 秋(가을 추)으로 이루어진 말입니다. '매우 지루하거나 몹시 애태우며 기다림'을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1nt03vm"
+      },
+      {
+        "wordId": "word-12huajp"
+      },
+      {
+        "wordId": "word-499dok"
+      },
+      {
+        "wordId": "word-eg7twt"
+      },
+      {
+        "wordId": "word-1v27u6y"
+      }
+    ]
   },
   {
     "id": "q-3-298",
@@ -6295,7 +8977,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '權不十年'입니다. 權不十年은 權(권세 권), 不(아닐 불), 十(열 십), 年(해 년)으로 이루어진 말입니다. '권세는 오래 가지 못함'을 뜻합니다."
+    "explanation": "정답은 '權不十年'입니다. 權不十年은 權(권세 권), 不(아닐 불), 十(열 십), 年(해 년)으로 이루어진 말입니다. '권세는 오래 가지 못함'을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-hjekff"
+      },
+      {
+        "wordId": "word-1nt03vm"
+      },
+      {
+        "wordId": "word-1hz27su"
+      },
+      {
+        "wordId": "word-9ugtg1"
+      },
+      {
+        "wordId": "word-t2ehjs"
+      }
+    ]
   },
   {
     "id": "q-3-299",
@@ -6312,7 +9011,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '空前絶後'입니다. 空前絶後는 空(빌 공), 前(앞 전), 絶(끊을 절), 後(뒤 후)으로 이루어진 말입니다. '이전에도 없었고 앞으로도 없음'을 뜻합니다."
+    "explanation": "정답은 '空前絶後'입니다. 空前絶後는 空(빌 공), 前(앞 전), 絶(끊을 절), 後(뒤 후)으로 이루어진 말입니다. '이전에도 없었고 앞으로도 없음'을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-8swrma"
+      },
+      {
+        "wordId": "word-u0blp3"
+      },
+      {
+        "wordId": "word-1hz27su"
+      },
+      {
+        "wordId": "word-9utmen"
+      },
+      {
+        "wordId": "word-x3tes"
+      }
+    ]
   },
   {
     "id": "q-3-300",
@@ -6329,7 +9045,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '敎學相長'입니다. 敎學相長은 敎(가르칠 교), 學(배울 학), 相(서로 상), 長(길 장)으로 이루어진 말입니다. '가르치고 배우는 일은 자기의 학업을 증진시킴'을 뜻합니다."
+    "explanation": "정답은 '敎學相長'입니다. 敎學相長은 敎(가르칠 교), 學(배울 학), 相(서로 상), 長(길 장)으로 이루어진 말입니다. '가르치고 배우는 일은 자기의 학업을 증진시킴'을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-cg0n55"
+      },
+      {
+        "wordId": "word-1ayqzl2"
+      },
+      {
+        "wordId": "word-55uk2r"
+      },
+      {
+        "wordId": "word-9lh5pv"
+      },
+      {
+        "wordId": "word-sd9o5j"
+      }
+    ]
   },
   {
     "id": "q-3-301",
@@ -6346,7 +9079,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '水落石出'입니다. 水落石出은 水(물 수), 落(떨어질 락), 石(돌 석), 出(날 출)으로 이루어진 말입니다. '일의 전모가 뒷날에 드러남'을 뜻합니다."
+    "explanation": "정답은 '水落石出'입니다. 水落石出은 水(물 수), 落(떨어질 락), 石(돌 석), 出(날 출)으로 이루어진 말입니다. '일의 전모가 뒷날에 드러남'을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-eg7twt"
+      },
+      {
+        "wordId": "word-18srsr4"
+      },
+      {
+        "wordId": "word-akik4d"
+      },
+      {
+        "wordId": "word-1tgl62"
+      },
+      {
+        "wordId": "word-7dj1o7"
+      }
+    ]
   },
   {
     "id": "q-3-302",
@@ -6363,7 +9113,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '牛耳讀經'입니다. 牛耳讀經은 牛(소 우), 耳(귀 이), 讀(읽을 독), 經(글 경)으로 이루어진 말입니다. '아무리 가르치고 일러 주어도 알아듣지 못함'을 뜻합니다."
+    "explanation": "정답은 '牛耳讀經'입니다. 牛耳讀經은 牛(소 우), 耳(귀 이), 讀(읽을 독), 經(글 경)으로 이루어진 말입니다. '아무리 가르치고 일러 주어도 알아듣지 못함'을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-197xmiy"
+      },
+      {
+        "wordId": "word-va5hb7"
+      },
+      {
+        "wordId": "word-ttd60e"
+      },
+      {
+        "wordId": "word-1uv5mv4"
+      },
+      {
+        "wordId": "word-1hjbsuy"
+      }
+    ]
   },
   {
     "id": "q-3-303",
@@ -6380,7 +9147,24 @@
     ],
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '殺身成仁'입니다. 殺身成仁은 殺(죽일 살/감할/빠를 쇄), 身(몸 신), 成(이룰 성), 仁(어질 인)으로 이루어진 말입니다. '옳은 일을 위하여 자기 몸을 희생함'을 뜻합니다."
+    "explanation": "정답은 '殺身成仁'입니다. 殺身成仁은 殺(죽일 살/감할/빠를 쇄), 身(몸 신), 成(이룰 성), 仁(어질 인)으로 이루어진 말입니다. '옳은 일을 위하여 자기 몸을 희생함'을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-sd9o5j"
+      },
+      {
+        "wordId": "word-mgvtfy"
+      },
+      {
+        "wordId": "word-1cccg9h"
+      },
+      {
+        "wordId": "word-1j7y60n"
+      },
+      {
+        "wordId": "word-432q8h"
+      }
+    ]
   },
   {
     "id": "q-3-304",
@@ -6397,7 +9181,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '見事生風'입니다. 見事生風은 見(볼 견), 事(일 사), 生(날 생), 風(바람 풍)으로 이루어진 말입니다. '일을 시원시원하게 빨리 처리해 냄'을 뜻합니다."
+    "explanation": "정답은 '見事生風'입니다. 見事生風은 見(볼 견), 事(일 사), 生(날 생), 風(바람 풍)으로 이루어진 말입니다. '일을 시원시원하게 빨리 처리해 냄'을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-10njh04"
+      },
+      {
+        "wordId": "word-1ias4r9"
+      },
+      {
+        "wordId": "word-1tuk5tw"
+      },
+      {
+        "wordId": "word-1lfjhum"
+      },
+      {
+        "wordId": "word-1j7y60n"
+      }
+    ]
   },
   {
     "id": "q-3-305",
@@ -6414,7 +9215,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '角者無齒'입니다. 角者無齒는 角(뿔 각), 者(사람 자), 無(없을 무), 齒(이 치)으로 이루어진 말입니다. '한 사람이 모든 재주나 복을 다 가질 수 없음'을 뜻합니다."
+    "explanation": "정답은 '角者無齒'입니다. 角者無齒는 角(뿔 각), 者(사람 자), 無(없을 무), 齒(이 치)으로 이루어진 말입니다. '한 사람이 모든 재주나 복을 다 가질 수 없음'을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-9ugtg1"
+      },
+      {
+        "wordId": "word-ki7w2s"
+      },
+      {
+        "wordId": "word-x4m1bu"
+      },
+      {
+        "wordId": "word-55uk2r"
+      },
+      {
+        "wordId": "word-1wphaqo"
+      }
+    ]
   },
   {
     "id": "q-3-306",
@@ -6431,7 +9249,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '門前成市'입니다. 門前成市는 門(문 문), 前(앞 전), 成(이룰 성), 市(시장 시)으로 이루어진 말입니다. '찾아오는 사람이 많음'을 뜻합니다."
+    "explanation": "정답은 '門前成市'입니다. 門前成市는 門(문 문), 前(앞 전), 成(이룰 성), 市(시장 시)으로 이루어진 말입니다. '찾아오는 사람이 많음'을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1hz27su"
+      },
+      {
+        "wordId": "word-7dj1o7"
+      },
+      {
+        "wordId": "word-8bfnww"
+      },
+      {
+        "wordId": "word-x57kl9"
+      },
+      {
+        "wordId": "word-6746bo"
+      }
+    ]
   },
   {
     "id": "q-3-307",
@@ -6550,7 +9385,29 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '열거'입니다. 列은 단어 첫머리에서 열로 읽어 列擧는 열거입니다."
+    "explanation": "정답은 '열거'입니다. 列擧는 列(벌일 렬), 擧(들 거)으로 이루어진 말입니다. 列은 단어 첫머리에서 열로 읽어 列擧는 열거입니다.",
+    "choiceAnnotations": [
+      {
+        "meaning": "試食",
+        "reading": "시험 시 / 밥/먹을 식"
+      },
+      {
+        "meaning": "說明",
+        "reading": "말씀 설 / 밝을 명"
+      },
+      {
+        "meaning": "擧論",
+        "reading": "들 거 / 논할 론"
+      },
+      {
+        "meaning": "列擧",
+        "reading": "벌일 렬 / 들 거"
+      },
+      {
+        "meaning": "解說",
+        "reading": "풀 해 / 말씀 설"
+      }
+    ]
   },
   {
     "id": "q-3-314",
@@ -6856,7 +9713,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '使命'입니다. 使命은 使(하여금/시킬 사), 命(목숨 명)으로 이루어진 말입니다. 使命은 맡겨진 임무나 사명을 뜻하므로, 대통령의 중요한 임무를 받고 출국했다는 문맥에 알맞습니다."
+    "explanation": "정답은 '使命'입니다. 使命은 使(하여금/시킬 사), 命(목숨 명)으로 이루어진 말입니다. 使命은 맡겨진 임무나 사명을 뜻하므로, 대통령의 중요한 임무를 받고 출국했다는 문맥에 알맞습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-sb9ed3"
+      },
+      {
+        "wordId": "word-1y10vog"
+      },
+      {
+        "wordId": "word-1vsxhnn"
+      },
+      {
+        "wordId": "word-80hnsk"
+      },
+      {
+        "wordId": "word-8nj87y"
+      }
+    ]
   },
   {
     "id": "q-3-332",
@@ -6873,7 +9747,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '意識'입니다. 意識은 意(뜻 의), 識(알 식)으로 이루어진 말입니다. 意識은 어떤 일에 대한 생각이나 깨달음을 뜻하므로, 자연환경을 보존하려는 생각이 높아진다는 문맥에 알맞습니다."
+    "explanation": "정답은 '意識'입니다. 意識은 意(뜻 의), 識(알 식)으로 이루어진 말입니다. 意識은 어떤 일에 대한 생각이나 깨달음을 뜻하므로, 자연환경을 보존하려는 생각이 높아진다는 문맥에 알맞습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-165khmm"
+      },
+      {
+        "wordId": "word-nd8gcb"
+      },
+      {
+        "wordId": "word-1ok81o1"
+      },
+      {
+        "wordId": "word-t4z5zq"
+      },
+      {
+        "wordId": "word-jgtek"
+      }
+    ]
   },
   {
     "id": "q-3-333",
@@ -6890,7 +9781,24 @@
     ],
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '所願'입니다. 所願은 所(바 소), 願(원할 원)으로 이루어진 말입니다. 所願은 바라는 소원을 뜻하므로, 탑 주위를 빙빙 돌며 소원을 빌었다는 문맥에 알맞습니다."
+    "explanation": "정답은 '所願'입니다. 所願은 所(바 소), 願(원할 원)으로 이루어진 말입니다. 所願은 바라는 소원을 뜻하므로, 탑 주위를 빙빙 돌며 소원을 빌었다는 문맥에 알맞습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-tuz6pr"
+      },
+      {
+        "wordId": "word-1llun6n"
+      },
+      {
+        "wordId": "word-1vvcdif"
+      },
+      {
+        "wordId": "word-1gsww5z"
+      },
+      {
+        "wordId": "word-y84lrr"
+      }
+    ]
   },
   {
     "id": "q-3-334",
@@ -6907,7 +9815,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '受賞'입니다. 受賞은 受(받을 수), 賞(상줄 상)으로 이루어진 말입니다. 受賞은 상을 받음을 뜻하므로, 많은 대회에서 상을 받은 경력이 있다는 문맥에 알맞습니다."
+    "explanation": "정답은 '受賞'입니다. 受賞은 受(받을 수), 賞(상줄 상)으로 이루어진 말입니다. 受賞은 상을 받음을 뜻하므로, 많은 대회에서 상을 받은 경력이 있다는 문맥에 알맞습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-5lxz80"
+      },
+      {
+        "wordId": "word-1pxouql"
+      },
+      {
+        "wordId": "word-trsr53"
+      },
+      {
+        "wordId": "word-x1ys5s"
+      },
+      {
+        "wordId": "word-g2d56q"
+      }
+    ]
   },
   {
     "id": "q-3-335",
@@ -6924,7 +9849,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '順應'입니다. 順應은 順(순할 순), 應(응할 응)으로 이루어진 말입니다. 順應은 환경이나 변화에 맞추어 따름을 뜻하므로, 세태에 맞추어 행동했다는 문맥에 알맞습니다."
+    "explanation": "정답은 '順應'입니다. 順應은 順(순할 순), 應(응할 응)으로 이루어진 말입니다. 順應은 환경이나 변화에 맞추어 따름을 뜻하므로, 세태에 맞추어 행동했다는 문맥에 알맞습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-jse78v"
+      },
+      {
+        "wordId": "word-1ns0iur"
+      },
+      {
+        "wordId": "word-7s3k3j"
+      },
+      {
+        "wordId": "word-1t3wogg"
+      },
+      {
+        "wordId": "word-1dmybmj"
+      }
+    ]
   },
   {
     "id": "q-3-336",
@@ -6941,7 +9883,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '電報'입니다. 電報는 電(번개 전), 報(갚을 보)으로 이루어진 말입니다. 電報는 전신으로 보내는 소식을 뜻하므로, 고향에서 전보가 한 통 와 있었다는 문맥에 알맞습니다."
+    "explanation": "정답은 '電報'입니다. 電報는 電(번개 전), 報(갚을 보)으로 이루어진 말입니다. 電報는 전신으로 보내는 소식을 뜻하므로, 고향에서 전보가 한 통 와 있었다는 문맥에 알맞습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1h5ptsv"
+      },
+      {
+        "wordId": "word-12c77ib"
+      },
+      {
+        "wordId": "word-f4yzd3"
+      },
+      {
+        "wordId": "word-fdgel9"
+      },
+      {
+        "wordId": "word-ankl97"
+      }
+    ]
   },
   {
     "id": "q-3-337",
@@ -6958,7 +9917,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '高尙'입니다. 高尙은 高(높을 고), 尙(오히려/높을 상)으로 이루어진 말입니다. 高尙은 품격이 높고 고결함을 뜻하므로, 고상하고 지적이며 우아하다는 문맥에 알맞습니다."
+    "explanation": "정답은 '高尙'입니다. 高尙은 高(높을 고), 尙(오히려/높을 상)으로 이루어진 말입니다. 高尙은 품격이 높고 고결함을 뜻하므로, 고상하고 지적이며 우아하다는 문맥에 알맞습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-x5ryee"
+      },
+      {
+        "wordId": "word-b1npss"
+      },
+      {
+        "wordId": "word-ywwgii"
+      },
+      {
+        "wordId": "word-hqry8l"
+      },
+      {
+        "wordId": "word-15ch0jz"
+      }
+    ]
   },
   {
     "id": "q-3-338",
@@ -6975,7 +9951,24 @@
     ],
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '追放'입니다. 追放은 追(쫓을 추), 放(놓을 방)으로 이루어진 말입니다. 追放은 일정한 곳에서 쫓아냄을 뜻하므로, 고향에서 쫓겨났다는 문맥에 알맞습니다."
+    "explanation": "정답은 '追放'입니다. 追放은 追(쫓을 추), 放(놓을 방)으로 이루어진 말입니다. 追放은 일정한 곳에서 쫓아냄을 뜻하므로, 고향에서 쫓겨났다는 문맥에 알맞습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-vilr2g"
+      },
+      {
+        "wordId": "word-u9t1rt"
+      },
+      {
+        "wordId": "word-vn64h7"
+      },
+      {
+        "wordId": "word-ukmij"
+      },
+      {
+        "wordId": "word-gxiqrh"
+      }
+    ]
   },
   {
     "id": "q-3-339",
@@ -6992,7 +9985,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '連接'입니다. 連은 단어 첫머리에서 연으로 읽어 連接은 연접입니다."
+    "explanation": "정답은 '連接'입니다. 連은 단어 첫머리에서 연으로 읽어 連接은 연접입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1sjmk00"
+      },
+      {
+        "wordId": "word-18t5e75"
+      },
+      {
+        "wordId": "word-zc8ukl"
+      },
+      {
+        "wordId": "word-qsq30e"
+      },
+      {
+        "wordId": "word-gerdqo"
+      }
+    ]
   },
   {
     "id": "q-3-340",
@@ -7009,7 +10019,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '詩調'입니다. 문맥에서는 '시조'를 時調로 써야 합니다. 時調는 時(때 시), 調(고를 조)으로 이루어진 말입니다. 詩는 '시 시'라서 이 표기에는 맞지 않습니다."
+    "explanation": "정답은 '詩調'입니다. 문맥에서는 '시조'를 時調로 써야 합니다. 時調는 時(때 시), 調(고를 조)으로 이루어진 말입니다. 詩는 '시 시'라서 이 표기에는 맞지 않습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1sb1upo"
+      },
+      {
+        "wordId": "word-rz48wg"
+      },
+      {
+        "wordId": "word-6ajwu5"
+      },
+      {
+        "wordId": "word-b6adkz"
+      },
+      {
+        "wordId": "word-15bhqu8"
+      }
+    ]
   },
   {
     "id": "q-3-341",
@@ -7026,7 +10053,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '時作'입니다. 문맥에서는 '시작'을 始作으로 써야 합니다. 始作은 始(처음 시), 作(지을 작)으로 이루어진 말입니다. 時는 '때 시'라서 이 표기에는 맞지 않습니다."
+    "explanation": "정답은 '時作'입니다. 문맥에서는 '시작'을 始作으로 써야 합니다. 始作은 始(처음 시), 作(지을 작)으로 이루어진 말입니다. 時는 '때 시'라서 이 표기에는 맞지 않습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-flil6e"
+      },
+      {
+        "wordId": "word-u71utd"
+      },
+      {
+        "wordId": "word-17p28d9"
+      },
+      {
+        "wordId": "word-19nj9b5"
+      },
+      {
+        "wordId": "word-wscin2"
+      }
+    ]
   },
   {
     "id": "q-3-342",
@@ -7043,7 +10087,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '代'입니다. 문맥에서는 '대하다'를 對로 써야 합니다. 對는 '대할 대'입니다. 代는 '대신/세대 대'라서 이 표기에는 맞지 않습니다."
+    "explanation": "정답은 '代'입니다. 문맥에서는 '대하다'를 對로 써야 합니다. 對는 '대할 대'입니다. 代는 '대신/세대 대'라서 이 표기에는 맞지 않습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-4d7yvu"
+      },
+      {
+        "wordId": "word-d3hc7y"
+      },
+      {
+        "wordId": "word-1vmk7ar"
+      },
+      {
+        "wordId": "word-12o60ym"
+      },
+      {
+        "wordId": "word-1rob6ff"
+      }
+    ]
   },
   {
     "id": "q-3-343",
@@ -7060,7 +10121,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '生活事'입니다. 문맥에서는 '생활사'를 生活史로 써야 합니다. 生活史는 生(날 생), 活(살 활), 史(역사 사)으로 이루어진 말입니다. 事는 '일 사'라서 이 표기에는 맞지 않습니다."
+    "explanation": "정답은 '生活事'입니다. 문맥에서는 '생활사'를 生活史로 써야 합니다. 生活史는 生(날 생), 活(살 활), 史(역사 사)으로 이루어진 말입니다. 事는 '일 사'라서 이 표기에는 맞지 않습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-u6ayg3"
+      },
+      {
+        "wordId": "word-1os0v3p"
+      },
+      {
+        "wordId": "word-f206lp"
+      },
+      {
+        "wordId": "word-134kllz"
+      },
+      {
+        "wordId": "word-q7rg4z"
+      }
+    ]
   },
   {
     "id": "q-3-344",
@@ -7077,7 +10155,24 @@
     ],
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '成理學者'입니다. 문맥에서는 '성리학자'를 性理學者로 써야 합니다. 性理學者는 性(성품 성), 理(다스릴 리), 學(배울 학), 者(사람 자)으로 이루어진 말입니다. 成은 '이룰 성'이라서 이 표기에는 맞지 않습니다."
+    "explanation": "정답은 '成理學者'입니다. 문맥에서는 '성리학자'를 性理學者로 써야 합니다. 性理學者는 性(성품 성), 理(다스릴 리), 學(배울 학), 者(사람 자)으로 이루어진 말입니다. 成은 '이룰 성'이라서 이 표기에는 맞지 않습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-7wqh5o"
+      },
+      {
+        "wordId": "word-b7t9md"
+      },
+      {
+        "wordId": "word-4d7yvu"
+      },
+      {
+        "wordId": "word-5s78i4"
+      },
+      {
+        "wordId": "word-1j6ewuj"
+      }
+    ]
   },
   {
     "id": "q-3-345",
@@ -7094,7 +10189,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '利解'입니다. 문맥에서는 '이해'를 理解로 써야 합니다. 理解는 理(다스릴 리), 解(풀 해)으로 이루어진 말입니다. 利는 '이로울 리'라서 이 표기에는 맞지 않습니다."
+    "explanation": "정답은 '利解'입니다. 문맥에서는 '이해'를 理解로 써야 합니다. 理解는 理(다스릴 리), 解(풀 해)으로 이루어진 말입니다. 利는 '이로울 리'라서 이 표기에는 맞지 않습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1kvbg2u"
+      },
+      {
+        "wordId": "word-eb6xo4"
+      },
+      {
+        "wordId": "word-1jprbsb"
+      },
+      {
+        "wordId": "word-19ndpz"
+      },
+      {
+        "wordId": "word-1b3u0x2"
+      }
+    ]
   },
   {
     "id": "q-3-346",
@@ -7111,7 +10223,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '將次'입니다. 將次는 將(장수 장), 次(차례 차)으로 이루어진 말입니다."
+    "explanation": "정답은 '將次'입니다. 將次는 將(장수 장), 次(차례 차)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-186o8f8"
+      },
+      {
+        "wordId": "word-5f158m"
+      },
+      {
+        "wordId": "word-1d7x4uu"
+      },
+      {
+        "wordId": "word-cargq0"
+      },
+      {
+        "wordId": "word-1wo53fg"
+      }
+    ]
   },
   {
     "id": "q-3-347",
@@ -7128,7 +10257,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '展示'입니다. 展示는 展(펼 전), 示(보일 시)으로 이루어진 말입니다."
+    "explanation": "정답은 '展示'입니다. 展示는 展(펼 전), 示(보일 시)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1cgjcua"
+      },
+      {
+        "wordId": "word-zi47sh"
+      },
+      {
+        "wordId": "word-vgy5c9"
+      },
+      {
+        "wordId": "word-1avy9k8"
+      },
+      {
+        "wordId": "word-41q226"
+      }
+    ]
   },
   {
     "id": "q-3-348",
@@ -7145,7 +10291,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '製造'입니다. 製造는 製(지을/만들 제), 造(지을/만들 조)으로 이루어진 말입니다."
+    "explanation": "정답은 '製造'입니다. 製造는 製(지을/만들 제), 造(지을/만들 조)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1oingf"
+      },
+      {
+        "wordId": "word-cu44oj"
+      },
+      {
+        "wordId": "word-15sqjzt"
+      },
+      {
+        "wordId": "word-11wnwf4"
+      },
+      {
+        "wordId": "word-p8kei4"
+      }
+    ]
   },
   {
     "id": "q-3-349",
@@ -7162,7 +10325,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '油田'입니다. 油田은 油(기름 유), 田(밭 전)으로 이루어진 말입니다."
+    "explanation": "정답은 '油田'입니다. 油田은 油(기름 유), 田(밭 전)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-13dg4vo"
+      },
+      {
+        "wordId": "word-sih0gc"
+      },
+      {
+        "wordId": "word-1abulx8"
+      },
+      {
+        "wordId": "word-z7yjno"
+      },
+      {
+        "wordId": "word-fnvh4c"
+      }
+    ]
   },
   {
     "id": "q-3-350",
@@ -7179,7 +10359,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '精神'입니다. 精神은 精(정할 정), 神(귀신 신)으로 이루어진 말입니다."
+    "explanation": "정답은 '精神'입니다. 精神은 精(정할 정), 神(귀신 신)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-139xyvf"
+      },
+      {
+        "wordId": "word-7vf4pr"
+      },
+      {
+        "wordId": "word-1jynedu"
+      },
+      {
+        "wordId": "word-fyttad"
+      },
+      {
+        "wordId": "word-1yap82u"
+      }
+    ]
   },
   {
     "id": "q-3-351",
@@ -7196,7 +10393,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '勇氣'입니다. 勇氣는 勇(날랠 용), 氣(기운 기)으로 이루어진 말입니다."
+    "explanation": "정답은 '勇氣'입니다. 勇氣는 勇(날랠 용), 氣(기운 기)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-3zb3du"
+      },
+      {
+        "wordId": "word-fyt40j"
+      },
+      {
+        "wordId": "word-14vjlc9"
+      },
+      {
+        "wordId": "word-4trp1f"
+      },
+      {
+        "wordId": "word-y7v10g"
+      }
+    ]
   },
   {
     "id": "q-3-352",
@@ -7213,7 +10427,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '思考'입니다. 思考는 思(생각 사), 考(생각할 고)으로 이루어진 말입니다."
+    "explanation": "정답은 '思考'입니다. 思考는 思(생각 사), 考(생각할 고)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1l3ak81"
+      },
+      {
+        "wordId": "word-41lviv"
+      },
+      {
+        "wordId": "word-1nw57ir"
+      },
+      {
+        "wordId": "word-1vnezvp"
+      },
+      {
+        "wordId": "word-1abaab5"
+      }
+    ]
   },
   {
     "id": "q-3-353",
@@ -7230,7 +10461,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '宇宙'입니다. 宇宙는 宇(집 우), 宙(집 주)으로 이루어진 말입니다."
+    "explanation": "정답은 '宇宙'입니다. 宇宙는 宇(집 우), 宙(집 주)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-qthu7y"
+      },
+      {
+        "wordId": "word-1vzd0u6"
+      },
+      {
+        "wordId": "word-b9bqln"
+      },
+      {
+        "wordId": "word-1oyd5in"
+      },
+      {
+        "wordId": "word-uha9yn"
+      }
+    ]
   },
   {
     "id": "q-3-354",
@@ -7247,7 +10495,24 @@
     ],
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '加味'입니다. 加味는 加(더할 가), 味(맛 미)으로 이루어진 말입니다."
+    "explanation": "정답은 '加味'입니다. 加味는 加(더할 가), 味(맛 미)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1repun4"
+      },
+      {
+        "wordId": "word-lqbh6h"
+      },
+      {
+        "wordId": "word-1ospqf5"
+      },
+      {
+        "wordId": "word-lme1k0"
+      },
+      {
+        "wordId": "word-1u9uo01"
+      }
+    ]
   },
   {
     "id": "q-3-355",
@@ -7264,7 +10529,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '信望'입니다. 信望은 信(믿을 신), 望(바랄 망)으로 이루어진 말로, '믿고 기대함'을 뜻합니다."
+    "explanation": "정답은 '信望'입니다. 信望은 信(믿을 신), 望(바랄 망)으로 이루어진 말로, '믿고 기대함'을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1va7b0p"
+      },
+      {
+        "wordId": "word-yj0910"
+      },
+      {
+        "wordId": "word-3qyzxe"
+      },
+      {
+        "wordId": "word-12sj1qc"
+      },
+      {
+        "wordId": "word-xykd95"
+      }
+    ]
   },
   {
     "id": "q-3-356",
@@ -7281,7 +10563,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '調和'입니다. 調和는 調(고를 조), 和(화할 화)으로 이루어진 말입니다."
+    "explanation": "정답은 '調和'입니다. 調和는 調(고를 조), 和(화할 화)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-z9dy3f"
+      },
+      {
+        "wordId": "word-1bcgtrl"
+      },
+      {
+        "wordId": "word-c1mfbz"
+      },
+      {
+        "wordId": "word-3d7eoq"
+      },
+      {
+        "wordId": "word-1cyfn56"
+      }
+    ]
   },
   {
     "id": "q-3-357",
@@ -7298,7 +10597,24 @@
     ],
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '訓育'입니다. 訓育은 訓(가르칠 훈), 育(기를 육)으로 이루어진 말입니다."
+    "explanation": "정답은 '訓育'입니다. 訓育은 訓(가르칠 훈), 育(기를 육)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1mj4ern"
+      },
+      {
+        "wordId": "word-1qwc8e7"
+      },
+      {
+        "wordId": "word-1anpqw1"
+      },
+      {
+        "wordId": "word-e5wqop"
+      },
+      {
+        "wordId": "word-ju7xt6"
+      }
+    ]
   },
   {
     "id": "q-3-358",
@@ -7315,7 +10631,24 @@
     ],
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '解消'입니다. 解消는 解(풀 해), 消(사라질 소)으로 이루어진 말입니다."
+    "explanation": "정답은 '解消'입니다. 解消는 解(풀 해), 消(사라질 소)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-oe22ri"
+      },
+      {
+        "wordId": "word-u9jqt2"
+      },
+      {
+        "wordId": "word-vx72my"
+      },
+      {
+        "wordId": "word-18o4eoo"
+      },
+      {
+        "wordId": "word-1eohvip"
+      }
+    ]
   },
   {
     "id": "q-3-359",
@@ -7332,7 +10665,24 @@
     ],
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '追加'입니다. 追加는 追(쫓을 추), 加(더할 가)으로 이루어진 말입니다."
+    "explanation": "정답은 '追加'입니다. 追加는 追(쫓을 추), 加(더할 가)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-uimbw8"
+      },
+      {
+        "wordId": "word-1x1d7ie"
+      },
+      {
+        "wordId": "word-ifj4l7"
+      },
+      {
+        "wordId": "word-zcyv0g"
+      },
+      {
+        "wordId": "word-1sjmk00"
+      }
+    ]
   },
   {
     "id": "q-3-360",
@@ -7349,7 +10699,24 @@
     ],
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '重責'입니다. 重責은 重(무거울 중), 責(꾸짖을 책/빚 채)으로 이루어진 말로, 중대한 책임을 뜻합니다."
+    "explanation": "정답은 '重責'입니다. 重責은 重(무거울 중), 責(꾸짖을 책/빚 채)으로 이루어진 말로, 중대한 책임을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1qryf2q"
+      },
+      {
+        "wordId": "word-15p48tr"
+      },
+      {
+        "wordId": "word-m81fmw"
+      },
+      {
+        "wordId": "word-1pumuph"
+      },
+      {
+        "wordId": "word-1foop0w"
+      }
+    ]
   },
   {
     "id": "q-3-361",
@@ -7366,7 +10733,24 @@
     ],
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '師事'입니다. 師事는 師(스승 사), 事(일 사)으로 이루어진 말입니다."
+    "explanation": "정답은 '師事'입니다. 師事는 師(스승 사), 事(일 사)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-m8s7jo"
+      },
+      {
+        "wordId": "word-2wxcbh"
+      },
+      {
+        "wordId": "word-179dk8p"
+      },
+      {
+        "wordId": "word-1fipw4a"
+      },
+      {
+        "wordId": "word-1a5gv02"
+      }
+    ]
   },
   {
     "id": "q-3-362",
@@ -7383,7 +10767,24 @@
     ],
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '革新'입니다. 革新은 革(가죽/고칠 혁), 新(새로울 신)으로 이루어진 말입니다."
+    "explanation": "정답은 '革新'입니다. 革新은 革(가죽/고칠 혁), 新(새로울 신)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1f0r5nt"
+      },
+      {
+        "wordId": "word-qk2lup"
+      },
+      {
+        "wordId": "word-10i9ht"
+      },
+      {
+        "wordId": "word-1k1yftm"
+      },
+      {
+        "wordId": "word-13kmyu7"
+      }
+    ]
   },
   {
     "id": "q-3-363",
@@ -7401,12 +10802,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '心'입니다. 남성은 男性이고, 性의 부수는 心입니다.",
-    "choiceHints": [
-      "生(날 생)",
-      "土(흙 토)",
-      "女(여자 녀)",
-      "心(마음 심)",
-      "戈(창 과)"
+    "choiceAnnotations": [
+      {
+        "meaning": "날",
+        "reading": "생"
+      },
+      {
+        "meaning": "흙",
+        "reading": "토"
+      },
+      {
+        "meaning": "여자",
+        "reading": "녀"
+      },
+      {
+        "meaning": "마음",
+        "reading": "심"
+      },
+      {
+        "meaning": "창",
+        "reading": "과"
+      }
     ]
   },
   {
@@ -7424,7 +10840,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '使用-形式'입니다. 使用은 使(하여금/시킬 사), 用(쓸 용)으로 이루어진 말이고, 形式은 形(모양 형), 式(법 식)으로 이루어진 말입니다."
+    "explanation": "정답은 '使用-形式'입니다. 使用은 使(하여금/시킬 사), 用(쓸 용)으로 이루어진 말이고, 形式은 形(모양 형), 式(법 식)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-54a62c"
+      },
+      {
+        "wordId": "word-ytafao"
+      },
+      {
+        "wordId": "word-1iwk4vu"
+      },
+      {
+        "wordId": "word-1254hdi"
+      },
+      {
+        "wordId": "word-jfh3th"
+      }
+    ]
   },
   {
     "id": "q-3-365",
@@ -7441,7 +10874,24 @@
     ],
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '再選'입니다. 선호는 選好, 재선은 再選으로 둘 다 選을 씁니다."
+    "explanation": "정답은 '再選'입니다. 선호는 選好, 재선은 再選으로 둘 다 選을 씁니다. 選은 '가릴 선'입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1p0lc44"
+      },
+      {
+        "wordId": "word-w4172w"
+      },
+      {
+        "wordId": "word-k2cmtg"
+      },
+      {
+        "wordId": "word-19bfw3u"
+      },
+      {
+        "wordId": "word-16v42cr"
+      }
+    ]
   },
   {
     "id": "q-3-366",
@@ -7459,12 +10909,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '人'입니다. 예를 들어의 예는 例이고, 例의 부수는 人입니다.",
-    "choiceHints": [
-      "人(사람 인)",
-      "豆(콩 두)",
-      "示(보일 시)",
-      "艹(풀 초)",
-      "刀(칼 도)"
+    "choiceAnnotations": [
+      {
+        "meaning": "사람",
+        "reading": "인"
+      },
+      {
+        "meaning": "콩",
+        "reading": "두"
+      },
+      {
+        "meaning": "보일",
+        "reading": "시"
+      },
+      {
+        "meaning": "풀",
+        "reading": "초"
+      },
+      {
+        "meaning": "칼",
+        "reading": "도"
+      }
     ]
   },
   {
@@ -7499,7 +10964,24 @@
     ],
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '要求-表現'입니다. 要求는 要(요긴할 요), 求(구할 구)으로 이루어진 말이고, 表現은 表(겉 표), 現(나타날 현)으로 이루어진 말입니다."
+    "explanation": "정답은 '要求-表現'입니다. 要求는 要(요긴할 요), 求(구할 구)으로 이루어진 말이고, 表現은 表(겉 표), 現(나타날 현)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-fqkiaa"
+      },
+      {
+        "wordId": "word-o8rbm8"
+      },
+      {
+        "wordId": "word-wwib9"
+      },
+      {
+        "wordId": "word-19nvex7"
+      },
+      {
+        "wordId": "word-bohin7"
+      }
+    ]
   },
   {
     "id": "q-3-369",
@@ -7516,7 +10998,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '過去'입니다. 過去는 過(지날 과), 去(갈 거)으로 이루어진 말입니다."
+    "explanation": "정답은 '過去'입니다. 過去는 過(지날 과), 去(갈 거)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1upse2r"
+      },
+      {
+        "wordId": "word-1s8ej9l"
+      },
+      {
+        "wordId": "word-1j2eoq"
+      },
+      {
+        "wordId": "word-9fxby1"
+      },
+      {
+        "wordId": "word-18dh70l"
+      }
+    ]
   },
   {
     "id": "q-3-370",
@@ -7534,12 +11033,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '戈'입니다. 성년은 成年이고, 成의 부수는 戈입니다.",
-    "choiceHints": [
-      "言(말씀 언)",
-      "女(여자 녀)",
-      "戈(창 과)",
-      "心(마음 심)",
-      "土(흙 토)"
+    "choiceAnnotations": [
+      {
+        "meaning": "말씀",
+        "reading": "언"
+      },
+      {
+        "meaning": "여자",
+        "reading": "녀"
+      },
+      {
+        "meaning": "창",
+        "reading": "과"
+      },
+      {
+        "meaning": "마음",
+        "reading": "심"
+      },
+      {
+        "meaning": "흙",
+        "reading": "토"
+      }
     ]
   },
   {
@@ -7557,7 +11071,24 @@
     ],
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '故鄕'입니다. 제시어와 뜻이 서로 반대되거나 짝을 이룹니다."
+    "explanation": "정답은 '故鄕'입니다. 제시어와 뜻이 서로 반대되거나 짝을 이룹니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-11be6cq"
+      },
+      {
+        "wordId": "word-1xz7ofo"
+      },
+      {
+        "wordId": "word-1u3jjzo"
+      },
+      {
+        "wordId": "word-1tk4od6"
+      },
+      {
+        "wordId": "word-ktde9p"
+      }
+    ]
   },
   {
     "id": "q-3-372",
@@ -7574,7 +11105,24 @@
     ],
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '情景'입니다. 情景은 情(뜻 정), 景(볕 경)으로 이루어진 말입니다."
+    "explanation": "정답은 '情景'입니다. 情景은 情(뜻 정), 景(볕 경)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-15gst7j"
+      },
+      {
+        "wordId": "word-zqc0bh"
+      },
+      {
+        "wordId": "word-1lxuyzc"
+      },
+      {
+        "wordId": "word-y935hv"
+      },
+      {
+        "wordId": "word-wh9hco"
+      }
+    ]
   },
   {
     "id": "q-3-373",
@@ -7591,7 +11139,24 @@
     ],
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '禮樂'입니다. 다른 보기의 樂은 '락/낙'으로 읽지만, 禮樂에서는 '악'으로 읽습니다."
+    "explanation": "정답은 '禮樂'입니다. 다른 보기의 樂은 '락/낙'으로 읽지만, 禮樂에서는 '악'으로 읽습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-sqxiwd"
+      },
+      {
+        "wordId": "word-1jae2qo"
+      },
+      {
+        "wordId": "word-18m4wh6"
+      },
+      {
+        "wordId": "word-1ut9zq9"
+      },
+      {
+        "wordId": "word-1p03s00"
+      }
+    ]
   },
   {
     "id": "q-3-374",
@@ -7609,12 +11174,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '羽'입니다. 풍습은 風習이고, 習의 부수는 羽입니다.",
-    "choiceHints": [
-      "冫(얼음 빙)",
-      "貝(조개 패)",
-      "羽(깃 우)",
-      "白(흰 백)",
-      "曰(가로 왈)"
+    "choiceAnnotations": [
+      {
+        "meaning": "얼음",
+        "reading": "빙"
+      },
+      {
+        "meaning": "조개",
+        "reading": "패"
+      },
+      {
+        "meaning": "깃",
+        "reading": "우"
+      },
+      {
+        "meaning": "흰",
+        "reading": "백"
+      },
+      {
+        "meaning": "가로",
+        "reading": "왈"
+      }
     ]
   },
   {
@@ -7632,7 +11212,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '生命-大氣'입니다. 生命은 生(날 생), 命(목숨 명)으로 이루어진 말이고, 大氣는 大(큰 대), 氣(기운 기)으로 이루어진 말입니다."
+    "explanation": "정답은 '生命-大氣'입니다. 生命은 生(날 생), 命(목숨 명)으로 이루어진 말이고, 大氣는 大(큰 대), 氣(기운 기)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1llwawf"
+      },
+      {
+        "wordId": "word-8cch4b"
+      },
+      {
+        "wordId": "word-1v5c4df"
+      },
+      {
+        "wordId": "word-a0agqi"
+      },
+      {
+        "wordId": "word-1elqr5"
+      }
+    ]
   },
   {
     "id": "q-3-376",
@@ -7649,7 +11246,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '度地'입니다. 다른 보기의 度는 '도'로 읽지만, 度地에서는 '탁'으로 읽습니다."
+    "explanation": "정답은 '度地'입니다. 다른 보기의 度는 '도'로 읽지만, 度地에서는 '탁'으로 읽습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-154y9av"
+      },
+      {
+        "wordId": "word-u8c1cl"
+      },
+      {
+        "wordId": "word-vwtnnd"
+      },
+      {
+        "wordId": "word-1ftf59j"
+      },
+      {
+        "wordId": "word-1vnxgkp"
+      }
+    ]
   },
   {
     "id": "q-3-377",
@@ -7666,7 +11280,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '期圖'입니다. 시기는 時期이고, 期圖도 期를 씁니다."
+    "explanation": "정답은 '期圖'입니다. 시기는 時期이고, 期圖도 期를 씁니다. 期는 '기약할 기'입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-17h0h5l"
+      },
+      {
+        "wordId": "word-cxhwyv"
+      },
+      {
+        "wordId": "word-1lfximx"
+      },
+      {
+        "wordId": "word-110rlu6"
+      },
+      {
+        "wordId": "word-jygt40"
+      }
+    ]
   },
   {
     "id": "q-3-378",
@@ -7684,12 +11315,27 @@
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '始'입니다. 始는 '비로소/처음 시'입니다.",
-    "choiceHints": [
-      "是(이/옳을 시)",
-      "其(그 기)",
-      "以(써 이)",
-      "始(비로소/처음 시)",
-      "然(그럴/불탈 연)"
+    "choiceAnnotations": [
+      {
+        "meaning": "이/옳을",
+        "reading": "시"
+      },
+      {
+        "meaning": "그",
+        "reading": "기"
+      },
+      {
+        "meaning": "써",
+        "reading": "이"
+      },
+      {
+        "meaning": "비로소/처음",
+        "reading": "시"
+      },
+      {
+        "meaning": "그럴/불탈",
+        "reading": "연"
+      }
     ]
   },
   {
@@ -7708,12 +11354,27 @@
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '自'입니다. 자유는 自由이고, 自의 부수는 自입니다.",
-    "choiceHints": [
-      "丶(점 주)",
-      "日(날 일)",
-      "自(스스로 자)",
-      "二(두 이)",
-      "目(눈 목)"
+    "choiceAnnotations": [
+      {
+        "meaning": "점",
+        "reading": "주"
+      },
+      {
+        "meaning": "날",
+        "reading": "일"
+      },
+      {
+        "meaning": "스스로",
+        "reading": "자"
+      },
+      {
+        "meaning": "두",
+        "reading": "이"
+      },
+      {
+        "meaning": "눈",
+        "reading": "목"
+      }
     ]
   },
   {
@@ -7731,7 +11392,24 @@
     ],
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '來 - 最'입니다. 來는 '올 래', 最는 '가장 최'입니다."
+    "explanation": "정답은 '來 - 最'입니다. 來는 '올 래', 最는 '가장 최'입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1n4ap1f"
+      },
+      {
+        "wordId": "word-j8vzud"
+      },
+      {
+        "wordId": "word-1nuxzp5"
+      },
+      {
+        "wordId": "word-jer30h"
+      },
+      {
+        "wordId": "word-1tdy77y"
+      }
+    ]
   },
   {
     "id": "q-3-381",
@@ -7748,7 +11426,24 @@
     ],
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '聖代'입니다. 시대는 時代, 성대는 聖代로 둘 다 代를 씁니다."
+    "explanation": "정답은 '聖代'입니다. 시대는 時代, 성대는 聖代로 둘 다 代를 씁니다. 代는 '대신/세대 대'입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1jotvgv"
+      },
+      {
+        "wordId": "word-10ts75b"
+      },
+      {
+        "wordId": "word-q3c1fn"
+      },
+      {
+        "wordId": "word-1nr0gqo"
+      },
+      {
+        "wordId": "word-17uiw0x"
+      }
+    ]
   },
   {
     "id": "q-3-382",
@@ -7765,7 +11460,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '最 - 先'입니다. 最는 '가장 최', 先은 '먼저 선'입니다."
+    "explanation": "정답은 '最 - 先'입니다. 最는 '가장 최', 先은 '먼저 선'입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-kzf95n"
+      },
+      {
+        "wordId": "word-7cusr2"
+      },
+      {
+        "wordId": "word-1eia81r"
+      },
+      {
+        "wordId": "word-kkgxrz"
+      },
+      {
+        "wordId": "word-d1bgrj"
+      }
+    ]
   },
   {
     "id": "q-3-383",
@@ -7799,7 +11511,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '意圖'입니다. 意圖는 意(뜻 의), 圖(꾀할 도)으로 이루어진 말입니다."
+    "explanation": "정답은 '意圖'입니다. 意圖는 意(뜻 의), 圖(꾀할 도)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1teufh6"
+      },
+      {
+        "wordId": "word-13u7hix"
+      },
+      {
+        "wordId": "word-12bojuw"
+      },
+      {
+        "wordId": "word-w3m7i4"
+      },
+      {
+        "wordId": "word-1wzwz1k"
+      }
+    ]
   },
   {
     "id": "q-3-385",
@@ -7816,7 +11545,24 @@
     ],
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '理由'입니다. 理由는 理(다스릴 리), 由(말미암을 유)으로 이루어진 말입니다."
+    "explanation": "정답은 '理由'입니다. 理由는 理(다스릴 리), 由(말미암을 유)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1u1dvx2"
+      },
+      {
+        "wordId": "word-1r48uyn"
+      },
+      {
+        "wordId": "word-19ymnti"
+      },
+      {
+        "wordId": "word-kiaapm"
+      },
+      {
+        "wordId": "word-1dhe284"
+      }
+    ]
   },
   {
     "id": "q-3-386",
@@ -7833,7 +11579,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '旅行 - 無氣力'입니다. 旅行은 旅(나그네/여행할 려), 行(다닐 행)으로, 無氣力은 無(없을 무), 氣(기운 기), 力(힘 력)으로 이루어진 말이며, 각각 여행, 무기력으로 읽습니다."
+    "explanation": "정답은 '旅行 - 無氣力'입니다. 旅行은 旅(나그네/여행할 려), 行(다닐 행)으로, 無氣力은 無(없을 무), 氣(기운 기), 力(힘 력)으로 이루어진 말이며, 각각 여행, 무기력으로 읽습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-pkqgjx"
+      },
+      {
+        "wordId": "word-105n31x"
+      },
+      {
+        "wordId": "word-i7ct85"
+      },
+      {
+        "wordId": "word-6qys7i"
+      },
+      {
+        "wordId": "word-1jayiox"
+      }
+    ]
   },
   {
     "id": "q-3-387",
@@ -7868,12 +11631,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '木'입니다. 과연은 果然이고, 果의 부수는 木입니다.",
-    "choiceHints": [
-      "木(나무 목)",
-      "辶(쉬엄쉬엄 갈 착)",
-      "艹(풀 초)",
-      "禾(벼 화)",
-      "言(말씀 언)"
+    "choiceAnnotations": [
+      {
+        "meaning": "나무",
+        "reading": "목"
+      },
+      {
+        "meaning": "쉬엄쉬엄 갈",
+        "reading": "착"
+      },
+      {
+        "meaning": "풀",
+        "reading": "초"
+      },
+      {
+        "meaning": "벼",
+        "reading": "화"
+      },
+      {
+        "meaning": "말씀",
+        "reading": "언"
+      }
     ]
   },
   {
@@ -7891,7 +11669,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '堅持'입니다. 지속은 持續, 견지는 堅持로 둘 다 持를 씁니다."
+    "explanation": "정답은 '堅持'입니다. 지속은 持續, 견지는 堅持로 둘 다 持를 씁니다. 持는 '가질 지'입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-19n1mf5"
+      },
+      {
+        "wordId": "word-1kyygpc"
+      },
+      {
+        "wordId": "word-1md1xxq"
+      },
+      {
+        "wordId": "word-13u7hix"
+      },
+      {
+        "wordId": "word-1bvs493"
+      }
+    ]
   },
   {
     "id": "q-3-390",
@@ -7908,7 +11703,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '革命 - 認識'입니다. 革命은 革(가죽/고칠 혁), 命(목숨 명)으로, 認識은 認(인정할 인), 識(알 식)으로 이루어진 말입니다."
+    "explanation": "정답은 '革命 - 認識'입니다. 革命은 革(가죽/고칠 혁), 命(목숨 명)으로, 認識은 認(인정할 인), 識(알 식)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-nxw2iw"
+      },
+      {
+        "wordId": "word-4c7d73"
+      },
+      {
+        "wordId": "word-f23o12"
+      },
+      {
+        "wordId": "word-8mrlx8"
+      },
+      {
+        "wordId": "word-1izdte5"
+      }
+    ]
   },
   {
     "id": "q-3-391",
@@ -7942,7 +11754,24 @@
     ],
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '共鳴'입니다. 공유는 共有, 공명은 共鳴으로 둘 다 共을 씁니다."
+    "explanation": "정답은 '共鳴'입니다. 공유는 共有, 공명은 共鳴으로 둘 다 共을 씁니다. 共은 '함께/한가지 공'입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-14b909g"
+      },
+      {
+        "wordId": "word-ikp5ay"
+      },
+      {
+        "wordId": "word-1f2110"
+      },
+      {
+        "wordId": "word-1auqqwv"
+      },
+      {
+        "wordId": "word-1a2l3tf"
+      }
+    ]
   },
   {
     "id": "q-3-393",
@@ -7977,12 +11806,27 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '癶'입니다. 등장은 登場이고, 登의 부수는 癶입니다.",
-    "choiceHints": [
-      "豆(콩 두)",
-      "寸(마디 촌)",
-      "竹(대나무 죽)",
-      "艹(풀 초)",
-      "癶(등질 발)"
+    "choiceAnnotations": [
+      {
+        "meaning": "콩",
+        "reading": "두"
+      },
+      {
+        "meaning": "마디",
+        "reading": "촌"
+      },
+      {
+        "meaning": "대나무",
+        "reading": "죽"
+      },
+      {
+        "meaning": "풀",
+        "reading": "초"
+      },
+      {
+        "meaning": "등질",
+        "reading": "발"
+      }
     ]
   },
   {
@@ -8000,7 +11844,24 @@
     ],
     "answerIndex": 1,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '模樣'입니다. 양상은 樣相, 모양은 模樣으로 둘 다 樣을 씁니다."
+    "explanation": "정답은 '模樣'입니다. 양상은 樣相, 모양은 模樣으로 둘 다 樣을 씁니다. 樣은 '모양 양'입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-425bit"
+      },
+      {
+        "wordId": "word-ulg5ps"
+      },
+      {
+        "wordId": "word-12611o4"
+      },
+      {
+        "wordId": "word-1ob4bpw"
+      },
+      {
+        "wordId": "word-2quoy7"
+      }
+    ]
   },
   {
     "id": "q-3-396",
@@ -8017,7 +11878,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '強迫症'입니다. 強迫症은 強(강할/굳셀 강), 迫(핍박할 박), 症(증세 증)으로 이루어진 말입니다."
+    "explanation": "정답은 '強迫症'입니다. 強迫症은 強(강할/굳셀 강), 迫(핍박할 박), 症(증세 증)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-2unb20"
+      },
+      {
+        "wordId": "word-u9n79q"
+      },
+      {
+        "wordId": "word-c8rnfe"
+      },
+      {
+        "wordId": "word-1djwzx2"
+      },
+      {
+        "wordId": "word-17j2vi5"
+      }
+    ]
   },
   {
     "id": "q-3-397",
@@ -8034,7 +11912,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '銳敏'입니다. 銳敏은 銳(날카로울 예), 敏(민첩할 민)으로 이루어진 말입니다."
+    "explanation": "정답은 '銳敏'입니다. 銳敏은 銳(날카로울 예), 敏(민첩할 민)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-g8peui"
+      },
+      {
+        "wordId": "word-9wu72d"
+      },
+      {
+        "wordId": "word-4lam5m"
+      },
+      {
+        "wordId": "word-8sqcy8"
+      },
+      {
+        "wordId": "word-1sjkglm"
+      }
+    ]
   },
   {
     "id": "q-3-398",
@@ -8051,7 +11946,24 @@
     ],
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '狀啓'입니다. 다른 보기의 狀은 '상'으로 읽지만, 狀啓에서는 '장'으로 읽습니다."
+    "explanation": "정답은 '狀啓'입니다. 다른 보기의 狀은 '상'으로 읽지만, 狀啓에서는 '장'으로 읽습니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-3j6izt"
+      },
+      {
+        "wordId": "word-klv7w0"
+      },
+      {
+        "wordId": "word-x7bwdc"
+      },
+      {
+        "wordId": "word-7p8ybj"
+      },
+      {
+        "wordId": "word-11lmnie"
+      }
+    ]
   },
   {
     "id": "q-3-399",
@@ -8085,7 +11997,24 @@
     ],
     "answerIndex": 3,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '改易'입니다. 改易은 改(고칠 개), 易(바꿀 역/쉬울 이)으로 이루어진 말입니다."
+    "explanation": "정답은 '改易'입니다. 改易은 改(고칠 개), 易(바꿀 역/쉬울 이)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-2jq0bn"
+      },
+      {
+        "wordId": "word-dwst5y"
+      },
+      {
+        "wordId": "word-122md0k"
+      },
+      {
+        "wordId": "word-2kn81k"
+      },
+      {
+        "wordId": "word-1hk7t0d"
+      }
+    ]
   },
   {
     "id": "q-3-401",
@@ -8102,7 +12031,24 @@
     ],
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '分配-基盤'입니다. 分配는 分(나눌 분), 配(나눌 배)으로 이루어진 말이고, 基盤은 基(터 기), 盤(소반 반)으로 이루어진 말입니다."
+    "explanation": "정답은 '分配-基盤'입니다. 分配는 分(나눌 분), 配(나눌 배)으로 이루어진 말이고, 基盤은 基(터 기), 盤(소반 반)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-a9fkyx"
+      },
+      {
+        "wordId": "word-d1iyfr"
+      },
+      {
+        "wordId": "word-1m86edo"
+      },
+      {
+        "wordId": "word-1jupgo6"
+      },
+      {
+        "wordId": "word-1qdammm"
+      }
+    ]
   },
   {
     "id": "q-3-402",
@@ -8120,12 +12066,27 @@
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '手'입니다. 교환은 交換이고, 換의 부수는 手입니다.",
-    "choiceHints": [
-      "手(손 수)",
-      "欠(하품 흠)",
-      "火(불 화)",
-      "辶(쉬엄쉬엄 갈 착)",
-      "玉(구슬 옥)"
+    "choiceAnnotations": [
+      {
+        "meaning": "손",
+        "reading": "수"
+      },
+      {
+        "meaning": "하품",
+        "reading": "흠"
+      },
+      {
+        "meaning": "불",
+        "reading": "화"
+      },
+      {
+        "meaning": "쉬엄쉬엄 갈",
+        "reading": "착"
+      },
+      {
+        "meaning": "구슬",
+        "reading": "옥"
+      }
     ]
   },
   {
@@ -8143,7 +12104,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '變化-進入'입니다. 變化는 變(변할 변), 化(될 화)으로 이루어진 말이고, 進入은 進(나아갈 진), 入(들 입)으로 이루어진 말입니다."
+    "explanation": "정답은 '變化-進入'입니다. 變化는 變(변할 변), 化(될 화)으로 이루어진 말이고, 進入은 進(나아갈 진), 入(들 입)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-zczf3q"
+      },
+      {
+        "wordId": "word-11iii05"
+      },
+      {
+        "wordId": "word-1d4hprd"
+      },
+      {
+        "wordId": "word-qsazbn"
+      },
+      {
+        "wordId": "word-zh92m2"
+      }
+    ]
   },
   {
     "id": "q-3-404",
@@ -8160,7 +12138,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '獨島'입니다. 獨島는 獨(홀로 독), 島(섬 도)으로 이루어진 말입니다."
+    "explanation": "정답은 '獨島'입니다. 獨島는 獨(홀로 독), 島(섬 도)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-p0ub0x"
+      },
+      {
+        "wordId": "word-i437b9"
+      },
+      {
+        "wordId": "word-ufr2ck"
+      },
+      {
+        "wordId": "word-1wlehyj"
+      },
+      {
+        "wordId": "word-zhbrjk"
+      }
+    ]
   },
   {
     "id": "q-3-405",
@@ -8177,7 +12172,24 @@
     ],
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '北緯-東經'입니다. 北緯는 北(북녘 북), 緯(씨줄 위)으로 이루어진 말이고, 東經은 東(동녘 동), 經(지날 경)으로 이루어진 말입니다."
+    "explanation": "정답은 '北緯-東經'입니다. 北緯는 北(북녘 북), 緯(씨줄 위)으로 이루어진 말이고, 東經은 東(동녘 동), 經(지날 경)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-r545gc"
+      },
+      {
+        "wordId": "word-1vqo1iq"
+      },
+      {
+        "wordId": "word-cwssep"
+      },
+      {
+        "wordId": "word-1ntxeew"
+      },
+      {
+        "wordId": "word-qx2rc8"
+      }
+    ]
   },
   {
     "id": "q-3-406",
@@ -8212,12 +12224,27 @@
     "answerIndex": 4,
     "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '行'입니다. 요충지는 要衝地이고, 衝의 부수는 行입니다.",
-    "choiceHints": [
-      "心(마음 심)",
-      "中(가운데 중)",
-      "虫(벌레 훼)",
-      "重(무거울 중)",
-      "行(다닐 행)"
+    "choiceAnnotations": [
+      {
+        "meaning": "마음",
+        "reading": "심"
+      },
+      {
+        "meaning": "가운데",
+        "reading": "중"
+      },
+      {
+        "meaning": "벌레",
+        "reading": "훼"
+      },
+      {
+        "meaning": "무거울",
+        "reading": "중"
+      },
+      {
+        "meaning": "다닐",
+        "reading": "행"
+      }
     ]
   },
   {
@@ -8235,7 +12262,24 @@
     ],
     "answerIndex": 0,
     "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '主張'입니다. 主張은 主(주인 주), 張(베풀 장)으로 이루어진 말입니다."
+    "explanation": "정답은 '主張'입니다. 主張은 主(주인 주), 張(베풀 장)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1q6j6hy"
+      },
+      {
+        "wordId": "word-1y1cmy5"
+      },
+      {
+        "wordId": "word-1v9ym3z"
+      },
+      {
+        "wordId": "word-g8tbl3"
+      },
+      {
+        "wordId": "word-krwzha"
+      }
+    ]
   },
   {
     "id": "q-3-409",

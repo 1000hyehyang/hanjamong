@@ -168,12 +168,27 @@
     "answerIndex": 0,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '口'입니다. 口는 '입 구'입니다.",
-    "choiceHints": [
-      "口(입 구)",
-      "羊(양 양)",
-      "女(여자 녀)",
-      "心(마음 심)",
-      "果(열매 과)"
+    "choiceAnnotations": [
+      {
+        "meaning": "입",
+        "reading": "구"
+      },
+      {
+        "meaning": "양",
+        "reading": "양"
+      },
+      {
+        "meaning": "여자",
+        "reading": "녀"
+      },
+      {
+        "meaning": "마음",
+        "reading": "심"
+      },
+      {
+        "meaning": "열매",
+        "reading": "과"
+      }
     ]
   },
   {
@@ -192,12 +207,27 @@
     "answerIndex": 3,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '工'입니다. 工은 '장인 공'입니다.",
-    "choiceHints": [
-      "人(사람 인)",
-      "立(설 립)",
-      "魚(물고기 어)",
-      "工(장인 공)",
-      "衣(옷 의)"
+    "choiceAnnotations": [
+      {
+        "meaning": "사람",
+        "reading": "인"
+      },
+      {
+        "meaning": "설",
+        "reading": "립"
+      },
+      {
+        "meaning": "물고기",
+        "reading": "어"
+      },
+      {
+        "meaning": "장인",
+        "reading": "공"
+      },
+      {
+        "meaning": "옷",
+        "reading": "의"
+      }
     ]
   },
   {
@@ -216,12 +246,27 @@
     "answerIndex": 1,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '果'입니다. 果는 '열매 과'입니다.",
-    "choiceHints": [
-      "子(아들 자)",
-      "果(열매 과)",
-      "力(힘 력)",
-      "水(물 수)",
-      "車(수레 차)"
+    "choiceAnnotations": [
+      {
+        "meaning": "아들",
+        "reading": "자"
+      },
+      {
+        "meaning": "열매",
+        "reading": "과"
+      },
+      {
+        "meaning": "힘",
+        "reading": "력"
+      },
+      {
+        "meaning": "물",
+        "reading": "수"
+      },
+      {
+        "meaning": "수레",
+        "reading": "차"
+      }
     ]
   },
   {
@@ -240,12 +285,27 @@
     "answerIndex": 2,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '川'입니다. 川은 '내 천'입니다.",
-    "choiceHints": [
-      "身(몸 신)",
-      "車(수레 차)",
-      "川(내 천)",
-      "衣(옷 의)",
-      "萬(일만 만)"
+    "choiceAnnotations": [
+      {
+        "meaning": "몸",
+        "reading": "신"
+      },
+      {
+        "meaning": "수레",
+        "reading": "차"
+      },
+      {
+        "meaning": "내",
+        "reading": "천"
+      },
+      {
+        "meaning": "옷",
+        "reading": "의"
+      },
+      {
+        "meaning": "일만",
+        "reading": "만"
+      }
     ]
   },
   {
@@ -264,12 +324,27 @@
     "answerIndex": 0,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '文'입니다. 文은 '글월 문'입니다.",
-    "choiceHints": [
-      "文(글월 문)",
-      "自(스스로 자)",
-      "田(밭 전)",
-      "羊(양 양)",
-      "長(길 장)"
+    "choiceAnnotations": [
+      {
+        "meaning": "글월",
+        "reading": "문"
+      },
+      {
+        "meaning": "스스로",
+        "reading": "자"
+      },
+      {
+        "meaning": "밭",
+        "reading": "전"
+      },
+      {
+        "meaning": "양",
+        "reading": "양"
+      },
+      {
+        "meaning": "길",
+        "reading": "장"
+      }
     ]
   },
   {
@@ -288,12 +363,27 @@
     "answerIndex": 1,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '元'입니다. 元은 '으뜸 원'입니다.",
-    "choiceHints": [
-      "光(빛 광)",
-      "元(으뜸 원)",
-      "成(이룰 성)",
-      "西(서녘 서)",
-      "初(처음 초)"
+    "choiceAnnotations": [
+      {
+        "meaning": "빛",
+        "reading": "광"
+      },
+      {
+        "meaning": "으뜸",
+        "reading": "원"
+      },
+      {
+        "meaning": "이룰",
+        "reading": "성"
+      },
+      {
+        "meaning": "서녘",
+        "reading": "서"
+      },
+      {
+        "meaning": "처음",
+        "reading": "초"
+      }
     ]
   },
   {
@@ -312,12 +402,27 @@
     "answerIndex": 3,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '者'입니다. 者는 '사람 자'입니다.",
-    "choiceHints": [
-      "回(돌아올 회)",
-      "今(이제 금)",
-      "邑(고을 읍)",
-      "者(사람 자)",
-      "次(버금 차)"
+    "choiceAnnotations": [
+      {
+        "meaning": "돌아올",
+        "reading": "회"
+      },
+      {
+        "meaning": "이제",
+        "reading": "금"
+      },
+      {
+        "meaning": "고을",
+        "reading": "읍"
+      },
+      {
+        "meaning": "사람",
+        "reading": "자"
+      },
+      {
+        "meaning": "버금",
+        "reading": "차"
+      }
     ]
   },
   {
@@ -336,12 +441,27 @@
     "answerIndex": 1,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '便'입니다. 便은 '편할 편/똥오줌 변'입니다.",
-    "choiceHints": [
-      "先(먼저 선)",
-      "便(편할 편/똥오줌 변)",
-      "度(법도 도)",
-      "服(옷 복)",
-      "線(줄 선)"
+    "choiceAnnotations": [
+      {
+        "meaning": "먼저",
+        "reading": "선"
+      },
+      {
+        "meaning": "똥오줌",
+        "reading": "변"
+      },
+      {
+        "meaning": "법도",
+        "reading": "도"
+      },
+      {
+        "meaning": "옷",
+        "reading": "복"
+      },
+      {
+        "meaning": "줄",
+        "reading": "선"
+      }
     ]
   },
   {
@@ -360,12 +480,27 @@
     "answerIndex": 1,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '活'입니다. 活은 '살 활'입니다.",
-    "choiceHints": [
-      "充(가득할 충)",
-      "活(살 활)",
-      "政(정사 정)",
-      "等(등급 등)",
-      "洋(큰 바다 양)"
+    "choiceAnnotations": [
+      {
+        "meaning": "가득할",
+        "reading": "충"
+      },
+      {
+        "meaning": "살",
+        "reading": "활"
+      },
+      {
+        "meaning": "정사",
+        "reading": "정"
+      },
+      {
+        "meaning": "등급",
+        "reading": "등"
+      },
+      {
+        "meaning": "큰 바다",
+        "reading": "양"
+      }
     ]
   },
   {
@@ -520,12 +655,27 @@
     "answerIndex": 2,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '夕'입니다. 夕은 '저녁 석'입니다.",
-    "choiceHints": [
-      "子(아들 자)",
-      "自(스스로 자)",
-      "夕(저녁 석)",
-      "車(수레 차)",
-      "萬(일만 만)"
+    "choiceAnnotations": [
+      {
+        "meaning": "아들",
+        "reading": "자"
+      },
+      {
+        "meaning": "스스로",
+        "reading": "자"
+      },
+      {
+        "meaning": "저녁",
+        "reading": "석"
+      },
+      {
+        "meaning": "수레",
+        "reading": "차"
+      },
+      {
+        "meaning": "일만",
+        "reading": "만"
+      }
     ]
   },
   {
@@ -544,12 +694,27 @@
     "answerIndex": 0,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '高'입니다. 高는 '높을 고'입니다.",
-    "choiceHints": [
-      "高(높을 고)",
-      "水(물 수)",
-      "木(나무 목)",
-      "玉(구슬 옥)",
-      "萬(일만 만)"
+    "choiceAnnotations": [
+      {
+        "meaning": "높을",
+        "reading": "고"
+      },
+      {
+        "meaning": "물",
+        "reading": "수"
+      },
+      {
+        "meaning": "나무",
+        "reading": "목"
+      },
+      {
+        "meaning": "구슬",
+        "reading": "옥"
+      },
+      {
+        "meaning": "일만",
+        "reading": "만"
+      }
     ]
   },
   {
@@ -568,12 +733,27 @@
     "answerIndex": 2,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '父'입니다. 父는 '아버지 부'입니다.",
-    "choiceHints": [
-      "力(힘 력)",
-      "女(여자 녀)",
-      "父(아버지 부)",
-      "口(입 구)",
-      "夫(사내 부)"
+    "choiceAnnotations": [
+      {
+        "meaning": "힘",
+        "reading": "력"
+      },
+      {
+        "meaning": "여자",
+        "reading": "녀"
+      },
+      {
+        "meaning": "아버지",
+        "reading": "부"
+      },
+      {
+        "meaning": "입",
+        "reading": "구"
+      },
+      {
+        "meaning": "사내",
+        "reading": "부"
+      }
     ]
   },
   {
@@ -592,12 +772,27 @@
     "answerIndex": 1,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '長'입니다. 長은 '길 장'입니다.",
-    "choiceHints": [
-      "兒(아이 아)",
-      "長(길 장)",
-      "石(돌 석)",
-      "牛(소 우)",
-      "足(발 족)"
+    "choiceAnnotations": [
+      {
+        "meaning": "아이",
+        "reading": "아"
+      },
+      {
+        "meaning": "길",
+        "reading": "장"
+      },
+      {
+        "meaning": "돌",
+        "reading": "석"
+      },
+      {
+        "meaning": "소",
+        "reading": "우"
+      },
+      {
+        "meaning": "발",
+        "reading": "족"
+      }
     ]
   },
   {
@@ -616,12 +811,27 @@
     "answerIndex": 4,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '邑'입니다. 邑은 '고을 읍'입니다.",
-    "choiceHints": [
-      "音(소리 음)",
-      "科(과목 과)",
-      "百(일백 백)",
-      "利(이로울 리)",
-      "邑(고을 읍)"
+    "choiceAnnotations": [
+      {
+        "meaning": "소리",
+        "reading": "음"
+      },
+      {
+        "meaning": "과목",
+        "reading": "과"
+      },
+      {
+        "meaning": "일백",
+        "reading": "백"
+      },
+      {
+        "meaning": "이로울",
+        "reading": "리"
+      },
+      {
+        "meaning": "고을",
+        "reading": "읍"
+      }
     ]
   },
   {
@@ -640,12 +850,27 @@
     "answerIndex": 2,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '來'입니다. 來는 '올 래'입니다.",
-    "choiceHints": [
-      "利(이로울 리)",
-      "同(한가지 동)",
-      "來(올 래)",
-      "太(클 태)",
-      "曲(굽을 곡)"
+    "choiceAnnotations": [
+      {
+        "meaning": "이로울",
+        "reading": "리"
+      },
+      {
+        "meaning": "한가지",
+        "reading": "동"
+      },
+      {
+        "meaning": "올",
+        "reading": "래"
+      },
+      {
+        "meaning": "클",
+        "reading": "태"
+      },
+      {
+        "meaning": "굽을",
+        "reading": "곡"
+      }
     ]
   },
   {
@@ -664,12 +889,27 @@
     "answerIndex": 3,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '庭'입니다. 庭은 '뜰 정'입니다.",
-    "choiceHints": [
-      "冬(겨울 동)",
-      "武(굳셀 무)",
-      "神(귀신 신)",
-      "庭(뜰 정)",
-      "種(씨 종)"
+    "choiceAnnotations": [
+      {
+        "meaning": "겨울",
+        "reading": "동"
+      },
+      {
+        "meaning": "굳셀",
+        "reading": "무"
+      },
+      {
+        "meaning": "귀신",
+        "reading": "신"
+      },
+      {
+        "meaning": "뜰",
+        "reading": "정"
+      },
+      {
+        "meaning": "씨",
+        "reading": "종"
+      }
     ]
   },
   {
@@ -688,12 +928,27 @@
     "answerIndex": 0,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '爭'입니다. 爭은 '다툴 쟁'입니다.",
-    "choiceHints": [
-      "爭(다툴 쟁)",
-      "典(법 전)",
-      "品(물건 품)",
-      "質(바탕 질)",
-      "韓(한국/나라 한)"
+    "choiceAnnotations": [
+      {
+        "meaning": "다툴",
+        "reading": "쟁"
+      },
+      {
+        "meaning": "법",
+        "reading": "전"
+      },
+      {
+        "meaning": "물건",
+        "reading": "품"
+      },
+      {
+        "meaning": "바탕",
+        "reading": "질"
+      },
+      {
+        "meaning": "한국/나라",
+        "reading": "한"
+      }
     ]
   },
   {
@@ -848,12 +1103,22 @@
     "answerIndex": 4,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '夕月'입니다. 夕月은 夕(저녁 석), 月(달 월)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "장자",
-      "대문",
-      "목석",
-      "면목",
-      "석월"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-awuzcn"
+      },
+      {
+        "wordId": "word-ztcsky"
+      },
+      {
+        "wordId": "word-as1e7m"
+      },
+      {
+        "wordId": "word-1xkdv2o"
+      },
+      {
+        "wordId": "word-d3sp0l"
+      }
     ]
   },
   {
@@ -872,12 +1137,22 @@
     "answerIndex": 1,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '女兒'입니다. 女는 본음이 녀이지만 단어 첫머리에서 여로 읽어 女兒는 여아입니다. 兒는 '아이 아'입니다.",
-    "choiceHints": [
-      "부모",
-      "여아",
-      "수족",
-      "천문",
-      "교수"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-glw554"
+      },
+      {
+        "wordId": "word-4brxp0"
+      },
+      {
+        "wordId": "word-185rkwy"
+      },
+      {
+        "wordId": "word-lb68pf"
+      },
+      {
+        "wordId": "word-75gbf8"
+      }
     ]
   },
   {
@@ -896,12 +1171,22 @@
     "answerIndex": 1,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '民事'입니다. 民事는 民(백성 민), 事(일 사)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "백방",
-      "민사",
-      "실언",
-      "세상",
-      "동업"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1m6tyl6"
+      },
+      {
+        "wordId": "word-v5dqkb"
+      },
+      {
+        "wordId": "word-opta84"
+      },
+      {
+        "wordId": "word-13gr0zw"
+      },
+      {
+        "wordId": "word-ob6suc"
+      }
     ]
   },
   {
@@ -920,12 +1205,22 @@
     "answerIndex": 1,
     "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '競技'입니다. 競技는 競(다툴 경), 技(재주 기)으로 이루어진 말입니다.",
-    "choiceHints": [
-      "국도",
-      "경기",
-      "시간",
-      "병사",
-      "경실"
+    "choiceAnnotations": [
+      {
+        "wordId": "word-p9g336"
+      },
+      {
+        "wordId": "word-1mipq0o"
+      },
+      {
+        "wordId": "word-1i4xeg2"
+      },
+      {
+        "wordId": "word-1i9lo16"
+      },
+      {
+        "wordId": "word-s1ca"
+      }
     ]
   },
   {
@@ -1009,16 +1304,26 @@
       "天文",
       "力行"
     ],
-    "choiceReadings": [
-      "입신",
-      "고천",
-      "인어",
-      "천문",
-      "역행"
-    ],
     "answerIndex": 4,
     "source": "korcham-2013-2-a-6-pdf",
-    "explanation": "정답은 '力行'입니다. 力行은 역행으로 읽고, 力(힘 력), 行(다닐 행/행할 행)으로 이루어진 말입니다."
+    "explanation": "정답은 '力行'입니다. 力行은 역행으로 읽고, 力(힘 력), 行(다닐 행/행할 행)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-1x96os8"
+      },
+      {
+        "wordId": "word-95bn1q"
+      },
+      {
+        "wordId": "word-92zzuv"
+      },
+      {
+        "wordId": "word-lb68pf"
+      },
+      {
+        "wordId": "word-1fwda8k"
+      }
+    ]
   },
   {
     "id": "q-7-052",
@@ -1033,16 +1338,26 @@
       "山足",
       "老大"
     ],
-    "choiceReadings": [
-      "월석",
-      "수력",
-      "공인",
-      "산족",
-      "노대"
-    ],
     "answerIndex": 1,
     "source": "korcham-2013-2-a-6-pdf",
-    "explanation": "정답은 '水力'입니다. 水力은 수력으로 읽고, 水(물 수), 力(힘 력)으로 이루어진 말입니다."
+    "explanation": "정답은 '水力'입니다. 水力은 수력으로 읽고, 水(물 수), 力(힘 력)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-14j811l"
+      },
+      {
+        "wordId": "word-1rp62uj"
+      },
+      {
+        "wordId": "word-iltrn"
+      },
+      {
+        "wordId": "word-fw2cc8"
+      },
+      {
+        "wordId": "word-19joaxz"
+      }
+    ]
   },
   {
     "id": "q-7-053",
@@ -1057,16 +1372,26 @@
       "萬世",
       "本業"
     ],
-    "choiceReadings": [
-      "합천",
-      "낙천",
-      "내세",
-      "만세",
-      "본업"
-    ],
     "answerIndex": 1,
     "source": "korcham-2013-2-a-6-pdf",
-    "explanation": "정답은 '樂天'입니다. 樂天은 낙천으로 읽고, 樂(즐길 락/노래 악/좋아할 요), 天(하늘 천)으로 이루어진 말입니다."
+    "explanation": "정답은 '樂天'입니다. 樂天은 낙천으로 읽고, 樂(즐길 락/노래 악/좋아할 요), 天(하늘 천)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-q2rcyv"
+      },
+      {
+        "wordId": "word-sqxiwd"
+      },
+      {
+        "wordId": "word-trdqxz"
+      },
+      {
+        "wordId": "word-vv6ecd"
+      },
+      {
+        "wordId": "word-wtahux"
+      }
+    ]
   },
   {
     "id": "q-7-054",
@@ -1081,16 +1406,26 @@
       "作品",
       "圖形"
     ],
-    "choiceReadings": [
-      "동시",
-      "병실",
-      "재물",
-      "작품",
-      "도형"
-    ],
     "answerIndex": 0,
     "source": "korcham-2013-2-a-6-pdf",
-    "explanation": "정답은 '童詩'입니다. 童詩는 동시로 읽고, 童(아이 동), 詩(시 시)으로 이루어진 말입니다."
+    "explanation": "정답은 '童詩'입니다. 童詩는 동시로 읽고, 童(아이 동), 詩(시 시)으로 이루어진 말입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-880m6g"
+      },
+      {
+        "wordId": "word-svmrsl"
+      },
+      {
+        "wordId": "word-1ucvzqh"
+      },
+      {
+        "wordId": "word-19ndpz"
+      },
+      {
+        "wordId": "word-78fkdw"
+      }
+    ]
   },
   {
     "id": "q-7-055",
@@ -1243,7 +1578,24 @@
     ],
     "answerIndex": 2,
     "source": "korcham-2013-2-a-6-pdf",
-    "explanation": "정답은 '要約'입니다. 要約은 要(요긴할 요), 約(줄일 약)으로 이루어진 말로, 중요한 내용을 간추려 정리한다는 뜻입니다."
+    "explanation": "정답은 '要約'입니다. 要約은 要(요긴할 요), 約(줄일 약)으로 이루어진 말로, 중요한 내용을 간추려 정리한다는 뜻입니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-hi8u96"
+      },
+      {
+        "wordId": "word-lyn0n"
+      },
+      {
+        "wordId": "word-7ndevj"
+      },
+      {
+        "wordId": "word-14q3edu"
+      },
+      {
+        "wordId": "word-6n2tav"
+      }
+    ]
   },
   {
     "id": "q-7-064",
@@ -1260,6 +1612,23 @@
     ],
     "answerIndex": 2,
     "source": "korcham-2013-2-a-6-pdf",
-    "explanation": "정답은 '病室'입니다. 病室은 病(병 병), 室(방 실/집 실)로 이루어진 말로, 환자가 있는 방을 뜻합니다."
+    "explanation": "정답은 '病室'입니다. 病室은 病(병 병), 室(방 실/집 실)로 이루어진 말로, 환자가 있는 방을 뜻합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-j8gjp"
+      },
+      {
+        "wordId": "word-147s6jj"
+      },
+      {
+        "wordId": "word-svmrsl"
+      },
+      {
+        "wordId": "word-ijul34"
+      },
+      {
+        "wordId": "word-1trtw28"
+      }
+    ]
   }
 ]

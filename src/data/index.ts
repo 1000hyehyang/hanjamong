@@ -1,5 +1,6 @@
 import type { ConfusingHanjaGroup, HomophoneItem, SynonymItem } from "../shared/types/concepts";
 import type { HanjaEntry, GradeInfo } from "../shared/types/hanja";
+import type { HanjaWordEntry } from "../shared/types/hanja-word";
 import type { QuizQuestion } from "../shared/types/quiz";
 import confusingHanjaGroupsData from "./concepts/confusing-hanja.json";
 import homophoneItemsData from "./concepts/homophones.json";
@@ -14,6 +15,7 @@ import hanja5 from "./hanja/hanja-5.json";
 import hanja4 from "./hanja/hanja-4.json";
 import hanja3 from "./hanja/hanja-3.json";
 import hanja2 from "./hanja/hanja-2.json";
+import hanjaWordsData from "./words/hanja-words.json";
 import questions3 from "./questions/questions-3.json";
 import questions4 from "./questions/questions-4.json";
 import questions5 from "./questions/questions-5.json";
@@ -25,6 +27,7 @@ export const confusingHanjaGroups = confusingHanjaGroupsData as ConfusingHanjaGr
 export const synonymItems = synonymItemsData as SynonymItem[];
 export const antonymItems = antonymItemsData as SynonymItem[];
 export const homophoneItems = homophoneItemsData as HomophoneItem[];
+export const hanjaWords = hanjaWordsData as HanjaWordEntry[];
 
 const supplementalHanjaByGrade: Record<number, HanjaEntry[]> = {
   2: hanja2 as HanjaEntry[],
