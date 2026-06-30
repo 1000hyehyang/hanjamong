@@ -26,6 +26,10 @@
       {
         "meaning": "거짓",
         "reading": "가"
+      },
+      {
+        "meaning": "빌릴",
+        "reading": "가"
       }
     ]
   },
@@ -291,11 +295,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "일곱째 천간",
+        "meaning": "별",
         "reading": "경"
       },
       {
-        "meaning": "별",
+        "meaning": "일곱째 천간",
         "reading": "경"
       }
     ]
@@ -468,11 +472,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "빗장",
+        "meaning": "관계할",
         "reading": "관"
       },
       {
-        "meaning": "관계할",
+        "meaning": "빗장",
         "reading": "관"
       }
     ]
@@ -532,11 +536,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "문서",
+        "meaning": "책",
         "reading": "권"
       },
       {
-        "meaning": "책",
+        "meaning": "문서",
         "reading": "권"
       }
     ]
@@ -581,11 +585,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "다할",
+        "meaning": "극진할",
         "reading": "극"
       },
       {
-        "meaning": "극진할",
+        "meaning": "다할",
         "reading": "극"
       }
     ]
@@ -630,11 +634,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "공급할",
+        "meaning": "줄",
         "reading": "급"
       },
       {
-        "meaning": "줄",
+        "meaning": "공급할",
         "reading": "급"
       }
     ]
@@ -648,10 +652,6 @@
     "radical": "幺",
     "formation": "회의",
     "meanings": [
-      {
-        "meaning": "기미",
-        "reading": "기"
-      },
       {
         "meaning": "몇",
         "reading": "기"
@@ -766,7 +766,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "마땅할",
+        "meaning": "마땅",
         "reading": "당"
       }
     ]
@@ -811,7 +811,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "등잔",
+        "meaning": "등불",
         "reading": "등"
       }
     ]
@@ -887,10 +887,6 @@
     "meanings": [
       {
         "meaning": "세찰",
-        "reading": "렬"
-      },
-      {
-        "meaning": "매울",
         "reading": "렬"
       }
     ]
@@ -1123,10 +1119,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "쉴",
-        "reading": "면"
-      },
-      {
         "meaning": "잘",
         "reading": "면"
       }
@@ -1281,10 +1273,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "후박나무",
-        "reading": "박"
-      },
-      {
         "meaning": "성씨",
         "reading": "박"
       },
@@ -1408,10 +1396,6 @@
     "radical": "辵",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "맞이할",
-        "reading": "봉"
-      },
       {
         "meaning": "만날",
         "reading": "봉"
@@ -1859,10 +1843,6 @@
       {
         "meaning": "웃을",
         "reading": "소"
-      },
-      {
-        "meaning": "웃음",
-        "reading": "소"
       }
     ]
   },
@@ -1875,10 +1855,6 @@
     "radical": "糸",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "잇닿을",
-        "reading": "속"
-      },
       {
         "meaning": "이을",
         "reading": "속"
@@ -2030,10 +2006,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "아재비",
-        "reading": "숙"
-      },
-      {
         "meaning": "아저씨",
         "reading": "숙"
       }
@@ -2126,10 +2098,6 @@
       {
         "meaning": "주울",
         "reading": "습"
-      },
-      {
-        "meaning": "열",
-        "reading": "십"
       }
     ]
   },
@@ -2173,7 +2141,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "시험할",
+        "meaning": "시험",
         "reading": "시"
       }
     ]
@@ -2189,10 +2157,6 @@
     "meanings": [
       {
         "meaning": "펼",
-        "reading": "신"
-      },
-      {
-        "meaning": "거듭",
         "reading": "신"
       }
     ]
@@ -2669,10 +2633,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "깨달음",
-        "reading": "오"
-      },
-      {
         "meaning": "깨달을",
         "reading": "오"
       }
@@ -2687,10 +2647,6 @@
     "radical": "言",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "그릇할",
-        "reading": "오"
-      },
       {
         "meaning": "그르칠",
         "reading": "오"
@@ -3188,7 +3144,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "동방",
+        "meaning": "범",
         "reading": "인"
       }
     ]
@@ -3746,6 +3702,10 @@
       {
         "meaning": "갈",
         "reading": "지"
+      },
+      {
+        "meaning": "어조사",
+        "reading": "지"
       }
     ]
   },
@@ -3819,10 +3779,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "지지",
-        "reading": "진"
-      },
-      {
         "meaning": "별",
         "reading": "진"
       }
@@ -3852,10 +3808,6 @@
     "radical": "一",
     "formation": "상형",
     "meanings": [
-      {
-        "meaning": "버금",
-        "reading": "차"
-      },
       {
         "meaning": "또",
         "reading": "차"
@@ -4567,10 +4519,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "지게",
-        "reading": "호"
-      },
-      {
         "meaning": "집",
         "reading": "호"
       }
@@ -4602,10 +4550,6 @@
     "meanings": [
       {
         "meaning": "섞일",
-        "reading": "혼"
-      },
-      {
-        "meaning": "섞을",
         "reading": "혼"
       }
     ]
@@ -4649,10 +4593,6 @@
     "radical": "欠",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "기뻐할",
-        "reading": "환"
-      },
       {
         "meaning": "기쁠",
         "reading": "환"

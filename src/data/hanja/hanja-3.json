@@ -1924,7 +1924,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "수레바퀴",
+        "meaning": "바큇자국",
         "reading": "궤"
       }
     ]
@@ -2308,7 +2308,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "기",
+        "meaning": "깃발",
         "reading": "기"
       }
     ]
@@ -3288,8 +3288,8 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "대답할",
-        "reading": "락"
+        "meaning": "허락할",
+        "reading": "낙"
       }
     ]
   },
@@ -3612,10 +3612,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "잇닿을",
-        "reading": "련"
-      },
-      {
         "meaning": "연이을",
         "reading": "련"
       }
@@ -3649,10 +3645,6 @@
     "radical": "艸",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "연할",
-        "reading": "련"
-      },
       {
         "meaning": "연꽃",
         "reading": "련"
@@ -8583,6 +8575,10 @@
     "meanings": [
       {
         "meaning": "연할",
+        "reading": "연"
+      },
+      {
+        "meaning": "부드러울",
         "reading": "연"
       }
     ]
