@@ -27,10 +27,17 @@ function parseStoredChoiceHint(hint: string): ChoiceHint | undefined {
 export function getChoiceHints(
   question: QuizQuestion,
 ): (ChoiceHint | undefined)[] | undefined {
-  if (question.choiceHints?.length !== question.choices.length) {
+  if (question.choiceHints?.length === question.choices.length) {
+    const hints = question.choiceHints.map(parseStoredChoiceHint);
+    return hints.some(Boolean) ? hints : undefined;
+  }
+
+  if (question.choiceReadings?.length !== question.choices.length) {
     return undefined;
   }
 
-  const hints = question.choiceHints.map(parseStoredChoiceHint);
+  const hints = question.choiceReadings.map((reading) =>
+    reading.trim() ? { meaning: "", reading: reading.trim() } : undefined,
+  );
   return hints.some(Boolean) ? hints : undefined;
 }

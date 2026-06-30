@@ -794,7 +794,7 @@
       },
       {
         "hanja": "醜",
-        "meaning": "더러울/추할",
+        "meaning": "추할",
         "sound": "추"
       }
     ]
@@ -954,7 +954,7 @@
       },
       {
         "hanja": "罰",
-        "meaning": "벌줄/벌할",
+        "meaning": "벌할",
         "sound": "벌"
       }
     ]
@@ -1077,7 +1077,7 @@
     "characters": [
       {
         "hanja": "需",
-        "meaning": "구할/쓸",
+        "meaning": "기다릴/쓰일",
         "sound": "수"
       },
       {
@@ -1146,7 +1146,7 @@
       },
       {
         "hanja": "負",
-        "meaning": "짐질/질",
+        "meaning": "질",
         "sound": "부"
       }
     ]
@@ -1242,7 +1242,7 @@
       },
       {
         "hanja": "縮",
-        "meaning": "오그라들/줄일",
+        "meaning": "줄일",
         "sound": "축"
       }
     ]
@@ -1306,7 +1306,7 @@
       },
       {
         "hanja": "憎",
-        "meaning": "미워할/미울",
+        "meaning": "미울",
         "sound": "증"
       }
     ]
@@ -1397,7 +1397,7 @@
     "characters": [
       {
         "hanja": "緩",
-        "meaning": "느슨할/느릴",
+        "meaning": "느릴/느슨할",
         "sound": "완"
       },
       {
@@ -2234,7 +2234,7 @@
       },
       {
         "hanja": "吸",
-        "meaning": "숨들이쉴/마실",
+        "meaning": "마실",
         "sound": "흡"
       }
     ]

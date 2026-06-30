@@ -197,7 +197,7 @@
     "characters": [
       {
         "hanja": "模",
-        "meaning": "법/본뜰/모호할",
+        "meaning": "법/본뜰",
         "sound": "모"
       },
       {
@@ -213,7 +213,7 @@
     "characters": [
       {
         "hanja": "模",
-        "meaning": "법/본뜰/모호할",
+        "meaning": "법/본뜰",
         "sound": "모"
       },
       {
@@ -805,7 +805,7 @@
     "characters": [
       {
         "hanja": "屈",
-        "meaning": "굽을/굽힐",
+        "meaning": "굽힐",
         "sound": "굴"
       },
       {
@@ -821,7 +821,7 @@
     "characters": [
       {
         "hanja": "屈",
-        "meaning": "굽을/굽힐",
+        "meaning": "굽힐",
         "sound": "굴"
       },
       {
@@ -1221,7 +1221,7 @@
     "characters": [
       {
         "hanja": "滅",
-        "meaning": "멸망할/꺼질/멸할",
+        "meaning": "멸망할/꺼질",
         "sound": "멸"
       },
       {
@@ -2378,7 +2378,7 @@
       },
       {
         "hanja": "譯",
-        "meaning": "통변할/번역할",
+        "meaning": "번역할",
         "sound": "역"
       }
     ]
@@ -2517,7 +2517,7 @@
     "characters": [
       {
         "hanja": "負",
-        "meaning": "짐질/질",
+        "meaning": "질",
         "sound": "부"
       },
       {
@@ -2565,7 +2565,7 @@
     "characters": [
       {
         "hanja": "墳",
-        "meaning": "봉분/무덤",
+        "meaning": "무덤",
         "sound": "분"
       },
       {
@@ -2917,7 +2917,7 @@
     "characters": [
       {
         "hanja": "輸",
-        "meaning": "실어낼/보낼",
+        "meaning": "보낼",
         "sound": "수"
       },
       {
@@ -2954,7 +2954,7 @@
       },
       {
         "hanja": "穫",
-        "meaning": "벼벨/거둘",
+        "meaning": "거둘",
         "sound": "확"
       }
     ]
@@ -3018,7 +3018,7 @@
       },
       {
         "hanja": "驗",
-        "meaning": "시험할/시험",
+        "meaning": "시험",
         "sound": "험"
       }
     ]
@@ -3130,7 +3130,7 @@
       },
       {
         "hanja": "面",
-        "meaning": "얼굴/낯",
+        "meaning": "얼굴",
         "sound": "면"
       }
     ]
@@ -3210,7 +3210,7 @@
       },
       {
         "hanja": "慕",
-        "meaning": "사모할/그릴",
+        "meaning": "사모할/그리워할",
         "sound": "모"
       }
     ]
@@ -3253,7 +3253,7 @@
     "characters": [
       {
         "hanja": "娛",
-        "meaning": "즐거워할/즐길",
+        "meaning": "즐길",
         "sound": "오"
       },
       {
@@ -3461,7 +3461,7 @@
     "characters": [
       {
         "hanja": "姿",
-        "meaning": "맵시/모양",
+        "meaning": "모양",
         "sound": "자"
       },
       {
@@ -3578,7 +3578,7 @@
       },
       {
         "hanja": "蓄",
-        "meaning": "쌓을/모을",
+        "meaning": "모을",
         "sound": "축"
       }
     ]
@@ -3626,7 +3626,7 @@
       },
       {
         "hanja": "齊",
-        "meaning": "엄숙할/가지런할",
+        "meaning": "가지런할",
         "sound": "제"
       }
     ]
@@ -3674,7 +3674,7 @@
       },
       {
         "hanja": "携",
-        "meaning": "들/이끌",
+        "meaning": "이끌",
         "sound": "휴"
       }
     ]
@@ -3829,7 +3829,7 @@
     "characters": [
       {
         "hanja": "贈",
-        "meaning": "더할/줄",
+        "meaning": "줄",
         "sound": "증"
       },
       {
@@ -3845,7 +3845,7 @@
     "characters": [
       {
         "hanja": "憎",
-        "meaning": "미워할/미울",
+        "meaning": "미울",
         "sound": "증"
       },
       {
@@ -3946,7 +3946,7 @@
       },
       {
         "hanja": "愧",
-        "meaning": "부끄러워할/부끄러울",
+        "meaning": "부끄러울",
         "sound": "괴"
       }
     ]
@@ -3994,7 +3994,7 @@
       },
       {
         "hanja": "蔬",
-        "meaning": "푸성귀/나물",
+        "meaning": "나물",
         "sound": "소"
       }
     ]
@@ -4085,7 +4085,7 @@
     "characters": [
       {
         "hanja": "蓄",
-        "meaning": "쌓을/모을",
+        "meaning": "모을",
         "sound": "축"
       },
       {
@@ -4149,7 +4149,7 @@
     "characters": [
       {
         "hanja": "稱",
-        "meaning": "저울대/일컬을",
+        "meaning": "저울/부를",
         "sound": "칭"
       },
       {
@@ -4245,7 +4245,7 @@
     "characters": [
       {
         "hanja": "透",
-        "meaning": "통할/사무칠",
+        "meaning": "사무칠",
         "sound": "투"
       },
       {
@@ -4442,7 +4442,7 @@
       },
       {
         "hanja": "罰",
-        "meaning": "벌줄/벌할",
+        "meaning": "벌할",
         "sound": "벌"
       }
     ]
@@ -4517,7 +4517,7 @@
     "characters": [
       {
         "hanja": "戱",
-        "meaning": "놀",
+        "meaning": "희롱할",
         "sound": "희"
       },
       {
@@ -4698,7 +4698,7 @@
       },
       {
         "hanja": "滅",
-        "meaning": "멸망할/꺼질/멸할",
+        "meaning": "멸망할/꺼질",
         "sound": "멸"
       }
     ]
