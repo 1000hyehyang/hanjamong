@@ -1,0 +1,36 @@
+[
+  {
+    "id": "q-2-001",
+    "type": "reading_comp",
+    "grade": 2,
+    "points": 8,
+    "question": "다음 문장에서 빈칸에 들어갈 가장 적절한 한자어(漢字語)는 어느 것입니까?\n이 건물은 □□해서 무너질 위험이 없다.",
+    "choices": [
+      "完考",
+      "完告",
+      "完古",
+      "完故",
+      "完固"
+    ],
+    "answerIndex": 4,
+    "source": "korcham-2013-2-a-6-pdf",
+    "explanation": "정답은 '完固'입니다. 完固는 完(완전할 완), 固(굳을 고)로 이루어진 말입니다. 여기서는 '완전하고 튼튼함'의 뜻이며, 고집이 세다는 뜻의 頑固와 구별해야 합니다.",
+    "choiceAnnotations": [
+      {
+        "wordId": "word-17hwq08"
+      },
+      {
+        "wordId": "word-qop1nl"
+      },
+      {
+        "wordId": "word-1mjrilr"
+      },
+      {
+        "wordId": "word-13tm3qu"
+      },
+      {
+        "wordId": "word-jh33xt"
+      }
+    ]
+  }
+]

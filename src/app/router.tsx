@@ -5,6 +5,7 @@ import { LearnListPage } from "../features/learn/LearnListPage";
 import { LearnPage } from "../features/learn/LearnPage";
 import { LearnSelectPage } from "../features/learn/LearnSelectPage";
 import { QuizSelectPage } from "../features/quiz/QuizSelectPage";
+import { QuizSetSelectPage } from "../features/quiz/QuizSetSelectPage";
 import { QuizSessionPage } from "../features/quiz/QuizSessionPage";
 import { QuizTypeSelectPage } from "../features/quiz/QuizTypeSelectPage";
 import { WrongNotesPage } from "../features/wrong-notes/WrongNotesPage";
@@ -31,6 +32,8 @@ export const router = createBrowserRouter([
       { path: "/quiz", element: <QuizSelectPage /> },
       { path: "/quiz/review", element: <QuizSessionPage /> },
       { path: "/quiz/:grade", element: <QuizTypeSelectPage /> },
+      { path: "/quiz/:grade/:type/sets", element: <QuizSetSelectPage /> },
+      { path: "/quiz/:grade/:type/set/:setIndex", element: <QuizSessionPage /> },
       { path: "/quiz/:grade/:type", element: <QuizSessionPage /> },
       { path: "/bookmarks", element: <BookmarksPage /> },
       { path: "/wrong", element: <WrongNotesPage /> },

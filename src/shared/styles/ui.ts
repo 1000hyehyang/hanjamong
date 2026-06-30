@@ -48,4 +48,4 @@ export const choiceCardHover: Record<keyof typeof choiceCardStates, string> = {
 };
 
 export const gradeBadgeClassName =
-  "flex h-10 w-10 shrink-0 items-center justify-center rounded-2xl border-2 border-b-4 border-grapefruit bg-grapefruit-light text-lg font-black text-grapefruit shadow-[0_4px_0_0_#FFD4C4]";
+  "flex h-10 min-w-10 shrink-0 items-center justify-center rounded-2xl border-2 border-b-4 border-grapefruit bg-grapefruit-light px-2 text-lg font-black text-grapefruit shadow-[0_4px_0_0_#FFD4C4]";

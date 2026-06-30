@@ -16,11 +16,14 @@ import hanja4 from "./hanja/hanja-4.json";
 import hanja3 from "./hanja/hanja-3.json";
 import hanja2 from "./hanja/hanja-2.json";
 import hanjaWordsData from "./words/hanja-words.json";
+import questions2 from "./questions/questions-2.json";
 import questions3 from "./questions/questions-3.json";
 import questions4 from "./questions/questions-4.json";
 import questions5 from "./questions/questions-5.json";
 import questions6 from "./questions/questions-6.json";
 import questions7 from "./questions/questions-7.json";
+import questions8 from "./questions/questions-8.json";
+import questions9 from "./questions/questions-9.json";
 
 export const grades = gradesData as GradeInfo[];
 export const confusingHanjaGroups = confusingHanjaGroupsData as ConfusingHanjaGroup[];
@@ -44,11 +47,21 @@ const hanjaByGrade: Record<number, HanjaEntry[]> = {
 };
 
 const questionsByGrade: Record<number, QuizQuestion[]> = {
+  2: questions2 as QuizQuestion[],
   3: questions3 as QuizQuestion[],
   4: questions4 as QuizQuestion[],
   5: questions5 as QuizQuestion[],
   6: questions6 as QuizQuestion[],
   7: questions7 as QuizQuestion[],
+  8: questions8 as QuizQuestion[],
+  9: questions9 as QuizQuestion[],
+};
+
+const questionGradeSets: Record<number, { grades: number[]; label: string; badge: string }> = {
+  7: { grades: [7, 8, 9], label: "7~9급", badge: "7~9" },
+  6: { grades: [6], label: "6급", badge: "6" },
+  5: { grades: [5], label: "5급", badge: "5" },
+  3: { grades: [2, 3, 4], label: "3~4급", badge: "3~4" },
 };
 
 const questionTypeOrder: QuizQuestion["type"][] = [
@@ -97,12 +110,21 @@ export function getHanjaByCharacter(character: string): HanjaEntry | undefined {
 }
 
 export function getQuestionsByGrade(grade: number): QuizQuestion[] {
+  const set =
+    questionGradeSets[grade] ??
+    Object.values(questionGradeSets).find((item) => item.grades.includes(grade));
+
+  if (set) {
+    return set.grades.flatMap((itemGrade) => questionsByGrade[itemGrade] ?? []);
+  }
+
   return questionsByGrade[grade] ?? [];
 }
 
 export function getAvailableQuestionGrades(): number[] {
-  return Object.keys(questionsByGrade)
+  return Object.keys(questionGradeSets)
     .map(Number)
+    .filter((grade) => getQuestionsByGrade(grade).length > 0)
     .sort((a, b) => b - a);
 }
 
@@ -130,5 +152,17 @@ export function getGradeInfo(grade: number): GradeInfo | undefined {
 }
 
 export function getQuestionGradeLabel(grade: number): string {
-  return getGradeInfo(grade)?.label ?? `${grade}급`;
+  const set =
+    questionGradeSets[grade] ??
+    Object.values(questionGradeSets).find((item) => item.grades.includes(grade));
+
+  return set?.label ?? getGradeInfo(grade)?.label ?? `${grade}급`;
+}
+
+export function getQuestionGradeBadgeLabel(grade: number): string {
+  const set =
+    questionGradeSets[grade] ??
+    Object.values(questionGradeSets).find((item) => item.grades.includes(grade));
+
+  return set?.badge ?? String(grade);
 }

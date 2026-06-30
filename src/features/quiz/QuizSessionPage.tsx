@@ -19,6 +19,7 @@ import {
 } from "../../shared/types/quiz";
 import { shuffleQuestionChoices } from "../../shared/utils/shuffle-question-choices";
 import { shuffle } from "../../shared/utils/shuffle";
+import { splitQuestionSets } from "../../shared/utils/split-question-sets";
 import { playSound } from "../../shared/sounds/play-sound";
 
 interface QuizLocationState {
@@ -54,7 +55,11 @@ function getSessionScore(correctCount: number, questionCount: number): number {
 }
 
 export function QuizSessionPage() {
-  const { grade: gradeParam, type } = useParams<{ grade?: string; type?: string }>();
+  const { grade: gradeParam, type, setIndex: setIndexParam } = useParams<{
+    grade?: string;
+    type?: string;
+    setIndex?: string;
+  }>();
   const location = useLocation();
   const navigate = useNavigate();
   const { markQuestionWrong, removeWrong } = useAppStorage();
@@ -62,6 +67,7 @@ export function QuizSessionPage() {
   const isReview = gradeParam === "review";
   const grade = isReview ? undefined : Number(gradeParam);
   const questionIds = locationState?.questionIds;
+  const setIndex = setIndexParam ? Number(setIndexParam) : undefined;
 
   const questions = useMemo(() => {
     if (questionIds && questionIds.length > 0) {
@@ -70,8 +76,25 @@ export function QuizSessionPage() {
     if (!isQuestionType(type) || grade === undefined || Number.isNaN(grade)) {
       return [];
     }
-    return shuffle(getQuestionsByType(type, grade));
-  }, [grade, questionIds, type]);
+
+    const pool = getQuestionsByType(type, grade);
+
+    if (setIndex !== undefined) {
+      if (!Number.isInteger(setIndex) || setIndex < 1) {
+        return [];
+      }
+
+      const sets = splitQuestionSets(pool);
+      const selectedSet = sets[setIndex - 1];
+      if (!selectedSet) {
+        return [];
+      }
+
+      return shuffle(selectedSet);
+    }
+
+    return shuffle(pool);
+  }, [grade, questionIds, setIndex, type]);
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
@@ -132,6 +155,19 @@ export function QuizSessionPage() {
     );
   }
 
+  const backPath =
+    isReview || grade === undefined || Number.isNaN(grade)
+      ? "/quiz"
+      : setIndex !== undefined && isQuestionType(type)
+        ? `/quiz/${grade}/${type}/sets`
+        : `/quiz/${grade}`;
+
+  const backLabel = isReview
+    ? "급수 선택으로"
+    : setIndex !== undefined
+      ? "문제집 선택으로"
+      : "유형 선택으로";
+
   if (finished) {
     return (
       <Screen
@@ -153,15 +189,9 @@ export function QuizSessionPage() {
             <Button
               variant="secondary"
               fullWidth
-              onClick={() =>
-                navigate(
-                  isReview || grade === undefined || Number.isNaN(grade)
-                    ? "/quiz"
-                    : `/quiz/${grade}`,
-                )
-              }
+              onClick={() => navigate(backPath)}
             >
-              {isReview ? "급수 선택으로" : "유형 선택으로"}
+              {backLabel}
             </Button>
           </div>
         }
@@ -216,7 +246,12 @@ export function QuizSessionPage() {
       return;
     }
 
-    if (grade !== undefined && !Number.isNaN(grade)) {
+    if (grade !== undefined && !Number.isNaN(grade) && isQuestionType(type)) {
+      if (setIndex !== undefined) {
+        navigate(`/quiz/${grade}/${type}/sets`);
+        return;
+      }
+
       navigate(`/quiz/${grade}`);
       return;
     }
@@ -227,7 +262,7 @@ export function QuizSessionPage() {
   const sessionTitle = isReview
     ? "오답 복습"
     : isQuestionType(type)
-      ? `${grade !== undefined && !Number.isNaN(grade) ? getQuestionGradeLabel(grade) + " · " : ""}${QUESTION_TYPE_LABELS[type]}`
+      ? `${grade !== undefined && !Number.isNaN(grade) ? getQuestionGradeLabel(grade) + " · " : ""}${QUESTION_TYPE_LABELS[type]}${setIndex !== undefined ? ` · ${setIndex}번 문제집` : ""}`
       : "오답 복습";
 
   const completedCount = isAnswered ? currentIndex + 1 : currentIndex;

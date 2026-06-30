@@ -11,6 +11,7 @@ import { quizTypeIcons } from "../../shared/components/icons/quiz-type-icons";
 import { Screen, ScreenTitle } from "../../shared/components/Screen";
 import { SoundLink } from "../../shared/components/SoundLink";
 import { QUESTION_TYPE_LABELS } from "../../shared/types/quiz";
+import { shouldUseQuestionSets } from "../../shared/utils/split-question-sets";
 
 export function QuizTypeSelectPage() {
   const navigate = useNavigate();
@@ -58,10 +59,14 @@ export function QuizTypeSelectPage() {
         {types.map((type) => {
           const count = getQuestionsByType(type, grade).length;
 
+          const destination = shouldUseQuestionSets(count)
+            ? `/quiz/${grade}/${type}/sets`
+            : `/quiz/${grade}/${type}`;
+
           return (
             <ChoiceCard
               key={type}
-              onClick={() => navigate(`/quiz/${grade}/${type}`)}
+              onClick={() => navigate(destination)}
               icon={<Icon name={quizTypeIcons[type]} size={22} />}
               label={QUESTION_TYPE_LABELS[type]}
               description={`${count}문제`}

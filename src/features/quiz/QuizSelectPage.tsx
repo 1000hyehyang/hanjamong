@@ -1,6 +1,7 @@
 import { SoundLink } from "../../shared/components/SoundLink";
 import {
   getAvailableQuestionGrades,
+  getQuestionGradeBadgeLabel,
   getQuestionsByGrade,
   getQuestionGradeLabel,
 } from "../../data";
@@ -39,7 +40,7 @@ export function QuizSelectPage() {
             >
               <div className="flex items-center gap-3">
                 <span className={gradeBadgeClassName}>
-                  {grade}
+                  {getQuestionGradeBadgeLabel(grade)}
                 </span>
                 <div className="min-w-0 flex-1">
                   <div className="text-base leading-snug">

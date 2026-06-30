@@ -12,12 +12,17 @@ const navItems: { to: string; label: string; icon: IconName }[] = [
   { to: "/concepts", label: "개념", icon: "lightbulb" },
 ];
 
+function isQuizSessionRoute(pathname: string): boolean {
+  if (pathname === "/quiz/review") return true;
+  if (/^\/quiz\/\d+\/[^/]+\/sets$/.test(pathname)) return false;
+  return /^\/quiz\/\d+\/[^/]+(\/set\/\d+)?$/.test(pathname);
+}
+
 function isSessionRoute(pathname: string): boolean {
   return (
     pathname.startsWith("/learn/bookmarks") ||
     /^\/learn\/\d+/.test(pathname) ||
-    /^\/quiz\/\d+\/[^/]+/.test(pathname) ||
-    pathname === "/quiz/review" ||
+    isQuizSessionRoute(pathname) ||
     /^\/concepts\/(confusing-hanja|synonyms|antonyms|homophones)(\/list)?$/.test(pathname)
   );
 }
