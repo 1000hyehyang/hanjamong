@@ -842,7 +842,7 @@
       },
       {
         "hanja": "屬",
-        "meaning": "이을/무리",
+        "meaning": "무리",
         "sound": "속"
       }
     ]
@@ -890,7 +890,7 @@
       },
       {
         "hanja": "慨",
-        "meaning": "분개할/슬퍼할",
+        "meaning": "슬퍼할",
         "sound": "개"
       }
     ]
@@ -1477,7 +1477,7 @@
     "characters": [
       {
         "hanja": "總",
-        "meaning": "거느릴/합할",
+        "meaning": "합할/다",
         "sound": "총"
       },
       {
@@ -1578,7 +1578,7 @@
       },
       {
         "hanja": "隔",
-        "meaning": "막을/사이 뜰",
+        "meaning": "사이 뜰",
         "sound": "격"
       }
     ]
@@ -1642,7 +1642,7 @@
       },
       {
         "hanja": "康",
-        "meaning": "편안할/편안",
+        "meaning": "편안할",
         "sound": "강"
       }
     ]
@@ -1701,7 +1701,7 @@
     "characters": [
       {
         "hanja": "傾",
-        "meaning": "기울어질/기울",
+        "meaning": "기울",
         "sound": "경"
       },
       {
@@ -2218,7 +2218,7 @@
       },
       {
         "hanja": "配",
-        "meaning": "짝지을/나눌/짝",
+        "meaning": "나눌/짝",
         "sound": "배"
       }
     ]
@@ -2229,7 +2229,7 @@
     "characters": [
       {
         "hanja": "配",
-        "meaning": "짝지을/나눌/짝",
+        "meaning": "나눌/짝",
         "sound": "배"
       },
       {
@@ -2373,7 +2373,7 @@
     "characters": [
       {
         "hanja": "飜",
-        "meaning": "뒤칠/번역할",
+        "meaning": "번역할/날",
         "sound": "번"
       },
       {
@@ -2549,7 +2549,7 @@
     "characters": [
       {
         "hanja": "副",
-        "meaning": "버금",
+        "meaning": "버금/다음",
         "sound": "부"
       },
       {
@@ -3013,7 +3013,7 @@
     "characters": [
       {
         "hanja": "試",
-        "meaning": "시험할",
+        "meaning": "시험",
         "sound": "시"
       },
       {
@@ -3733,7 +3733,7 @@
     "characters": [
       {
         "hanja": "拙",
-        "meaning": "졸할",
+        "meaning": "못날/옹졸할",
         "sound": "졸"
       },
       {
@@ -4101,7 +4101,7 @@
     "characters": [
       {
         "hanja": "衝",
-        "meaning": "찌를",
+        "meaning": "찌를/부딪힐",
         "sound": "충"
       },
       {
@@ -4394,8 +4394,8 @@
       },
       {
         "hanja": "諾",
-        "meaning": "대답할",
-        "sound": "락"
+        "meaning": "허락할",
+        "sound": "낙"
       }
     ]
   },

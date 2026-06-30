@@ -160,14 +160,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "편지",
-        "reading": "간"
-      },
-      {
-        "meaning": "대쪽",
-        "reading": "간"
-      },
-      {
         "meaning": "간략할",
         "reading": "간"
       }
@@ -202,10 +194,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "정성",
-        "reading": "간"
-      },
-      {
         "meaning": "간절할",
         "reading": "간"
       }
@@ -221,11 +209,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "살필",
+        "meaning": "볼",
         "reading": "감"
       },
       {
-        "meaning": "볼",
+        "meaning": "살필",
         "reading": "감"
       }
     ]
@@ -257,10 +245,6 @@
       {
         "meaning": "편안할",
         "reading": "강"
-      },
-      {
-        "meaning": "편안",
-        "reading": "강"
       }
     ]
   },
@@ -288,10 +272,6 @@
     "radical": "金",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "굳셀",
-        "reading": "강"
-      },
       {
         "meaning": "강철",
         "reading": "강"
@@ -323,10 +303,6 @@
     "formation": "회의",
     "meanings": [
       {
-        "meaning": "끼일",
-        "reading": "개"
-      },
-      {
         "meaning": "낄",
         "reading": "개"
       }
@@ -341,10 +317,6 @@
     "radical": "心",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "분개할",
-        "reading": "개"
-      },
       {
         "meaning": "슬퍼할",
         "reading": "개"
@@ -425,10 +397,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "의지할",
-        "reading": "거"
-      },
-      {
         "meaning": "근거",
         "reading": "거"
       }
@@ -460,6 +428,10 @@
     "meanings": [
       {
         "meaning": "물건",
+        "reading": "건"
+      },
+      {
+        "meaning": "사건",
         "reading": "건"
       }
     ]
@@ -598,10 +570,6 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "막을",
-        "reading": "격"
-      },
-      {
         "meaning": "사이 뜰",
         "reading": "격"
       }
@@ -663,6 +631,10 @@
     "meanings": [
       {
         "meaning": "이끌",
+        "reading": "견"
+      },
+      {
+        "meaning": "끌",
         "reading": "견"
       }
     ]
@@ -771,8 +743,8 @@
         "reading": "경"
       },
       {
-        "meaning": "반걸음",
-        "reading": "규"
+        "meaning": "이랑",
+        "reading": "경"
       }
     ]
   },
@@ -785,10 +757,6 @@
     "radical": "人",
     "formation": "형성",
     "meanings": [
-      {
-        "meaning": "기울어질",
-        "reading": "경"
-      },
       {
         "meaning": "기울",
         "reading": "경"
@@ -980,6 +948,10 @@
       {
         "meaning": "열",
         "reading": "계"
+      },
+      {
+        "meaning": "일깨워 줄",
+        "reading": "계"
       }
     ]
   },
@@ -1038,7 +1010,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "시어미",
+        "meaning": "시어머니",
         "reading": "고"
       }
     ]
@@ -1280,6 +1252,10 @@
       },
       {
         "meaning": "둘레",
+        "reading": "곽"
+      },
+      {
+        "meaning": "성곽",
         "reading": "곽"
       }
     ]
@@ -1526,6 +1502,10 @@
       {
         "meaning": "비교할",
         "reading": "교"
+      },
+      {
+        "meaning": "견줄",
+        "reading": "교"
       }
     ]
   },
@@ -1637,16 +1617,16 @@
     "formation": "상형",
     "meanings": [
       {
-        "meaning": "땅이름",
-        "reading": "구"
-      },
-      {
         "meaning": "거북",
         "reading": "귀"
       },
       {
         "meaning": "터질",
         "reading": "균"
+      },
+      {
+        "meaning": "땅이름",
+        "reading": "구"
       }
     ]
   },
@@ -1710,6 +1690,10 @@
       },
       {
         "meaning": "구분할",
+        "reading": "구"
+      },
+      {
+        "meaning": "나눌",
         "reading": "구"
       }
     ]
@@ -1990,6 +1974,10 @@
       {
         "meaning": "얽힐",
         "reading": "규"
+      },
+      {
+        "meaning": "살필",
+        "reading": "규"
       }
     ]
   },
@@ -2008,6 +1996,10 @@
       },
       {
         "meaning": "버섯",
+        "reading": "균"
+      },
+      {
+        "meaning": "곰팡이",
         "reading": "균"
       }
     ]
@@ -3083,6 +3075,10 @@
       {
         "meaning": "칠할",
         "reading": "도"
+      },
+      {
+        "meaning": "진흙",
+        "reading": "도"
       }
     ]
   },
@@ -3437,6 +3433,10 @@
       {
         "meaning": "대략",
         "reading": "략"
+      },
+      {
+        "meaning": "간략할",
+        "reading": "략"
       }
     ]
   },
@@ -3598,6 +3598,10 @@
     "meanings": [
       {
         "meaning": "여길",
+        "reading": "련"
+      },
+      {
+        "meaning": "불쌍히 여길",
         "reading": "련"
       }
     ]
@@ -4983,6 +4987,14 @@
       {
         "meaning": "근심할",
         "reading": "민"
+      },
+      {
+        "meaning": "민망할",
+        "reading": "민"
+      },
+      {
+        "meaning": "불쌍히 여길",
+        "reading": "민"
       }
     ]
   },
@@ -5150,11 +5162,15 @@
     "formation": "회의",
     "meanings": [
       {
-        "meaning": "돌릴",
+        "meaning": "일반",
         "reading": "반"
       },
       {
-        "meaning": "일반",
+        "meaning": "가지",
+        "reading": "반"
+      },
+      {
+        "meaning": "돌",
         "reading": "반"
       }
     ]
@@ -5357,10 +5373,6 @@
     "formation": "회의",
     "meanings": [
       {
-        "meaning": "짝지을",
-        "reading": "배"
-      },
-      {
         "meaning": "나눌",
         "reading": "배"
       },
@@ -5433,11 +5445,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "뒤칠",
+        "meaning": "번역할",
         "reading": "번"
       },
       {
-        "meaning": "번역할",
+        "meaning": "날",
         "reading": "번"
       }
     ]
@@ -5671,7 +5683,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "계보",
+        "meaning": "족보",
         "reading": "보"
       }
     ]
@@ -5785,10 +5797,6 @@
     "meanings": [
       {
         "meaning": "봉황새",
-        "reading": "봉"
-      },
-      {
-        "meaning": "봉새",
         "reading": "봉"
       }
     ]
@@ -5952,6 +5960,10 @@
       {
         "meaning": "관청",
         "reading": "부"
+      },
+      {
+        "meaning": "마을",
+        "reading": "부"
       }
     ]
   },
@@ -5966,6 +5978,10 @@
     "meanings": [
       {
         "meaning": "버금",
+        "reading": "부"
+      },
+      {
+        "meaning": "다음",
         "reading": "부"
       }
     ]
@@ -6889,6 +6905,10 @@
     "formation": "형성",
     "meanings": [
       {
+        "meaning": "마을",
+        "reading": "서"
+      },
+      {
         "meaning": "관청",
         "reading": "서"
       }
@@ -6998,7 +7018,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "고요할",
+        "meaning": "선",
         "reading": "선"
       }
     ]
@@ -7115,11 +7135,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "근심스러울",
+        "meaning": "떠들",
         "reading": "소"
       },
       {
-        "meaning": "떠들",
+        "meaning": "시끄러울",
         "reading": "소"
       }
     ]
@@ -7134,7 +7154,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "불사를",
+        "meaning": "불태울",
         "reading": "소"
       }
     ]
@@ -7255,16 +7275,16 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "이을",
-        "reading": "속"
-      },
-      {
         "meaning": "무리",
         "reading": "속"
       },
       {
         "meaning": "이을",
         "reading": "촉"
+      },
+      {
+        "meaning": "따를",
+        "reading": "주"
       }
     ]
   },
@@ -7308,7 +7328,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "욀",
+        "meaning": "외울",
         "reading": "송"
       }
     ]
@@ -7342,11 +7362,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "솔질할",
+        "meaning": "인쇄할",
         "reading": "쇄"
       },
       {
-        "meaning": "인쇄할",
+        "meaning": "닦을",
         "reading": "쇄"
       }
     ]
@@ -7989,7 +8009,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "아담할",
+        "meaning": "바를",
         "reading": "아"
       },
       {
@@ -8392,11 +8412,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "정거장",
-        "reading": "역"
-      },
-      {
-        "meaning": "역",
+        "meaning": "역마",
         "reading": "역"
       }
     ]
@@ -8521,11 +8537,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "멀리 흐를",
+        "meaning": "펼",
         "reading": "연"
       },
       {
-        "meaning": "펼",
+        "meaning": "늘일",
         "reading": "연"
       }
     ]
@@ -9132,11 +9148,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "운치",
+        "meaning": "운",
         "reading": "운"
       },
       {
-        "meaning": "운",
+        "meaning": "소리",
         "reading": "운"
       }
     ]
@@ -9247,6 +9263,10 @@
       {
         "meaning": "밥통",
         "reading": "위"
+      },
+      {
+        "meaning": "위장",
+        "reading": "위"
       }
     ]
   },
@@ -9295,6 +9315,10 @@
     "meanings": [
       {
         "meaning": "둘레",
+        "reading": "위"
+      },
+      {
+        "meaning": "에워쌀",
         "reading": "위"
       }
     ]
@@ -9991,11 +10015,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "장중할",
+        "meaning": "씩씩할",
         "reading": "장"
       },
       {
-        "meaning": "씩씩할",
+        "meaning": "전장",
         "reading": "장"
       }
     ]
@@ -10908,7 +10932,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "졸할",
+        "meaning": "못날",
+        "reading": "졸"
+      },
+      {
+        "meaning": "옹졸할",
         "reading": "졸"
       }
     ]
@@ -11323,11 +11351,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "직책",
+        "meaning": "직분",
         "reading": "직"
       },
       {
-        "meaning": "직분",
+        "meaning": "벼슬",
         "reading": "직"
       }
     ]
@@ -11403,6 +11431,10 @@
     "meanings": [
       {
         "meaning": "베풀",
+        "reading": "진"
+      },
+      {
+        "meaning": "묵을",
         "reading": "진"
       }
     ]
@@ -12163,11 +12195,11 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "거느릴",
+        "meaning": "합할",
         "reading": "총"
       },
       {
-        "meaning": "합할",
+        "meaning": "다",
         "reading": "총"
       }
     ]
@@ -12349,6 +12381,10 @@
     "meanings": [
       {
         "meaning": "찌를",
+        "reading": "충"
+      },
+      {
+        "meaning": "부딪힐",
         "reading": "충"
       }
     ]
@@ -12605,6 +12641,14 @@
       },
       {
         "meaning": "일컬을",
+        "reading": "칭"
+      },
+      {
+        "meaning": "저울",
+        "reading": "칭"
+      },
+      {
+        "meaning": "부를",
         "reading": "칭"
       }
     ]
@@ -13042,6 +13086,10 @@
     "meanings": [
       {
         "meaning": "물갈래",
+        "reading": "파"
+      },
+      {
+        "meaning": "갈래",
         "reading": "파"
       }
     ]
@@ -13720,7 +13768,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "목덜미",
+        "meaning": "목",
         "reading": "항"
       },
       {
@@ -14044,11 +14092,7 @@
     "formation": "형성",
     "meanings": [
       {
-        "meaning": "개똥벌레",
-        "reading": "형"
-      },
-      {
-        "meaning": "반딧불",
+        "meaning": "반딧불이",
         "reading": "형"
       }
     ]
@@ -14748,6 +14792,10 @@
       {
         "meaning": "탄식할",
         "reading": "호"
+      },
+      {
+        "meaning": "희롱할",
+        "reading": "희"
       }
     ]
   }
