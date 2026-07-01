@@ -13,7 +13,6 @@
       "간"
     ],
     "answerIndex": 2,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '반'입니다. 半은 '반 반'입니다."
   },
   {
@@ -30,7 +29,6 @@
       "설"
     ],
     "answerIndex": 0,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '이'입니다. 耳는 '귀 이'입니다."
   },
   {
@@ -47,7 +45,6 @@
       "번"
     ],
     "answerIndex": 4,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '번'입니다. 番은 '차례 번'입니다."
   },
   {
@@ -64,7 +61,6 @@
       "설"
     ],
     "answerIndex": 2,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '치'입니다. 齒는 '이 치'입니다."
   },
   {
@@ -81,7 +77,6 @@
       "은"
     ],
     "answerIndex": 4,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '은'입니다. 銀은 '은 은'입니다."
   },
   {
@@ -98,7 +93,6 @@
       "線"
     ],
     "answerIndex": 1,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '便'입니다. 便은 '편할 편/똥오줌 변'입니다.",
     "choiceAnnotations": [
       {
@@ -137,7 +131,6 @@
       "洋"
     ],
     "answerIndex": 1,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '活'입니다. 活은 '살 활'입니다.",
     "choiceAnnotations": [
       {
@@ -176,7 +169,6 @@
       "12"
     ],
     "answerIndex": 1,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '15'입니다. 齒의 총획수는 15획입니다."
   },
   {
@@ -193,7 +185,6 @@
       "20"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '18'입니다. 醫의 총획수는 18획입니다."
   },
   {
@@ -210,7 +201,6 @@
       "15"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '14'입니다. 圖의 총획수는 14획입니다."
   },
   {
@@ -227,7 +217,6 @@
       "물건"
     ],
     "answerIndex": 2,
-    "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '바탕'입니다. 質은 '바탕 질'입니다."
   },
   {
@@ -244,7 +233,6 @@
       "궁궐"
     ],
     "answerIndex": 0,
-    "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '임금'입니다. 君은 '임금 군'입니다."
   },
   {
@@ -261,7 +249,6 @@
       "도둑"
     ],
     "answerIndex": 3,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '스승'입니다. 師는 '스승 사'입니다."
   },
   {
@@ -278,7 +265,6 @@
       "눈썹"
     ],
     "answerIndex": 2,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '이'입니다. 齒는 '이 치'입니다."
   },
   {
@@ -295,25 +281,7 @@
       "생각"
     ],
     "answerIndex": 1,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '차례'입니다. 番은 '차례 번'입니다."
-  },
-  {
-    "id": "q-7-016",
-    "type": "meaning_to_hanja",
-    "grade": 7,
-    "points": 4,
-    "question": "다음 한자(漢字)의 뜻은 무엇입니까?\n君",
-    "choices": [
-      "임금",
-      "신하",
-      "학교",
-      "나라",
-      "궁궐"
-    ],
-    "answerIndex": 0,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '임금'입니다. 君은 '임금 군'입니다."
   },
   {
     "id": "q-7-017",
@@ -329,7 +297,6 @@
       "도읍"
     ],
     "answerIndex": 1,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '그림'입니다. 圖는 '그림 도'입니다."
   },
   {
@@ -346,7 +313,6 @@
       "배우다"
     ],
     "answerIndex": 4,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '배우다'입니다. 學은 '배울 학'입니다."
   },
   {
@@ -363,7 +329,6 @@
       "種"
     ],
     "answerIndex": 3,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '庭'입니다. 庭은 '뜰 정'입니다.",
     "choiceAnnotations": [
       {
@@ -402,7 +367,6 @@
       "속물"
     ],
     "answerIndex": 4,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '속물'입니다. 俗物은 속물로 읽고, 俗(풍속 속), 物(물건 물)으로 이루어진 말입니다. 俗物은 '속된 사람이나 물건'을 뜻합니다."
   },
   {
@@ -419,7 +383,6 @@
       "양질"
     ],
     "answerIndex": 0,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '품질'입니다. 品質은 품질로 읽고, 品(물건 품), 質(바탕 질)으로 이루어진 말입니다. 品質은 '물건의 성질과 바탕'을 뜻합니다."
   },
   {
@@ -436,7 +399,6 @@
       "直言"
     ],
     "answerIndex": 0,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '例外'입니다. 例外는 例(법식 례), 外(바깥 외)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -470,7 +432,6 @@
       "노력하여 꿈을 이룸"
     ],
     "answerIndex": 2,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "育成은 育(기를 육), 成(이룰 성)으로 이루어진 말입니다."
   },
   {
@@ -487,7 +448,6 @@
       "素材"
     ],
     "answerIndex": 4,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '素材'입니다. 素材는 소재로 읽고, 素(흴 소), 材(재목 재)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -521,7 +481,6 @@
       "고국"
     ],
     "answerIndex": 1,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '출국'입니다. 出國은 출국으로 읽고, 出(날 출), 國(나라 국)으로 이루어진 말입니다. 出國은 '나라 밖으로 나감'을 뜻합니다."
   },
   {
@@ -538,7 +497,6 @@
       "시초"
     ],
     "answerIndex": 2,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '시작'입니다. 始作은 시작으로 읽고, 始(처음 시), 作(지을 작)으로 이루어진 말입니다. 始作은 '어떤 일을 처음으로 함'을 뜻합니다."
   },
   {
@@ -555,7 +513,6 @@
       "京室"
     ],
     "answerIndex": 1,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '競技'입니다. 競技는 競(다툴 경), 技(재주 기)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -589,7 +546,6 @@
       "선생님께서 말씀하신 내용"
     ],
     "answerIndex": 0,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "答案은 答(대답할 답), 案(책상 안)으로 이루어진 말입니다."
   },
   {
@@ -606,7 +562,6 @@
       "圖形"
     ],
     "answerIndex": 0,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '童詩'입니다. 童詩는 동시로 읽고, 童(아이 동), 詩(시 시)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -640,8 +595,7 @@
       "있는 듯 없는 듯 흐지부지함"
     ],
     "answerIndex": 1,
-    "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '이름만 있고 실속은 없음'입니다. 有名無實은 有(있을 유), 名(이름 명), 無(없을 무), 實(열매 실/참 실)으로 이루어진 말입니다. '이름만 있고 실속은 없음'을 뜻합니다."
+    "explanation": "정답은 '이름만 있고 실속은 없음'입니다. 有名無實(유명무실)은 有(있을 유), 名(이름 명), 無(없을 무), 實(참 실)으로 이루어진 말입니다."
   },
   {
     "id": "q-7-031",
@@ -657,8 +611,7 @@
       "물건을 보면 가지고 싶은 욕심이 생김"
     ],
     "answerIndex": 4,
-    "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '물건을 보면 가지고 싶은 욕심이 생김'입니다. 見物生心은 見(볼 견), 物(물건 물), 生(날 생), 心(마음 심)으로 이루어진 말입니다. '물건을 보면 가지고 싶은 욕심이 생김'을 뜻합니다."
+    "explanation": "정답은 '물건을 보면 가지고 싶은 욕심이 생김'입니다. 見物生心(견물생심)은 見(볼 견), 物(물건 물), 生(날 생), 心(마음 심)으로 이루어진 말입니다."
   },
   {
     "id": "q-7-032",
@@ -674,8 +627,7 @@
       "윗사람이 아랫사람에게 글을 써서 명령함"
     ],
     "answerIndex": 2,
-    "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '말이나 글에만 의지하지 않고 뜻을 전함'입니다. 不立文字는 말이나 글에만 의지하지 않고 마음에서 마음으로 뜻을 전한다는 말입니다. 선종에서 깨달음은 문자에만 의존하지 않고 전해진다는 뜻을 담고 있습니다."
+    "explanation": "정답은 '말이나 글에만 의지하지 않고 뜻을 전함'입니다. 不立文字(불립문자)는 不(아닐 불), 立(설 립), 文(글월 문), 字(글자 자)으로 이루어진 말입니다."
   },
   {
     "id": "q-7-033",
@@ -691,8 +643,7 @@
       "단복"
     ],
     "answerIndex": 0,
-    "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '소복'입니다. 素服은 素(흴 소), 服(옷 복)으로 이루어진 말입니다."
+    "explanation": "정답은 '소복'입니다. 素服은 素(흴 소), 服(옷 복)으로 이루어진 말입니다. 素服은 '흰 옷이나 수수한 옷'을 뜻합니다."
   },
   {
     "id": "q-7-034",
@@ -708,7 +659,6 @@
       "열의의 정도"
     ],
     "answerIndex": 4,
-    "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '열의의 정도'입니다. 熱度는 熱(더울 열), 度(법도 도)로 이루어진 말입니다."
   },
   {
@@ -725,7 +675,6 @@
       "과거에 둘러봄"
     ],
     "answerIndex": 0,
-    "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '거쳐 지나감'입니다. 經由는 經(지날 경), 由(말미암을 유)으로 이루어진 말입니다."
   },
   {
@@ -742,7 +691,6 @@
       "멀리 있는 사람을 손짓으로 부름"
     ],
     "answerIndex": 3,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '어떤 행위를 할 것을 부탁함'입니다. 要求는 要(요긴할 요), 求(구할 구)으로 이루어진 말입니다."
   },
   {
@@ -759,7 +707,6 @@
       "달아나게 하다"
     ],
     "answerIndex": 1,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '가운데를 맞히다'입니다. 命中은 命(목숨 명), 中(가운데 중)으로 이루어진 말입니다."
   },
   {
@@ -776,7 +723,6 @@
       "특정 분야에 뛰어난 재능을 지닌 사람"
     ],
     "answerIndex": 2,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '가지거나 간직하고 있음'입니다. 保有는 保(지킬 보), 有(있을 유)으로 이루어진 말입니다."
   },
   {
@@ -793,7 +739,6 @@
       "反島"
     ],
     "answerIndex": 1,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '半島'입니다. 半島는 半(반 반), 島(섬 도)으로 이루어진 말입니다. 半島는 바다로 둘러싸이고 한쪽은 육지에 붙은 땅을 뜻하므로, 대륙과 해양으로 진출이 유리한 나라라는 문맥에 알맞습니다.",
     "choiceAnnotations": [
       {
@@ -827,7 +772,6 @@
       "示師"
     ],
     "answerIndex": 3,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '時事'입니다. 時事는 時(때 시), 事(일 사)으로 이루어진 말입니다. 時事는 그때그때의 사회적 사건·현안을 뜻하므로, 오늘 프로그램에서 그 사건을 다루었다는 문맥에 알맞습니다.",
     "choiceAnnotations": [
       {
@@ -861,7 +805,6 @@
       "가지고 있는 재물의 양"
     ],
     "answerIndex": 3,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '본래의 바탕'입니다. 素地는 素(흴 소), 地(땅 지)으로 이루어진 말입니다."
   },
   {
@@ -878,7 +821,6 @@
       "시장의 가치"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '내부적으로 정함'입니다. 內定은 內(안 내), 定(정할 정)으로 이루어진 말입니다."
   },
   {
@@ -895,76 +837,7 @@
       "사리의 옳고 그름"
     ],
     "answerIndex": 4,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '사리의 옳고 그름'입니다. 曲直은 曲(굽을 곡), 直(곧을 직)으로 이루어진 말입니다."
-  },
-  {
-    "id": "q-7-044",
-    "type": "reading_comp",
-    "grade": 7,
-    "points": 8,
-    "question": "다음 문장에서 밑줄 친 한자어(漢字語)의 음(音)은 무엇입니까?\n무색 옷을 입고 있었으나 素服을 입은 듯 청초했다.",
-    "choices": [
-      "소복",
-      "화복",
-      "한복",
-      "교복",
-      "단복"
-    ],
-    "answerIndex": 0,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '소복'입니다. 素服은 素(흴 소), 服(옷 복)으로 이루어진 말입니다."
-  },
-  {
-    "id": "q-7-045",
-    "type": "reading_comp",
-    "grade": 7,
-    "points": 8,
-    "question": "다음 문장에서 밑줄 친 한자어(漢字語)의 뜻풀이로 적절한 것은 어느 것입니까?\n그는 날이 갈수록 공부에 대한 熱度가 높아졌다.",
-    "choices": [
-      "목마름",
-      "간절히 바람",
-      "열의의 정도",
-      "싫증의 정도",
-      "관심의 정도"
-    ],
-    "answerIndex": 2,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '열의의 정도'입니다. 熱度는 熱(더울 열), 度(법도 도)으로 이루어진 말입니다."
-  },
-  {
-    "id": "q-7-046",
-    "type": "reading_comp",
-    "grade": 7,
-    "points": 8,
-    "question": "다음 문장에서 밑줄 친 한자어(漢字語)의 뜻풀이로 적절한 것은 어느 것입니까?\n우리는 일본을 經由해서 어제 서울에 도착했다.",
-    "choices": [
-      "여행함",
-      "머물러 있음",
-      "혼자 살아감",
-      "거쳐 지나감",
-      "과거에 둘러봄"
-    ],
-    "answerIndex": 3,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '거쳐 지나감'입니다. 經由는 經(지날 경), 由(말미암을 유)으로 이루어진 말입니다."
-  },
-  {
-    "id": "q-7-047",
-    "type": "reading_comp",
-    "grade": 7,
-    "points": 8,
-    "question": "다음 문장에서 밑줄 친 한자어(漢字語)의 뜻풀이로 적절한 것은 어느 것입니까?\n그는 정치가가 될 素地가 다분하다.",
-    "choices": [
-      "본래의 바탕",
-      "성공할 조짐",
-      "지식의 정도",
-      "습관이나 버릇",
-      "가지고 있는 재물의 양"
-    ],
-    "answerIndex": 0,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '본래의 바탕'입니다. 素地는 素(흴 소), 地(땅 지)으로 이루어진 말입니다."
   },
   {
     "id": "q-7-048",
@@ -980,7 +853,6 @@
       "평소에 닦아 놓은 교양"
     ],
     "answerIndex": 4,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '평소에 닦아 놓은 교양'입니다. 素養은 素(흴 소), 養(기를 양)으로 이루어진 말입니다."
   },
   {
@@ -997,7 +869,6 @@
       "빨리 달릴 수 있게 바지 아래를 묶은 옷"
     ],
     "answerIndex": 3,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '평상시 간편하게 입는 옷'입니다. 便服은 便(편할 편), 服(옷 복)으로 이루어진 말로, 평상복이나 간편한 옷을 뜻합니다."
   },
   {
@@ -1014,7 +885,6 @@
       "땅을 일정한 기준으로 나누어서 번호를 붙인 것"
     ],
     "answerIndex": 4,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '땅을 일정한 기준으로 나누어서 번호를 붙인 것'입니다. 番地는 番(차례 번), 地(땅 지)으로 이루어진 말입니다."
   },
   {
@@ -1031,7 +901,6 @@
       "料約"
     ],
     "answerIndex": 2,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '要約'입니다. 要約은 要(요긴할 요), 約(줄일 약)으로 이루어진 말로, 중요한 내용을 간추려 정리한다는 뜻입니다.",
     "choiceAnnotations": [
       {
@@ -1065,7 +934,6 @@
       "病失"
     ],
     "answerIndex": 2,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '病室'입니다. 病室은 病(병 병), 室(방 실/집 실)로 이루어진 말로, 환자가 있는 방을 뜻합니다.",
     "choiceAnnotations": [
       {
@@ -1099,7 +967,6 @@
       "戈"
     ],
     "answerIndex": 3,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '心'입니다. 남성은 男性이고, 性의 부수는 心입니다.",
     "choiceAnnotations": [
       {

@@ -13,7 +13,6 @@
       "강"
     ],
     "answerIndex": 3,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '행'입니다. 行은 '다닐 행'입니다."
   },
   {
@@ -30,7 +29,6 @@
       "수"
     ],
     "answerIndex": 3,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '화'입니다. 火는 '불 화'입니다."
   },
   {
@@ -47,7 +45,6 @@
       "만"
     ],
     "answerIndex": 4,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '만'입니다. 萬은 '일만 만'입니다."
   },
   {
@@ -64,7 +61,6 @@
       "면"
     ],
     "answerIndex": 4,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '면'입니다. 面은 '얼굴 면'입니다."
   },
   {
@@ -81,7 +77,6 @@
       "목"
     ],
     "answerIndex": 2,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '토'입니다. 土는 '흙 토'입니다."
   },
   {
@@ -98,7 +93,6 @@
       "고"
     ],
     "answerIndex": 0,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '산'입니다. 山은 '산 산/뫼 산'입니다."
   },
   {
@@ -115,25 +109,7 @@
       "설"
     ],
     "answerIndex": 3,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '우'입니다. 雨는 '비 우'입니다."
-  },
-  {
-    "id": "q-9-008",
-    "type": "hanja_reading",
-    "grade": 9,
-    "points": 4,
-    "question": "다음 한자(漢字)의 음(音)은 무엇입니까?\n行",
-    "choices": [
-      "행",
-      "척",
-      "리",
-      "가",
-      "형"
-    ],
-    "answerIndex": 0,
-    "source": "korcham-2013-2-a-6-pdf",
-    "explanation": "정답은 '행'입니다. 行은 '다닐 행'입니다."
   },
   {
     "id": "q-9-009",
@@ -149,25 +125,7 @@
       "구"
     ],
     "answerIndex": 2,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '력'입니다. 力은 '힘 력'입니다."
-  },
-  {
-    "id": "q-9-010",
-    "type": "hanja_reading",
-    "grade": 9,
-    "points": 4,
-    "question": "다음 한자(漢字)의 음(音)은 무엇입니까?\n面",
-    "choices": [
-      "자",
-      "면",
-      "아",
-      "하",
-      "회"
-    ],
-    "answerIndex": 1,
-    "source": "korcham-2013-2-a-6-pdf",
-    "explanation": "정답은 '면'입니다. 面은 '얼굴 면'입니다."
   },
   {
     "id": "q-9-011",
@@ -183,7 +141,6 @@
       "石"
     ],
     "answerIndex": 2,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '川'입니다. 川은 '내 천'입니다.",
     "choiceAnnotations": [
       {
@@ -222,7 +179,6 @@
       "果"
     ],
     "answerIndex": 0,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '口'입니다. 口는 '입 구'입니다.",
     "choiceAnnotations": [
       {
@@ -261,7 +217,6 @@
       "衣"
     ],
     "answerIndex": 3,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '工'입니다. 工은 '장인 공'입니다.",
     "choiceAnnotations": [
       {
@@ -300,7 +255,6 @@
       "車"
     ],
     "answerIndex": 1,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '果'입니다. 果는 '열매 과'입니다.",
     "choiceAnnotations": [
       {
@@ -326,45 +280,6 @@
     ]
   },
   {
-    "id": "q-9-015",
-    "type": "hanja_reading",
-    "grade": 9,
-    "points": 4,
-    "question": "다음 음(音)을 가진 한자는 무엇입니까?\n천",
-    "choices": [
-      "身",
-      "車",
-      "川",
-      "衣",
-      "萬"
-    ],
-    "answerIndex": 2,
-    "source": "korcham-2013-2-a-6-pdf",
-    "explanation": "정답은 '川'입니다. 川은 '내 천'입니다.",
-    "choiceAnnotations": [
-      {
-        "meaning": "몸",
-        "reading": "신"
-      },
-      {
-        "meaning": "수레",
-        "reading": "차"
-      },
-      {
-        "meaning": "내",
-        "reading": "천"
-      },
-      {
-        "meaning": "옷",
-        "reading": "의"
-      },
-      {
-        "meaning": "일만",
-        "reading": "만"
-      }
-    ]
-  },
-  {
     "id": "q-9-016",
     "type": "hanja_reading",
     "grade": 9,
@@ -378,7 +293,6 @@
       "長"
     ],
     "answerIndex": 0,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '文'입니다. 文은 '글월 문'입니다.",
     "choiceAnnotations": [
       {
@@ -417,7 +331,6 @@
       "목"
     ],
     "answerIndex": 1,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '발'입니다. 足은 '발 족'입니다."
   },
   {
@@ -434,7 +347,6 @@
       "강"
     ],
     "answerIndex": 2,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '밭'입니다. 田은 '밭 전'입니다."
   },
   {
@@ -451,7 +363,6 @@
       "말"
     ],
     "answerIndex": 4,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '말'입니다. 馬는 '말 마'입니다."
   },
   {
@@ -468,7 +379,6 @@
       "웃다"
     ],
     "answerIndex": 0,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '크다'입니다. 大는 '큰 대'입니다."
   },
   {
@@ -485,7 +395,6 @@
       "日"
     ],
     "answerIndex": 0,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '高'입니다. 高는 '높을 고'입니다.",
     "choiceAnnotations": [
       {
@@ -524,7 +433,6 @@
       "山"
     ],
     "answerIndex": 2,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '魚'입니다. 魚는 '물고기 어'입니다.",
     "choiceAnnotations": [
       {
@@ -563,7 +471,6 @@
       "天"
     ],
     "answerIndex": 1,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '長'입니다. 長은 '길 장'입니다.",
     "choiceAnnotations": [
       {
@@ -602,7 +509,6 @@
       "등"
     ],
     "answerIndex": 3,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '눈'입니다. 目은 '눈 목'입니다."
   },
   {
@@ -619,7 +525,6 @@
       "비"
     ],
     "answerIndex": 0,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '불'입니다. 火는 '불 화'입니다."
   },
   {
@@ -636,7 +541,6 @@
       "산"
     ],
     "answerIndex": 2,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '흙'입니다. 土는 '흙 토'입니다."
   },
   {
@@ -653,7 +557,6 @@
       "쥐"
     ],
     "answerIndex": 2,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '양'입니다. 羊은 '양 양'입니다."
   },
   {
@@ -670,7 +573,6 @@
       "萬"
     ],
     "answerIndex": 2,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '夕'입니다. 夕은 '저녁 석'입니다.",
     "choiceAnnotations": [
       {
@@ -696,45 +598,6 @@
     ]
   },
   {
-    "id": "q-9-029",
-    "type": "meaning_to_hanja",
-    "grade": 9,
-    "points": 4,
-    "question": "다음의 뜻을 가진 한자(漢字)는 무엇입니까?\n높다",
-    "choices": [
-      "高",
-      "水",
-      "木",
-      "玉",
-      "萬"
-    ],
-    "answerIndex": 0,
-    "source": "korcham-2013-2-a-6-pdf",
-    "explanation": "정답은 '高'입니다. 高는 '높을 고'입니다.",
-    "choiceAnnotations": [
-      {
-        "meaning": "높을",
-        "reading": "고"
-      },
-      {
-        "meaning": "물",
-        "reading": "수"
-      },
-      {
-        "meaning": "나무",
-        "reading": "목"
-      },
-      {
-        "meaning": "구슬",
-        "reading": "옥"
-      },
-      {
-        "meaning": "일만",
-        "reading": "만"
-      }
-    ]
-  },
-  {
     "id": "q-9-030",
     "type": "meaning_to_hanja",
     "grade": 9,
@@ -748,7 +611,6 @@
       "夫"
     ],
     "answerIndex": 2,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '父'입니다. 父는 '아버지 부'입니다.",
     "choiceAnnotations": [
       {
@@ -774,45 +636,6 @@
     ]
   },
   {
-    "id": "q-9-031",
-    "type": "meaning_to_hanja",
-    "grade": 9,
-    "points": 4,
-    "question": "다음의 뜻을 가진 한자(漢字)는 무엇입니까?\n길다",
-    "choices": [
-      "兒",
-      "長",
-      "石",
-      "牛",
-      "足"
-    ],
-    "answerIndex": 1,
-    "source": "korcham-2013-2-a-6-pdf",
-    "explanation": "정답은 '長'입니다. 長은 '길 장'입니다.",
-    "choiceAnnotations": [
-      {
-        "meaning": "아이",
-        "reading": "아"
-      },
-      {
-        "meaning": "길",
-        "reading": "장"
-      },
-      {
-        "meaning": "돌",
-        "reading": "석"
-      },
-      {
-        "meaning": "소",
-        "reading": "우"
-      },
-      {
-        "meaning": "발",
-        "reading": "족"
-      }
-    ]
-  },
-  {
     "id": "q-9-032",
     "type": "vocabulary",
     "grade": 9,
@@ -826,7 +649,6 @@
       "소인"
     ],
     "answerIndex": 1,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '여자'입니다. 女子는 여자로 읽고, 女(여자 녀/딸 녀), 子(아들 자)으로 이루어진 말입니다. 女子는 '여자인 사람'을 뜻합니다."
   },
   {
@@ -843,7 +665,6 @@
       "월화"
     ],
     "answerIndex": 3,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '일월'입니다. 日月은 일월로 읽고, 日(해 일/날 일), 月(달 월)으로 이루어진 말입니다. 日月은 '해와 달'을 뜻합니다."
   },
   {
@@ -860,7 +681,6 @@
       "충족"
     ],
     "answerIndex": 1,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '장족'입니다. 長足은 장족으로 읽고, 長(길 장), 足(발 족)으로 이루어진 말입니다. 長足은 '매우 빠른 발전이나 큰 진보'를 뜻합니다."
   },
   {
@@ -877,7 +697,6 @@
       "日月"
     ],
     "answerIndex": 2,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '主力'입니다. 主力은 主(주인 주), 力(힘 력)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -911,7 +730,6 @@
       "父母"
     ],
     "answerIndex": 0,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '老子'입니다. 老子는 老(늙을 로), 子(아들 자)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -945,7 +763,6 @@
       "자신의 일을 스스로 처리함"
     ],
     "answerIndex": 4,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "自主는 自(스스로 자), 主(주인 주)으로 이루어진 말입니다."
   },
   {
@@ -962,7 +779,6 @@
       "할아버지와 할머니"
     ],
     "answerIndex": 3,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "父母는 父(아버지 부), 母(어머니 모)으로 이루어진 말입니다."
   },
   {
@@ -979,7 +795,6 @@
       "高車"
     ],
     "answerIndex": 1,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '雨衣'입니다. 雨衣는 우의로 읽고, 雨(비 우), 衣(옷 의)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -1013,7 +828,6 @@
       "萬川"
     ],
     "answerIndex": 2,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '天心'입니다. 天心은 천심으로 읽고, 天(하늘 천), 心(마음 심)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -1047,7 +861,6 @@
       "부자"
     ],
     "answerIndex": 4,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '부자'입니다. 父子는 부자로 읽고, 父(아버지 부), 子(아들 자)으로 이루어진 말입니다. 父子는 '아버지와 아들'을 뜻합니다."
   },
   {
@@ -1064,7 +877,6 @@
       "수목"
     ],
     "answerIndex": 0,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '목수'입니다. 木手는 목수로 읽고, 木(나무 목), 手(손 수)으로 이루어진 말입니다. 木手는 '나무를 다루어 물건이나 집을 만드는 사람'을 뜻합니다."
   },
   {
@@ -1081,7 +893,6 @@
       "자신"
     ],
     "answerIndex": 0,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '신장'입니다. 身長은 신장으로 읽고, 身(몸 신), 長(길 장)으로 이루어진 말입니다. 身長은 '몸의 키'를 뜻합니다."
   },
   {
@@ -1098,7 +909,6 @@
       "좌우"
     ],
     "answerIndex": 2,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '석문'입니다. 石門은 석문으로 읽고, 石(돌 석), 門(문 문)으로 이루어진 말입니다. 石門은 돌로 만든 문을 뜻합니다."
   },
   {
@@ -1115,7 +925,6 @@
       "夕月"
     ],
     "answerIndex": 4,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '夕月'입니다. 夕月은 夕(저녁 석), 月(달 월)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -1149,7 +958,6 @@
       "交手"
     ],
     "answerIndex": 1,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '女兒'입니다. 女는 본음이 녀이지만 단어 첫머리에서 여로 읽어 女兒는 여아입니다. 兒는 '아이 아'입니다.",
     "choiceAnnotations": [
       {
@@ -1183,7 +991,6 @@
       "눈 올 때 입는 옷"
     ],
     "answerIndex": 0,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "雨衣는 雨(비 우), 衣(옷 의)으로 이루어진 말입니다."
   },
   {
@@ -1200,7 +1007,6 @@
       "해와 달"
     ],
     "answerIndex": 4,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "日月은 日(해 일/날 일), 月(달 월)으로 이루어진 말입니다."
   },
   {
@@ -1217,7 +1023,6 @@
       "力行"
     ],
     "answerIndex": 4,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '力行'입니다. 力行은 역행으로 읽고, 力(힘 력), 行(다닐 행/행할 행)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -1251,7 +1056,6 @@
       "老大"
     ],
     "answerIndex": 1,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '水力'입니다. 水力은 수력으로 읽고, 水(물 수), 力(힘 력)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {

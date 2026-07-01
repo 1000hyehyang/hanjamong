@@ -13,7 +13,6 @@
       "혜"
     ],
     "answerIndex": 3,
-    "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '해'입니다. 解는 '풀 해'입니다."
   },
   {
@@ -30,7 +29,6 @@
       "도"
     ],
     "answerIndex": 4,
-    "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '도'입니다. 到는 '이를 도'입니다."
   },
   {
@@ -47,7 +45,6 @@
       "면"
     ],
     "answerIndex": 0,
-    "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '효'입니다. 效는 '본받을 효'입니다."
   },
   {
@@ -64,7 +61,6 @@
       "調"
     ],
     "answerIndex": 1,
-    "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '都'입니다. 都는 '도읍 도'입니다.",
     "choiceAnnotations": [
       {
@@ -103,7 +99,6 @@
       "소"
     ],
     "answerIndex": 3,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '담'입니다. 談은 '말씀 담'입니다."
   },
   {
@@ -120,7 +115,6 @@
       "思"
     ],
     "answerIndex": 0,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '序'입니다. 序는 '차례 서'입니다.",
     "choiceAnnotations": [
       {
@@ -159,7 +153,6 @@
       "到"
     ],
     "answerIndex": 3,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '加'입니다. 價는 '값 가', 加는 '더할 가'로 둘 다 음이 '가'입니다.",
     "choiceAnnotations": [
       {
@@ -198,7 +191,6 @@
       "朝"
     ],
     "answerIndex": 1,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '素'입니다. 消는 '없앨 소', 素는 '흴 소'로 둘 다 음이 '소'입니다.",
     "choiceAnnotations": [
       {
@@ -224,79 +216,6 @@
     ]
   },
   {
-    "id": "q-6-009",
-    "type": "hanja_reading",
-    "grade": 6,
-    "points": 4,
-    "question": "다음 한자(漢字)의 음(音)은 무엇입니까?\n到",
-    "choices": [
-      "면",
-      "수",
-      "지",
-      "우",
-      "도"
-    ],
-    "answerIndex": 4,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '도'입니다. 到는 '이를 도'입니다."
-  },
-  {
-    "id": "q-6-010",
-    "type": "hanja_reading",
-    "grade": 6,
-    "points": 4,
-    "question": "다음 한자(漢字)의 음(音)은 무엇입니까?\n解",
-    "choices": [
-      "각",
-      "해",
-      "도",
-      "우",
-      "혜"
-    ],
-    "answerIndex": 1,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '해'입니다. 解는 '풀 해'입니다."
-  },
-  {
-    "id": "q-6-011",
-    "type": "hanja_reading",
-    "grade": 6,
-    "points": 4,
-    "question": "다음 한자(漢字)와 음(音)이 같은 한자는 어느 것입니까?\n消",
-    "choices": [
-      "收",
-      "固",
-      "到",
-      "素",
-      "朝"
-    ],
-    "answerIndex": 3,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '素'입니다. 消(사라질 소)와 素(흴 소)는 모두 '소'로 읽습니다.",
-    "choiceAnnotations": [
-      {
-        "meaning": "거둘",
-        "reading": "수"
-      },
-      {
-        "meaning": "굳을",
-        "reading": "고"
-      },
-      {
-        "meaning": "이를",
-        "reading": "도"
-      },
-      {
-        "meaning": "흴",
-        "reading": "소"
-      },
-      {
-        "meaning": "아침",
-        "reading": "조"
-      }
-    ]
-  },
-  {
     "id": "q-6-012",
     "type": "hanja_reading",
     "grade": 6,
@@ -310,7 +229,6 @@
       "류"
     ],
     "answerIndex": 1,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '세'입니다. 洗는 '씻을 세'입니다."
   },
   {
@@ -327,7 +245,6 @@
       "的"
     ],
     "answerIndex": 2,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '調'입니다. 調는 '고를 조'입니다.",
     "choiceAnnotations": [
       {
@@ -366,7 +283,6 @@
       "15"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '13'입니다. 鄕의 총획수는 13획입니다."
   },
   {
@@ -383,7 +299,6 @@
       "12"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '10'입니다. 旅의 총획수는 10획입니다."
   },
   {
@@ -400,7 +315,6 @@
       "本"
     ],
     "answerIndex": 3,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '田'입니다. 高와 田은 사물의 모양을 본떠 만든 상형자입니다."
   },
   {
@@ -417,7 +331,6 @@
       "三"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '鳥'입니다. 雨와 鳥는 사물의 모양을 본떠 만든 상형자입니다."
   },
   {
@@ -434,7 +347,6 @@
       "上"
     ],
     "answerIndex": 4,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '上'입니다. 末와 上은 추상적인 뜻을 부호로 나타낸 지사자입니다."
   },
   {
@@ -451,7 +363,6 @@
       "보다"
     ],
     "answerIndex": 1,
-    "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '끌다'입니다. 引은 '끌 인'입니다."
   },
   {
@@ -468,7 +379,6 @@
       "심다"
     ],
     "answerIndex": 4,
-    "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '심다'입니다. 植은 '심을 식'입니다."
   },
   {
@@ -485,7 +395,6 @@
       "처음"
     ],
     "answerIndex": 2,
-    "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '조각'입니다. 片은 '조각 편'입니다."
   },
   {
@@ -502,7 +411,6 @@
       "과녁"
     ],
     "answerIndex": 4,
-    "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '과녁'입니다. 的은 '과녁 적'입니다."
   },
   {
@@ -519,7 +427,6 @@
       "落"
     ],
     "answerIndex": 2,
-    "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '感'입니다. 感은 '느낄 감'입니다.",
     "choiceAnnotations": [
       {
@@ -558,7 +465,6 @@
       "察"
     ],
     "answerIndex": 4,
-    "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '察'입니다. 察은 '살필 찰'입니다.",
     "choiceAnnotations": [
       {
@@ -597,7 +503,6 @@
       "섬"
     ],
     "answerIndex": 2,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '별'입니다. 星은 '별 성'입니다."
   },
   {
@@ -614,7 +519,6 @@
       "자리"
     ],
     "answerIndex": 4,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '자리'입니다. 席은 '자리 석'입니다."
   },
   {
@@ -631,7 +535,6 @@
       "꿈"
     ],
     "answerIndex": 0,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '책'입니다. 冊은 '책 책'입니다."
   },
   {
@@ -648,7 +551,6 @@
       "要"
     ],
     "answerIndex": 4,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '要'입니다. 要는 '구할 요/요긴할 요'입니다.",
     "choiceAnnotations": [
       {
@@ -687,7 +589,6 @@
       "奉"
     ],
     "answerIndex": 4,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '奉'입니다. 奉은 '받들 봉'입니다.",
     "choiceAnnotations": [
       {
@@ -726,7 +627,6 @@
       "式"
     ],
     "answerIndex": 4,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '式'입니다. 式은 '법 식'입니다.",
     "choiceAnnotations": [
       {
@@ -752,118 +652,6 @@
     ]
   },
   {
-    "id": "q-6-031",
-    "type": "meaning_to_hanja",
-    "grade": 6,
-    "points": 4,
-    "question": "다음 한자(漢字)의 뜻은 무엇입니까?\n的",
-    "choices": [
-      "대답",
-      "과녁",
-      "경계",
-      "화살",
-      "벼슬"
-    ],
-    "answerIndex": 1,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '과녁'입니다. 的은 '과녁 적'입니다."
-  },
-  {
-    "id": "q-6-032",
-    "type": "meaning_to_hanja",
-    "grade": 6,
-    "points": 4,
-    "question": "다음 한자(漢字)의 뜻은 무엇입니까?\n席",
-    "choices": [
-      "고을",
-      "그림",
-      "책상",
-      "법도",
-      "자리"
-    ],
-    "answerIndex": 4,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '자리'입니다. 席은 '자리 석'입니다."
-  },
-  {
-    "id": "q-6-033",
-    "type": "meaning_to_hanja",
-    "grade": 6,
-    "points": 4,
-    "question": "다음의 뜻을 가진 한자(漢字)는 무엇입니까?\n느끼다",
-    "choices": [
-      "敬",
-      "結",
-      "感",
-      "考",
-      "落"
-    ],
-    "answerIndex": 2,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '感'입니다. 感은 '느낄 감'입니다.",
-    "choiceAnnotations": [
-      {
-        "meaning": "공경할",
-        "reading": "경"
-      },
-      {
-        "meaning": "맺을",
-        "reading": "결"
-      },
-      {
-        "meaning": "느낄",
-        "reading": "감"
-      },
-      {
-        "meaning": "생각할",
-        "reading": "고"
-      },
-      {
-        "meaning": "떨어질",
-        "reading": "락"
-      }
-    ]
-  },
-  {
-    "id": "q-6-034",
-    "type": "meaning_to_hanja",
-    "grade": 6,
-    "points": 4,
-    "question": "다음 한자(漢字)와 뜻이 비슷한 한자는 어느 것입니까?\n法",
-    "choices": [
-      "師",
-      "命",
-      "課",
-      "說",
-      "式"
-    ],
-    "answerIndex": 4,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '式'입니다. 法과 式은 모두 법/방식의 뜻을 가집니다.",
-    "choiceAnnotations": [
-      {
-        "meaning": "스승",
-        "reading": "사"
-      },
-      {
-        "meaning": "목숨",
-        "reading": "명"
-      },
-      {
-        "meaning": "공부할",
-        "reading": "과"
-      },
-      {
-        "meaning": "말씀",
-        "reading": "설"
-      },
-      {
-        "meaning": "법",
-        "reading": "식"
-      }
-    ]
-  },
-  {
     "id": "q-6-035",
     "type": "meaning_to_hanja",
     "grade": 6,
@@ -877,7 +665,6 @@
       "고향"
     ],
     "answerIndex": 1,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '벼슬'입니다. 官은 '벼슬 관'입니다."
   },
   {
@@ -894,7 +681,6 @@
       "完"
     ],
     "answerIndex": 0,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '效'입니다. 效는 '본받을 효'입니다.",
     "choiceAnnotations": [
       {
@@ -933,7 +719,6 @@
       "韓"
     ],
     "answerIndex": 0,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '爭'입니다. 爭은 '다툴 쟁'입니다.",
     "choiceAnnotations": [
       {
@@ -972,7 +757,6 @@
       "傳"
     ],
     "answerIndex": 3,
-    "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '行'입니다. 行은 '다닐 행'입니다. 빈칸에 行을 넣으면 決行(결행), 銀行(은행), 流行(유행)이 됩니다.",
     "choiceAnnotations": [
       {
@@ -1011,7 +795,6 @@
       "예의"
     ],
     "answerIndex": 0,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '예절'입니다. 禮節은 예절로 읽고, 禮(예도 례), 節(마디 절)으로 이루어진 말입니다. 禮節은 '예의에 맞는 말과 행동의 절차'를 뜻합니다."
   },
   {
@@ -1028,7 +811,6 @@
       "각면"
     ],
     "answerIndex": 3,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '노선'입니다. 路線은 노선으로 읽고, 路(길 로), 線(줄 선)으로 이루어진 말입니다. 路線은 '지나가는 길이나 일을 해 나가는 방침'을 뜻합니다."
   },
   {
@@ -1045,7 +827,6 @@
       "結末"
     ],
     "answerIndex": 3,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '感情'입니다. 感情은 感(느낄 감), 情(뜻 정)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -1079,7 +860,6 @@
       "號令"
     ],
     "answerIndex": 1,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '參席'입니다. 參席은 參(참여할 참), 席(자리 석)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -1113,7 +893,6 @@
       "死守"
     ],
     "answerIndex": 2,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '問題'입니다. 問題는 問(물을 문), 題(제목 제)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -1147,7 +926,6 @@
       "議論"
     ],
     "answerIndex": 4,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '議論'입니다. 議論은 議(의논할 의), 論(논할 론)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -1181,7 +959,6 @@
       "的中"
     ],
     "answerIndex": 0,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '精誠'입니다. 精誠은 精(정할 정), 誠(정성 성)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -1215,7 +992,6 @@
       "到達"
     ],
     "answerIndex": 3,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '淸算'입니다. 淸算은 淸(맑을 청), 算(셀 산)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -1249,7 +1025,6 @@
       "일정한 곳에 거처함"
     ],
     "answerIndex": 1,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "注油는 注(물 댈/부을 주), 油(기름 유)으로 이루어진 말입니다."
   },
   {
@@ -1266,7 +1041,6 @@
       "相對"
     ],
     "answerIndex": 0,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '開放'입니다. 開放은 개방으로 읽고, 開(열 개), 放(놓을 방)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -1300,7 +1074,6 @@
       "素地"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '冬至'입니다. 動止와 冬至는 모두 '동지'로 읽습니다. 動止는 '몸의 움직임이나 거동', 冬至는 '일 년 중 밤이 가장 긴 무렵의 절기'를 뜻합니다.",
     "choiceAnnotations": [
       {
@@ -1334,7 +1107,6 @@
       "電"
     ],
     "answerIndex": 3,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '現'입니다. 現은 '나타날 현'입니다. 빈칸에 現을 넣으면 現價(현가), 發現(발현), 表現(표현)이 됩니다.",
     "choiceAnnotations": [
       {
@@ -1373,8 +1145,7 @@
       "質問"
     ],
     "answerIndex": 4,
-    "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '質問'입니다. 對答(대답)은 대답함이고, 質問(질문)은 묻음이므로 서로 반대되는 한자어입니다.",
+    "explanation": "정답은 '質問'입니다. 對答(대답)은 대답함이고, 質問(질문)은 물음이므로 서로 반대되는 한자어입니다.",
     "choiceAnnotations": [
       {
         "wordId": "word-piyw0b"
@@ -1390,74 +1161,6 @@
       },
       {
         "wordId": "word-1h36uoe"
-      }
-    ]
-  },
-  {
-    "id": "q-6-052",
-    "type": "vocabulary",
-    "grade": 6,
-    "points": 6,
-    "question": "다음 한자어(漢字語)와 발음(發音)이 같은 한자어는 어느 것입니까?\n動止",
-    "choices": [
-      "同性",
-      "冬至",
-      "東西",
-      "長指",
-      "素地"
-    ],
-    "answerIndex": 1,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '冬至'입니다. 動止와 冬至는 모두 '동지'로 읽습니다. 動止는 '몸의 움직임이나 거동', 冬至는 '일 년 중 밤이 가장 긴 무렵의 절기'를 뜻해 발음은 같고 뜻이 다릅니다.",
-    "choiceAnnotations": [
-      {
-        "wordId": "word-kcjv06"
-      },
-      {
-        "wordId": "word-1914h7x"
-      },
-      {
-        "wordId": "word-tp9op6"
-      },
-      {
-        "wordId": "word-yw6sdk"
-      },
-      {
-        "wordId": "word-170dj2v"
-      }
-    ]
-  },
-  {
-    "id": "q-6-053",
-    "type": "vocabulary",
-    "grade": 6,
-    "points": 6,
-    "question": "다음 한자어(漢字語)와 뜻이 반대(反對)이거나 상대(相對)되는 한자어는 어느 것입니까?\n對答",
-    "choices": [
-      "質問",
-      "過去",
-      "道路",
-      "慶事",
-      "動向"
-    ],
-    "answerIndex": 0,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '質問'입니다. 對答(대답)은 물음에 대답함이고, 質問(질문)은 묻음을 뜻하므로 서로 반대되는 한자어입니다.",
-    "choiceAnnotations": [
-      {
-        "wordId": "word-1h36uoe"
-      },
-      {
-        "wordId": "word-1j2eoq"
-      },
-      {
-        "wordId": "word-12tfbs9"
-      },
-      {
-        "wordId": "word-1xg771b"
-      },
-      {
-        "wordId": "word-piyw0b"
       }
     ]
   },
@@ -1475,7 +1178,6 @@
       "경선"
     ],
     "answerIndex": 2,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '특선'입니다. 特選은 특선으로 읽고, 特(특별할 특), 選(가릴 선)으로 이루어진 말입니다. 特選은 '특별히 가려 뽑음'을 뜻합니다."
   },
   {
@@ -1492,7 +1194,6 @@
       "정언"
     ],
     "answerIndex": 1,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '정성'입니다. 精誠은 정성으로 읽고, 精(정할 정), 誠(정성 성)으로 이루어진 말입니다. 精誠은 '참되고 성실한 마음'을 뜻합니다."
   },
   {
@@ -1509,7 +1210,6 @@
       "片語"
     ],
     "answerIndex": 3,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '次例'입니다. 次例는 次(차례 차), 例(법식 례)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -1543,7 +1243,6 @@
       "題號"
     ],
     "answerIndex": 3,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '傳統'입니다. 傳統은 傳(전할 전), 統(거느릴 통)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -1577,7 +1276,6 @@
       "恩惠"
     ],
     "answerIndex": 0,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '敎訓'입니다. 敎訓은 敎(가르칠 교), 訓(가르칠 훈)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -1611,7 +1309,6 @@
       "題材"
     ],
     "answerIndex": 2,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '開通'입니다. 開通은 開(열 개), 通(통할 통)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -1645,7 +1342,6 @@
       "運數"
     ],
     "answerIndex": 2,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '移動'입니다. 移動은 移(옮길 이), 動(움직일 동)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -1679,7 +1375,6 @@
       "說論"
     ],
     "answerIndex": 2,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '設備'입니다. 設備는 設(베풀 설), 備(갖출 비)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -1713,7 +1408,6 @@
       "마음을 바꾸지 않고 의리를 지킴"
     ],
     "answerIndex": 1,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "節約은 節(마디 절), 約(검소할/줄일 약)으로 이루어진 말입니다."
   },
   {
@@ -1730,7 +1424,6 @@
       "復活"
     ],
     "answerIndex": 2,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '效果'입니다. 效果는 효과로 읽고, 效(효험 효), 果(실과 과/열매 과)로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -1764,8 +1457,7 @@
       "막바지에 이름"
     ],
     "answerIndex": 0,
-    "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '경치가 좋음'입니다. 山高水淸은 山(산 산/뫼 산), 高(높을 고), 水(물 수), 淸(맑을 청)으로 이루어진 말입니다. '경치가 좋음'을 뜻합니다."
+    "explanation": "정답은 '경치가 좋음'입니다. 山高水淸(산고수청)은 山(산 산), 高(높을 고), 水(물 수), 淸(맑을 청)으로 이루어진 말입니다."
   },
   {
     "id": "q-6-065",
@@ -1781,8 +1473,7 @@
       "깊이 잘 생각함"
     ],
     "answerIndex": 0,
-    "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '사실에 토대를 두어 진리를 탐구하는 일'입니다. 實事求是는 實(열매 실/참 실), 事(일 사), 求(구할 구), 是(옳을 시)으로 이루어진 말입니다. '사실에 토대를 두어 진리를 탐구하는 일'을 뜻합니다."
+    "explanation": "정답은 '사실에 토대를 두어 진리를 탐구하는 일'입니다. 實事求是(실사구시)는 實(참 실), 事(일 사), 求(구할 구), 是(옳을 시)으로 이루어진 말입니다."
   },
   {
     "id": "q-6-066",
@@ -1798,8 +1489,7 @@
       "칭찬함과 나무람을 알맞게 잘함"
     ],
     "answerIndex": 0,
-    "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '뜻밖에 분쟁이 일어남'입니다. 平地風波는 平(평평할 평), 地(땅 지), 風(바람 풍), 波(물결 파)으로 이루어진 말입니다. '뜻밖에 분쟁이 일어남'을 뜻합니다."
+    "explanation": "정답은 '뜻밖에 분쟁이 일어남'입니다. 平地風波(평지풍파)는 平(평평할 평), 地(땅 지), 風(바람 풍), 波(물결 파)으로 이루어진 말입니다."
   },
   {
     "id": "q-6-067",
@@ -1815,8 +1505,7 @@
       "樂山樂水"
     ],
     "answerIndex": 2,
-    "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '花朝月夕'입니다. 花朝月夕은 花(꽃 화), 朝(아침 조), 月(달 월), 夕(저녁 석)으로 이루어진 말입니다. '경치가 좋은 시절'을 뜻합니다.",
+    "explanation": "정답은 '花朝月夕'입니다. 花朝月夕(화조월석)은 花(꽃 화), 朝(아침 조), 月(달 월), 夕(저녁 석)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
         "wordId": "word-15v14h5"
@@ -1849,8 +1538,7 @@
       "議"
     ],
     "answerIndex": 0,
-    "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '行'입니다. 빈칸에 行을 넣으면 論功行賞이 됩니다. 공을 세워 상을 내린다는 뜻입니다. 行은 '행할 행/다닐 행'입니다.",
+    "explanation": "정답은 '行'입니다. 빈칸에 行을 넣으면 論功行賞(논공행상)이 됩니다. 공을 세워 상을 내린다는 뜻입니다. 行은 '행할 행/다닐 행'입니다.",
     "choiceAnnotations": [
       {
         "meaning": "다닐/행할",
@@ -1888,8 +1576,7 @@
       "求"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '曲'입니다. 빈칸에 曲을 넣으면 是非曲直이 됩니다. 옳고 그름과 굽고 곧음을 따진다는 뜻입니다. 曲은 '굽을 곡'입니다.",
+    "explanation": "정답은 '曲'입니다. 빈칸에 曲을 넣으면 是非曲直(시비곡직)이 됩니다. 옳고 그름과 굽고 곧음을 따진다는 뜻입니다. 曲은 '굽을 곡'입니다.",
     "choiceAnnotations": [
       {
         "meaning": "이/옳을",
@@ -1927,8 +1614,7 @@
       "命"
     ],
     "answerIndex": 0,
-    "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '言'입니다. 빈칸에 言을 넣으면 重言復言이 됩니다. 같은 말을 되풀이한다는 뜻입니다. 言은 '말씀 언'입니다.",
+    "explanation": "정답은 '言'입니다. 빈칸에 言을 넣으면 重言復言(중언부언)이 됩니다. 같은 말을 되풀이한다는 뜻입니다. 言은 '말씀 언'입니다.",
     "choiceAnnotations": [
       {
         "meaning": "말씀",
@@ -1966,8 +1652,7 @@
       "考"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '果'입니다. 빈칸에 果를 넣으면 因果應報이 됩니다. 원인과 결과, 벌과 보상이 서로 맞물린다는 뜻입니다. 果는 '열매 과'입니다.",
+    "explanation": "정답은 '果'입니다. 빈칸에 果를 넣으면 因果應報(인과응보)이 됩니다. 원인과 결과, 벌과 보상이 서로 맞물린다는 뜻입니다. 果는 '열매 과'입니다.",
     "choiceAnnotations": [
       {
         "meaning": "과목",
@@ -2005,8 +1690,7 @@
       "理"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '利'입니다. 빈칸에 利를 넣으면 見利思義가 됩니다. 이익을 보면 먼저 의로움을 생각한다는 뜻입니다. 利는 '이로울 리'입니다.",
+    "explanation": "정답은 '利'입니다. 빈칸에 利를 넣으면 見利思義(견리사의)가 됩니다. 이익을 보면 먼저 의로움을 생각한다는 뜻입니다. 利는 '이로울 리'입니다.",
     "choiceAnnotations": [
       {
         "meaning": "편안할",
@@ -2044,8 +1728,7 @@
       "서로간의 차이가 매우 심함"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '농사에 알맞게 기후가 순조로움'입니다. 雨順風調는 雨(비 우), 順(순할 순), 風(바람 풍), 調(고를 조)으로 이루어진 말입니다. '농사에 알맞게 기후가 순조로움'을 뜻합니다."
+    "explanation": "정답은 '농사에 알맞게 기후가 순조로움'입니다. 雨順風調(우순풍조)는 雨(비 우), 順(순할 순), 風(바람 풍), 調(고를 조)으로 이루어진 말입니다."
   },
   {
     "id": "q-6-074",
@@ -2061,103 +1744,7 @@
       "정신을 잃어 의식이 없음"
     ],
     "answerIndex": 4,
-    "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '정신을 잃어 의식이 없음'입니다. 人事不省은 人(사람 인), 事(일 사), 不(아닐 불), 省(살필 성)으로 이루어진 말입니다. '정신을 잃어 의식이 없음'을 뜻합니다."
-  },
-  {
-    "id": "q-6-075",
-    "type": "idiom",
-    "grade": 6,
-    "points": 6,
-    "question": "다음 성어(成語)에서 ‘□’에 들어갈 알맞은 한자(漢字)는 어느 것입니까?\n是非□直",
-    "choices": [
-      "是",
-      "曲",
-      "作",
-      "求",
-      "加"
-    ],
-    "answerIndex": 1,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '曲'입니다. 빈칸에 曲을 넣으면 是非曲直이 됩니다. 옳고 그름과 굽고 곧음을 따진다는 뜻입니다. 曲은 '굽을 곡'입니다.",
-    "choiceAnnotations": [
-      {
-        "meaning": "이/옳을",
-        "reading": "시"
-      },
-      {
-        "meaning": "굽을",
-        "reading": "곡"
-      },
-      {
-        "meaning": "지을",
-        "reading": "작"
-      },
-      {
-        "meaning": "구할",
-        "reading": "구"
-      },
-      {
-        "meaning": "더할",
-        "reading": "가"
-      }
-    ]
-  },
-  {
-    "id": "q-6-076",
-    "type": "idiom",
-    "grade": 6,
-    "points": 6,
-    "question": "다음 성어(成語)에서 ‘□’에 들어갈 알맞은 한자(漢字)는 어느 것입니까?\n重言復□",
-    "choices": [
-      "言",
-      "活",
-      "興",
-      "命",
-      "古"
-    ],
-    "answerIndex": 0,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '言'입니다. 빈칸에 言을 넣으면 重言復言이 됩니다. 같은 말을 되풀이한다는 뜻입니다. 言은 '말씀 언'입니다.",
-    "choiceAnnotations": [
-      {
-        "meaning": "말씀",
-        "reading": "언"
-      },
-      {
-        "meaning": "살",
-        "reading": "활"
-      },
-      {
-        "meaning": "일",
-        "reading": "흥"
-      },
-      {
-        "meaning": "목숨",
-        "reading": "명"
-      },
-      {
-        "meaning": "옛",
-        "reading": "고"
-      }
-    ]
-  },
-  {
-    "id": "q-6-077",
-    "type": "idiom",
-    "grade": 6,
-    "points": 6,
-    "question": "다음 성어(成語)의 뜻풀이로 적절한 것은 어느 것입니까?\n平地風波",
-    "choices": [
-      "뜻밖에 분쟁이 일어남",
-      "뜻밖에 불행한 일을 당함",
-      "어려운 가운데 일을 해결함",
-      "칭찬함과 나무람을 알맞게 잘함",
-      "변변하지 못한 집안에서 뛰어난 인물이 나옴"
-    ],
-    "answerIndex": 0,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '뜻밖에 분쟁이 일어남'입니다. 平地風波는 平(평평할 평), 地(땅 지), 風(바람 풍), 波(물결 파)으로 이루어진 말입니다. '뜻밖에 분쟁이 일어남'을 뜻합니다."
+    "explanation": "정답은 '정신을 잃어 의식이 없음'입니다. 人事不省(인사불성)은 人(사람 인), 事(일 사), 不(아닐 불), 省(살필 성)으로 이루어진 말입니다."
   },
   {
     "id": "q-6-078",
@@ -2173,8 +1760,7 @@
       "눈은 높으나 재주가 그것에 미치지 못함"
     ],
     "answerIndex": 3,
-    "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '자신의 분수를 지키며 만족할 줄을 앎'입니다. 安分知足은 安(편안할 안), 分(분수 분), 知(알 지), 足(족할 족)으로 이루어진 말입니다."
+    "explanation": "정답은 '자신의 분수를 지키며 만족할 줄을 앎'입니다. 安分知足(안분지족)은 安(편안할 안), 分(분수 분), 知(알 지), 足(족할 족)으로 이루어진 말입니다."
   },
   {
     "id": "q-6-079",
@@ -2190,8 +1776,7 @@
       "行雲流水"
     ],
     "answerIndex": 1,
-    "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '結草報恩'입니다. 結草報恩은 結(맺을 결), 草(풀 초), 報(갚을 보), 恩(은혜 은)으로 이루어진 말입니다. '은혜를 잊지 않고 반드시 갚음'을 뜻합니다.",
+    "explanation": "정답은 '結草報恩'입니다. 結草報恩(결초보은)은 結(맺을 결), 草(풀 초), 報(갚을 보), 恩(은혜 은)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
         "wordId": "word-p4o99w"
@@ -2224,7 +1809,6 @@
       "要約"
     ],
     "answerIndex": 3,
-    "source": "korcham-2017-1-grade3-pdf",
     "explanation": "정답은 '食言'입니다. 食言은 食(먹을 식), 言(말씀 언)으로 이루어진 말로, 약속한 말을 지키지 않거나 한 말을 어기는 것을 뜻합니다.",
     "choiceAnnotations": [
       {
@@ -2258,8 +1842,7 @@
       "토지"
     ],
     "answerIndex": 2,
-    "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '광야'입니다. 廣野는 廣(넓을 광), 野(들 야)으로 이루어진 말입니다."
+    "explanation": "정답은 '광야'입니다. 廣野는 廣(넓을 광), 野(들 야)으로 이루어진 말입니다. 廣野는 '넓은 들'을 뜻합니다."
   },
   {
     "id": "q-6-082",
@@ -2275,8 +1858,7 @@
       "시기"
     ],
     "answerIndex": 3,
-    "source": "korcham-study-3-5-pdf",
-    "explanation": "정답은 '계절'입니다. 季節은 季(계절 계), 節(마디 절)으로 이루어진 말입니다."
+    "explanation": "정답은 '계절'입니다. 季節은 季(계절 계), 節(마디 절)으로 이루어진 말입니다. 季節은 '일정한 주기로 나뉘는 시기'을 뜻합니다."
   },
   {
     "id": "q-6-083",
@@ -2292,7 +1874,6 @@
       "새로운 의견을 생각하여 냄"
     ],
     "answerIndex": 3,
-    "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '남의 말이나 글을 끌어다 씀'입니다. 引用은 引(끌 인), 用(쓸 용)으로 이루어진 말입니다."
   },
   {
@@ -2309,7 +1890,6 @@
       "守成"
     ],
     "answerIndex": 4,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '守成'입니다. 守成은 守(지킬 수), 成(이룰 성)으로 이루어진 말입니다. 守成은 이룬 일을 지켜 나가는 뜻이므로, 나라를 창업하는 것보다 더 힘들다는 문맥에 알맞습니다.",
     "choiceAnnotations": [
       {
@@ -2343,7 +1923,6 @@
       "步等"
     ],
     "answerIndex": 2,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '報答'입니다. 報答은 報(갚을 보), 答(대답할 답)으로 이루어진 말입니다. 報答은 은혜나 도움에 갚는 뜻이므로, 어머니 은혜에 보답하기 위해 공부했다는 문맥에 알맞습니다.",
     "choiceAnnotations": [
       {
@@ -2377,7 +1956,6 @@
       "致仕"
     ],
     "answerIndex": 4,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '致仕'입니다. 致仕는 致(이를 치), 仕(벼슬 사)으로 이루어진 말입니다. 致仕는 벼슬을 그만두고 물러나는 뜻이므로, 일흔에 고향으로 돌아갔다는 문맥에 알맞습니다.",
     "choiceAnnotations": [
       {
@@ -2411,7 +1989,6 @@
       "孫"
     ],
     "answerIndex": 2,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '美'입니다. 美는 '아름다울 미'입니다.",
     "choiceAnnotations": [
       {
@@ -2450,7 +2027,6 @@
       "才能"
     ],
     "answerIndex": 4,
-    "source": "korcham-2017-1-6-pdf",
     "explanation": "정답은 '才能'입니다. 才能은 才(재주 재), 能(능할 능)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -2484,8 +2060,7 @@
       "해약"
     ],
     "answerIndex": 4,
-    "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '해약'입니다. 解約은 解(풀 해), 約(약속할 약)으로 이루어진 말입니다."
+    "explanation": "정답은 '해약'입니다. 解約은 解(풀 해), 約(약속할 약)으로 이루어진 말입니다. 解約은 '계약을 취소함'을 뜻합니다."
   },
   {
     "id": "q-6-090",
@@ -2501,8 +2076,7 @@
       "식구"
     ],
     "answerIndex": 0,
-    "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '친족'입니다. 親族은 親(친할 친), 族(겨레 족)으로 이루어진 말입니다."
+    "explanation": "정답은 '친족'입니다. 親族은 親(친할 친), 族(겨레 족)으로 이루어진 말입니다. 親族은 '혈연이나 혼인으로 맺어진 사람들'을 뜻합니다."
   },
   {
     "id": "q-6-091",
@@ -2518,8 +2092,7 @@
       "인정"
     ],
     "answerIndex": 1,
-    "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '해소'입니다. 解消는 解(풀 해), 消(사라질 소)으로 이루어진 말입니다."
+    "explanation": "정답은 '해소'입니다. 解消는 解(풀 해), 消(사라질 소)으로 이루어진 말입니다. 解消는 '어떤 상태나 감정 따위가 풀려 없어짐'을 뜻합니다."
   },
   {
     "id": "q-6-092",
@@ -2535,8 +2108,7 @@
       "소개"
     ],
     "answerIndex": 1,
-    "source": "korcham-2019-360-3to5-pdf",
-    "explanation": "정답은 '정담'입니다. 政談은 政(정사 정), 談(말씀 담)으로 이루어진 말입니다."
+    "explanation": "정답은 '정담'입니다. 政談은 政(정사 정), 談(말씀 담)으로 이루어진 말입니다. 政談은 '정치에 관한 이야기'을 뜻합니다."
   },
   {
     "id": "q-6-093",
@@ -2552,7 +2124,6 @@
       "문제나 물음을 냄"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '새로 마련하여 정함'입니다. 設定은 設(베풀 설), 定(정할 정)으로 이루어진 말입니다."
   },
   {
@@ -2569,7 +2140,6 @@
       "얼굴에 대해서 평가함"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '직접 만나보고 시험함'입니다. 面接은 面(얼굴 면), 接(이을 접)으로 이루어진 말입니다."
   },
   {
@@ -2586,7 +2156,6 @@
       "順應"
     ],
     "answerIndex": 4,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '順應'입니다. 順應은 順(순할 순), 應(응할 응)으로 이루어진 말입니다. 順應은 환경이나 변화에 맞추어 따름을 뜻하므로, 세태에 맞추어 행동했다는 문맥에 알맞습니다.",
     "choiceAnnotations": [
       {
@@ -2620,7 +2189,6 @@
       "電保"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '電報'입니다. 電報는 電(번개 전), 報(갚을 보)으로 이루어진 말입니다. 電報는 전신으로 보내는 소식을 뜻하므로, 고향에서 전보가 한 통 와 있었다는 문맥에 알맞습니다.",
     "choiceAnnotations": [
       {
@@ -2654,7 +2222,6 @@
       "漢詩"
     ],
     "answerIndex": 3,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '詩調'입니다. 문맥에서는 '시조'를 時調로 써야 합니다. 時調는 時(때 시), 調(고를 조)으로 이루어진 말입니다. 詩는 '시 시'라서 이 표기에는 맞지 않습니다.",
     "choiceAnnotations": [
       {
@@ -2688,7 +2255,6 @@
       "時作"
     ],
     "answerIndex": 4,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '時作'입니다. 문맥에서는 '시작'을 始作으로 써야 합니다. 始作은 始(처음 시), 作(지을 작)으로 이루어진 말입니다. 時는 '때 시'라서 이 표기에는 맞지 않습니다.",
     "choiceAnnotations": [
       {
@@ -2722,7 +2288,6 @@
       "實現"
     ],
     "answerIndex": 0,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '成理學者'입니다. 문맥에서는 '성리학자'를 性理學者로 써야 합니다. 性理學者는 性(성품 성), 理(다스릴 리), 學(배울 학), 者(사람 자)으로 이루어진 말입니다. 成은 '이룰 성'이라서 이 표기에는 맞지 않습니다.",
     "choiceAnnotations": [
       {
@@ -2756,7 +2321,6 @@
       "內面化"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '利解'입니다. 문맥에서는 '이해'를 理解로 써야 합니다. 理解는 理(다스릴 리), 解(풀 해)으로 이루어진 말입니다. 利는 '이로울 리'라서 이 표기에는 맞지 않습니다.",
     "choiceAnnotations": [
       {
@@ -2790,7 +2354,6 @@
       "有田"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '油田'입니다. 油田은 油(기름 유), 田(밭 전)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -2824,7 +2387,6 @@
       "精神"
     ],
     "answerIndex": 4,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '精神'입니다. 精神은 精(정할 정), 神(귀신 신)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -2858,7 +2420,6 @@
       "四考"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '思考'입니다. 思考는 思(생각 사), 考(생각할 고)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -2892,7 +2453,6 @@
       "素養"
     ],
     "answerIndex": 1,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '訓育'입니다. 訓育은 訓(가르칠 훈), 育(기를 육)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -2926,7 +2486,6 @@
       "15"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '14'입니다. ㉥의 '대'는 對로 쓰며, 對는 '대할 대'입니다. 對의 총획수는 14획입니다."
   },
   {
@@ -2943,7 +2502,6 @@
       "土"
     ],
     "answerIndex": 2,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '戈'입니다. 성년은 成年이고, 成의 부수는 戈입니다.",
     "choiceAnnotations": [
       {
@@ -2982,7 +2540,6 @@
       "精景"
     ],
     "answerIndex": 1,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '情景'입니다. 情景은 情(뜻 정), 景(볕 경)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -3016,7 +2573,6 @@
       "樂觀"
     ],
     "answerIndex": 1,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '禮樂'입니다. 다른 보기의 樂은 '락/낙'으로 읽지만, 禮樂에서는 '악'으로 읽습니다.",
     "choiceAnnotations": [
       {
@@ -3050,76 +2606,7 @@
       "20"
     ],
     "answerIndex": 0,
-    "source": "korcham-2019-360-3to5-pdf",
     "explanation": "정답은 '18'입니다. '문제'는 問題로 쓰며, 題는 '제목 제'입니다. 題의 총획수는 18획입니다."
-  },
-  {
-    "id": "q-6-110",
-    "type": "reading_comp",
-    "grade": 6,
-    "points": 8,
-    "question": "다음 문장에서 밑줄 친 한자어(漢字語)의 음(音)은 무엇입니까?\n그 나라는 점차 계층 간의 소득 불균형이 解消되어 가고 있다.",
-    "choices": [
-      "해결",
-      "준비",
-      "심화",
-      "해소",
-      "인정"
-    ],
-    "answerIndex": 3,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '해소'입니다. 解消는 解(풀 해), 消(사라질 소)으로 이루어진 말입니다."
-  },
-  {
-    "id": "q-6-111",
-    "type": "reading_comp",
-    "grade": 6,
-    "points": 8,
-    "question": "다음 문장에서 밑줄 친 한자어(漢字語)의 뜻풀이로 적절한 것은 어느 것입니까?\n이 논문은 대부분이 引用으로 이루어진 글이다.",
-    "choices": [
-      "새로운 의견을 생각하여 냄",
-      "다른 것을 본뜨거나 본받음",
-      "남의 말이나 글을 끌어다 씀",
-      "전에 없던 것을 처음으로 만듦",
-      "해오던 방식이나 수법을 좇아 그대로 행함"
-    ],
-    "answerIndex": 2,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '남의 말이나 글을 끌어다 씀'입니다. 引用은 引(끌 인), 用(쓸 용)으로 이루어진 말입니다."
-  },
-  {
-    "id": "q-6-112",
-    "type": "reading_comp",
-    "grade": 6,
-    "points": 8,
-    "question": "다음 문장에서 빈칸에 들어갈 가장 적절한 한자어(漢字語)는 어느 것입니까?\n그는 약삭빠르게 세태에 □□하여 출세했다.",
-    "choices": [
-      "到達",
-      "道理",
-      "應敎",
-      "順理",
-      "順應"
-    ],
-    "answerIndex": 4,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '順應'입니다. 順應은 順(순할 순), 應(응할 응)으로 이루어진 말로, 환경이나 변화에 맞추어 따름을 뜻합니다. 세태에 맞추어 행동했다는 문맥에 알맞습니다.",
-    "choiceAnnotations": [
-      {
-        "wordId": "word-jse78v"
-      },
-      {
-        "wordId": "word-1t3wogg"
-      },
-      {
-        "wordId": "word-7s3k3j"
-      },
-      {
-        "wordId": "word-1ns0iur"
-      },
-      {
-        "wordId": "word-1dmybmj"
-      }
-    ]
   },
   {
     "id": "q-6-113",
@@ -3135,7 +2622,6 @@
       "共間"
     ],
     "answerIndex": 4,
-    "source": "korcham-2017-1-grade3-pdf",
     "explanation": "정답은 '共間'입니다. 문맥에서는 '공간'을 空間으로 써야 합니다. 空間은 空(빌 공), 間(사이 간)으로 이루어진 말입니다. 共는 '함께 공'라서 이 표기에는 맞지 않습니다.",
     "choiceAnnotations": [
       {
@@ -3169,7 +2655,6 @@
       "意見"
     ],
     "answerIndex": 0,
-    "source": "korcham-2017-1-grade3-pdf",
     "explanation": "정답은 '意事'입니다. 문맥에서는 '의사'를 意思로 써야 합니다. 意思는 意(뜻 의), 思(생각 사)으로 이루어진 말입니다. 事는 '일 사'라서 이 표기에는 맞지 않습니다.",
     "choiceAnnotations": [
       {
@@ -3190,74 +2675,6 @@
     ]
   },
   {
-    "id": "q-6-115",
-    "type": "reading_comp",
-    "grade": 6,
-    "points": 8,
-    "question": "다음 문장에서 밑줄 친 단어(單語)를 한자(漢字)로 바르게 쓴 것은 어느 것입니까?\n온전한 ⟦정신⟧으로 그런 짓을 하지는 않았을 것이다.",
-    "choices": [
-      "精身",
-      "精神",
-      "情身",
-      "情神",
-      "正神"
-    ],
-    "answerIndex": 1,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '精神'입니다. 精神은 精(정할 정), 神(귀신 신)으로 이루어진 말입니다.",
-    "choiceAnnotations": [
-      {
-        "wordId": "word-139xyvf"
-      },
-      {
-        "wordId": "word-1yap82u"
-      },
-      {
-        "wordId": "word-1jynedu"
-      },
-      {
-        "wordId": "word-7vf4pr"
-      },
-      {
-        "wordId": "word-fyttad"
-      }
-    ]
-  },
-  {
-    "id": "q-6-116",
-    "type": "reading_comp",
-    "grade": 6,
-    "points": 8,
-    "question": "다음 문장에서 밑줄 친 단어(單語)를 한자(漢字)로 바르게 쓴 것은 어느 것입니까?\n중동 지역에는 ⟦유전⟧이 많다.",
-    "choices": [
-      "流田",
-      "流典",
-      "油田",
-      "油典",
-      "有田"
-    ],
-    "answerIndex": 2,
-    "source": "korcham-2017-1-grade3-pdf",
-    "explanation": "정답은 '油田'입니다. 油田은 油(기름 유), 田(밭 전)으로 이루어진 말입니다.",
-    "choiceAnnotations": [
-      {
-        "wordId": "word-z7yjno"
-      },
-      {
-        "wordId": "word-sih0gc"
-      },
-      {
-        "wordId": "word-1abulx8"
-      },
-      {
-        "wordId": "word-13dg4vo"
-      },
-      {
-        "wordId": "word-fnvh4c"
-      }
-    ]
-  },
-  {
     "id": "q-6-117",
     "type": "reading_comp",
     "grade": 6,
@@ -3271,7 +2688,6 @@
       "算定"
     ],
     "answerIndex": 4,
-    "source": "korcham-study-3-5-pdf",
     "explanation": "정답은 '算定'입니다. 算定은 算(셀 산), 定(정할 정)으로 이루어진 말입니다.",
     "choiceAnnotations": [
       {
@@ -3305,7 +2721,6 @@
       "節約"
     ],
     "answerIndex": 4,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '節約'입니다. 節約은 節(마디 절), 約(검소할/줄일 약)으로 이루어진 말입니다. 문맥상 시간을 아낀다는 뜻입니다.",
     "choiceAnnotations": [
       {
@@ -3339,7 +2754,6 @@
       "受賞"
     ],
     "answerIndex": 4,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '受賞'입니다. 受賞은 受(받을 수), 賞(상줄 상)으로 이루어진 말로, 상을 받는다는 뜻입니다. 따라서 '금상 수상자'는 금상을 받은 사람을 뜻합니다.",
     "choiceAnnotations": [
       {
@@ -3373,7 +2787,6 @@
       "加族"
     ],
     "answerIndex": 0,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '家族'입니다. 家族은 家(집 가), 族(겨레 족)으로 이루어진 말로, 한집안의 사람들을 뜻합니다.",
     "choiceAnnotations": [
       {
@@ -3407,7 +2820,6 @@
       "希"
     ],
     "answerIndex": 1,
-    "source": "korcham-2013-2-a-6-pdf",
     "explanation": "정답은 '齒'입니다. 齒는 '이 치'입니다.",
     "choiceAnnotations": [
       {

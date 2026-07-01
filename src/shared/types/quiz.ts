@@ -23,7 +23,6 @@ export interface QuizQuestion {
   explanation?: string;
   choiceAnnotations?: ChoiceAnnotation[];
   relatedHanjaIds?: string[];
-  source?: string;
 }
 
 export const QUESTION_TYPE_LABELS: Record<QuestionType, string> = {
