@@ -22,10 +22,17 @@ function appendBookmarkGradeFilter(
   params.set("grade", gradeFilter === "all" ? "all" : String(gradeFilter));
 }
 
-export function buildLearnPath(grade: number | string, bookmarkOnly: boolean) {
+export function buildLearnPath(
+  grade: number | string,
+  bookmarkOnly: boolean,
+  index?: number,
+) {
   const params = new URLSearchParams();
   if (bookmarkOnly) {
     params.set("filter", "bookmarked");
+  }
+  if (index !== undefined) {
+    params.set("index", String(index));
   }
   const query = params.toString();
   return query ? `/learn/${grade}?${query}` : `/learn/${grade}`;

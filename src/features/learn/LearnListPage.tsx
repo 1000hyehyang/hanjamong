@@ -69,12 +69,7 @@ export function LearnListPage() {
       return;
     }
 
-    const params = new URLSearchParams();
-    if (bookmarkOnly) {
-      params.set("filter", "bookmarked");
-    }
-    params.set("index", String(entryIndex));
-    navigate(`/learn/${grade}?${params.toString()}`);
+    navigate(buildLearnPath(grade, bookmarkOnly, entryIndex));
   };
 
   const filteredEntries = useMemo(
@@ -120,8 +115,8 @@ export function LearnListPage() {
               onClick={() =>
                 navigate(
                   isBookmarkReview
-                    ? buildBookmarkReviewPath(undefined, bookmarkGradeFilter)
-                    : buildLearnPath(grade, bookmarkOnly),
+                    ? buildBookmarkReviewPath(currentIndex, bookmarkGradeFilter)
+                    : buildLearnPath(grade, bookmarkOnly, currentIndex),
                 )
               }
               className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-xl text-text-secondary ${pressableIconButton}`}
@@ -160,8 +155,8 @@ export function LearnListPage() {
             onClick={() =>
               navigate(
                 isBookmarkReview
-                  ? buildBookmarkReviewPath(undefined, bookmarkGradeFilter)
-                  : buildLearnPath(grade, bookmarkOnly),
+                  ? buildBookmarkReviewPath(currentIndex, bookmarkGradeFilter)
+                  : buildLearnPath(grade, bookmarkOnly, currentIndex),
               )
             }
             className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-xl text-text-secondary ${pressableIconButton}`}

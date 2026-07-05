@@ -6,8 +6,8 @@ import {
 } from "../types/storage";
 
 const STORAGE_RESET_MARKER_KEY =
-  "hanja-app:storage-reset:2026-06-28-question-id-renumber";
-const STORAGE_KEYS_TO_RESET = [STORAGE_KEY];
+  "hanja-app:storage-reset:2026-07-05-full-reset";
+const STORAGE_KEY_PREFIXES_TO_RESET = ["hanja-app:", "hanjamong:"];
 
 function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === "object" && value !== null && !Array.isArray(value);
@@ -90,7 +90,18 @@ function resetAppStorageOnce(): void {
       return;
     }
 
-    for (const key of STORAGE_KEYS_TO_RESET) {
+    const keysToReset = [];
+    for (let index = 0; index < window.localStorage.length; index += 1) {
+      const key = window.localStorage.key(index);
+      if (
+        key &&
+        STORAGE_KEY_PREFIXES_TO_RESET.some((prefix) => key.startsWith(prefix))
+      ) {
+        keysToReset.push(key);
+      }
+    }
+
+    for (const key of keysToReset) {
       window.localStorage.removeItem(key);
     }
     window.localStorage.setItem(STORAGE_RESET_MARKER_KEY, "1");
@@ -182,8 +193,7 @@ export function updateLearnProgress(
 
   const key = String(grade);
   const normalizedIndex = Math.max(0, Math.floor(index));
-  const nextIndex = Math.max(storage.learnProgress[key] ?? -1, normalizedIndex);
-  if (storage.learnProgress[key] === nextIndex) {
+  if (storage.learnProgress[key] === normalizedIndex) {
     return storage;
   }
 
@@ -191,7 +201,7 @@ export function updateLearnProgress(
     ...storage,
     learnProgress: {
       ...storage.learnProgress,
-      [key]: nextIndex,
+      [key]: normalizedIndex,
     },
   };
 }

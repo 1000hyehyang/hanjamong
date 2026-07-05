@@ -46,7 +46,7 @@ export const formationConcepts: FormationConcept[] = [
     name: "형성",
     description: "뜻을 나타내는 부분과 소리를 나타내는 부분을 합쳐 만든 글자이다.",
     examples: [
-      { hanja: "清", hint: "맑을 청" },
+      { hanja: "淸", hint: "맑을 청" },
       { hanja: "河", hint: "물 하" },
       { hanja: "情", hint: "뜻 정" },
     ],
