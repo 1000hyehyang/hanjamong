@@ -1,6 +1,6 @@
 [
   {
-    "id": "g2-001",
+    "id": "concept-遜",
     "grade": 2,
     "character": "遜",
     "normalizedCharacter": "遜",
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "id": "g2-002",
+    "id": "concept-砲",
     "grade": 2,
     "character": "砲",
     "normalizedCharacter": "砲",
@@ -34,7 +34,7 @@
     ]
   },
   {
-    "id": "g2-003",
+    "id": "concept-緒",
     "grade": 2,
     "character": "緒",
     "normalizedCharacter": "緒",
@@ -49,25 +49,6 @@
       {
         "meaning": "차례",
         "reading": "서"
-      }
-    ]
-  },
-  {
-    "id": "g2-004",
-    "grade": 2,
-    "character": "頑",
-    "normalizedCharacter": "頑",
-    "strokeCount": 13,
-    "radical": "頁",
-    "formation": "형성",
-    "meanings": [
-      {
-        "meaning": "완고할",
-        "reading": "완"
-      },
-      {
-        "meaning": "어리석을",
-        "reading": "완"
       }
     ]
   }

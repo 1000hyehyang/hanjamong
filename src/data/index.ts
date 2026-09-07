@@ -1,6 +1,5 @@
 import type { ConfusingHanjaGroup, HomophoneItem, SynonymItem } from "../shared/types/concepts";
 import type { HanjaEntry, GradeInfo } from "../shared/types/hanja";
-import type { HanjaWordEntry } from "../shared/types/hanja-word";
 import type { QuizQuestion } from "../shared/types/quiz";
 import confusingHanjaGroupsData from "./concepts/confusing-hanja.json";
 import homophoneItemsData from "./concepts/homophones.json";
@@ -14,9 +13,7 @@ import hanja6 from "./hanja/hanja-6.json";
 import hanja5 from "./hanja/hanja-5.json";
 import hanja4 from "./hanja/hanja-4.json";
 import hanja3 from "./hanja/hanja-3.json";
-import hanja2 from "./hanja/hanja-2.json";
-import hanjaWordsData from "./words/hanja-words.json";
-import questions2 from "./questions/questions-2.json";
+import conceptHanjaData from "./hanja/concept-hanja.json";
 import questions3 from "./questions/questions-3.json";
 import questions4 from "./questions/questions-4.json";
 import questions5 from "./questions/questions-5.json";
@@ -30,11 +27,7 @@ export const confusingHanjaGroups = confusingHanjaGroupsData as ConfusingHanjaGr
 export const synonymItems = synonymItemsData as SynonymItem[];
 export const antonymItems = antonymItemsData as SynonymItem[];
 export const homophoneItems = homophoneItemsData as HomophoneItem[];
-export const hanjaWords = hanjaWordsData as HanjaWordEntry[];
-
-const supplementalHanjaByGrade: Record<number, HanjaEntry[]> = {
-  2: hanja2 as HanjaEntry[],
-};
+const conceptHanja = conceptHanjaData as HanjaEntry[];
 
 const hanjaByGrade: Record<number, HanjaEntry[]> = {
   9: hanja9 as HanjaEntry[],
@@ -47,7 +40,6 @@ const hanjaByGrade: Record<number, HanjaEntry[]> = {
 };
 
 const questionsByGrade: Record<number, QuizQuestion[]> = {
-  2: questions2 as QuizQuestion[],
   3: questions3 as QuizQuestion[],
   4: questions4 as QuizQuestion[],
   5: questions5 as QuizQuestion[],
@@ -61,7 +53,7 @@ const questionGradeSets: Record<number, { grades: number[]; label: string; badge
   7: { grades: [7, 8, 9], label: "7~9급", badge: "7~9" },
   6: { grades: [6], label: "6급", badge: "6" },
   5: { grades: [5], label: "5급", badge: "5" },
-  3: { grades: [2, 3, 4], label: "3~4급", badge: "3~4" },
+  3: { grades: [3, 4], label: "3~4급", badge: "3~4" },
 };
 
 const questionTypeOrder: QuizQuestion["type"][] = [
@@ -76,14 +68,11 @@ const questionTypeOrder: QuizQuestion["type"][] = [
 export const allQuestions = Object.values(questionsByGrade).flat();
 
 export function getHanjaByGrade(grade: number): HanjaEntry[] {
-  return supplementalHanjaByGrade[grade] ?? hanjaByGrade[grade] ?? [];
+  return hanjaByGrade[grade] ?? [];
 }
 
 export function getAllHanja(): HanjaEntry[] {
-  return [
-    ...Object.values(supplementalHanjaByGrade).flat(),
-    ...grades.flatMap((gradeInfo) => hanjaByGrade[gradeInfo.grade] ?? []),
-  ];
+  return grades.flatMap((gradeInfo) => hanjaByGrade[gradeInfo.grade] ?? []);
 }
 
 export function getHanjaById(id: string): HanjaEntry | undefined {
@@ -92,7 +81,7 @@ export function getHanjaById(id: string): HanjaEntry | undefined {
 
 const hanjaByCharacter = new Map<string, HanjaEntry>();
 
-for (const entry of getAllHanja()) {
+for (const entry of [...conceptHanja, ...getAllHanja()]) {
   if (!hanjaByCharacter.has(entry.character)) {
     hanjaByCharacter.set(entry.character, entry);
   }

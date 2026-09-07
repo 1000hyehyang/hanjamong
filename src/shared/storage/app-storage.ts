@@ -2,7 +2,6 @@ import {
   DEFAULT_STORAGE,
   STORAGE_KEY,
   type AppStorage,
-  type CardStatus,
 } from "../types/storage";
 
 const STORAGE_RESET_MARKER_KEY =
@@ -11,10 +10,6 @@ const STORAGE_KEY_PREFIXES_TO_RESET = ["hanja-app:", "hanjamong:"];
 
 function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === "object" && value !== null && !Array.isArray(value);
-}
-
-function isCardStatus(value: unknown): value is CardStatus {
-  return value === "unknown" || value === "known";
 }
 
 function isStringArray(value: unknown): value is string[] {
@@ -29,26 +24,8 @@ function parseStorage(raw: string): AppStorage {
   }
 
   const bookmarks = isRecord(parsed.bookmarks) ? parsed.bookmarks : {};
-  const cardProgress = isRecord(parsed.cardProgress) ? parsed.cardProgress : {};
   const conceptProgress = isRecord(parsed.conceptProgress) ? parsed.conceptProgress : {};
   const learnProgress = isRecord(parsed.learnProgress) ? parsed.learnProgress : {};
-  const dailyStats = isRecord(parsed.dailyStats) ? parsed.dailyStats : {};
-
-  const normalizedCardProgress: Record<string, CardStatus> = {};
-  for (const [key, value] of Object.entries(cardProgress)) {
-    if (value === "learning") {
-      normalizedCardProgress[key] = "unknown";
-    } else if (isCardStatus(value)) {
-      normalizedCardProgress[key] = value;
-    }
-  }
-
-  const normalizedDailyStats: Record<string, number> = {};
-  for (const [key, value] of Object.entries(dailyStats)) {
-    if (typeof value === "number" && value >= 0) {
-      normalizedDailyStats[key] = value;
-    }
-  }
 
   const normalizedLearnProgress: Record<string, number> = {};
   for (const [key, value] of Object.entries(learnProgress)) {
@@ -68,15 +45,12 @@ function parseStorage(raw: string): AppStorage {
     version: 1,
     bookmarks: {
       hanja: isStringArray(bookmarks.hanja) ? bookmarks.hanja : [],
-      questions: isStringArray(bookmarks.questions) ? bookmarks.questions : [],
     },
-    cardProgress: normalizedCardProgress,
     conceptProgress: normalizedConceptProgress,
     learnProgress: normalizedLearnProgress,
     wrongQuestions: isStringArray(parsed.wrongQuestions)
       ? parsed.wrongQuestions
       : [],
-    dailyStats: normalizedDailyStats,
   };
 }
 
